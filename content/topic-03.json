@@ -1,0 +1,238 @@
+{
+  "id": 3,
+  "slug": "expresar-futuro",
+  "level": "B1",
+  "title": "Expresar el futuro",
+  "lesson": {
+    "intro": "El ingles no tiene un unico \"tiempo futuro\": elige la forma segun <strong>como ves ese futuro</strong>. <strong>will</strong> = decision en el momento, promesa o prediccion-opinion. <strong>be going to</strong> = plan ya decidido o prediccion con evidencia. <strong>presente continuo</strong> = cita o arreglo con hora fijada. <strong>presente simple</strong> = horario o calendario oficial. Y tras <em>when / if / as soon as...</em> nunca se usa <em>will</em>.",
+    "sections": [
+      {
+        "subtopic": "will-forma",
+        "heading": "1 - will: forma",
+        "body": "<p><code>will</code> + verbo base, igual para todas las personas. No lleva <code>-s</code> ni <code>to</code>.</p><p><strong>Contraccion:</strong> <code>'ll</code> (I'll, she'll, we'll...). <strong>Negativa:</strong> <code>won't</code> (= will not). <strong>Pregunta:</strong> <code>Will</code> + sujeto + base.</p><p><em>shall</em> se usa hoy sobre todo en <code>Shall I...?</code> / <code>Shall we...?</code> para ofrecer ayuda o hacer una sugerencia.</p>",
+        "examples": [
+          "It <strong>will rain</strong> later.",
+          "I<strong>'ll help</strong> you.",
+          "They <strong>won't come</strong>.",
+          "<strong>Will</strong> you <strong>wait</strong> for me?",
+          "<strong>Shall we</strong> go?"
+        ]
+      },
+      {
+        "subtopic": "will-uso",
+        "heading": "2 - will: uso",
+        "body": "<ul><li><strong>Predicciones y opiniones</strong>, sobre todo con <em>I think, I believe, I expect, probably, perhaps, I'm sure</em>.</li><li><strong>Decisiones espontaneas</strong>, tomadas en el momento de hablar.</li><li><strong>Promesas y ofrecimientos</strong>.</li><li><strong>Hechos futuros seguros</strong>: She'll be 30 next month.</li></ul>",
+        "examples": [
+          "I think it <strong>'ll be</strong> fine.",
+          "The phone's ringing - I<strong>'ll get</strong> it.",
+          "I promise I <strong>'ll call</strong> you.",
+          "That's heavy - I<strong>'ll carry</strong> it for you.",
+          "He <strong>'ll be</strong> late again."
+        ]
+      },
+      {
+        "subtopic": "going-to-forma",
+        "heading": "3 - be going to: forma",
+        "body": "<p><code>am / is / are</code> + <code>going to</code> + verbo base.</p><p><strong>Negativa:</strong> <code>'m not / isn't / aren't going to</code>. <strong>Pregunta:</strong> <code>Am / Is / Are</code> + sujeto + <code>going to</code> + base.</p><p>En ingles hablado informal se oye <em>gonna</em> (no se escribe en textos formales).</p>",
+        "examples": [
+          "I<strong>'m going to rest</strong> this weekend.",
+          "She<strong>'s going to study</strong> law.",
+          "<strong>Are</strong> you <strong>going to eat</strong> that?",
+          "They <strong>aren't going to come</strong>."
+        ]
+      },
+      {
+        "subtopic": "going-to-uso",
+        "heading": "4 - be going to: uso",
+        "body": "<ul><li><strong>Planes e intenciones</strong> que ya habias decidido <em>antes</em> de hablar.</li><li><strong>Predicciones con evidencia</strong> que ves ahora mismo (nubes negras, alguien que tropieza...).</li></ul><p>Para preguntar por planes: <code>What are you going to do...?</code></p>",
+        "examples": [
+          "We<strong>'re going to paint</strong> the kitchen this weekend.",
+          "I've decided - I<strong>'m going to quit</strong> my job.",
+          "Look at those clouds! It<strong>'s going to rain</strong>.",
+          "Watch out, you<strong>'re going to fall</strong>!"
+        ]
+      },
+      {
+        "subtopic": "will-vs-going-to",
+        "heading": "5 - will vs going to",
+        "body": "<p><strong>Decision:</strong> en el momento &rarr; <em>will</em>; ya pensada de antes &rarr; <em>be going to</em>.</p><p><strong>Prediccion:</strong> opinion sin pruebas &rarr; <em>will</em>; con evidencia visible ahora &rarr; <em>be going to</em>.</p><p>Muchas veces las dos son posibles; la diferencia esta en si <strong>ya lo habias planeado</strong>.</p>",
+        "examples": [
+          "A: We need bread. B: I<strong>'ll buy</strong> some. (decido ahora)",
+          "I<strong>'m going to buy</strong> bread later. (ya lo pensaba)",
+          "I think they <strong>'ll win</strong>. (opinion)",
+          "It's 4-0 - they<strong>'re going to win</strong>. (evidencia)"
+        ]
+      },
+      {
+        "subtopic": "present-continuous-futuro",
+        "heading": "6 - Present Continuous para el futuro",
+        "body": "<p>Citas y arreglos ya <strong>fijados</strong>, casi siempre con otras personas y con hora o dia concretos (<em>tomorrow, tonight, at 6, on Friday, next week</em>).</p><p>Muy comun con verbos de movimiento y encuentros: <em>meet, see, go, come, leave, fly, play, have (dinner)</em>.</p>",
+        "examples": [
+          "I<strong>'m meeting</strong> Ana at 5.",
+          "We<strong>'re flying</strong> to Rome on Monday.",
+          "What <strong>are</strong> you <strong>doing</strong> tonight?",
+          "She<strong>'s seeing</strong> the dentist tomorrow."
+        ]
+      },
+      {
+        "subtopic": "present-simple-futuro",
+        "heading": "7 - Present Simple para el futuro",
+        "body": "<p>Solo para <strong>horarios y calendarios oficiales</strong>: transportes, cine, clases, programas de eventos. Suele haber una hora o fecha establecida.</p><p>Verbos tipicos: <em>start, finish, begin, end, open, close, leave, arrive, depart, be</em> (Tomorrow <em>is</em> Monday).</p>",
+        "examples": [
+          "The train <strong>leaves</strong> at 6.",
+          "The film <strong>starts</strong> at 8.",
+          "Term <strong>begins</strong> on 12 September.",
+          "My flight <strong>departs</strong> at 06:30."
+        ]
+      },
+      {
+        "subtopic": "futuro-en-subordinadas",
+        "heading": "8 - Futuro en subordinadas de tiempo y condicion",
+        "body": "<p>Tras <em>when, after, before, as soon as, until, if</em> (condicional tipo 1) <strong>no</strong> se usa <em>will</em>: el verbo va en <strong>presente simple</strong> aunque el sentido sea futuro. El <em>will</em> va en la oracion principal.</p>",
+        "examples": [
+          "I<strong>'ll call</strong> you when I <strong>arrive</strong>.",
+          "We<strong>'ll wait</strong> until it <strong>stops</strong> raining.",
+          "If it <strong>rains</strong>, we<strong>'ll stay</strong> home.",
+          "As soon as the taxi <strong>comes</strong>, we<strong>'ll go</strong>."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Que forma para el futuro?",
+      "headers": ["Situacion", "Forma", "Ejemplo"],
+      "rows": [
+        ["Decision en el momento", "will", "I<strong>'ll</strong> get the door."],
+        ["Plan / intencion ya decidida", "be going to", "We<strong>'re going to</strong> move house."],
+        ["Prediccion (opinion, sin pruebas)", "will", "I think it <strong>'ll</strong> rain."],
+        ["Prediccion con evidencia ahora", "be going to", "Look! It<strong>'s going to</strong> rain."],
+        ["Cita / arreglo con hora fijada", "present continuous", "I<strong>'m seeing</strong> the dentist at 4."],
+        ["Horario / calendario oficial", "present simple", "The train <strong>leaves</strong> at 6."],
+        ["Tras when / if / as soon as...", "present simple (sin will)", "Call me when you <strong>get</strong> home."]
+      ]
+    },
+    "mistakes": [
+      "NO: I <em>will to help</em> you.  ->  SI: I <strong>will help</strong> you.",
+      "NO: She <em>will comes</em> tomorrow.  ->  SI: She <strong>will come</strong> tomorrow.",
+      "NO: (suena el telefono y decides) I<em>'m going to</em> answer it.  ->  SI: I<strong>'ll</strong> answer it.",
+      "NO: Look at the sky! It <em>will rain</em>.  ->  SI: It<strong>'s going to rain</strong>.",
+      "NO: I'll call you when I <em>will arrive</em>.  ->  SI: ... when I <strong>arrive</strong>.",
+      "NO: What <em>do you do</em> tonight? (plan)  ->  SI: What <strong>are you doing</strong> tonight?",
+      "NO: The train <em>will leave</em> at 6. (horario)  ->  SI: The train <strong>leaves</strong> at 6."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Talking about the future", "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/talking-about-the-future" },
+      { "label": "British Council LearnEnglish - will / would", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/will-and-would" },
+      { "label": "British Council LearnEnglish - be going to", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/going" },
+      { "label": "Test-English - Future: will, be going to, present continuous (B1)", "url": "https://test-english.com/grammar-points/b1/will-be-going-to-present-continuous-future/" }
+    ]
+  },
+  "questions": [
+    { "id": "t3-001", "subtopic": "will-forma", "type": "mcq", "prompt": "I ___ help you.", "options": ["will", "am will", "will to", "willing"], "answer": "will", "explanation": "will + verbo base." },
+    { "id": "t3-002", "subtopic": "will-forma", "type": "mcq", "prompt": "She ___ be here soon.", "options": ["will", "wills", "is will"], "answer": "will", "explanation": "will no cambia en 3a persona (nunca 'wills')." },
+    { "id": "t3-003", "subtopic": "will-forma", "type": "mcq", "prompt": "They ___ come tomorrow.", "options": ["won't", "willn't", "don't will"], "answer": "won't", "explanation": "Negativa de will = won't (= will not)." },
+    { "id": "t3-004", "subtopic": "will-forma", "type": "mcq", "prompt": "___ you open the window, please?", "options": ["Will", "Do", "Are"], "answer": "Will", "explanation": "Pregunta / peticion: Will + sujeto + base." },
+    { "id": "t3-005", "subtopic": "will-forma", "type": "gap", "prompt": "Completa: He ___ (call) you back.", "accept": ["will call", "'ll call"], "answer": "will call", "explanation": "will + call (base)." },
+    { "id": "t3-006", "subtopic": "will-forma", "type": "mcq", "prompt": "'I'll' es la contraccion de:", "options": ["I will", "I shall not", "I would"], "answer": "I will", "explanation": "'ll = will." },
+    { "id": "t3-007", "subtopic": "will-forma", "type": "mcq", "prompt": "We ___ not forget this day.", "options": ["will", "won't", "are"], "answer": "will", "explanation": "'not' ya esta escrito -> will not." },
+    { "id": "t3-008", "subtopic": "will-forma", "type": "mcq", "prompt": "___ it rain later, do you think?", "options": ["Will", "Does", "Is"], "answer": "Will", "explanation": "Pregunta sobre el futuro: Will + it + base." },
+    { "id": "t3-009", "subtopic": "will-forma", "type": "mcq", "prompt": "El verbo despues de 'will' va en:", "options": ["forma base", "forma -ing", "pasado"], "answer": "forma base", "explanation": "will + infinitivo sin 'to'." },
+    { "id": "t3-010", "subtopic": "will-forma", "type": "mcq", "prompt": "Cual es correcta?", "options": ["She will arrive at six.", "She will arrives at six.", "She will to arrive at six.", "She wills arrive at six."], "answer": "She will arrive at six.", "explanation": "will + base, sin -s y sin 'to'." },
+    { "id": "t3-011", "subtopic": "will-forma", "type": "gap", "prompt": "Completa: They ___ (not / be) late.", "accept": ["won't be", "will not be"], "answer": "won't be", "explanation": "Negativa: won't + be." },
+    { "id": "t3-012", "subtopic": "will-forma", "type": "mcq", "prompt": "___ I carry that for you? (ofrecimiento)", "options": ["Shall", "Do", "Am"], "answer": "Shall", "explanation": "Shall I...? para ofrecer ayuda." },
+
+    { "id": "t3-013", "subtopic": "will-uso", "type": "mcq", "prompt": "I think it ___ be sunny tomorrow.", "options": ["will", "is", "was"], "answer": "will", "explanation": "Prediccion / opinion con 'I think' -> will." },
+    { "id": "t3-014", "subtopic": "will-uso", "type": "mcq", "prompt": "The phone's ringing. - OK, I ___ answer it.", "options": ["'ll", "'m going to", "answer"], "answer": "'ll", "explanation": "Decision espontanea en el momento -> will." },
+    { "id": "t3-015", "subtopic": "will-uso", "type": "mcq", "prompt": "I promise I ___ pay you back.", "options": ["will", "am going to", "pay"], "answer": "will", "explanation": "Promesa -> will." },
+    { "id": "t3-016", "subtopic": "will-uso", "type": "mcq", "prompt": "That bag looks heavy. I ___ carry it for you.", "options": ["'ll", "'m going to", "carry"], "answer": "'ll", "explanation": "Ofrecimiento espontaneo -> will." },
+    { "id": "t3-017", "subtopic": "will-uso", "type": "mcq", "prompt": "The sun ___ rise at 6:12 tomorrow.", "options": ["will", "is rising", "rises"], "answer": "will", "explanation": "Hecho futuro (fenomeno) -> will." },
+    { "id": "t3-018", "subtopic": "will-uso", "type": "mcq", "prompt": "In 2050, robots ___ probably do this job.", "options": ["will", "are doing", "do"], "answer": "will", "explanation": "Prediccion lejana con 'probably' -> will." },
+    { "id": "t3-019", "subtopic": "will-uso", "type": "mcq", "prompt": "Don't worry, everything ___ be fine.", "options": ["will", "is being", "was"], "answer": "will", "explanation": "Tranquilizar / prediccion -> will." },
+    { "id": "t3-020", "subtopic": "will-uso", "type": "mcq", "prompt": "Maybe I ___ go to the party, maybe not.", "options": ["'ll", "'m going to", "go"], "answer": "'ll", "explanation": "Decision aun no tomada, con 'maybe' -> will." },
+    { "id": "t3-021", "subtopic": "will-uso", "type": "mcq", "prompt": "- It's cold in here. - I ___ close the window.", "options": ["'ll", "'m going to", "close"], "answer": "'ll", "explanation": "Reaccion inmediata -> will." },
+    { "id": "t3-022", "subtopic": "will-uso", "type": "mcq", "prompt": "Where's the ketchup? - I ___ get it.", "options": ["'ll", "'m getting", "get"], "answer": "'ll", "explanation": "Decision en el momento -> will." },
+    { "id": "t3-023", "subtopic": "will-uso", "type": "mcq", "prompt": "I'm sure you ___ pass the exam.", "options": ["will", "are passing", "pass"], "answer": "will", "explanation": "Prediccion basada en opinion / animo -> will." },
+    { "id": "t3-024", "subtopic": "will-uso", "type": "mcq", "prompt": "She ___ be 30 next month.", "options": ["will", "is being", "was"], "answer": "will", "explanation": "Hecho futuro seguro -> will." },
+    { "id": "t3-025", "subtopic": "will-uso", "type": "mcq", "prompt": "'Perhaps', 'probably', 'I expect', 'I think' suelen ir con:", "options": ["will", "be going to", "presente simple"], "answer": "will", "explanation": "Esos marcadores de prediccion piden will." },
+
+    { "id": "t3-026", "subtopic": "going-to-forma", "type": "gap", "prompt": "Completa: I ___ (going to + visit) my aunt.", "accept": ["am going to visit", "'m going to visit"], "answer": "am going to visit", "explanation": "am + going to + base." },
+    { "id": "t3-027", "subtopic": "going-to-forma", "type": "mcq", "prompt": "She ___ going to study law.", "options": ["is", "are", "am"], "answer": "is", "explanation": "3a persona singular -> is going to." },
+    { "id": "t3-028", "subtopic": "going-to-forma", "type": "mcq", "prompt": "They ___ going to move house.", "options": ["are", "is", "am"], "answer": "are", "explanation": "Sujeto plural -> are going to." },
+    { "id": "t3-029", "subtopic": "going-to-forma", "type": "mcq", "prompt": "We ___ going to be late. (negativa)", "options": ["aren't", "don't", "not"], "answer": "aren't", "explanation": "Negativa: aren't going to." },
+    { "id": "t3-030", "subtopic": "going-to-forma", "type": "mcq", "prompt": "___ you going to eat that?", "options": ["Are", "Do", "Will"], "answer": "Are", "explanation": "Pregunta: Are + sujeto + going to." },
+    { "id": "t3-031", "subtopic": "going-to-forma", "type": "gap", "prompt": "Completa: He ___ (going to + not + come).", "accept": ["is not going to come", "isn't going to come"], "answer": "isn't going to come", "explanation": "Negativa: isn't going to + base." },
+    { "id": "t3-032", "subtopic": "going-to-forma", "type": "mcq", "prompt": "Despues de 'going to' usamos:", "options": ["la forma base", "la forma -ing", "to + -ing"], "answer": "la forma base", "explanation": "going to + infinitivo sin 'to' adicional." },
+    { "id": "t3-033", "subtopic": "going-to-forma", "type": "mcq", "prompt": "Cual es correcta?", "options": ["I'm going to call her.", "I'm going to calling her.", "I going to call her.", "I'm go to call her."], "answer": "I'm going to call her.", "explanation": "be + going to + base." },
+    { "id": "t3-034", "subtopic": "going-to-forma", "type": "mcq", "prompt": "___ it going to rain?", "options": ["Is", "Does", "Will be"], "answer": "Is", "explanation": "Pregunta: Is + it + going to." },
+    { "id": "t3-035", "subtopic": "going-to-forma", "type": "gap", "prompt": "Completa: We ___ (going to + have) a party.", "accept": ["are going to have", "'re going to have"], "answer": "are going to have", "explanation": "are + going to + have." },
+    { "id": "t3-036", "subtopic": "going-to-forma", "type": "mcq", "prompt": "'gonna' es la forma hablada informal de:", "options": ["going to", "gone to", "go to"], "answer": "going to", "explanation": "'gonna' = going to (solo hablado)." },
+    { "id": "t3-037", "subtopic": "going-to-forma", "type": "mcq", "prompt": "What ___ they going to do about it?", "options": ["are", "do", "will"], "answer": "are", "explanation": "are + sujeto + going to." },
+
+    { "id": "t3-038", "subtopic": "going-to-uso", "type": "mcq", "prompt": "We ___ paint the kitchen this weekend. (ya decidido)", "options": ["'re going to", "'ll", "paint"], "answer": "'re going to", "explanation": "Plan decidido de antemano -> be going to." },
+    { "id": "t3-039", "subtopic": "going-to-uso", "type": "mcq", "prompt": "Look at those clouds! It ___ rain.", "options": ["'s going to", "'ll", "rains"], "answer": "'s going to", "explanation": "Prediccion con evidencia visible -> be going to." },
+    { "id": "t3-040", "subtopic": "going-to-uso", "type": "mcq", "prompt": "I've decided: I ___ learn to drive this year.", "options": ["'m going to", "'ll", "learn"], "answer": "'m going to", "explanation": "Intencion ya tomada -> be going to." },
+    { "id": "t3-041", "subtopic": "going-to-uso", "type": "mcq", "prompt": "He's driving too fast. He ___ crash!", "options": ["'s going to", "'ll", "crashes"], "answer": "'s going to", "explanation": "Evidencia clara ahora -> be going to." },
+    { "id": "t3-042", "subtopic": "going-to-uso", "type": "mcq", "prompt": "She ___ have a baby in June.", "options": ["'s going to", "'ll", "has"], "answer": "'s going to", "explanation": "Situacion ya en marcha / plan -> be going to." },
+    { "id": "t3-043", "subtopic": "going-to-uso", "type": "mcq", "prompt": "Careful! You ___ drop it.", "options": ["'re going to", "'ll", "drop"], "answer": "'re going to", "explanation": "Evidencia visible -> be going to." },
+    { "id": "t3-044", "subtopic": "going-to-uso", "type": "mcq", "prompt": "Our plans for the summer: we ___ travel around Asia.", "options": ["'re going to", "'ll", "travel"], "answer": "'re going to", "explanation": "Plan -> be going to." },
+    { "id": "t3-045", "subtopic": "going-to-uso", "type": "mcq", "prompt": "The sky is completely black. There ___ be a storm.", "options": ["'s going to", "'ll", "is"], "answer": "'s going to", "explanation": "Prediccion con evidencia -> be going to." },
+    { "id": "t3-046", "subtopic": "going-to-uso", "type": "mcq", "prompt": "What ___ you ___ do when you finish university?", "options": ["are / going to", "will / -", "do / going to"], "answer": "are / going to", "explanation": "Preguntar por planes / intenciones -> be going to." },
+    { "id": "t3-047", "subtopic": "going-to-uso", "type": "mcq", "prompt": "I ___ start a diet on Monday. (ya decidido)", "options": ["'m going to", "'ll", "start"], "answer": "'m going to", "explanation": "Intencion previa -> be going to." },
+    { "id": "t3-048", "subtopic": "going-to-uso", "type": "mcq", "prompt": "He isn't ready. He ___ miss the train.", "options": ["'s going to", "'ll", "misses"], "answer": "'s going to", "explanation": "Evidencia clara -> be going to." },
+    { "id": "t3-049", "subtopic": "going-to-uso", "type": "mcq", "prompt": "'be going to' NO suele usarse para:", "options": ["decisiones espontaneas en el momento", "planes", "predicciones con evidencia"], "answer": "decisiones espontaneas en el momento", "explanation": "Para decidir en el instante se usa will." },
+    { "id": "t3-050", "subtopic": "going-to-uso", "type": "mcq", "prompt": "They ___ get married next spring. (ya lo planean)", "options": ["'re going to", "'ll", "get"], "answer": "'re going to", "explanation": "Plan -> be going to." },
+
+    { "id": "t3-051", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "- We've run out of milk. - Oh, I ___ buy some.", "options": ["'ll", "'m going to", "buy"], "answer": "'ll", "explanation": "Decision tomada al oir la noticia -> will." },
+    { "id": "t3-052", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "A: Why is the oven on? B: I ___ bake a cake. (ya lo tenia pensado)", "options": ["'m going to", "'ll", "bake"], "answer": "'m going to", "explanation": "Plan previo -> be going to." },
+    { "id": "t3-053", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "I think our team ___ win. (opinion, sin pruebas)", "options": ["will", "is going to", "wins"], "answer": "will", "explanation": "Prediccion-opinion -> will." },
+    { "id": "t3-054", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "It's 5-0. Our team ___ win! (evidencia)", "options": ["is going to", "will", "wins"], "answer": "is going to", "explanation": "Prediccion con evidencia -> be going to." },
+    { "id": "t3-055", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "The doorbell rang. - I ___ get it!", "options": ["'ll", "'m going to", "get"], "answer": "'ll", "explanation": "Decision en el momento -> will." },
+    { "id": "t3-056", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "Have you decided about the job? - Yes, I ___ accept it.", "options": ["'m going to", "'ll", "accept"], "answer": "'m going to", "explanation": "Decision ya tomada -> be going to." },
+    { "id": "t3-057", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "Perhaps it ___ snow tonight.", "options": ["will", "is going to", "snows"], "answer": "will", "explanation": "Prediccion incierta con 'perhaps' -> will." },
+    { "id": "t3-058", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "Look how pale he is. He ___ faint.", "options": ["'s going to", "'ll", "faints"], "answer": "'s going to", "explanation": "Evidencia visible -> be going to." },
+    { "id": "t3-059", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "That's the phone. - Don't move, I ___ answer it.", "options": ["'ll", "'m going to", "answer"], "answer": "'ll", "explanation": "Decision inmediata -> will." },
+    { "id": "t3-060", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "We ___ spend Christmas with my parents this year. (plan familiar)", "options": ["'re going to", "'ll", "spend"], "answer": "'re going to", "explanation": "Plan previo -> be going to." },
+    { "id": "t3-061", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "I've made up my mind. I ___ tell him the truth.", "options": ["'m going to", "'ll", "tell"], "answer": "'m going to", "explanation": "Decision ya tomada -> be going to." },
+    { "id": "t3-062", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "This box is too heavy for you. - Don't worry, I ___ help you.", "options": ["'ll", "'m going to", "help"], "answer": "'ll", "explanation": "Ofrecimiento espontaneo -> will." },
+    { "id": "t3-063", "subtopic": "will-vs-going-to", "type": "mcq", "prompt": "Regla rapida: decision tomada en este instante ->", "options": ["will", "be going to", "presente simple"], "answer": "will", "explanation": "Decision espontanea -> will; plan previo -> be going to." },
+
+    { "id": "t3-064", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "I ___ Ana for coffee tomorrow. (cita acordada)", "options": ["'m meeting", "'ll meet", "meet"], "answer": "'m meeting", "explanation": "Arreglo fijado con otra persona -> presente continuo." },
+    { "id": "t3-065", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "We ___ to the theatre on Friday. (entradas compradas)", "options": ["'re going", "'ll go", "go"], "answer": "'re going", "explanation": "Plan concreto con fecha -> presente continuo." },
+    { "id": "t3-066", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "What ___ you ___ tonight?", "options": ["are / doing", "will / do", "do / do"], "answer": "are / doing", "explanation": "Preguntar por planes concretos -> presente continuo." },
+    { "id": "t3-067", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "She ___ the 7:00 flight tomorrow. (reservado por ella)", "options": ["is taking", "takes", "will take"], "answer": "is taking", "explanation": "Arreglo personal -> presente continuo." },
+    { "id": "t3-068", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "He ___ his parents this weekend. (planeado)", "options": ["'s visiting", "'ll visit", "visits"], "answer": "'s visiting", "explanation": "Plan concreto -> presente continuo." },
+    { "id": "t3-069", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "I can't come on Saturday - I ___ my brother from the airport.", "options": ["'m picking up", "'ll pick up", "pick up"], "answer": "'m picking up", "explanation": "Compromiso ya fijado -> presente continuo." },
+    { "id": "t3-070", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "El presente continuo para el futuro necesita:", "options": ["un momento futuro y un arreglo ya fijado", "una prediccion", "un horario oficial"], "answer": "un momento futuro y un arreglo ya fijado", "explanation": "Cita concreta + hora/dia." },
+    { "id": "t3-071", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "They ___ next month. (fecha de boda fijada)", "options": ["'re getting married", "'ll get married", "get married"], "answer": "'re getting married", "explanation": "Arreglo con fecha -> presente continuo." },
+    { "id": "t3-072", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "___ you ___ anything special for your birthday?", "options": ["Are / doing", "Will / do", "Do / do"], "answer": "Are / doing", "explanation": "Preguntar por planes -> presente continuo." },
+    { "id": "t3-073", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "I ___ at 6 a.m., so I need to sleep early. (vuelo reservado)", "options": ["'m leaving", "leave", "'ll leave"], "answer": "'m leaving", "explanation": "Arreglo personal con hora -> presente continuo." },
+    { "id": "t3-074", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "We ___ dinner with the Smiths on Thursday.", "options": ["'re having", "'ll have", "have"], "answer": "'re having", "explanation": "Cita social fijada -> presente continuo." },
+    { "id": "t3-075", "subtopic": "present-continuous-futuro", "type": "mcq", "prompt": "Sorry, I ___ tennis with Sam at 5. (quedada)", "options": ["'m playing", "'ll play", "play"], "answer": "'m playing", "explanation": "Arreglo con otra persona y hora -> presente continuo." },
+
+    { "id": "t3-076", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "The train ___ at 9:15. (horario)", "options": ["leaves", "is leaving", "will leave"], "answer": "leaves", "explanation": "Horario fijo -> presente simple." },
+    { "id": "t3-077", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "The film ___ at 8 p.m. tonight. (cartelera)", "options": ["starts", "is starting", "will start"], "answer": "starts", "explanation": "Programacion -> presente simple." },
+    { "id": "t3-078", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "Our English class ___ on Monday. (calendario)", "options": ["begins", "is beginning", "will begin"], "answer": "begins", "explanation": "Calendario fijo -> presente simple." },
+    { "id": "t3-079", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "What time ___ the museum ___ tomorrow?", "options": ["does / open", "is / opening", "will / open"], "answer": "does / open", "explanation": "Horario oficial -> presente simple: does + open." },
+    { "id": "t3-080", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "According to the schedule, the next bus ___ at 10:40.", "options": ["comes", "is coming", "will come"], "answer": "comes", "explanation": "Horario -> presente simple." },
+    { "id": "t3-081", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "El presente simple para el futuro es para:", "options": ["horarios y calendarios fijos", "planes personales", "predicciones"], "answer": "horarios y calendarios fijos", "explanation": "Transportes, cine, clases, programas." },
+    { "id": "t3-082", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "The conference ___ next Tuesday and ___ on Thursday. (programa)", "options": ["starts / ends", "is starting / ending", "will start / end"], "answer": "starts / ends", "explanation": "Programa de evento -> presente simple." },
+    { "id": "t3-083", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "My flight ___ at 06:30 - check-in two hours before.", "options": ["departs", "is departing", "will depart"], "answer": "departs", "explanation": "Horario oficial del vuelo -> presente simple." },
+    { "id": "t3-084", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "The shops ___ at 8 on Sundays. (horario habitual)", "options": ["open", "are opening", "will open"], "answer": "open", "explanation": "Horario -> presente simple." },
+    { "id": "t3-085", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "Tomorrow ___ Friday.", "options": ["is", "will be", "is being"], "answer": "is", "explanation": "Calendario -> presente simple ('be')." },
+    { "id": "t3-086", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "The match ___ at 20:00. (programacion)", "options": ["kicks off", "is kicking off", "will kick off"], "answer": "kicks off", "explanation": "Hora programada -> presente simple." },
+    { "id": "t3-087", "subtopic": "present-simple-futuro", "type": "mcq", "prompt": "When ___ the semester ___? (calendario academico)", "options": ["does / finish", "is / finishing", "will / finish"], "answer": "does / finish", "explanation": "Calendario -> presente simple." },
+
+    { "id": "t3-088", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "I'll call you when I ___ home.", "options": ["get", "will get", "'m getting"], "answer": "get", "explanation": "Tras 'when' con sentido futuro -> presente simple (sin will)." },
+    { "id": "t3-089", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "We'll start as soon as everyone ___ here.", "options": ["is", "will be", "'s being"], "answer": "is", "explanation": "Tras 'as soon as' -> presente simple." },
+    { "id": "t3-090", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "If it ___ tomorrow, we'll stay in.", "options": ["rains", "will rain", "is raining"], "answer": "rains", "explanation": "Condicional tipo 1: if + presente simple." },
+    { "id": "t3-091", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "Wait here until I ___ back.", "options": ["come", "will come", "'m coming"], "answer": "come", "explanation": "Tras 'until' -> presente simple." },
+    { "id": "t3-092", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "After you ___ this, you'll understand.", "options": ["read", "will read", "are reading"], "answer": "read", "explanation": "Tras 'after' -> presente simple." },
+    { "id": "t3-093", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "Before she ___, she'll pack her bags.", "options": ["leaves", "will leave", "is leaving"], "answer": "leaves", "explanation": "Tras 'before' -> presente simple." },
+    { "id": "t3-094", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "I won't leave until you ___ me the truth.", "options": ["tell", "will tell", "are telling"], "answer": "tell", "explanation": "Tras 'until' -> presente simple." },
+    { "id": "t3-095", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "He'll be angry when he ___ out.", "options": ["finds", "will find", "is finding"], "answer": "finds", "explanation": "Tras 'when' -> presente simple." },
+    { "id": "t3-096", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "En 'I'll help you when you need it', el verbo tras 'when' va en:", "options": ["presente simple", "futuro con will", "presente continuo"], "answer": "presente simple", "explanation": "Regla: no se usa will tras when/if/as soon as..." },
+    { "id": "t3-097", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "As soon as the taxi ___, we'll go.", "options": ["arrives", "will arrive", "is arriving"], "answer": "arrives", "explanation": "Tras 'as soon as' -> presente simple." },
+    { "id": "t3-098", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "If you ___ hard, you'll pass.", "options": ["study", "will study", "are studying"], "answer": "study", "explanation": "Condicional tipo 1: if + presente simple." },
+    { "id": "t3-099", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "We'll have dinner after the guests ___.", "options": ["arrive", "will arrive", "arriving"], "answer": "arrive", "explanation": "Tras 'after' -> presente simple." },
+    { "id": "t3-100", "subtopic": "futuro-en-subordinadas", "type": "mcq", "prompt": "Cual es correcta?", "options": ["When I see her, I'll tell her.", "When I will see her, I'll tell her.", "When I'll see her, I tell her."], "answer": "When I see her, I'll tell her.", "explanation": "'when' + presente simple; will solo en la principal." }
+  ]
+}

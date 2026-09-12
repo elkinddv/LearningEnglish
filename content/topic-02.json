@@ -1,0 +1,235 @@
+{
+  "id": 2,
+  "slug": "tiempos-pasados",
+  "level": "B1",
+  "title": "Tiempos pasados",
+  "lesson": {
+    "intro": "Cuatro tiempos, una pregunta guia: <strong>que relacion tiene con el ahora y con el resto de la historia</strong>. <strong>Past Simple</strong> = hecho terminado y fechado. <strong>Past Continuous</strong> = escena de fondo o accion en curso. <strong>Present Perfect</strong> = pasado con hilo hasta el presente. <strong>Past Perfect</strong> = un pasado <em>antes</em> de otro pasado. Casi todos los errores de B1 vienen de confundir Past Simple con Present Perfect.",
+    "sections": [
+      {
+        "subtopic": "past-simple-forma",
+        "heading": "1 - Past Simple: forma",
+        "body": "<p><strong>Regulares:</strong> base + <code>-ed</code> (work &rarr; worked). Ortografia: termina en <em>-e</em> &rarr; +d (live &rarr; lived); consonante + <em>y</em> &rarr; <code>-ied</code> (study &rarr; studied); vocal + <em>y</em> no cambia (play &rarr; played); una silaba consonante-vocal-consonante &rarr; se dobla la consonante (stop &rarr; stopped).</p><p><strong>Irregulares:</strong> hay que memorizarlos: go &rarr; went, see &rarr; saw, have &rarr; had, get &rarr; got, take &rarr; took, come &rarr; came, say &rarr; said, know &rarr; knew, think &rarr; thought, buy &rarr; bought, read &rarr; read.</p><p><strong>be:</strong> <em>was</em> (I / he / she / it), <em>were</em> (you / we / they).</p><p><strong>Negativa:</strong> <code>didn't</code> + base (con <em>be</em>: wasn't / weren't). <strong>Pregunta:</strong> <code>Did</code> + sujeto + base (con <em>be</em>: Was / Were + sujeto). El verbo principal vuelve a la forma base tras <em>did</em>.</p>",
+        "examples": [
+          "She <strong>worked</strong> late yesterday.",
+          "They <strong>went</strong> to Paris in May.",
+          "I <strong>didn't see</strong> the email.",
+          "<strong>Did</strong> you <strong>call</strong> him?",
+          "It <strong>was</strong> cold and the streets <strong>were</strong> empty."
+        ]
+      },
+      {
+        "subtopic": "past-simple-uso",
+        "heading": "2 - Past Simple: uso y marcadores",
+        "body": "<p>Se usa para:</p><ul><li><strong>Acciones y estados terminados</strong> en un momento del pasado, se diga o no cuando.</li><li><strong>Secuencia</strong> de acciones, una tras otra, al contar algo.</li><li><strong>Habitos y estados pasados</strong> que ya no ocurren.</li></ul><p><strong>Marcadores:</strong> <em>yesterday, last week/month/year, ... ago, in 1999, then, after that, when I was a child</em>. Si sabes o preguntas <strong>cuando</strong> paso &rarr; Past Simple.</p>",
+        "examples": [
+          "We <strong>met</strong> in 2018.",
+          "He <strong>got up</strong>, <strong>made</strong> coffee and <strong>left</strong>.",
+          "I <strong>lived</strong> in Rome for three years. (ya no)",
+          "<strong>When did</strong> you arrive?"
+        ]
+      },
+      {
+        "subtopic": "past-continuous",
+        "heading": "3 - Past Continuous: forma y uso",
+        "body": "<p><code>was / were</code> + verbo-ing. Usos:</p><ul><li><strong>Accion en progreso</strong> en un momento concreto del pasado: <em>At 9 p.m. I was studying</em>.</li><li><strong>Dos acciones largas en paralelo</strong>: <em>While she was cooking, I was setting the table</em>.</li><li><strong>Escena de fondo</strong> de una historia: <em>The sun was shining, birds were singing</em>.</li></ul><p>Ortografia del <code>-ing</code> igual que en presente. Los verbos de estado (know, want, like...) normalmente <strong>no</strong> van en Past Continuous.</p>",
+        "examples": [
+          "At midnight we <strong>were driving</strong> home.",
+          "They <strong>were arguing</strong> while the kids <strong>were watching</strong> TV.",
+          "It <strong>was raining</strong> and the wind <strong>was blowing</strong>."
+        ]
+      },
+      {
+        "subtopic": "past-simple-vs-continuous",
+        "heading": "4 - Past Simple vs Past Continuous",
+        "body": "<p>Regla clave: la accion <strong>larga</strong> (en progreso) va en Past Continuous; la accion <strong>corta</strong> que la interrumpe va en Past Simple.</p><p>Conectores: <em>while</em> + accion larga (-ing); <em>when</em> + accion corta (Past Simple). Dos acciones cortas y sucesivas &rarr; las dos en Past Simple.</p><p>El Past Continuous pone el decorado; el Past Simple cuenta los hechos.</p>",
+        "examples": [
+          "I <strong>was having</strong> a shower when the phone <strong>rang</strong>.",
+          "While I <strong>was walking</strong> home, I <strong>found</strong> a wallet.",
+          "When the class <strong>finished</strong>, everyone <strong>left</strong>. (dos hechos)"
+        ]
+      },
+      {
+        "subtopic": "present-perfect-forma",
+        "heading": "5 - Present Perfect: forma",
+        "body": "<p><code>have / has</code> + <strong>participio pasado</strong>. Participio de regulares = <code>-ed</code>; los irregulares tienen forma propia: be &rarr; been, go &rarr; gone/been, do &rarr; done, see &rarr; seen, write &rarr; written, break &rarr; broken, take &rarr; taken, give &rarr; given, eat &rarr; eaten, come &rarr; come, read &rarr; read.</p><p><strong>Negativa:</strong> <code>haven't / hasn't</code> + participio. <strong>Pregunta:</strong> <code>Have / Has</code> + sujeto + participio. <strong>Contracciones:</strong> I've, you've, he's (= he has), we've...</p>",
+        "examples": [
+          "I<strong>'ve finished</strong>.",
+          "She <strong>has broken</strong> her leg.",
+          "They <strong>haven't arrived</strong> yet.",
+          "<strong>Have</strong> you <strong>seen</strong> this?"
+        ]
+      },
+      {
+        "subtopic": "present-perfect-uso",
+        "heading": "6 - Present Perfect: uso (ever, just, yet, for/since)",
+        "body": "<p>Conecta el pasado con el presente. Usos:</p><ul><li><strong>Experiencias de vida</strong> sin decir cuando: <em>Have you ever...? / I've never...</em></li><li><strong>Resultado visible ahora</strong>: <em>I've lost my keys</em> (no las tengo).</li><li><strong>Tiempo no terminado</strong>: today, this week, this year, so far.</li></ul><p>Adverbios: <em>just</em> (hace un momento, tras <em>have</em>); <em>already</em> (antes de lo esperado, en afirmativas, tras <em>have</em>); <em>yet</em> (todavia; en negativas y preguntas, al final). <em>for</em> + periodo (for two years); <em>since</em> + punto de inicio (since 2010, since Monday).</p>",
+        "examples": [
+          "I<strong>'ve been</strong> to Japan.",
+          "He<strong>'s just left</strong>.",
+          "We<strong>'ve already eaten</strong>.",
+          "Have you called her <strong>yet</strong>?",
+          "I<strong>'ve known</strong> him <strong>for</strong> years / <strong>since</strong> school."
+        ]
+      },
+      {
+        "subtopic": "present-perfect-vs-past-simple",
+        "heading": "7 - Present Perfect vs Past Simple",
+        "body": "<p><strong>Past Simple</strong> = tiempo <strong>terminado</strong> y a menudo concreto (yesterday, last..., ago, in 1990) o preguntas con <em>when</em>.</p><p><strong>Present Perfect</strong> = tiempo <strong>no terminado</strong> o sin especificar, con conexion al presente.</p><p><em>been</em> = fue y <strong>ya volvio</strong> (She's been to the bank). <em>gone</em> = fue y <strong>sigue alli</strong> (She's gone to the bank).</p><p>Con <em>for / since</em> y algo que continua &rarr; Present Perfect (I've lived here for 5 years = sigo aqui); si ya no continua &rarr; Past Simple (I lived there for 5 years).</p>",
+        "examples": [
+          "I<strong>'ve seen</strong> that film. - I <strong>saw</strong> it last night.",
+          "<strong>Have</strong> you ever <strong>been</strong> to Rome? - <strong>When did</strong> you go?",
+          "He<strong>'s gone</strong> home (no esta). - He<strong>'s been</strong> to the doctor (ya volvio)."
+        ]
+      },
+      {
+        "subtopic": "past-perfect",
+        "heading": "8 - Past Perfect: forma y uso",
+        "body": "<p><code>had</code> + participio pasado (igual para todas las personas). Expresa una accion <strong>anterior a otro momento o accion del pasado</strong>: primero paso A (Past Perfect), luego B (Past Simple).</p><p>Util con <em>when, after, before, by the time, already, just, never... before</em>. <strong>Negativa:</strong> <code>hadn't</code> + participio. <strong>Pregunta:</strong> <code>Had</code> + sujeto + participio.</p><p>Si el orden ya esta claro por <em>after / before</em>, se puede usar Past Simple, pero el Past Perfect deja la anterioridad explicita.</p>",
+        "examples": [
+          "When we arrived, the film <strong>had already started</strong>.",
+          "She couldn't pay because she <strong>had left</strong> her wallet at home.",
+          "After he <strong>had finished</strong>, he <strong>went</strong> out.",
+          "I <strong>had never seen</strong> snow before that trip."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Present Perfect o Past Simple?",
+      "headers": ["Caso", "Past Simple", "Present Perfect"],
+      "rows": [
+        ["Tiempo terminado (ayer, en 2010, ago)", "I <strong>saw</strong> it yesterday.", "-"],
+        ["Sin decir cuando / experiencia", "-", "I<strong>'ve seen</strong> it."],
+        ["Pregunta con 'when'", "<strong>When did</strong> you go?", "-"],
+        ["Resultado visible ahora", "-", "I<strong>'ve lost</strong> my keys."],
+        ["Ir y volver / ir y seguir alli", "-", "She<strong>'s been</strong> vs She<strong>'s gone</strong>."],
+        ["Duracion que continua", "I <strong>lived</strong> there 5 years. (ya no)", "I<strong>'ve lived</strong> here 5 years. (sigo)"]
+      ]
+    },
+    "mistakes": [
+      "NO: I <em>have seen</em> him yesterday.  ->  SI: I <strong>saw</strong> him yesterday.",
+      "NO: <em>Did you ever be</em> to Japan?  ->  SI: <strong>Have you ever been</strong> to Japan?",
+      "NO: She <em>has gone</em> to Paris and she's back now.  ->  SI: She <strong>has been</strong> to Paris.",
+      "NO: When I was a child I <em>was living</em> on a farm.  ->  SI: When I was a child I <strong>lived</strong> on a farm.",
+      "NO: He <em>didn't went</em> to school.  ->  SI: He <strong>didn't go</strong> to school.",
+      "NO: I <em>was knowing</em> the answer.  ->  SI: I <strong>knew</strong> the answer.",
+      "NO: They arrived after the film <em>started</em>.  ->  SI: They arrived after the film <strong>had started</strong>."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Past simple", "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/past-simple" },
+      { "label": "British Council LearnEnglish - Past continuous", "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/past-continuous" },
+      { "label": "British Council LearnEnglish - Present perfect", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/present-perfect" },
+      { "label": "British Council LearnEnglish - Past perfect", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/past-perfect" },
+      { "label": "Test-English - Past simple or present perfect (B1)", "url": "https://test-english.com/grammar-points/b1/past-simple-present-perfect/" }
+    ]
+  },
+  "questions": [
+    { "id": "t2-001", "subtopic": "past-simple-forma", "type": "gap", "prompt": "Completa: Yesterday I ___ (watch) a film.", "accept": ["watched"], "answer": "watched", "explanation": "Regular: base + -ed -> watched." },
+    { "id": "t2-002", "subtopic": "past-simple-forma", "type": "gap", "prompt": "Completa: She ___ (study) all night.", "accept": ["studied"], "answer": "studied", "explanation": "Consonante + y -> -ied: studied." },
+    { "id": "t2-003", "subtopic": "past-simple-forma", "type": "gap", "prompt": "Completa: They ___ (stop) at the border.", "accept": ["stopped"], "answer": "stopped", "explanation": "Consonante-vocal-consonante -> se dobla: stopped." },
+    { "id": "t2-004", "subtopic": "past-simple-forma", "type": "gap", "prompt": "Completa: We ___ (arrive) late.", "accept": ["arrived"], "answer": "arrived", "explanation": "Termina en -e -> +d: arrived." },
+    { "id": "t2-005", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "He ___ to Rome last year.", "options": ["went", "goed", "gone", "was go"], "answer": "went", "explanation": "'go' es irregular: went." },
+    { "id": "t2-006", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "I ___ my keys yesterday.", "options": ["lost", "losed", "loosed", "have lost"], "answer": "lost", "explanation": "'lose' es irregular: lost." },
+    { "id": "t2-007", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "___ you ___ the news?", "options": ["Did / hear", "Did / heard", "Do / hear", "Have / hear"], "answer": "Did / hear", "explanation": "Pregunta en pasado: Did + sujeto + verbo base." },
+    { "id": "t2-008", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "She ___ come to the party.", "options": ["didn't", "don't", "wasn't", "hasn't"], "answer": "didn't", "explanation": "Negativa en pasado: didn't + base." },
+    { "id": "t2-009", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "They ___ at home yesterday evening.", "options": ["were", "was", "did", "have been"], "answer": "were", "explanation": "'they' -> were." },
+    { "id": "t2-010", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "It ___ very cold last night.", "options": ["was", "were", "did", "is"], "answer": "was", "explanation": "'it' -> was." },
+    { "id": "t2-011", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "Cual oracion es correcta?", "options": ["He didn't call me.", "He didn't called me.", "He don't call me.", "He not called me."], "answer": "He didn't call me.", "explanation": "didn't + verbo en forma base (sin -ed)." },
+    { "id": "t2-012", "subtopic": "past-simple-forma", "type": "gap", "prompt": "Completa: The baby ___ (cry) for an hour.", "accept": ["cried"], "answer": "cried", "explanation": "Consonante + y -> -ied: cried." },
+    { "id": "t2-013", "subtopic": "past-simple-forma", "type": "mcq", "prompt": "I ___ a great book last week.", "options": ["read", "readed", "have read", "red"], "answer": "read", "explanation": "'read' es irregular: se escribe igual (se pronuncia /red/)." },
+
+    { "id": "t2-014", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "I saw her ___.", "options": ["two days ago", "since Monday", "yet", "for two days"], "answer": "two days ago", "explanation": "'ago' marca un tiempo terminado -> Past Simple." },
+    { "id": "t2-015", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "We moved here ___.", "options": ["in 2015", "already", "ever", "just"], "answer": "in 2015", "explanation": "Fecha concreta y terminada -> Past Simple." },
+    { "id": "t2-016", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "First he ___ up, then he ___ breakfast.", "options": ["got / had", "has got / had", "was getting / had"], "answer": "got / had", "explanation": "Secuencia de acciones terminadas -> Past Simple." },
+    { "id": "t2-017", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "___ you enjoy the concert last night?", "options": ["Did", "Have", "Do", "Were"], "answer": "Did", "explanation": "'last night' es tiempo terminado -> Did." },
+    { "id": "t2-018", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "Shakespeare ___ many plays.", "options": ["wrote", "has written", "was writing"], "answer": "wrote", "explanation": "Vida terminada -> Past Simple." },
+    { "id": "t2-019", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "When I ___ young, I ___ in a village.", "options": ["was / lived", "have been / lived", "was / have lived"], "answer": "was / lived", "explanation": "Estado y habito pasados que ya no ocurren -> Past Simple." },
+    { "id": "t2-020", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "They ___ dinner and then ___ TV.", "options": ["had / watched", "have had / watched", "were having / watched"], "answer": "had / watched", "explanation": "Dos acciones sucesivas y terminadas -> Past Simple." },
+    { "id": "t2-021", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "I ___ him at the meeting yesterday.", "options": ["met", "have met", "was meeting"], "answer": "met", "explanation": "'yesterday' -> Past Simple." },
+    { "id": "t2-022", "subtopic": "past-simple-uso", "type": "gap", "prompt": "Completa: She ___ (leave) an hour ago.", "accept": ["left"], "answer": "left", "explanation": "'ago' -> Past Simple; 'leave' es irregular: left." },
+    { "id": "t2-023", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "The Romans ___ this city 2,000 years ago.", "options": ["built", "have built", "were building"], "answer": "built", "explanation": "Tiempo concreto y lejano -> Past Simple." },
+    { "id": "t2-024", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "___ did you go on holiday last summer?", "options": ["Where", "How long", "Ever"], "answer": "Where", "explanation": "Pregunta con 'did' sobre un tiempo concreto (last summer)." },
+    { "id": "t2-025", "subtopic": "past-simple-uso", "type": "mcq", "prompt": "He ___ born in 1990.", "options": ["was", "is", "has been", "were"], "answer": "was", "explanation": "'be born' en pasado: was / were born." },
+
+    { "id": "t2-026", "subtopic": "past-continuous", "type": "gap", "prompt": "Completa: At 8 p.m. yesterday I ___ (have) dinner.", "accept": ["was having"], "answer": "was having", "explanation": "Accion en progreso a una hora concreta del pasado -> was/were + -ing." },
+    { "id": "t2-027", "subtopic": "past-continuous", "type": "mcq", "prompt": "While she ___, the phone rang.", "options": ["was cooking", "cooked", "has cooked"], "answer": "was cooking", "explanation": "Accion larga en curso -> Past Continuous." },
+    { "id": "t2-028", "subtopic": "past-continuous", "type": "mcq", "prompt": "They ___ while I ___.", "options": ["were talking / was reading", "talked / read", "were talking / read"], "answer": "were talking / was reading", "explanation": "Dos acciones largas en paralelo -> Past Continuous en las dos." },
+    { "id": "t2-029", "subtopic": "past-continuous", "type": "mcq", "prompt": "It ___ and the birds ___. (descripcion de fondo)", "options": ["was raining / were singing", "rained / sang", "was raining / sang"], "answer": "was raining / were singing", "explanation": "Escena de fondo -> Past Continuous." },
+    { "id": "t2-030", "subtopic": "past-continuous", "type": "mcq", "prompt": "What ___ you ___ at 10 last night?", "options": ["were / doing", "did / do", "was / doing"], "answer": "were / doing", "explanation": "Pregunta sobre una accion en curso a una hora -> were + sujeto + -ing." },
+    { "id": "t2-031", "subtopic": "past-continuous", "type": "mcq", "prompt": "I ___ TV when you called.", "options": ["was watching", "watched", "have watched"], "answer": "was watching", "explanation": "Accion en curso interrumpida -> Past Continuous." },
+    { "id": "t2-032", "subtopic": "past-continuous", "type": "mcq", "prompt": "He ___ fast when the accident happened.", "options": ["was driving", "drove", "drives"], "answer": "was driving", "explanation": "Accion en progreso de fondo -> Past Continuous." },
+    { "id": "t2-033", "subtopic": "past-continuous", "type": "gap", "prompt": "Completa: We ___ (wait) for the bus when it started to snow.", "accept": ["were waiting"], "answer": "were waiting", "explanation": "Accion larga interrumpida -> were + -ing." },
+    { "id": "t2-034", "subtopic": "past-continuous", "type": "mcq", "prompt": "This time last week I ___ on a beach.", "options": ["was lying", "lay", "have lain"], "answer": "was lying", "explanation": "Accion en progreso en un momento del pasado -> Past Continuous." },
+    { "id": "t2-035", "subtopic": "past-continuous", "type": "mcq", "prompt": "___ they ___ when the teacher came in?", "options": ["Were / talking", "Did / talk", "Was / talking"], "answer": "Were / talking", "explanation": "Pregunta: Were + sujeto plural + -ing." },
+    { "id": "t2-036", "subtopic": "past-continuous", "type": "mcq", "prompt": "The sun ___ when we left.", "options": ["was shining", "shone", "shines"], "answer": "was shining", "explanation": "Escena de fondo -> Past Continuous." },
+    { "id": "t2-037", "subtopic": "past-continuous", "type": "mcq", "prompt": "I couldn't answer because I ___.", "options": ["was driving", "drove", "have driven"], "answer": "was driving", "explanation": "Situacion en curso que explica el contexto -> Past Continuous." },
+    { "id": "t2-038", "subtopic": "past-continuous", "type": "mcq", "prompt": "When I arrived, everyone ___ a good time.", "options": ["was having", "had", "has had"], "answer": "was having", "explanation": "Situacion ya en curso al llegar -> Past Continuous." },
+
+    { "id": "t2-039", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "I ___ when the lights ___ out.", "options": ["was reading / went", "read / were going", "was reading / was going"], "answer": "was reading / went", "explanation": "Accion larga (Continuous) interrumpida por una corta (Simple)." },
+    { "id": "t2-040", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "When the film ___, we ___ home.", "options": ["finished / went", "was finishing / went", "finished / were going"], "answer": "finished / went", "explanation": "Dos acciones cortas y sucesivas -> las dos en Past Simple." },
+    { "id": "t2-041", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "While we ___ dinner, someone ___ on the door.", "options": ["were having / knocked", "had / knocked", "were having / was knocking"], "answer": "were having / knocked", "explanation": "'while' + accion larga (-ing); la corta en Past Simple." },
+    { "id": "t2-042", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "He ___ his leg while he ___ football.", "options": ["broke / was playing", "was breaking / played", "broke / played"], "answer": "broke / was playing", "explanation": "La corta (break) en Simple; la larga (play) en Continuous." },
+    { "id": "t2-043", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "When I ___ in, she ___ on the phone.", "options": ["came / was talking", "was coming / talked", "came / talked"], "answer": "came / was talking", "explanation": "Llegada (corta, Simple); hablar por telefono ya en curso (Continuous)." },
+    { "id": "t2-044", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "Con 'when', que combinacion es la tipica?", "options": ["accion corta (Simple) que interrumpe a una larga (-ing)", "dos acciones en -ing", "siempre dos Past Simple"], "answer": "accion corta (Simple) que interrumpe a una larga (-ing)", "explanation": "'when' suele introducir la accion corta que corta a la larga." },
+    { "id": "t2-045", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "I ___ TV for two hours and then went to bed.", "options": ["watched", "was watching", "have watched"], "answer": "watched", "explanation": "Accion completada con duracion cerrada y secuencia -> Past Simple." },
+    { "id": "t2-046", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "As I ___ down the street, I ___ an old friend.", "options": ["was walking / met", "walked / was meeting", "was walking / was meeting"], "answer": "was walking / met", "explanation": "Fondo en curso (walk) + hecho puntual (meet)." },
+    { "id": "t2-047", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "The kids ___ when their mother ___.", "options": ["were sleeping / arrived", "slept / arrived", "were sleeping / was arriving"], "answer": "were sleeping / arrived", "explanation": "Estado en curso (sleep) + llegada puntual (arrive)." },
+    { "id": "t2-048", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "We ___ the game because it ___ heavily.", "options": ["stopped / was raining", "were stopping / rained", "stopped / rained"], "answer": "stopped / was raining", "explanation": "Decision puntual (stop) + fondo en curso (rain)." },
+    { "id": "t2-049", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "She ___ her homework, then she ___ out.", "options": ["did / went", "was doing / went", "did / was going"], "answer": "did / went", "explanation": "Secuencia de dos acciones terminadas -> Past Simple." },
+    { "id": "t2-050", "subtopic": "past-simple-vs-continuous", "type": "mcq", "prompt": "I ___ my wallet while I ___ on the bus.", "options": ["lost / was travelling", "was losing / travelled", "lost / travelled"], "answer": "lost / was travelling", "explanation": "Hecho puntual (lose) + fondo largo (travel)." },
+
+    { "id": "t2-051", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa: I ___ (finish) my work.", "accept": ["have finished", "'ve finished"], "answer": "have finished", "explanation": "have + participio (regular: -ed)." },
+    { "id": "t2-052", "subtopic": "present-perfect-forma", "type": "mcq", "prompt": "She ___ to Japan.", "options": ["has been", "have been", "has went", "is been"], "answer": "has been", "explanation": "3a persona -> has + participio (been)." },
+    { "id": "t2-053", "subtopic": "present-perfect-forma", "type": "mcq", "prompt": "They ___ eaten yet.", "options": ["haven't", "hasn't", "didn't", "aren't"], "answer": "haven't", "explanation": "Sujeto plural -> haven't + participio." },
+    { "id": "t2-054", "subtopic": "present-perfect-forma", "type": "mcq", "prompt": "___ you ever ___ a marathon?", "options": ["Have / run", "Have / ran", "Did / run", "Has / run"], "answer": "Have / run", "explanation": "Participio de 'run' = run." },
+    { "id": "t2-055", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa: He ___ (break) his arm.", "accept": ["has broken"], "answer": "has broken", "explanation": "Participio de 'break' = broken; 3a persona -> has." },
+    { "id": "t2-056", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa: We ___ (see) that film twice.", "accept": ["have seen", "'ve seen"], "answer": "have seen", "explanation": "Participio de 'see' = seen." },
+    { "id": "t2-057", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa: She has ___ (go) home already.", "accept": ["gone"], "answer": "gone", "explanation": "Participio de 'go' = gone." },
+    { "id": "t2-058", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa: I ___ (write) three emails today.", "accept": ["have written", "'ve written"], "answer": "have written", "explanation": "Participio de 'write' = written." },
+    { "id": "t2-059", "subtopic": "present-perfect-forma", "type": "mcq", "prompt": "Cual oracion es correcta?", "options": ["He has done it.", "He has did it.", "He have done it.", "He did done it."], "answer": "He has done it.", "explanation": "has + participio (done)." },
+    { "id": "t2-060", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa: They ___ (not / arrive) yet.", "accept": ["haven't arrived", "have not arrived"], "answer": "haven't arrived", "explanation": "Negativa: haven't + participio." },
+    { "id": "t2-061", "subtopic": "present-perfect-forma", "type": "mcq", "prompt": "'I've' es la contraccion de:", "options": ["I have", "I had", "I did"], "answer": "I have", "explanation": "En Present Perfect, 've = have." },
+    { "id": "t2-062", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa (pregunta): ___ (you / meet) her before?", "accept": ["have you met", "have you met her"], "answer": "have you met", "explanation": "Pregunta: Have + sujeto + participio (met)." },
+    { "id": "t2-063", "subtopic": "present-perfect-forma", "type": "gap", "prompt": "Completa: The train ___ (leave) already.", "accept": ["has left"], "answer": "has left", "explanation": "Participio de 'leave' = left; 'the train' -> has." },
+
+    { "id": "t2-064", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "I've ___ been to Australia.", "options": ["never", "yesterday", "last year", "ago"], "answer": "never", "explanation": "Experiencia de vida -> Present Perfect con ever / never." },
+    { "id": "t2-065", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "She's ___ finished the report. (antes de lo esperado)", "options": ["already", "yet", "since", "ago"], "answer": "already", "explanation": "'already' en afirmativas, tras 'have'." },
+    { "id": "t2-066", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "Have you done your homework ___?", "options": ["yet", "already", "just", "ever"], "answer": "yet", "explanation": "'yet' al final, en preguntas y negativas." },
+    { "id": "t2-067", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "He's ___ arrived - he's at the door.", "options": ["just", "yet", "for", "ago"], "answer": "just", "explanation": "'just' = hace un momento, tras 'have'." },
+    { "id": "t2-068", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "I've lived here ___ 2010.", "options": ["since", "for", "ago", "from"], "answer": "since", "explanation": "'since' + punto de inicio." },
+    { "id": "t2-069", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "We've known each other ___ ten years.", "options": ["for", "since", "during", "ago"], "answer": "for", "explanation": "'for' + periodo de tiempo." },
+    { "id": "t2-070", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "I can't find my phone. I ___ it.", "options": ["have lost", "lost", "was losing"], "answer": "have lost", "explanation": "Resultado presente: ahora no lo tengo -> Present Perfect." },
+    { "id": "t2-071", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "___ you ever ___ a celebrity?", "options": ["Have / met", "Did / meet", "Have / met yet"], "answer": "Have / met", "explanation": "Experiencia -> Have + sujeto + participio." },
+    { "id": "t2-072", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "She ___ three coffees today. (el dia no ha terminado)", "options": ["has had", "had", "was having"], "answer": "has had", "explanation": "Tiempo no terminado ('today') -> Present Perfect." },
+    { "id": "t2-073", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "The city has changed a lot ___.", "options": ["recently", "last month", "in 2010"], "answer": "recently", "explanation": "'recently' es compatible con el Present Perfect." },
+    { "id": "t2-074", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "I haven't seen him ___ Friday.", "options": ["since", "for", "ago"], "answer": "since", "explanation": "'since' + dia concreto de inicio." },
+    { "id": "t2-075", "subtopic": "present-perfect-uso", "type": "mcq", "prompt": "Where's Tom? He ___ out.", "options": ["has gone", "has been", "went"], "answer": "has gone", "explanation": "Resultado presente: no esta aqui -> has gone." },
+
+    { "id": "t2-076", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "I ___ my homework. Can I watch TV now?", "options": ["have finished", "finished", "was finishing"], "answer": "have finished", "explanation": "Resultado presente, sin decir cuando -> Present Perfect." },
+    { "id": "t2-077", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "I ___ my homework two hours ago.", "options": ["finished", "have finished", "was finishing"], "answer": "finished", "explanation": "'ago' -> tiempo terminado -> Past Simple." },
+    { "id": "t2-078", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "___ you ever ___ to Egypt?", "options": ["Have / been", "Did / go", "Have / gone"], "answer": "Have / been", "explanation": "Experiencia -> Present Perfect con 'been'." },
+    { "id": "t2-079", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "When ___ you ___ to Egypt?", "options": ["did / go", "have / been", "have / gone"], "answer": "did / go", "explanation": "'When' pide un tiempo concreto -> Past Simple." },
+    { "id": "t2-080", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "She's not here. She ___ to the bank.", "options": ["has gone", "has been", "went"], "answer": "has gone", "explanation": "'gone' = fue y no ha vuelto." },
+    { "id": "t2-081", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "She looks tired. She ___ to the gym.", "options": ["has been", "has gone", "went"], "answer": "has been", "explanation": "'been' = fue y ya ha vuelto." },
+    { "id": "t2-082", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "We ___ this film last night.", "options": ["watched", "have watched", "have been watching"], "answer": "watched", "explanation": "'last night' terminado -> Past Simple." },
+    { "id": "t2-083", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "I ___ this film three times. (en mi vida)", "options": ["have seen", "saw", "was seeing"], "answer": "have seen", "explanation": "Experiencia acumulada hasta ahora -> Present Perfect." },
+    { "id": "t2-084", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "Marie Curie ___ two Nobel Prizes.", "options": ["won", "has won", "was winning"], "answer": "won", "explanation": "Persona fallecida / vida terminada -> Past Simple." },
+    { "id": "t2-085", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "My sister ___ in Berlin since March.", "options": ["has lived", "lived", "was living"], "answer": "has lived", "explanation": "Periodo que llega hasta ahora ('since') -> Present Perfect." },
+    { "id": "t2-086", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "My sister ___ in Berlin for two years, then moved to Paris.", "options": ["lived", "has lived", "has been living"], "answer": "lived", "explanation": "Periodo terminado (ya se mudo) -> Past Simple." },
+    { "id": "t2-087", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "'This morning I ___ three teas.' (dicho a las 11 a.m.)", "options": ["have had", "had"], "answer": "have had", "explanation": "La manana aun no ha terminado -> Present Perfect." },
+    { "id": "t2-088", "subtopic": "present-perfect-vs-past-simple", "type": "mcq", "prompt": "'This morning I ___ three teas.' (dicho por la noche)", "options": ["had", "have had"], "answer": "had", "explanation": "La manana ya termino -> Past Simple." },
+
+    { "id": "t2-089", "subtopic": "past-perfect", "type": "gap", "prompt": "Completa: When we arrived, the film ___ (already / start).", "accept": ["had already started"], "answer": "had already started", "explanation": "Accion anterior a otra pasada -> had + participio; 'already' entre had y el participio." },
+    { "id": "t2-090", "subtopic": "past-perfect", "type": "mcq", "prompt": "She ___ before I got there.", "options": ["had left", "left", "has left"], "answer": "had left", "explanation": "Accion anterior a otra pasada -> Past Perfect." },
+    { "id": "t2-091", "subtopic": "past-perfect", "type": "mcq", "prompt": "I couldn't get in because I ___ my keys.", "options": ["had lost", "lost", "have lost"], "answer": "had lost", "explanation": "La perdida ocurrio antes del momento pasado -> Past Perfect." },
+    { "id": "t2-092", "subtopic": "past-perfect", "type": "mcq", "prompt": "By the time the police came, the thief ___.", "options": ["had escaped", "escaped", "has escaped"], "answer": "had escaped", "explanation": "'by the time' + accion previa -> Past Perfect." },
+    { "id": "t2-093", "subtopic": "past-perfect", "type": "mcq", "prompt": "After he ___ dinner, he went to bed.", "options": ["had had", "has had", "was having"], "answer": "had had", "explanation": "'after' + accion previa -> Past Perfect (participio de 'have' = had)." },
+    { "id": "t2-094", "subtopic": "past-perfect", "type": "gap", "prompt": "Completa: They ___ (not / meet) before the wedding.", "accept": ["hadn't met", "had not met"], "answer": "hadn't met", "explanation": "Negativa del Past Perfect: hadn't + participio." },
+    { "id": "t2-095", "subtopic": "past-perfect", "type": "mcq", "prompt": "The ground was wet because it ___.", "options": ["had rained", "rained", "has rained"], "answer": "had rained", "explanation": "Causa anterior al momento pasado -> Past Perfect." },
+    { "id": "t2-096", "subtopic": "past-perfect", "type": "mcq", "prompt": "___ the train ___ when you got to the station?", "options": ["Had / left", "Did / leave", "Has / left"], "answer": "Had / left", "explanation": "Pregunta del Past Perfect: Had + sujeto + participio." },
+    { "id": "t2-097", "subtopic": "past-perfect", "type": "mcq", "prompt": "She told me she ___ him somewhere before.", "options": ["had seen", "saw", "has seen"], "answer": "had seen", "explanation": "Accion anterior al momento del relato -> Past Perfect." },
+    { "id": "t2-098", "subtopic": "past-perfect", "type": "mcq", "prompt": "I was nervous because I ___ never ___ a plane before.", "options": ["had / flown", "have / flown", "did / fly"], "answer": "had / flown", "explanation": "Experiencia (o su ausencia) antes de un momento pasado -> Past Perfect; participio de 'fly' = flown." },
+    { "id": "t2-099", "subtopic": "past-perfect", "type": "mcq", "prompt": "We ___ just ___ when the guests arrived.", "options": ["had / finished", "have / finished", "did / finish"], "answer": "had / finished", "explanation": "Accion recien terminada antes de otra pasada -> had just + participio." },
+    { "id": "t2-100", "subtopic": "past-perfect", "type": "mcq", "prompt": "He passed easily because he ___ for weeks beforehand.", "options": ["had studied", "studied", "has studied"], "answer": "had studied", "explanation": "Preparacion anterior al examen (momento pasado) -> Past Perfect." }
+  ]
+}

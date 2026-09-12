@@ -1,0 +1,234 @@
+{
+  "id": 16,
+  "slug": "nominalizacion-colocaciones-phrasal",
+  "level": "C2",
+  "title": "Nominalizacion, colocaciones avanzadas y matices de phrasal verbs",
+  "lesson": {
+    "intro": "En C2 la gramatica ya no falla: lo que marca la diferencia es la <strong>precision lexica</strong>. Tres frentes: la <strong>nominalizacion</strong> (convertir verbos en sustantivos para un estilo denso y formal), las <strong>colocaciones</strong> (que palabras van juntas: <em>make a decision</em>, <em>highly unlikely</em>) y los <strong>phrasal verbs</strong> (polisemia, separabilidad y registro).",
+    "sections": [
+      {
+        "subtopic": "nominalizacion-formacion",
+        "heading": "1 - Nominalizacion: formacion",
+        "body": "<p>Convertir un verbo o adjetivo en sustantivo con sufijos:</p><ul><li><code>-tion / -sion</code>: decide &rarr; decision, implement &rarr; implementation</li><li><code>-ment</code>: develop &rarr; development</li><li><code>-ance / -ence</code>: perform &rarr; performance, resist &rarr; resistance</li><li><code>-al</code>: refuse &rarr; refusal, arrive &rarr; arrival</li><li><code>-ity</code>: able &rarr; ability &nbsp; <code>-ness</code>: happy &rarr; happiness &nbsp; <code>-ship</code>: friend &rarr; friendship</li></ul><p>Irregulares: lose &rarr; loss, grow &rarr; growth, analyse &rarr; analysis, choose &rarr; choice.</p>",
+        "examples": [
+          "decide &rarr; <strong>decision</strong>",
+          "perform &rarr; <strong>performance</strong>",
+          "arrive &rarr; <strong>arrival</strong>",
+          "lose &rarr; <strong>loss</strong>"
+        ]
+      },
+      {
+        "subtopic": "nominalizacion-estilo",
+        "heading": "2 - Nominalizacion: efecto en el estilo",
+        "body": "<p>Empaqueta informacion y da un tono <strong>objetivo, academico y formal</strong>: <em>The plan failed</em> &rarr; <em>the failure of the plan</em>; <em>Prices rose</em> &rarr; <em>the rise in prices</em>.</p><p>Suele ir con la pasiva y sujetos abstractos. <strong>Riesgo:</strong> abusar produce un estilo denso, abstracto y sin agentes ('zombie nouns'). Usala con intencion, no por defecto.</p>",
+        "examples": [
+          "The plan failed. &rarr; the <strong>failure</strong> of the plan",
+          "They discovered a gene. &rarr; the <strong>discovery</strong> of a gene",
+          "The system was implemented. &rarr; the <strong>implementation</strong> of the system"
+        ]
+      },
+      {
+        "subtopic": "colocaciones-verbo-nombre",
+        "heading": "3 - Colocaciones verbo + nombre",
+        "body": "<p>Pares fijos que hay que memorizar:</p><ul><li><em>make</em> a decision / an effort / a mistake / a promise</li><li><em>do</em> research / homework / damage / business</li><li><em>take</em> action / a risk / responsibility</li><li><em>reach / draw</em> a conclusion; <em>pose</em> a threat; <em>raise</em> awareness</li><li><em>meet</em> a demand / a deadline / a target; <em>put forward</em> a proposal; <em>break</em> a promise / a record; <em>cast</em> doubt on</li></ul><p>Elegir el verbo equivocado suena raro aunque sea gramatical.</p>",
+        "examples": [
+          "The government must <strong>take action</strong>.",
+          "Climate change <strong>poses a threat</strong>.",
+          "The study <strong>reached a conclusion</strong>.",
+          "The campaign aims to <strong>raise awareness</strong>."
+        ]
+      },
+      {
+        "subtopic": "colocaciones-intensificadoras",
+        "heading": "4 - Colocaciones intensificadoras",
+        "body": "<p><strong>Adjetivo + nombre:</strong> a <em>heavy</em> smoker/drinker, a <em>narrow</em> escape, a <em>striking</em> resemblance, a <em>vast</em> difference.</p><p><strong>Adverbio + adjetivo/participio:</strong> <em>highly</em> unlikely/skilled/controversial, <em>deeply</em> concerned/moved/rooted, <em>bitterly</em> disappointed, <em>acutely</em> aware, <em>fiercely</em> opposed, <em>densely</em> populated.</p><p>Cada adjetivo pide su adverbio: no se dice \"highly concerned\" ni \"deeply unlikely\".</p>",
+        "examples": [
+          "a <strong>heavy</strong> smoker",
+          "<strong>bitterly</strong> disappointed",
+          "<strong>highly</strong> unlikely",
+          "<strong>deeply</strong> concerned"
+        ]
+      },
+      {
+        "subtopic": "phrasal-literal-idiomatico",
+        "heading": "5 - Phrasal verbs: literal vs idiomatico y polisemia",
+        "body": "<p>Un phrasal verb puede ser <strong>literal</strong> (take the book <em>off</em> the table) o <strong>idiomatico</strong> (her career <em>took off</em> = triunfo).</p><p>Muchos son <strong>polisemicos</strong>: <em>take off</em> = despegar / quitarse / triunfar / imitar. El sentido idiomatico <strong>no</strong> se deduce de las partes; hay que aprenderlo en contexto.</p>",
+        "examples": [
+          "The plane <strong>took off</strong>. (despegar)",
+          "Her career <strong>took off</strong>. (triunfar)",
+          "He <strong>takes after</strong> his mother. (se parece a)",
+          "The deal <strong>fell through</strong>. (no salio adelante)"
+        ]
+      },
+      {
+        "subtopic": "phrasal-separables",
+        "heading": "6 - Phrasal verbs: separables e inseparables",
+        "body": "<p><strong>Separables</strong> (verbo + particula): con nombre, la particula puede ir junta o separada (<em>turn off the light</em> / <em>turn the light off</em>); con <strong>pronombre</strong>, el pronombre va <strong>siempre en medio</strong> (<em>turn it off</em>, nunca \"turn off it\").</p><p><strong>Inseparables</strong> (incluidos los de 3 partes): verbo y particula <strong>no</strong> se separan (<em>look after them; put up with it; get over it; come up with it</em>).</p>",
+        "examples": [
+          "turn off the light / turn the light off / turn <strong>it</strong> off",
+          "I can't <strong>put up with</strong> this noise.",
+          "She <strong>looked</strong> the word <strong>up</strong>.",
+          "He <strong>got over</strong> his illness."
+        ]
+      },
+      {
+        "subtopic": "phrasal-registro",
+        "heading": "7 - Phrasal verb informal vs verbo formal",
+        "body": "<p>En registro formal o academico se prefiere el verbo de origen latino:</p><ul><li>put off &rarr; <strong>postpone</strong>; look into &rarr; <strong>investigate</strong>; give up &rarr; <strong>abandon</strong></li><li>find out &rarr; <strong>ascertain / discover</strong>; set up &rarr; <strong>establish</strong>; go up &rarr; <strong>rise / increase</strong></li><li>cut down on &rarr; <strong>reduce</strong>; bring about &rarr; <strong>cause / lead to</strong>; point out &rarr; <strong>indicate / note</strong></li></ul><p>Algunos phrasal verbs no tienen equivalente breve: <em>get on with someone</em>, <em>put up with</em>.</p>",
+        "examples": [
+          "The vote was <strong>postponed</strong>. (put off)",
+          "Police will <strong>investigate</strong> the claims. (look into)",
+          "The firm was <strong>established</strong> in 1990. (set up)",
+          "Costs <strong>rose</strong> sharply. (went up)"
+        ]
+      },
+      {
+        "subtopic": "contraste-lexico-c2",
+        "heading": "8 - Elegir la colocacion o phrasal verb correcto",
+        "body": "<p>Preguntate:</p><ol><li>Que verbo pide este nombre? (make / do / take / reach...)</li><li>Que adverbio pide este adjetivo? (highly / deeply / bitterly...)</li><li>El phrasal verb es literal o idiomatico? Cual encaja?</li><li>Que registro necesito: phrasal (informal) o verbo latino (formal)?</li><li>El phrasal es separable? &rarr; pronombre en medio.</li></ol><p>En C2, la precision lexica pesa mas que la variedad.</p>",
+        "examples": [
+          "make a decision (no 'do a decision')",
+          "deeply concerned / highly unlikely",
+          "The results <strong>demonstrate</strong> that... (no 'show up')"
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Informal (phrasal) -> formal (verbo latino)",
+      "headers": ["Phrasal verb", "Formal", "Ejemplo"],
+      "rows": [
+        ["put off", "postpone", "The vote was <strong>postponed</strong>."],
+        ["look into", "investigate", "Police will <strong>investigate</strong> the claims."],
+        ["give up", "abandon", "They <strong>abandoned</strong> the project."],
+        ["set up", "establish", "The firm was <strong>established</strong> in 1990."],
+        ["find out", "ascertain / discover", "We must <strong>ascertain</strong> the cause."],
+        ["go up", "rise / increase", "Costs <strong>rose</strong> sharply."],
+        ["bring about", "cause / lead to", "The reform <strong>brought about</strong> change."]
+      ]
+    },
+    "mistakes": [
+      "NO: I want to <em>do a decision</em>.  ->  SI: I want to <strong>make a decision</strong>.",
+      "NO: We must <em>make research</em>.  ->  SI: We must <strong>do / carry out research</strong>.",
+      "NO: I'm <em>highly concerned</em>.  ->  SI: I'm <strong>deeply concerned</strong>.",
+      "NO: It's <em>deeply unlikely</em>.  ->  SI: It's <strong>highly unlikely</strong>.",
+      "NO: Turn <em>off it</em>.  ->  SI: Turn <strong>it off</strong>.",
+      "NO: I can't put up <em>this noise</em>.  ->  SI: I can't put up <strong>with</strong> this noise.",
+      "NO: (ensayo) The results <em>show up</em> that...  ->  SI: The results <strong>demonstrate / indicate</strong> that..."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Nominalisation", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/nominalisation" },
+      { "label": "British Council LearnEnglish - Collocations", "url": "https://learnenglish.britishcouncil.org/vocabulary/c1-vocabulary/collocations" },
+      { "label": "British Council LearnEnglish - Phrasal verbs", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/phrasal-verbs" },
+      { "label": "Cambridge Dictionary Grammar - Phrasal verbs and multi-word verbs", "url": "https://dictionary.cambridge.org/grammar/british-grammar/phrasal-verbs-and-multi-word-verbs" }
+    ]
+  },
+  "questions": [
+    { "id": "t16-001", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'decide' ->", "options": ["decision", "deciding only", "decisive"], "answer": "decision", "explanation": "Sufijo -sion: decision." },
+    { "id": "t16-002", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'develop' ->", "options": ["development", "developation", "developness"], "answer": "development", "explanation": "Sufijo -ment: development." },
+    { "id": "t16-003", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'perform' ->", "options": ["performance", "performation", "performment"], "answer": "performance", "explanation": "Sufijo -ance: performance." },
+    { "id": "t16-004", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'analyse' ->", "options": ["analysis", "analysation", "analysement"], "answer": "analysis", "explanation": "Nominalizacion irregular: analysis." },
+    { "id": "t16-005", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'lose' -> (sustantivo)", "options": ["loss", "losing only", "lossment"], "answer": "loss", "explanation": "Irregular: loss." },
+    { "id": "t16-006", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'-ity' suele convertir ___ en sustantivos.", "options": ["adjetivos ('able' -> 'ability', 'stable' -> 'stability')", "verbos", "adverbios"], "answer": "adjetivos ('able' -> 'ability', 'stable' -> 'stability')", "explanation": "adjetivo + -ity -> sustantivo abstracto." },
+    { "id": "t16-007", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'happy' ->", "options": ["happiness", "happity", "happiment"], "answer": "happiness", "explanation": "Sufijo -ness: happiness." },
+    { "id": "t16-008", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'friend' -> (sustantivo de relacion)", "options": ["friendship", "friendment", "friendance"], "answer": "friendship", "explanation": "Sufijo -ship: friendship." },
+    { "id": "t16-009", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'refuse' ->", "options": ["refusal", "refusation", "refusement"], "answer": "refusal", "explanation": "Sufijo -al: refusal." },
+    { "id": "t16-010", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'resist' ->", "options": ["resistance", "resistment", "resistion"], "answer": "resistance", "explanation": "Sufijo -ance: resistance." },
+    { "id": "t16-011", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'arrive' ->", "options": ["arrival", "arrivement", "arrivance"], "answer": "arrival", "explanation": "Sufijo -al: arrival." },
+    { "id": "t16-012", "subtopic": "nominalizacion-formacion", "type": "mcq", "prompt": "'grow' -> (sustantivo)", "options": ["growth", "growation", "growment"], "answer": "growth", "explanation": "Irregular: growth." },
+
+    { "id": "t16-013", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "'The plan failed.' -> nominalizado: 'the ___ of the plan'", "options": ["failure", "fail", "failness"], "answer": "failure", "explanation": "fail -> failure." },
+    { "id": "t16-014", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "La nominalizacion hace que un texto sea:", "options": ["mas denso y mas formal / academico", "mas coloquial", "siempre mas largo y vago"], "answer": "mas denso y mas formal / academico", "explanation": "Empaqueta ideas en sustantivos." },
+    { "id": "t16-015", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "'Prices increased, which worried economists.' -> 'The ___ in prices worried economists.'", "options": ["increase", "increasing", "increasement"], "answer": "increase", "explanation": "increase (verbo) = increase (sustantivo)." },
+    { "id": "t16-016", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "Un inconveniente de abusar de la nominalizacion es que puede:", "options": ["ocultar quien hace que (desaparecen los agentes)", "anadir demasiados verbos", "volver el texto informal"], "answer": "ocultar quien hace que (desaparecen los agentes)", "explanation": "Los 'zombie nouns' esconden al sujeto real." },
+    { "id": "t16-017", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "'We reduced costs. This improved profits.' -> 'The ___ in costs improved profits.'", "options": ["reduction", "reducing", "reducement"], "answer": "reduction", "explanation": "reduce -> reduction." },
+    { "id": "t16-018", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "La escritura academica favorece la nominalizacion porque:", "options": ["condensa informacion y suena objetiva", "es mas facil de leer en voz alta", "usa mas pronombres"], "answer": "condensa informacion y suena objetiva", "explanation": "Tono impersonal y denso." },
+    { "id": "t16-019", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "'They discovered a new gene.' -> 'the ___ of a new gene'", "options": ["discovery", "discover", "discovering"], "answer": "discovery", "explanation": "discover -> discovery." },
+    { "id": "t16-020", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "Cual esta mas nominalizada (formal)?", "options": ["The implementation of the policy caused delays.", "When they put the policy in place, things got delayed.", "-"], "answer": "The implementation of the policy caused delays.", "explanation": "'implementation' + sujeto abstracto." },
+    { "id": "t16-021", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "'He was reluctant to sign.' -> 'his ___ to sign'", "options": ["reluctance", "reluctant", "reluctancy"], "answer": "reluctance", "explanation": "reluctant -> reluctance." },
+    { "id": "t16-022", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "Abusar de la nominalizacion produce:", "options": ["un estilo 'zombie', recargado y abstracto", "prosa clara y directa", "dialogo"], "answer": "un estilo 'zombie', recargado y abstracto", "explanation": "Demasiados sustantivos abstractos cansan al lector." },
+    { "id": "t16-023", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "'The committee decided to postpone.' -> 'The committee's ___ to postpone'", "options": ["decision", "deciding", "decisiveness"], "answer": "decision", "explanation": "decide -> decision." },
+    { "id": "t16-024", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "La nominalizacion suele combinarse con:", "options": ["la voz pasiva y sujetos abstractos", "imperativos", "exclamaciones"], "answer": "la voz pasiva y sujetos abstractos", "explanation": "'The reduction was achieved...'." },
+    { "id": "t16-025", "subtopic": "nominalizacion-estilo", "type": "mcq", "prompt": "Buena practica: usar la nominalizacion", "options": ["de forma deliberada, no por defecto", "en cada frase", "nunca"], "answer": "de forma deliberada, no por defecto", "explanation": "Es una herramienta, no un habito automatico." },
+
+    { "id": "t16-026", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "You ___ a decision.", "options": ["make", "do", "take"], "answer": "make", "explanation": "make a decision." },
+    { "id": "t16-027", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "You ___ research.", "options": ["do", "make", "take"], "answer": "do", "explanation": "do research / carry out research." },
+    { "id": "t16-028", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "The government must ___ action.", "options": ["take", "make", "do"], "answer": "take", "explanation": "take action." },
+    { "id": "t16-029", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "The study ___ an important conclusion.", "options": ["reached / drew", "made", "did"], "answer": "reached / drew", "explanation": "reach / draw a conclusion." },
+    { "id": "t16-030", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "Climate change ___ a serious threat.", "options": ["poses", "makes", "does"], "answer": "poses", "explanation": "pose a threat." },
+    { "id": "t16-031", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "The campaign aims to ___ awareness.", "options": ["raise", "rise", "make"], "answer": "raise", "explanation": "raise awareness (raise es transitivo)." },
+    { "id": "t16-032", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "Supply must ___ demand.", "options": ["meet", "reach", "take"], "answer": "meet", "explanation": "meet demand / a target / a deadline." },
+    { "id": "t16-033", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "They ___ a strong case for reform.", "options": ["made", "did", "took"], "answer": "made", "explanation": "make a case (for something)." },
+    { "id": "t16-034", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "He ___ an effort to be polite.", "options": ["made", "did", "took"], "answer": "made", "explanation": "make an effort." },
+    { "id": "t16-035", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "The report ___ several recommendations.", "options": ["makes / puts forward", "does", "takes"], "answer": "makes / puts forward", "explanation": "make / put forward recommendations." },
+    { "id": "t16-036", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "'do' vs 'make': you ___ your homework and ___ a mistake.", "options": ["do / make", "make / do", "take / do"], "answer": "do / make", "explanation": "do homework; make a mistake." },
+    { "id": "t16-037", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "She ___ a fortune in property.", "options": ["made", "did", "took"], "answer": "made", "explanation": "make a fortune / make money." },
+    { "id": "t16-038", "subtopic": "colocaciones-verbo-nombre", "type": "mcq", "prompt": "The new law ___ into force next month.", "options": ["comes", "makes", "takes"], "answer": "comes", "explanation": "come into force / into effect." },
+
+    { "id": "t16-039", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'a ___ smoker' (alguien que fuma mucho)", "options": ["heavy", "strong", "big"], "answer": "heavy", "explanation": "a heavy smoker / drinker." },
+    { "id": "t16-040", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'___ disappointed' (muy)", "options": ["bitterly", "strongly", "hardly"], "answer": "bitterly", "explanation": "bitterly disappointed." },
+    { "id": "t16-041", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'___ unlikely' (muy improbable)", "options": ["highly", "strongly", "deeply"], "answer": "highly", "explanation": "highly unlikely / likely / probable." },
+    { "id": "t16-042", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'a ___ escape' (a punto de no lograrlo)", "options": ["narrow", "thin", "short"], "answer": "narrow", "explanation": "a narrow escape." },
+    { "id": "t16-043", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'___ concerned' (muy preocupado)", "options": ["deeply", "highly", "widely"], "answer": "deeply", "explanation": "deeply concerned / moved / rooted." },
+    { "id": "t16-044", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'___ aware' of the risks", "options": ["fully / acutely", "hardly", "strongly"], "answer": "fully / acutely", "explanation": "fully / acutely / keenly aware." },
+    { "id": "t16-045", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'a ___ resemblance' (muy fuerte)", "options": ["striking / strong", "heavy", "narrow"], "answer": "striking / strong", "explanation": "a striking / strong resemblance." },
+    { "id": "t16-046", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'___ mistaken' (completamente)", "options": ["seriously / sadly", "highly", "deeply"], "answer": "seriously / sadly", "explanation": "seriously / sadly mistaken." },
+    { "id": "t16-047", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'___ populated' (mucha gente)", "options": ["densely", "highly", "strongly"], "answer": "densely", "explanation": "densely / sparsely populated." },
+    { "id": "t16-048", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'___ opposed to the plan' (muy en contra)", "options": ["fiercely / strongly", "heavily", "narrowly"], "answer": "fiercely / strongly", "explanation": "fiercely / strongly / bitterly opposed." },
+    { "id": "t16-049", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "Las colocaciones intensificadoras son:", "options": ["bastante fijas - hay que aprender que adverbio va con que adjetivo", "libremente intercambiables", "siempre con 'very'"], "answer": "bastante fijas - hay que aprender que adverbio va con que adjetivo", "explanation": "'highly unlikely' si; 'deeply unlikely' no." },
+    { "id": "t16-050", "subtopic": "colocaciones-intensificadoras", "type": "mcq", "prompt": "'It's ___ raining' (con fuerza) - el adverbio es:", "options": ["heavily", "strongly", "highly"], "answer": "heavily", "explanation": "rain heavily (o 'It's pouring')." },
+
+    { "id": "t16-051", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'The plane took off.' Aqui 'take off' significa:", "options": ["despegar (literal)", "quitarse ropa", "triunfar"], "answer": "despegar (literal)", "explanation": "Sentido literal del phrasal verb." },
+    { "id": "t16-052", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'Her career really took off.' Aqui 'take off' significa:", "options": ["despego / triunfo", "abandono el suelo", "imito a alguien"], "answer": "despego / triunfo", "explanation": "Sentido idiomatico de 'take off'." },
+    { "id": "t16-053", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "Muchos phrasal verbs son:", "options": ["polisemicos: una forma, varios significados", "siempre literales", "siempre idiomaticos"], "answer": "polisemicos: una forma, varios significados", "explanation": "'take off' tiene 4+ sentidos." },
+    { "id": "t16-054", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'He takes after his mother.' 'take after' =", "options": ["se parece a", "persigue a", "cuida de"], "answer": "se parece a", "explanation": "take after = parecerse a un familiar." },
+    { "id": "t16-055", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'Please carry on.' 'carry on' =", "options": ["continuar", "transportar", "discutir"], "answer": "continuar", "explanation": "carry on = continue." },
+    { "id": "t16-056", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'The deal fell through.' 'fall through' =", "options": ["no llego a realizarse", "se derrumbo fisicamente", "se cayo al suelo"], "answer": "no llego a realizarse", "explanation": "fall through = fracasar (un plan)." },
+    { "id": "t16-057", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'I can't make out the sign.' 'make out' =", "options": ["distinguir / entender con dificultad", "inventar", "besarse"], "answer": "distinguir / entender con dificultad", "explanation": "make out = discernir." },
+    { "id": "t16-058", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'run into an old friend' =", "options": ["encontrarse por casualidad", "chocar con", "escapar de"], "answer": "encontrarse por casualidad", "explanation": "run into someone = topar con alguien." },
+    { "id": "t16-059", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'run into problems' =", "options": ["encontrarse con / tropezar con", "golpear fisicamente", "resolver"], "answer": "encontrarse con / tropezar con", "explanation": "run into problems = topar con dificultades." },
+    { "id": "t16-060", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'The meeting was put off.' 'put off' =", "options": ["aplazada", "colocada en el suelo", "desagradable"], "answer": "aplazada", "explanation": "put off (a meeting) = postpone." },
+    { "id": "t16-061", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'The smell put me off my food.' 'put off' =", "options": ["me quito las ganas", "lo aplazo", "lo coloco"], "answer": "me quito las ganas", "explanation": "put someone off (something) = repugnar / desanimar." },
+    { "id": "t16-062", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "El significado de un phrasal verb idiomatico:", "options": ["no se deduce de sus partes (verbo + particula)", "es exactamente la suma de las partes", "es siempre literal"], "answer": "no se deduce de sus partes (verbo + particula)", "explanation": "Hay que aprenderlo como una unidad." },
+    { "id": "t16-063", "subtopic": "phrasal-literal-idiomatico", "type": "mcq", "prompt": "'come across as arrogant' =", "options": ["dar la impresion de ser", "cruzar una calle", "encontrar por casualidad"], "answer": "dar la impresion de ser", "explanation": "come across as = parecer / transmitir." },
+
+    { "id": "t16-064", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'Turn ___.' (la luz) - con un pronombre:", "options": ["turn it off", "turn off it", "off turn it"], "answer": "turn it off", "explanation": "Con pronombre, va en medio." },
+    { "id": "t16-065", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "Con un objeto NOMBRE, un phrasal verb separable permite:", "options": ["'turn off the light' O 'turn the light off'", "solo 'turn off the light'", "solo 'turn the light off'"], "answer": "'turn off the light' O 'turn the light off'", "explanation": "Con nombre, ambas posiciones valen." },
+    { "id": "t16-066", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "Con un objeto PRONOMBRE, un phrasal verb separable exige:", "options": ["el pronombre en medio ('turn it off')", "el pronombre tras la particula ('turn off it')", "cualquiera"], "answer": "el pronombre en medio ('turn it off')", "explanation": "Nunca 'turn off it'." },
+    { "id": "t16-067", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'look after the children' - es 'look after' separable?", "options": ["No, es inseparable ('look after them', no 'look them after')", "Si", "-"], "answer": "No, es inseparable ('look after them', no 'look them after')", "explanation": "Verbo y particula no se separan." },
+    { "id": "t16-068", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "Los phrasal verbs de 3 partes (p. ej. 'put up with') son:", "options": ["siempre inseparables ('put up with it')", "separables", "de 2 partes"], "answer": "siempre inseparables ('put up with it')", "explanation": "El objeto va detras de la ultima particula." },
+    { "id": "t16-069", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'I can't put up ___ this noise.'", "options": ["with", "-", "up"], "answer": "with", "explanation": "put up with = tolerar." },
+    { "id": "t16-070", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'She looked the word ___ in the dictionary.'", "options": ["up", "after", "into"], "answer": "up", "explanation": "look something up = buscarlo (en una lista/diccionario)." },
+    { "id": "t16-071", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'He got ___ his illness.' (se recupero - inseparable)", "options": ["over", "up", "off"], "answer": "over", "explanation": "get over something = recuperarse de." },
+    { "id": "t16-072", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'They called ___ the wedding.' (la cancelaron)", "options": ["off", "up", "on"], "answer": "off", "explanation": "call something off = cancelar." },
+    { "id": "t16-073", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'Call it off' o 'Call off it'?", "options": ["Call it off", "Call off it", "Las dos"], "answer": "Call it off", "explanation": "'call off' es separable: el pronombre va en medio." },
+    { "id": "t16-074", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "Los phrasal verbs inseparables mantienen verbo + particula:", "options": ["juntos, delante del objeto", "separados alrededor del objeto", "en cualquier orden"], "answer": "juntos, delante del objeto", "explanation": "'look after them', 'get over it'." },
+    { "id": "t16-075", "subtopic": "phrasal-separables", "type": "mcq", "prompt": "'come up with a plan' ('come up with') es:", "options": ["un phrasal verb de 3 partes inseparable", "separable", "literal"], "answer": "un phrasal verb de 3 partes inseparable", "explanation": "come up with something = idear / proponer." },
+
+    { "id": "t16-076", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'put off' (una reunion):", "options": ["postpone", "delay it a bit", "hold off"], "answer": "postpone", "explanation": "put off -> postpone." },
+    { "id": "t16-077", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'look into':", "options": ["investigate", "check out", "see about"], "answer": "investigate", "explanation": "look into -> investigate." },
+    { "id": "t16-078", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'give up' (un plan):", "options": ["abandon", "quit", "drop"], "answer": "abandon", "explanation": "give up -> abandon." },
+    { "id": "t16-079", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'find out':", "options": ["ascertain / discover", "dig up", "suss out"], "answer": "ascertain / discover", "explanation": "find out -> ascertain / discover / establish." },
+    { "id": "t16-080", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'set up' (una empresa):", "options": ["establish", "start up", "get going"], "answer": "establish", "explanation": "set up -> establish / found." },
+    { "id": "t16-081", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'go up' (los precios):", "options": ["rise / increase", "shoot up", "climb"], "answer": "rise / increase", "explanation": "go up -> rise / increase." },
+    { "id": "t16-082", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'cut down on':", "options": ["reduce", "slash", "trim"], "answer": "reduce", "explanation": "cut down on -> reduce." },
+    { "id": "t16-083", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Los phrasal verbs suelen ser:", "options": ["mas informales / conversacionales que sus equivalentes latinos", "siempre mas formales", "identicos en registro"], "answer": "mas informales / conversacionales que sus equivalentes latinos", "explanation": "Por eso la escritura formal prefiere el verbo latino." },
+    { "id": "t16-084", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "En un ensayo academico preferirias:", "options": ["'The results demonstrate...' antes que 'The results show up...'", "'show up'", "-"], "answer": "'The results demonstrate...' antes que 'The results show up...'", "explanation": "Verbo latino en registro academico." },
+    { "id": "t16-085", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'bring about':", "options": ["cause / lead to", "kick off", "spark off"], "answer": "cause / lead to", "explanation": "bring about -> cause / bring about change." },
+    { "id": "t16-086", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Equivalente formal de 'point out':", "options": ["indicate / note", "flag up", "bring up"], "answer": "indicate / note", "explanation": "point out -> indicate / note / observe." },
+    { "id": "t16-087", "subtopic": "phrasal-registro", "type": "mcq", "prompt": "Algunos phrasal verbs NO tienen equivalente de una sola palabra, p. ej.:", "options": ["'get on with someone', 'put up with'", "'postpone', 'investigate'", "-"], "answer": "'get on with someone', 'put up with'", "explanation": "En esos casos el phrasal es insustituible." },
+
+    { "id": "t16-088", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "Elige la colocacion: 'The country ___ rapid economic growth.'", "options": ["is experiencing / undergoing", "is doing", "is making"], "answer": "is experiencing / undergoing", "explanation": "experience / undergo growth / change." },
+    { "id": "t16-089", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'The evidence ___ doubt on the theory.'", "options": ["casts", "throws away", "makes"], "answer": "casts", "explanation": "cast doubt on something." },
+    { "id": "t16-090", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'a ___ difference' (muy grande)", "options": ["vast / considerable", "heavy", "narrow"], "answer": "vast / considerable", "explanation": "a vast / considerable / marked difference." },
+    { "id": "t16-091", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "Nominaliza: 'The system was implemented, which reduced errors.' -> 'The ___ of the system reduced errors.'", "options": ["implementation", "implementing", "implement"], "answer": "implementation", "explanation": "implement -> implementation." },
+    { "id": "t16-092", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'She ___ a promise.' (no la cumplio)", "options": ["broke", "did", "made"], "answer": "broke", "explanation": "break a promise; make a promise; keep a promise." },
+    { "id": "t16-093", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "Reescritura formal de 'We need to look into this':", "options": ["We need to investigate this.", "We need to check this out.", "-"], "answer": "We need to investigate this.", "explanation": "look into -> investigate (registro formal)." },
+    { "id": "t16-094", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'take it off' o 'take off it': cual es correcta con un pronombre?", "options": ["take it off", "take off it", "las dos"], "answer": "take it off", "explanation": "'take off' es separable: pronombre en medio." },
+    { "id": "t16-095", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'I can't ___ his constant complaining.' (tolerar)", "options": ["put up with", "put off", "put down"], "answer": "put up with", "explanation": "put up with = soportar / tolerar." },
+    { "id": "t16-096", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'___ a distinction between X and Y'", "options": ["draw / make", "do", "take"], "answer": "draw / make", "explanation": "draw / make a distinction." },
+    { "id": "t16-097", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'The plan ___ several stages.' (consta de)", "options": ["involves / comprises", "makes", "does"], "answer": "involves / comprises", "explanation": "involve / comprise / consist of." },
+    { "id": "t16-098", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'deeply' colocaciona con:", "options": ["'concerned', 'moved', 'rooted'", "'raining', 'populated'", "'unlikely', 'likely'"], "answer": "'concerned', 'moved', 'rooted'", "explanation": "deeply + emociones / arraigo." },
+    { "id": "t16-099", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "'highly' colocaciona con:", "options": ["'unlikely', 'skilled', 'controversial'", "'sorry', 'raining'", "'asleep'"], "answer": "'unlikely', 'skilled', 'controversial'", "explanation": "highly + probabilidad / cualidad valorada." },
+    { "id": "t16-100", "subtopic": "contraste-lexico-c2", "type": "mcq", "prompt": "En C2, la lexis precisa significa:", "options": ["elegir la colocacion exacta y el registro adecuado", "usar palabras raras porque si", "preferir siempre los phrasal verbs"], "answer": "elegir la colocacion exacta y el registro adecuado", "explanation": "La adecuacion importa mas que la rareza." }
+  ]
+}

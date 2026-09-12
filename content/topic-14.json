@@ -1,0 +1,235 @@
+{
+  "id": 14,
+  "slug": "subjuntivo-y-registro-formal",
+  "level": "C2",
+  "title": "Subjuntivo y registro formal",
+  "lesson": {
+    "intro": "El <strong>subjuntivo</strong> ingles sobrevive sobre todo en dos sitios: tras verbos y adjetivos de <em>peticion / importancia</em> (<code>I suggest that he <u>be</u>...</code>, <code>It is essential that it <u>be</u>...</code>) y en formulas fijas (<em>be that as it may</em>). Junto a el, este tema repasa como subir el <strong>registro</strong>: lexico latino, nominalizacion, pasiva impersonal y cautela (hedging).",
+    "sections": [
+      {
+        "subtopic": "subjuntivo-mandato",
+        "heading": "1 - Subjuntivo mandativo",
+        "body": "<p>Tras verbos de peticion, recomendacion o exigencia (<em>suggest, recommend, insist, demand, require, propose, request, ask, order</em>) + <code>that</code> + sujeto + <strong>verbo en forma base</strong>, para todas las personas y tiempos.</p><p>Negativa: <code>that he <u>not</u> do...</code> (sin <em>do not</em>). Es mas frecuente en ingles americano.</p>",
+        "examples": [
+          "I suggest that he <strong>be</strong> more careful.",
+          "They demanded that the CEO <strong>resign</strong>.",
+          "We ask that visitors <strong>not</strong> smoke.",
+          "The judge ordered that the documents <strong>be</strong> released."
+        ]
+      },
+      {
+        "subtopic": "subjuntivo-adjetivos",
+        "heading": "2 - Subjuntivo tras adjetivos",
+        "body": "<p>Con adjetivos de necesidad o importancia (<em>essential, vital, important, imperative, crucial, necessary, advisable</em>) en la estructura <code>It + be + adjetivo + that + sujeto + verbo base</code>.</p>",
+        "examples": [
+          "It is essential that every form <strong>be</strong> complete.",
+          "It is vital that he <strong>meet</strong> the deadline.",
+          "It is imperative that nothing <strong>be</strong> overlooked.",
+          "It is crucial that the report <strong>be</strong> submitted on time."
+        ]
+      },
+      {
+        "subtopic": "subjuntivo-should",
+        "heading": "3 - La alternativa con 'should'",
+        "body": "<p>En ingles britanico es habitual usar <code>should + base</code> en lugar del subjuntivo puro: <em>I suggest that he <u>should</u> go</em>.</p><p>En registro informal tambien se dice simplemente <em>I suggest that he <u>goes</u> / I suggest he goes</em>. Aqui <em>should</em> <strong>no</strong> significa 'consejo': es solo un marcador.</p>",
+        "examples": [
+          "It is essential that she <strong>should be</strong> present. (BrE)",
+          "I suggest that he <strong>go</strong> now. (AmE formal)",
+          "I suggest he <strong>goes</strong> now. (informal)",
+          "They insisted that we <strong>should stay</strong> for dinner."
+        ]
+      },
+      {
+        "subtopic": "subjuntivo-formulaico",
+        "heading": "4 - Subjuntivo fosilizado",
+        "body": "<p>Expresiones fijas donde el subjuntivo ha quedado \"congelado\":</p><ul><li><em>God <strong>save</strong> the Queen</em>; <em>Long <strong>live</strong> the King</em></li><li><em><strong>Be</strong> that as it may</em> (= aun asi)</li><li><em><strong>Come</strong> what may</em> (= pase lo que pase)</li><li><em>Suffice it <strong>to</strong> say</em> (= baste decir)</li><li><em>Far <strong>be</strong> it from me to...</em> &nbsp; <em>If need <strong>be</strong></em> &nbsp; <em>So <strong>be</strong> it</em></li></ul>",
+        "examples": [
+          "<strong>Be that as it may</strong>, we must proceed.",
+          "<strong>Come what may</strong>, I'll be there.",
+          "<strong>If need be</strong>, we can meet on Sunday.",
+          "<strong>Suffice it to say</strong>, it was a disaster."
+        ]
+      },
+      {
+        "subtopic": "were-subjuntivo",
+        "heading": "5 - 'were' subjuntivo",
+        "body": "<p>Se usa <code>were</code> para <strong>todas las personas</strong> en situaciones hipoteticas o irreales: <em>If I were you; I wish I were; as if / as though + were; Suppose / Imagine + were</em>.</p><p><code>were to + infinitivo</code> anade un matiz mas remoto o tentativo. En habla informal se oye <em>was</em>, pero la escritura formal prefiere <em>were</em>.</p>",
+        "examples": [
+          "If I <strong>were</strong> you, I'd take the job.",
+          "I wish I <strong>were</strong> there.",
+          "He acts as if he <strong>were</strong> in charge.",
+          "If I <strong>were to</strong> accept, everything would change."
+        ]
+      },
+      {
+        "subtopic": "registro-formal-lexico",
+        "heading": "6 - Lexico formal",
+        "body": "<p>El registro formal prefiere <strong>verbos de origen latino</strong> a los phrasal verbs y coloquialismos: <em>obtain</em> (get), <em>require</em> (need), <em>commence</em> (start), <em>request</em> (ask for), <em>assist</em> (help), <em>purchase</em> (buy), <em>enquire</em> (ask), <em>ascertain / establish</em> (find out), <em>approximately</em> (about), <em>sufficient</em> (enough).</p><p>Evita contracciones (<em>do not, it is</em>). Usa la <strong>nominalizacion</strong> (<em>decide &rarr; decision</em>, <em>reject &rarr; rejection</em>).</p>",
+        "examples": [
+          "We <strong>require</strong> your identification. (need)",
+          "The meeting will <strong>commence</strong> at 10. (start)",
+          "Please <strong>assist</strong> the new members. (help)",
+          "The committee's <strong>rejection</strong> of the proposal was final."
+        ]
+      },
+      {
+        "subtopic": "registro-formal-estructuras",
+        "heading": "7 - Estructuras formales",
+        "body": "<ul><li><strong>Pasiva impersonal</strong> para informar: <em>It is said / believed / understood / thought that...</em>; <em>He is said to be...</em></li><li><strong>Hedging</strong> (cautela): <em>It would appear that...; The evidence suggests that...; may / might / seem</em>.</li><li><em>whom</em> tras preposicion (<em>to whom, for whom</em>).</li><li><em>shall</em> de obligacion en contratos (<em>The tenant shall pay...</em>).</li><li>Conectores cultos: <em>consequently, hence, thus, moreover, notwithstanding</em>.</li></ul>",
+        "examples": [
+          "<strong>It is believed that</strong> the plan will fail.",
+          "He <strong>is thought to be</strong> a genius.",
+          "<strong>It would appear that</strong> there has been an error.",
+          "The person <strong>to whom</strong> I wrote has not replied."
+        ]
+      },
+      {
+        "subtopic": "contraste-subjuntivo-registro",
+        "heading": "8 - Elegir la forma y el registro",
+        "body": "<p>Tras <em>suggest / recommend / insist / demand + that</em>: verbo en <strong>forma base</strong> (AmE), o <code>+ should</code> (BrE), o forma normal (informal).</p><p>Tras <em>It is essential / vital / imperative that</em>: forma base.</p><p>En hipotesis: <code>were</code> para todas las personas.</p><p>Para subir el registro: quita contracciones, cambia phrasal verbs por verbos latinos, usa <em>It is + participio + that</em> y conectores cultos.</p>",
+        "examples": [
+          "I suggest that he <strong>go</strong> now. (formal) / I suggest he <strong>goes</strong>. (informal)",
+          "If I <strong>were</strong> you... (formal) / If I <strong>was</strong> you... (informal)",
+          "I wish to <strong>obtain</strong>... (formal) / I want to <strong>get</strong>... (informal)"
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Registro informal -> formal",
+      "headers": ["Informal", "Formal"],
+      "rows": [
+        ["I want to <strong>get</strong> a copy.", "I wish to <strong>obtain</strong> a copy."],
+        ["We <strong>need</strong> your ID.", "We <strong>require</strong> your ID."],
+        ["The meeting <strong>starts</strong> at 10.", "The meeting <strong>commences</strong> at 10."],
+        ["<strong>Everyone knows</strong> that...", "<strong>It is widely acknowledged</strong> that..."],
+        ["I suggest he <strong>goes</strong> now.", "I suggest that he <strong>go</strong> now."],
+        ["The person <strong>I wrote to</strong>.", "The person <strong>to whom I wrote</strong>."],
+        ["<strong>Maybe</strong> there's a mistake.", "<strong>It would appear that</strong> there is an error."]
+      ]
+    },
+    "mistakes": [
+      "NO: I suggest that he <em>goes</em> to hospital. (AmE formal)  ->  SI: I suggest that he <strong>go</strong> to hospital.",
+      "NO: It is essential that everyone <em>is</em> informed.  ->  SI: It is essential that everyone <strong>be</strong> informed.",
+      "NO: We ask that visitors <em>do not</em> smoke.  ->  SI: We ask that visitors <strong>not</strong> smoke.",
+      "NO: If I <em>was</em> you... (escritura formal)  ->  SI: If I <strong>were</strong> you...",
+      "NO: aqui 'should' significa 'ought to'.  ->  Cuidado: aqui <strong>'should'</strong> es solo un marcador de subjuntivo, no un consejo.",
+      "NO: The person <em>to who</em> I spoke.  ->  SI: The person <strong>to whom</strong> I spoke.",
+      "NO: <em>Be that as it is</em>, we must go on.  ->  SI: <strong>Be that as it may</strong>, we must go on."
+    ],
+    "sources": [
+      { "label": "Cambridge Dictionary Grammar - The subjunctive", "url": "https://dictionary.cambridge.org/grammar/british-grammar/the-subjunctive" },
+      { "label": "British Council LearnEnglish - The subjunctive", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/subjunctive" },
+      { "label": "British Council LearnEnglish - Formal and informal language", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/formal-and-informal-language" },
+      { "label": "Test-English - The subjunctive (C1-C2)", "url": "https://test-english.com/grammar-points/c1/the-subjunctive/" }
+    ]
+  },
+  "questions": [
+    { "id": "t14-001", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "I suggest that he ___ more careful.", "options": ["be", "is", "was"], "answer": "be", "explanation": "Subjuntivo mandativo: verbo en forma base." },
+    { "id": "t14-002", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "El subjuntivo mandativo usa:", "options": ["la forma base del verbo para todas las personas", "la forma -s para he/she/it", "la forma de pasado"], "answer": "la forma base del verbo para todas las personas", "explanation": "'that he go', 'that she be', 'that they take'." },
+    { "id": "t14-003", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "She insisted that I ___ present at the meeting.", "options": ["be", "was", "am"], "answer": "be", "explanation": "insist that + sujeto + forma base." },
+    { "id": "t14-004", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "The board demanded that the CEO ___.", "options": ["resign", "resigns", "resigned"], "answer": "resign", "explanation": "demand that + sujeto + forma base (sin -s)." },
+    { "id": "t14-005", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "Verbos que activan el subjuntivo:", "options": ["suggest, recommend, insist, demand, require, propose, request, ask", "think, know, say", "-"], "answer": "suggest, recommend, insist, demand, require, propose, request, ask", "explanation": "Verbos de peticion / recomendacion / exigencia." },
+    { "id": "t14-006", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "Negativa: 'We ask that visitors ___ smoke.'", "options": ["not", "don't", "aren't"], "answer": "not", "explanation": "'that visitors not smoke' (sin 'do not')." },
+    { "id": "t14-007", "subtopic": "subjuntivo-mandato", "type": "gap", "prompt": "Completa: The judge ordered that the documents ___ (be) released.", "accept": ["be"], "answer": "be", "explanation": "order that + sujeto + be (forma base)." },
+    { "id": "t14-008", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "'He recommended that she ___ a lawyer.'", "options": ["consult", "consults", "consulted"], "answer": "consult", "explanation": "3a persona sin -s en el subjuntivo." },
+    { "id": "t14-009", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "El subjuntivo es mas comun en:", "options": ["ingles americano (el britanico suele usar 'should')", "solo ingles britanico", "ninguno"], "answer": "ingles americano (el britanico suele usar 'should')", "explanation": "AmE lo mantiene mas vivo." },
+    { "id": "t14-010", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "'It was proposed that the meeting ___ postponed.'", "options": ["be", "is", "was"], "answer": "be", "explanation": "propose that + sujeto + be (pasivo subjuntivo)." },
+    { "id": "t14-011", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "'I insist that he ___ me an apology.'", "options": ["owe", "owes", "owed"], "answer": "owe", "explanation": "insist that + he + forma base (owe, no owes)." },
+    { "id": "t14-012", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "Cual es la forma de subjuntivo?", "options": ["I demand that he leave now.", "I demand that he leaves now.", "I demand him to leaving."], "answer": "I demand that he leave now.", "explanation": "that + sujeto + forma base." },
+    { "id": "t14-013", "subtopic": "subjuntivo-mandato", "type": "mcq", "prompt": "El subjuntivo de 'be' con sujeto plural es:", "options": ["be ('...that they be informed')", "are", "were"], "answer": "be ('...that they be informed')", "explanation": "Siempre 'be' en el subjuntivo mandativo." },
+
+    { "id": "t14-014", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "It is essential that every application ___ complete.", "options": ["be", "is", "was"], "answer": "be", "explanation": "It is essential that + sujeto + be." },
+    { "id": "t14-015", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "Adjetivos que activan el subjuntivo:", "options": ["essential, vital, important, imperative, crucial, necessary", "happy, tired, nice", "-"], "answer": "essential, vital, important, imperative, crucial, necessary", "explanation": "Adjetivos de necesidad / importancia." },
+    { "id": "t14-016", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "It is vital that he ___ the deadline.", "options": ["meet", "meets", "met"], "answer": "meet", "explanation": "3a persona sin -s (forma base)." },
+    { "id": "t14-017", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "It is imperative that nothing ___ overlooked.", "options": ["be", "is", "was"], "answer": "be", "explanation": "'that nothing be overlooked' (pasivo subjuntivo)." },
+    { "id": "t14-018", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "'It is important that she ___ told the truth.'", "options": ["be", "is", "was"], "answer": "be", "explanation": "'that she be told' (pasivo subjuntivo)." },
+    { "id": "t14-019", "subtopic": "subjuntivo-adjetivos", "type": "gap", "prompt": "Completa: It is crucial that the report ___ (be) submitted on time.", "accept": ["be"], "answer": "be", "explanation": "It is crucial that + sujeto + be + participio." },
+    { "id": "t14-020", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "'It is necessary that each member ___ a form.'", "options": ["sign", "signs", "signed"], "answer": "sign", "explanation": "3a persona sin -s." },
+    { "id": "t14-021", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "El patron es: It + be + [adjetivo] + that + sujeto + ___.", "options": ["verbo base", "to + infinitivo", "-ing"], "answer": "verbo base", "explanation": "El subjuntivo va en forma base." },
+    { "id": "t14-022", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "Alternativa menos formal: 'It's important ___ everyone to be on time.'", "options": ["for", "that", "-"], "answer": "for", "explanation": "It's important FOR + persona + TO + infinitivo." },
+    { "id": "t14-023", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "'It is advisable that travellers ___ vaccinated.'", "options": ["be", "are", "were"], "answer": "be", "explanation": "'that travellers be vaccinated'." },
+    { "id": "t14-024", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "'It's essential that the door ___ locked at all times.'", "options": ["be", "is", "being"], "answer": "be", "explanation": "'that the door be locked' (pasivo subjuntivo)." },
+    { "id": "t14-025", "subtopic": "subjuntivo-adjetivos", "type": "mcq", "prompt": "Cual es correcta y formal (subjuntivo)?", "options": ["It is vital that he be informed immediately.", "It is vital that him is informed.", "It is vital that he informing."], "answer": "It is vital that he be informed immediately.", "explanation": "that + sujeto + be + participio." },
+
+    { "id": "t14-026", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "Alternativa britanica al subjuntivo: 'I suggest that he ___ go.'", "options": ["should", "would", "must"], "answer": "should", "explanation": "BrE: suggest that + sujeto + should + base." },
+    { "id": "t14-027", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "'It is essential that she ___ be present.' (BrE con 'should')", "options": ["should", "would", "could"], "answer": "should", "explanation": "should + be en registro britanico." },
+    { "id": "t14-028", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "La opcion mas informal es:", "options": ["I suggest (that) he goes.", "I suggest that he should go.", "I suggest that he go."], "answer": "I suggest (that) he goes.", "explanation": "En habla corriente se usa la forma normal del verbo." },
+    { "id": "t14-029", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "'The doctor recommended that I ___ rest.' Cual NO es posible?", "options": ["that I rests", "that I rest", "that I should rest"], "answer": "that I rests", "explanation": "Nunca '-s' en esta estructura." },
+    { "id": "t14-030", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "En 'I insist that he should apologise', el 'should':", "options": ["es solo un marcador de subjuntivo (no significa 'deberia')", "significa 'deberia' / consejo", "expresa una prediccion"], "answer": "es solo un marcador de subjuntivo (no significa 'deberia')", "explanation": "Aqui 'should' es puramente gramatical." },
+    { "id": "t14-031", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "'I demand that this ___ dealt with.' (formal, dos opciones)", "options": ["be / should be", "is / was", "were / would be"], "answer": "be / should be", "explanation": "AmE: 'be'; BrE: 'should be'." },
+    { "id": "t14-032", "subtopic": "subjuntivo-should", "type": "gap", "prompt": "Estilo britanico: 'They insisted that we ___ (should stay) for dinner.'", "accept": ["should stay"], "answer": "should stay", "explanation": "insist that + sujeto + should + base (BrE)." },
+    { "id": "t14-033", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "En el habla cotidiana, la gente suele decir:", "options": ["'She suggested we meet later.' o '...that we met later.'", "'She suggested that we be meeting'", "-"], "answer": "'She suggested we meet later.' o '...that we met later.'", "explanation": "Formas mas naturales y menos marcadas." },
+    { "id": "t14-034", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "'It's important that you ___ on time.' Elige el subjuntivo estilo americano:", "options": ["be", "are", "will be"], "answer": "be", "explanation": "AmE formal: 'that you be on time'." },
+    { "id": "t14-035", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "'should' + base tras estos verbos es habitual en:", "options": ["ingles britanico", "ingles americano", "-"], "answer": "ingles britanico", "explanation": "BrE prefiere 'should' al subjuntivo puro." },
+    { "id": "t14-036", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "'The committee proposes that the rule ___ changed.' (subjuntivo AmE)", "options": ["be", "is", "was"], "answer": "be", "explanation": "propose that + sujeto + be + participio." },
+    { "id": "t14-037", "subtopic": "subjuntivo-should", "type": "mcq", "prompt": "Cuales tres son aceptables con 'suggest'?", "options": ["'that he go' / 'that he should go' / 'that he goes'", "'that he going' / 'that he to go' / 'that he goes'", "-"], "answer": "'that he go' / 'that he should go' / 'that he goes'", "explanation": "Subjuntivo, 'should', y forma normal (informal)." },
+
+    { "id": "t14-038", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'God ___ the Queen.'", "options": ["save", "saves", "saved"], "answer": "save", "explanation": "Subjuntivo fosilizado (deseo)." },
+    { "id": "t14-039", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'Be that as it ___, we must proceed.'", "options": ["may", "is", "was"], "answer": "may", "explanation": "'Be that as it may' = aun asi." },
+    { "id": "t14-040", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'___ what may, I'll be there.'", "options": ["Come", "Comes", "Coming"], "answer": "Come", "explanation": "'Come what may' = pase lo que pase." },
+    { "id": "t14-041", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'Suffice it ___ say, it was a disaster.'", "options": ["to", "that", "-"], "answer": "to", "explanation": "'Suffice it to say' = baste decir." },
+    { "id": "t14-042", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'Far ___ it from me to criticise, but...'", "options": ["be", "is", "was"], "answer": "be", "explanation": "'Far be it from me to...' (formula subjuntiva)." },
+    { "id": "t14-043", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'If need ___, we can meet on Sunday.'", "options": ["be", "is", "were"], "answer": "be", "explanation": "'If need be' = si hiciera falta." },
+    { "id": "t14-044", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "Estas expresiones son:", "options": ["fijas / idiomaticas - el subjuntivo esta 'congelado'", "libremente variables", "jerga moderna"], "answer": "fijas / idiomaticas - el subjuntivo esta 'congelado'", "explanation": "No se conjugan; se aprenden de memoria." },
+    { "id": "t14-045", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'Long ___ the king!'", "options": ["live", "lives", "lived"], "answer": "live", "explanation": "Subjuntivo de deseo fosilizado." },
+    { "id": "t14-046", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'___ it be noted that the meeting began at 9.' (actas formales)", "options": ["Let", "Have", "Do"], "answer": "Let", "explanation": "'Let it be noted...' es la formula." },
+    { "id": "t14-047", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'Heaven ___!' (= espero que no)", "options": ["forbid", "forbids", "forbade"], "answer": "forbid", "explanation": "'Heaven forbid' (subjuntivo fosilizado)." },
+    { "id": "t14-048", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'The powers that ___ have decided.' (= quienes mandan)", "options": ["be", "are", "were"], "answer": "be", "explanation": "'the powers that be' (expresion fija)." },
+    { "id": "t14-049", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'So ___ it.' (= que asi sea)", "options": ["be", "is", "was"], "answer": "be", "explanation": "'So be it' (subjuntivo fosilizado)." },
+    { "id": "t14-050", "subtopic": "subjuntivo-formulaico", "type": "mcq", "prompt": "'Come rain ___ shine.'", "options": ["or", "and be", "or comes"], "answer": "or", "explanation": "'come rain or shine' (haga el tiempo que haga)." },
+
+    { "id": "t14-051", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'If I ___ you, I'd take the job.'", "options": ["were", "was", "am"], "answer": "were", "explanation": "'If I were you' (subjuntivo con 'were')." },
+    { "id": "t14-052", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "El 'were-subjuntivo' se usa para:", "options": ["situaciones hipoteticas / irreales", "hechos pasados reales", "el futuro"], "answer": "situaciones hipoteticas / irreales", "explanation": "Marca distancia con la realidad." },
+    { "id": "t14-053", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'I wish I ___ taller.'", "options": ["were", "was", "am"], "answer": "were", "explanation": "wish + were (todas las personas)." },
+    { "id": "t14-054", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'He talks as if he ___ the boss.'", "options": ["were", "is", "was"], "answer": "were", "explanation": "as if / as though + were (hipotesis irreal)." },
+    { "id": "t14-055", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'Suppose she ___ to find out?'", "options": ["were", "was", "is"], "answer": "were", "explanation": "'Suppose ... were to ...' (hipotesis remota)." },
+    { "id": "t14-056", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'She looked at me as though I ___ mad.'", "options": ["were", "am", "was"], "answer": "were", "explanation": "as though + were." },
+    { "id": "t14-057", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "En el habla informal se usa a menudo ___ en su lugar.", "options": ["was", "were", "be"], "answer": "was", "explanation": "'If I was you...' es coloquial pero muy extendido." },
+    { "id": "t14-058", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'If it ___ not for you, I'd be lost.'", "options": ["were", "was", "is"], "answer": "were", "explanation": "'If it were not for...' (subjuntivo)." },
+    { "id": "t14-059", "subtopic": "were-subjuntivo", "type": "gap", "prompt": "Completa: 'Imagine you ___ (be) in charge - what would you do?'", "accept": ["were"], "answer": "were", "explanation": "'Imagine you were...' (hipotesis irreal)." },
+    { "id": "t14-060", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'were to' + infinitivo sugiere:", "options": ["una hipotesis mas remota / tentativa", "certeza", "el pasado"], "answer": "una hipotesis mas remota / tentativa", "explanation": "'If I were to...' suena mas hipotetico que 'If I ...ed'." },
+    { "id": "t14-061", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'If I ___ to win, I'd give it all away.'", "options": ["were", "was", "am"], "answer": "were", "explanation": "'If I were to win...' (hipotesis remota)." },
+    { "id": "t14-062", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "'It's not as if he ___ a child.'", "options": ["were", "is", "was"], "answer": "were", "explanation": "'as if / as though + were' en hipotesis irreales." },
+    { "id": "t14-063", "subtopic": "were-subjuntivo", "type": "mcq", "prompt": "La escritura formal prefiere ___ en todos estos casos.", "options": ["were", "was", "be"], "answer": "were", "explanation": "'was' se reserva para el habla informal." },
+
+    { "id": "t14-064", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'get' (un documento / permiso):", "options": ["obtain", "get", "pick up"], "answer": "obtain", "explanation": "'obtain' es el equivalente formal." },
+    { "id": "t14-065", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'need':", "options": ["require", "need badly", "-"], "answer": "require", "explanation": "'require' es mas formal que 'need'." },
+    { "id": "t14-066", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'start' (una reunion / proceso):", "options": ["commence", "kick off", "get going"], "answer": "commence", "explanation": "'commence' es el verbo formal." },
+    { "id": "t14-067", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'ask for':", "options": ["request", "ask for", "put in for"], "answer": "request", "explanation": "'request' sustituye al phrasal 'ask for'." },
+    { "id": "t14-068", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'help':", "options": ["assist", "give a hand", "help out"], "answer": "assist", "explanation": "'assist' es el verbo formal." },
+    { "id": "t14-069", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'buy':", "options": ["purchase", "buy", "pick up"], "answer": "purchase", "explanation": "'purchase' es el equivalente formal." },
+    { "id": "t14-070", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'about' (aproximadamente):", "options": ["approximately", "about", "roughly"], "answer": "approximately", "explanation": "'approximately' es el termino formal." },
+    { "id": "t14-071", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'enough':", "options": ["sufficient", "enough", "plenty"], "answer": "sufficient", "explanation": "'sufficient' sube el registro." },
+    { "id": "t14-072", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "La escritura formal tiende a evitar:", "options": ["las contracciones (don't, it's) y los phrasal verbs", "las frases largas", "la voz pasiva"], "answer": "las contracciones (don't, it's) y los phrasal verbs", "explanation": "Prefiere formas plenas y verbos de origen latino." },
+    { "id": "t14-073", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "'Nominalizacion' significa convertir verbos/adjetivos en:", "options": ["sustantivos ('decide' -> 'decision', 'refuse' -> 'refusal')", "verbos", "adverbios"], "answer": "sustantivos ('decide' -> 'decision', 'refuse' -> 'refusal')", "explanation": "Recurso tipico del estilo formal / academico." },
+    { "id": "t14-074", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Cual suena mas formal?", "options": ["The committee's rejection of the proposal was final.", "The committee said no to the proposal for good.", "-"], "answer": "The committee's rejection of the proposal was final.", "explanation": "Nominalizacion ('rejection') + lexico neutro." },
+    { "id": "t14-075", "subtopic": "registro-formal-lexico", "type": "mcq", "prompt": "Formal para 'find out':", "options": ["ascertain / establish", "find out", "dig up"], "answer": "ascertain / establish", "explanation": "'ascertain' / 'establish' sustituyen al phrasal." },
+
+    { "id": "t14-076", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "Pasiva impersonal: 'People say the plan will fail.' -> 'It ___ that the plan will fail.'", "options": ["is said", "says", "is saying"], "answer": "is said", "explanation": "It is said / believed / thought that..." },
+    { "id": "t14-077", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "'He ___ to be a genius.' (= It is thought that he is)", "options": ["is thought", "thinks", "is thinking"], "answer": "is thought", "explanation": "Sujeto + is thought / said / believed + to + infinitivo." },
+    { "id": "t14-078", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "Hedging: 'It ___ appear that there has been an error.'", "options": ["would", "will", "does"], "answer": "would", "explanation": "'It would appear that...' suaviza la afirmacion." },
+    { "id": "t14-079", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "Pronombre relativo formal (objeto, tras preposicion):", "options": ["whom ('the person to whom I wrote')", "who", "that"], "answer": "whom ('the person to whom I wrote')", "explanation": "preposicion + whom en registro formal." },
+    { "id": "t14-080", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "'shall' en ingles juridico / de contratos expresa:", "options": ["obligacion ('The tenant shall pay rent monthly')", "prediccion futura", "una pregunta"], "answer": "obligacion ('The tenant shall pay rent monthly')", "explanation": "'shall' impone un deber en documentos legales." },
+    { "id": "t14-081", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "Verbo de cita cauto y formal:", "options": ["It is understood that... / It is believed that...", "Everyone knows that...", "-"], "answer": "It is understood that... / It is believed that...", "explanation": "Formulas impersonales prudentes." },
+    { "id": "t14-082", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "'The results, it ___ be noted, were preliminary.'", "options": ["should", "will", "can't"], "answer": "should", "explanation": "'it should be noted' (inciso formal)." },
+    { "id": "t14-083", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "Cual es una afirmacion 'hedged' (prudente)?", "options": ["The evidence suggests that the theory may be flawed.", "The theory is completely wrong.", "-"], "answer": "The evidence suggests that the theory may be flawed.", "explanation": "'suggests' + 'may' matizan la afirmacion." },
+    { "id": "t14-084", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "Conector culto para 'so' / 'therefore':", "options": ["consequently / hence / thus", "so", "and that's why"], "answer": "consequently / hence / thus", "explanation": "Conectores de registro alto." },
+    { "id": "t14-085", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "'Not until the report was published ___ the scale of the problem clear.' (inversion formal)", "options": ["did ... become", "became", "was become"], "answer": "did ... become", "explanation": "'Not until...' + did + sujeto + base." },
+    { "id": "t14-086", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "Apertura formal para una carta de solicitud:", "options": ["I am writing to enquire whether...", "Hi, quick question...", "-"], "answer": "I am writing to enquire whether...", "explanation": "Formula de apertura formal." },
+    { "id": "t14-087", "subtopic": "registro-formal-estructuras", "type": "mcq", "prompt": "El registro formal suele usar mas:", "options": ["la pasiva y el 'it' impersonal", "'you' e 'I' constantemente", "signos de exclamacion"], "answer": "la pasiva y el 'it' impersonal", "explanation": "Estructuras impersonales -> tono objetivo." },
+
+    { "id": "t14-088", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "'The manager insists that everyone ___ on time.' (subjuntivo)", "options": ["be", "is", "are"], "answer": "be", "explanation": "insist that + sujeto + forma base." },
+    { "id": "t14-089", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "'It is essential that this ___ kept confidential.'", "options": ["be", "is", "was"], "answer": "be", "explanation": "'that this be kept confidential'." },
+    { "id": "t14-090", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "Version cotidiana de 'I recommend that he see a doctor':", "options": ["I think he should see a doctor.", "I recommend that he sees a doctor.", "ambas valen"], "answer": "ambas valen", "explanation": "En habla informal se aceptan 'should' o la forma normal." },
+    { "id": "t14-091", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "'If I ___ you, I wouldn't sign that.'", "options": ["were", "was", "am"], "answer": "were", "explanation": "'If I were you' (subjuntivo)." },
+    { "id": "t14-092", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "Palabra formal: 'We need to ___ more data.' (= get)", "options": ["obtain", "get hold of", "-"], "answer": "obtain", "explanation": "'obtain' sube el registro." },
+    { "id": "t14-093", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "Detecta el error (se quiere subjuntivo estilo AmE): 'I suggest that he goes to the doctor immediately.'", "options": ["'that he go' (forma base del subjuntivo)", "'that he going'", "esta bien en cualquier registro"], "answer": "'that he go' (forma base del subjuntivo)", "explanation": "El subjuntivo mandativo no lleva '-s'." },
+    { "id": "t14-094", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "Detecta el error: 'It is vital that the system is not be overloaded.'", "options": ["solo 'be': 'that the system not be overloaded'", "'is not being'", "esta bien"], "answer": "solo 'be': 'that the system not be overloaded'", "explanation": "Negativa del subjuntivo: 'not' + forma base, sin 'is'." },
+    { "id": "t14-095", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "'Be that as it may' significa:", "options": ["'aun asi / no obstante'", "'que asi sea'", "'quiza'"], "answer": "'aun asi / no obstante'", "explanation": "Introduce una concesion." },
+    { "id": "t14-096", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "Cual es la mas formal?", "options": ["Should you require assistance, please contact us.", "If you need help, get in touch.", "-"], "answer": "Should you require assistance, please contact us.", "explanation": "Inversion condicional + lexico latino." },
+    { "id": "t14-097", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "'It ___ that the negotiations have collapsed.' (informe prudente)", "options": ["would appear", "appears clearly", "is appear"], "answer": "would appear", "explanation": "'It would appear that...' matiza la afirmacion." },
+    { "id": "t14-098", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "El subjuntivo tras 'suggest/recommend/insist' mantiene el verbo:", "options": ["en forma base (sin -s, sin tiempo)", "en presente con -s", "en pasado"], "answer": "en forma base (sin -s, sin tiempo)", "explanation": "'that he go', 'that she be'." },
+    { "id": "t14-099", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "Formal para 'The meeting will start at 10':", "options": ["The meeting will commence at 10.", "The meeting kicks off at 10.", "-"], "answer": "The meeting will commence at 10.", "explanation": "'commence' es el verbo formal." },
+    { "id": "t14-100", "subtopic": "contraste-subjuntivo-registro", "type": "mcq", "prompt": "En ingles formal conviene:", "options": ["evitar contracciones, preferir verbos latinos y usar estructuras impersonales", "usar muchos phrasal verbs y jerga", "-"], "answer": "evitar contracciones, preferir verbos latinos y usar estructuras impersonales", "explanation": "Son las senas del registro formal." }
+  ]
+}

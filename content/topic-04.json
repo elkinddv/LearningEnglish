@@ -1,0 +1,235 @@
+{
+  "id": 4,
+  "slug": "modales-b1",
+  "level": "B1",
+  "title": "Modales de habilidad, permiso y obligacion",
+  "lesson": {
+    "intro": "Los modales anaden un matiz al verbo: <strong>puedo, debo, deberia, se permite...</strong>. Reglas comunes: van seguidos del verbo en <strong>forma base</strong> (sin <em>to</em>, salvo <em>ought to / have to / be able to</em>), no llevan <code>-s</code> en 3a persona y forman preguntas por inversion. El error estrella de B1: confundir <em>mustn't</em> (prohibido) con <em>don't have to</em> (no hace falta).",
+    "sections": [
+      {
+        "subtopic": "habilidad-can-could",
+        "heading": "1 - Habilidad: can / could / be able to",
+        "body": "<p><code>can</code> = habilidad en presente. <code>could</code> = habilidad <strong>general</strong> en el pasado.</p><p><code>be able to</code> se usa donde <em>can</em> no llega: infinitivo, futuro (<em>will be able to</em>), perfect (<em>have been able to</em>), tras otro verbo (<em>I'd love to be able to...</em>).</p><p>Para un <strong>exito puntual</strong> en el pasado (una vez, con esfuerzo) se usa <code>was/were able to</code> o <code>managed to</code>, no <em>could</em>. En negativo, <code>couldn't</code> si vale para casos puntuales.</p>",
+        "examples": [
+          "She <strong>can</strong> drive.",
+          "I <strong>could</strong> read at four.",
+          "You <strong>won't be able to</strong> park there.",
+          "The lift was broken but we <strong>managed to</strong> carry it upstairs."
+        ]
+      },
+      {
+        "subtopic": "permiso",
+        "heading": "2 - Permiso: can / could / may / be allowed to",
+        "body": "<p><strong>Pedir permiso:</strong> <code>Can I...?</code> (informal), <code>Could I...?</code> (mas educado), <code>May I...?</code> (formal).</p><p><strong>Dar / negar:</strong> You can / You can't.</p><p><strong>Permiso por norma o regla:</strong> <code>be allowed to</code> (Students are allowed to...; You're not allowed to...). En pasado: <code>was/were allowed to</code>. En avisos formales: <code>may not</code> / <code>must not</code>.</p>",
+        "examples": [
+          "<strong>Can I</strong> sit here?",
+          "<strong>Could I</strong> leave early today?",
+          "<strong>May I</strong> come in?",
+          "Visitors <strong>are not allowed to</strong> take photos."
+        ]
+      },
+      {
+        "subtopic": "peticiones-ofrecimientos",
+        "heading": "3 - Peticiones y ofrecimientos",
+        "body": "<p><strong>Pedir a alguien que haga algo:</strong> <code>Can / Could you...?</code>, <code>Would you...?</code>, <code>Would you mind + -ing?</code></p><p><strong>Ofrecer ayuda o sugerir:</strong> <code>Shall I...?</code> / <code>Shall we...?</code></p><p><strong>Ofrecer algo:</strong> <code>Would you like...?</code></p><p>Todos van seguidos del verbo en forma base (excepto <em>mind</em> + <code>-ing</code>).</p>",
+        "examples": [
+          "<strong>Could you</strong> help me?",
+          "<strong>Would you mind</strong> closing the door?",
+          "<strong>Shall I</strong> carry that?",
+          "<strong>Would you like</strong> some tea?"
+        ]
+      },
+      {
+        "subtopic": "obligacion-must-have-to",
+        "heading": "4 - Obligacion: must / have to",
+        "body": "<p>Los dos expresan obligacion. Matiz: <code>must</code> suele venir <strong>del hablante</strong> o de una regla que este considera importante (avisos: <em>Passengers must...</em>). <code>have to</code> suele venir <strong>de fuera</strong>: una ley, el jefe, las circunstancias.</p><p><em>must</em> no tiene infinitivo, futuro ni pasado: para eso se usa <code>have to / had to / will have to</code>. 3a persona: <code>has to</code>. Preguntas y negativas de <em>have to</em> con <code>do/does/did</code>. Tras <em>must</em> y <em>have to</em>, verbo en forma base.</p>",
+        "examples": [
+          "I <strong>must</strong> call her today.",
+          "She <strong>has to</strong> work weekends.",
+          "<strong>Do</strong> you <strong>have to</strong> wear a suit?",
+          "We <strong>had to</strong> wait an hour."
+        ]
+      },
+      {
+        "subtopic": "prohibicion-ausencia-obligacion",
+        "heading": "5 - mustn't vs don't have to",
+        "body": "<p><strong>No significan lo mismo.</strong></p><ul><li><code>mustn't</code> = esta <strong>PROHIBIDO</strong>: You mustn't park here.</li><li><code>don't have to</code> / <code>don't need to</code> / <code>needn't</code> = <strong>no es necesario</strong>, pero puedes si quieres: You don't have to come.</li></ul><p>Error tipico de B1: usar <em>mustn't</em> para decir \"no hace falta\".</p>",
+        "examples": [
+          "You <strong>mustn't</strong> tell anyone. (es un secreto)",
+          "You <strong>don't have to</strong> tell anyone. (pero puedes)",
+          "We <strong>don't need to</strong> book. (hay sitio de sobra)"
+        ]
+      },
+      {
+        "subtopic": "consejo-should-ought",
+        "heading": "6 - Consejo: should / ought to / had better",
+        "body": "<p><code>should / shouldn't</code> + base = consejo o recomendacion general.</p><p><code>ought to</code> + base = casi igual que <em>should</em>, algo mas formal.</p><p><code>had better</code> ('d better) + base = consejo mas fuerte, con idea de consecuencia si no se hace; negativo: <code>'d better not</code>.</p><p>Consejo o reproche sobre el <strong>pasado</strong>: <code>should have</code> + participio.</p>",
+        "examples": [
+          "You <strong>should</strong> see a doctor.",
+          "You <strong>ought to</strong> apologise.",
+          "We<strong>'d better</strong> leave now.",
+          "You <strong>should have</strong> told me earlier."
+        ]
+      },
+      {
+        "subtopic": "modales-en-pasado",
+        "heading": "7 - Modales en pasado",
+        "body": "<ul><li><strong>Obligacion pasada:</strong> <code>had to</code> (nunca \"musted\").</li><li><strong>Habilidad general pasada:</strong> <code>could</code>; exito puntual: <code>was/were able to</code> / <code>managed to</code>; fracaso: <code>couldn't</code>.</li><li><strong>Permiso pasado:</strong> <code>was/were allowed to</code> (o <em>could</em>).</li><li><strong>Ausencia de obligacion en pasado:</strong> <code>didn't have to</code> / <code>didn't need to</code>.</li><li><strong>Consejo / reproche sobre el pasado:</strong> <code>should have</code> + participio.</li></ul>",
+        "examples": [
+          "I <strong>had to</strong> work late.",
+          "She <strong>managed to</strong> fix it.",
+          "We <strong>weren't allowed to</strong> leave.",
+          "You <strong>didn't have to</strong> pay."
+        ]
+      },
+      {
+        "subtopic": "contraste-modales",
+        "heading": "8 - Elegir el modal correcto",
+        "body": "<p>Preguntate que funcion necesitas: habilidad &rarr; can/could/be able to; permiso &rarr; can/could/may/be allowed to; peticion &rarr; can/could/would you; obligacion &rarr; must/have to; prohibicion &rarr; mustn't/can't/not allowed to; falta de obligacion &rarr; don't have to/needn't; consejo &rarr; should/ought to/'d better.</p><p>Despues elige el tiempo: presente, pasado (had to / could / was allowed to), futuro (will be able to / will have to).</p>",
+        "examples": [
+          "You <strong>can't</strong> smoke here. (prohibicion)",
+          "You <strong>don't have to</strong> come. (opcional)",
+          "You <strong>should</strong> rest. (consejo)",
+          "<strong>Could you</strong> help? (peticion)"
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "must / mustn't / have to / don't have to",
+      "headers": ["Idea", "Forma", "Ejemplo"],
+      "rows": [
+        ["Obligacion (del hablante / aviso)", "must", "You <strong>must</strong> wear a helmet."],
+        ["Obligacion (externa: ley, jefe)", "have to / has to", "She <strong>has to</strong> clock in at 9."],
+        ["Prohibicion", "mustn't / can't", "You <strong>mustn't</strong> smoke here."],
+        ["No es necesario (pero puedes)", "don't have to / needn't", "You <strong>don't have to</strong> dress up."],
+        ["Obligacion en pasado", "had to", "We <strong>had to</strong> queue for hours."],
+        ["Consejo", "should / ought to", "You <strong>should</strong> rest."],
+        ["Consejo fuerte (con consecuencia)", "had better", "You<strong>'d better</strong> hurry."]
+      ]
+    },
+    "mistakes": [
+      "NO: You <em>must to</em> go now.  ->  SI: You <strong>must go</strong> now.",
+      "NO: She <em>musts</em> work.  ->  SI: She <strong>must work</strong>. / She <strong>has to</strong> work.",
+      "NO: You <em>mustn't</em> pay; it's free.  ->  SI: You <strong>don't have to</strong> pay; it's free.",
+      "NO: I <em>can to</em> swim.  ->  SI: I <strong>can swim</strong>.",
+      "NO: Yesterday I <em>must</em> work late.  ->  SI: Yesterday I <strong>had to</strong> work late.",
+      "NO: The door was locked but I <em>could</em> open it.  ->  SI: ... but I <strong>managed to</strong> open it.",
+      "NO: You <em>should to</em> rest.  ->  SI: You <strong>should rest</strong>."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Ability (can / could / be able to)", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/ability" },
+      { "label": "British Council LearnEnglish - Modals and modality", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/modals-and-modality" },
+      { "label": "British Council LearnEnglish - Modal verbs (reference)", "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/modal-verbs" },
+      { "label": "Test-English - Modal verbs of obligation (B1)", "url": "https://test-english.com/grammar-points/b1/modal-verbs-of-obligation/" }
+    ]
+  },
+  "questions": [
+    { "id": "t4-001", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "I ___ swim when I was five.", "options": ["could", "can", "was can"], "answer": "could", "explanation": "Habilidad general en el pasado -> could." },
+    { "id": "t4-002", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "She ___ speak four languages.", "options": ["can", "could", "cans"], "answer": "can", "explanation": "Habilidad presente; can no lleva -s." },
+    { "id": "t4-003", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "Sorry, I ___ come to your party next week.", "options": ["won't be able to", "can't could", "couldn't"], "answer": "won't be able to", "explanation": "Futuro de 'can' -> will/won't be able to." },
+    { "id": "t4-004", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "When I lived in France, I ___ understand the news.", "options": ["could", "can", "am able"], "answer": "could", "explanation": "Habilidad general en el pasado -> could." },
+    { "id": "t4-005", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "The box was heavy but I ___ lift it. (un logro puntual)", "options": ["was able to", "could", "can"], "answer": "was able to", "explanation": "Exito puntual con esfuerzo -> was able to (no 'could')." },
+    { "id": "t4-006", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "I've been very busy. I haven't ___ finish the report.", "options": ["been able to", "could", "can"], "answer": "been able to", "explanation": "Perfect de 'can' -> have been able to." },
+    { "id": "t4-007", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "___ you swim?", "options": ["Can", "Do", "Are"], "answer": "Can", "explanation": "Pregunta de habilidad: Can + sujeto + base." },
+    { "id": "t4-008", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "He ___ drive, but he doesn't have a car.", "options": ["can", "could", "is can"], "answer": "can", "explanation": "Habilidad presente -> can." },
+    { "id": "t4-009", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "You ___ see the mountains from here on a clear day.", "options": ["can", "could to", "are can"], "answer": "can", "explanation": "Posibilidad / habilidad presente -> can." },
+    { "id": "t4-010", "subtopic": "habilidad-can-could", "type": "gap", "prompt": "Completa: When she was young she ___ (run) very fast.", "accept": ["could run"], "answer": "could run", "explanation": "Habilidad general pasada -> could + base." },
+    { "id": "t4-011", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "'be able to' se usa cuando NO se puede usar 'can', por ejemplo:", "options": ["en infinitivo o con otros tiempos (will, have +)", "en presente simple", "en preguntas"], "answer": "en infinitivo o con otros tiempos (will, have +)", "explanation": "can no tiene infinitivo ni participio: se usa be able to." },
+    { "id": "t4-012", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "I'd love ___ speak Japanese.", "options": ["to be able to", "can", "to can"], "answer": "to be able to", "explanation": "Tras 'love' -> infinitivo; 'can' no tiene infinitivo." },
+    { "id": "t4-013", "subtopic": "habilidad-can-could", "type": "mcq", "prompt": "The firefighters ___ rescue everyone. (lo lograron)", "options": ["managed to", "could", "can"], "answer": "managed to", "explanation": "Exito concreto en el pasado -> managed to / were able to." },
+
+    { "id": "t4-014", "subtopic": "permiso", "type": "mcq", "prompt": "___ I use your phone?", "options": ["Can", "Do", "Am"], "answer": "Can", "explanation": "Pedir permiso (informal): Can I...?" },
+    { "id": "t4-015", "subtopic": "permiso", "type": "mcq", "prompt": "___ I ask you a question? (mas educado)", "options": ["Could", "Can to", "Do"], "answer": "Could", "explanation": "Could I...? es mas formal / educado que Can I...?" },
+    { "id": "t4-016", "subtopic": "permiso", "type": "mcq", "prompt": "You ___ park here; it's a private area.", "options": ["can't", "couldn't to", "don't can"], "answer": "can't", "explanation": "Negar permiso -> can't + base." },
+    { "id": "t4-017", "subtopic": "permiso", "type": "mcq", "prompt": "Students ___ use dictionaries in the exam. (permitido por norma)", "options": ["are allowed to", "can to", "may to"], "answer": "are allowed to", "explanation": "Permiso por regla -> be allowed to." },
+    { "id": "t4-018", "subtopic": "permiso", "type": "mcq", "prompt": "___ I come in? (a un profesor)", "options": ["May", "Do", "Am"], "answer": "May", "explanation": "May I...? = pedir permiso formal." },
+    { "id": "t4-019", "subtopic": "permiso", "type": "mcq", "prompt": "As a child I ___ watch TV after 9.", "options": ["wasn't allowed to", "couldn't to", "didn't can"], "answer": "wasn't allowed to", "explanation": "Permiso (negado) en el pasado -> wasn't allowed to." },
+    { "id": "t4-020", "subtopic": "permiso", "type": "mcq", "prompt": "Guests ___ smoke inside the hotel.", "options": ["are not allowed to", "can't to", "mustn't to"], "answer": "are not allowed to", "explanation": "Prohibicion por norma -> are not allowed to." },
+    { "id": "t4-021", "subtopic": "permiso", "type": "mcq", "prompt": "'Can I...?' y 'Could I...?' sirven para:", "options": ["pedir permiso", "dar una orden", "hacer una prediccion"], "answer": "pedir permiso", "explanation": "Ambas piden permiso; Could I...? es mas educada." },
+    { "id": "t4-022", "subtopic": "permiso", "type": "mcq", "prompt": "- Could I borrow your pen? - ___", "options": ["Sure, go ahead.", "No, you couldn't.", "Yes, I could."], "answer": "Sure, go ahead.", "explanation": "Se responde concediendo o negando el permiso, no repitiendo 'could'." },
+    { "id": "t4-023", "subtopic": "permiso", "type": "mcq", "prompt": "Passengers ___ use mobile phones during take-off.", "options": ["may not", "don't may", "aren't may"], "answer": "may not", "explanation": "Prohibicion formal -> may not + base." },
+    { "id": "t4-024", "subtopic": "permiso", "type": "mcq", "prompt": "Is it OK if I ___ the window?", "options": ["open", "opened", "to open"], "answer": "open", "explanation": "'Is it OK if I + presente simple' para pedir permiso." },
+    { "id": "t4-025", "subtopic": "permiso", "type": "mcq", "prompt": "You ___ leave early today if you finish your work.", "options": ["can", "could to", "may to"], "answer": "can", "explanation": "Dar permiso -> can + base." },
+
+    { "id": "t4-026", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "___ you help me, please?", "options": ["Could", "Do", "May"], "answer": "Could", "explanation": "Peticion educada: Could you + base?" },
+    { "id": "t4-027", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "___ I carry your bags? (ofrecimiento)", "options": ["Shall", "Do", "Am"], "answer": "Shall", "explanation": "Shall I...? para ofrecer ayuda." },
+    { "id": "t4-028", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "___ you like some coffee?", "options": ["Would", "Do", "Are"], "answer": "Would", "explanation": "Would you like...? para ofrecer algo." },
+    { "id": "t4-029", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "___ you mind opening the door?", "options": ["Would", "Do", "Could"], "answer": "Would", "explanation": "Would you mind + -ing? es una peticion muy educada." },
+    { "id": "t4-030", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "Would you mind ___ the music down?", "options": ["turning", "to turn", "turn"], "answer": "turning", "explanation": "'mind' va seguido de -ing." },
+    { "id": "t4-031", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "___ you pass me the salt? (informal)", "options": ["Can", "May", "Shall"], "answer": "Can", "explanation": "Can you...? para una peticion informal." },
+    { "id": "t4-032", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "'Shall I...?' se usa para:", "options": ["ofrecer ayuda / hacer una sugerencia", "pedir permiso", "dar una orden"], "answer": "ofrecer ayuda / hacer una sugerencia", "explanation": "Shall I / Shall we...? -> ofrecimiento o sugerencia." },
+    { "id": "t4-033", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "- Would you like to join us? - ___", "options": ["Yes, I'd love to.", "Yes, I would like.", "No, I wouldn't like."], "answer": "Yes, I'd love to.", "explanation": "Respuesta natural a 'Would you like to...?'." },
+    { "id": "t4-034", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "___ we take a break? (sugerencia)", "options": ["Shall", "Do", "May"], "answer": "Shall", "explanation": "Shall we...? para sugerir hacer algo juntos." },
+    { "id": "t4-035", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "Could you possibly ___ me a hand?", "options": ["give", "to give", "giving"], "answer": "give", "explanation": "Modal (could) + verbo en forma base." },
+    { "id": "t4-036", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "Can you ___ me a favour?", "options": ["do", "to do", "doing"], "answer": "do", "explanation": "can + base: 'do me a favour'." },
+    { "id": "t4-037", "subtopic": "peticiones-ofrecimientos", "type": "mcq", "prompt": "Una forma educada de pedir que alguien haga algo:", "options": ["Could you...?", "You must...", "Do you...?"], "answer": "Could you...?", "explanation": "Could you / Would you...? suavizan la peticion." },
+
+    { "id": "t4-038", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "You ___ wear a seatbelt. It's the law.", "options": ["have to", "must to", "haves to"], "answer": "have to", "explanation": "Obligacion externa (la ley) -> have to." },
+    { "id": "t4-039", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "I really ___ call my mother - I keep forgetting.", "options": ["must", "have to", "musts"], "answer": "must", "explanation": "Obligacion sentida por el hablante -> must." },
+    { "id": "t4-040", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "She ___ work on Saturdays. (su empresa se lo exige)", "options": ["has to", "must", "have to"], "answer": "has to", "explanation": "Obligacion externa, 3a persona -> has to." },
+    { "id": "t4-041", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "___ you ___ wear a uniform?", "options": ["Do / have to", "Must / to", "Are / have to"], "answer": "Do / have to", "explanation": "Pregunta de 'have to' con 'do'." },
+    { "id": "t4-042", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "'must' no tiene infinitivo ni pasado; para eso se usa:", "options": ["have to (had to)", "musted", "will must"], "answer": "have to (had to)", "explanation": "have to cubre infinitivo, pasado y futuro." },
+    { "id": "t4-043", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "We ___ be at the airport two hours early.", "options": ["have to", "must to", "has to"], "answer": "have to", "explanation": "Obligacion por las circunstancias -> have to." },
+    { "id": "t4-044", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "This form ___ be completed in black ink. (aviso)", "options": ["must", "musts", "have"], "answer": "must", "explanation": "En avisos y normas escritas es tipico 'must'." },
+    { "id": "t4-045", "subtopic": "obligacion-must-have-to", "type": "gap", "prompt": "Completa: He ___ (have to) retake the exam last year.", "accept": ["had to"], "answer": "had to", "explanation": "Pasado de 'have to' -> had to." },
+    { "id": "t4-046", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "Tras 'must' y 'have to', el verbo va en:", "options": ["forma base", "to + base", "-ing"], "answer": "forma base", "explanation": "must + base; have to + base." },
+    { "id": "t4-047", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "I ___ get up at 5 tomorrow.", "options": ["have to", "must to", "am have to"], "answer": "have to", "explanation": "Obligacion por las circunstancias -> have to." },
+    { "id": "t4-048", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "Cual es correcta?", "options": ["She has to leave now.", "She must to leave now.", "She have to leave now.", "She has leave now."], "answer": "She has to leave now.", "explanation": "3a persona: has to + base." },
+    { "id": "t4-049", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "Do you think I ___ apologise? (es necesario?)", "options": ["have to", "must to", "had to"], "answer": "have to", "explanation": "Pregunta sobre necesidad -> have to." },
+    { "id": "t4-050", "subtopic": "obligacion-must-have-to", "type": "mcq", "prompt": "In the past, people ___ work much longer hours.", "options": ["had to", "must", "have to"], "answer": "had to", "explanation": "Obligacion en el pasado -> had to." },
+
+    { "id": "t4-051", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "You ___ touch that - it's dangerous!", "options": ["mustn't", "don't have to", "needn't"], "answer": "mustn't", "explanation": "Prohibicion -> mustn't." },
+    { "id": "t4-052", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "It's Sunday, so I ___ go to work.", "options": ["don't have to", "mustn't", "can't"], "answer": "don't have to", "explanation": "No es necesario -> don't have to." },
+    { "id": "t4-053", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "You ___ tell anyone. It's a secret.", "options": ["mustn't", "don't have to", "needn't"], "answer": "mustn't", "explanation": "Prohibicion -> mustn't." },
+    { "id": "t4-054", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "We have plenty of time; we ___ hurry.", "options": ["don't have to", "mustn't", "can't"], "answer": "don't have to", "explanation": "No hace falta -> don't have to." },
+    { "id": "t4-055", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "'mustn't' significa:", "options": ["esta prohibido", "no es necesario", "es opcional"], "answer": "esta prohibido", "explanation": "mustn't = prohibicion." },
+    { "id": "t4-056", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "'don't have to' significa:", "options": ["no es necesario", "esta prohibido", "es obligatorio"], "answer": "no es necesario", "explanation": "don't have to = ausencia de obligacion." },
+    { "id": "t4-057", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "You ___ bring food; lunch is provided.", "options": ["don't need to", "mustn't", "can't"], "answer": "don't need to", "explanation": "No es necesario -> don't need to." },
+    { "id": "t4-058", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "Visitors ___ feed the animals. (norma del zoo)", "options": ["must not", "don't have to", "needn't"], "answer": "must not", "explanation": "Prohibicion -> must not / mustn't." },
+    { "id": "t4-059", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "You ___ be 18 to vote, but you ___ vote if you don't want to.", "options": ["have to / don't have to", "must / mustn't", "don't have to / must"], "answer": "have to / don't have to", "explanation": "Requisito (have to) + libertad de no hacerlo (don't have to)." },
+    { "id": "t4-060", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "Relax, you ___ finish it today. Tomorrow is fine.", "options": ["don't have to", "mustn't", "can't"], "answer": "don't have to", "explanation": "No es obligatorio hoy -> don't have to." },
+    { "id": "t4-061", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "Children ___ play near the road.", "options": ["mustn't", "don't have to", "needn't"], "answer": "mustn't", "explanation": "Prohibicion por seguridad -> mustn't." },
+    { "id": "t4-062", "subtopic": "prohibicion-ausencia-obligacion", "type": "mcq", "prompt": "I ___ wear glasses now - I had laser surgery.", "options": ["don't have to", "mustn't", "couldn't"], "answer": "don't have to", "explanation": "Ya no es necesario -> don't have to." },
+
+    { "id": "t4-063", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "You look tired. You ___ go to bed.", "options": ["should", "must to", "ought"], "answer": "should", "explanation": "Consejo -> should + base." },
+    { "id": "t4-064", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "You ___ smoke so much. It's bad for you.", "options": ["shouldn't", "don't should", "mustn't to"], "answer": "shouldn't", "explanation": "Consejo negativo -> shouldn't + base." },
+    { "id": "t4-065", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "You ___ to see a doctor about that cough.", "options": ["ought", "should", "must"], "answer": "ought", "explanation": "'ought TO' + base (lleva 'to')." },
+    { "id": "t4-066", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "It's late. We ___ leave now.", "options": ["'d better", "should to", "ought"], "answer": "'d better", "explanation": "had better ('d better) + base = consejo fuerte." },
+    { "id": "t4-067", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "___ I take an umbrella? (pedir consejo)", "options": ["Should", "Do", "Ought"], "answer": "Should", "explanation": "Should I...? para pedir consejo." },
+    { "id": "t4-068", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "Tras 'should' el verbo va en:", "options": ["forma base", "to + base", "-ing"], "answer": "forma base", "explanation": "should + infinitivo sin 'to'." },
+    { "id": "t4-069", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "You ___ have told me earlier! (reproche por el pasado)", "options": ["should", "must", "ought"], "answer": "should", "explanation": "should have + participio = consejo / reproche sobre el pasado." },
+    { "id": "t4-070", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "I think the government ___ do more about it.", "options": ["should", "must to", "oughts"], "answer": "should", "explanation": "Opinion / recomendacion -> should." },
+    { "id": "t4-071", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "You'd better ___ late again, or you'll lose your job.", "options": ["not be", "not to be", "don't be"], "answer": "not be", "explanation": "had better not + base." },
+    { "id": "t4-072", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "'ought to' significa mas o menos lo mismo que:", "options": ["should", "must", "can"], "answer": "should", "explanation": "ought to = should, algo mas formal." },
+    { "id": "t4-073", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "You ___ worry so much; it'll be fine.", "options": ["shouldn't", "mustn't", "don't have to"], "answer": "shouldn't", "explanation": "Consejo de no hacer algo -> shouldn't." },
+    { "id": "t4-074", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "We ___ have booked earlier; now it's full.", "options": ["should", "must", "ought"], "answer": "should", "explanation": "should have + participio = arrepentimiento." },
+    { "id": "t4-075", "subtopic": "consejo-should-ought", "type": "mcq", "prompt": "If you want to pass, you ___ study every day.", "options": ["should", "must to", "ought"], "answer": "should", "explanation": "Consejo -> should + base." },
+
+    { "id": "t4-076", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "Yesterday I ___ work late.", "options": ["had to", "must", "have to"], "answer": "had to", "explanation": "Obligacion pasada -> had to." },
+    { "id": "t4-077", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "The puzzle was hard, but I ___ finish it. (lo consegui)", "options": ["was able to", "could", "can"], "answer": "was able to", "explanation": "Exito puntual -> was able to." },
+    { "id": "t4-078", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "It was dark and we ___ see anything.", "options": ["couldn't", "weren't able", "didn't can"], "answer": "couldn't", "explanation": "En negativo, couldn't vale para casos puntuales." },
+    { "id": "t4-079", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "As a child, I ___ eat sweets on Sundays only.", "options": ["was allowed to", "could to", "must"], "answer": "was allowed to", "explanation": "Permiso en el pasado -> was allowed to." },
+    { "id": "t4-080", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "You ___ have called! We were so worried.", "options": ["should", "must", "had to"], "answer": "should", "explanation": "should have + participio = reproche sobre el pasado." },
+    { "id": "t4-081", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "She ___ pass the test, so she was very happy.", "options": ["managed to", "could", "must"], "answer": "managed to", "explanation": "Logro concreto -> managed to." },
+    { "id": "t4-082", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "In those days women ___ vote.", "options": ["couldn't", "didn't have to", "mustn't"], "answer": "couldn't", "explanation": "No estaba permitido -> couldn't." },
+    { "id": "t4-083", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "El pasado de 'have to' es:", "options": ["had to", "musted", "have had to"], "answer": "had to", "explanation": "have to -> had to." },
+    { "id": "t4-084", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "Para expresar obligacion en el pasado (en vez de 'must') se usa:", "options": ["had to", "musted", "must have"], "answer": "had to", "explanation": "'must' no tiene pasado: se usa had to." },
+    { "id": "t4-085", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "I ___ get up early yesterday because it was a holiday.", "options": ["didn't have to", "mustn't", "couldn't"], "answer": "didn't have to", "explanation": "Ausencia de obligacion en el pasado -> didn't have to." },
+    { "id": "t4-086", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "Luckily, a passer-by ___ help us.", "options": ["was able to", "could", "should"], "answer": "was able to", "explanation": "Ayuda que si ocurrio (puntual) -> was able to." },
+    { "id": "t4-087", "subtopic": "modales-en-pasado", "type": "mcq", "prompt": "We ___ wear a tie at my old school.", "options": ["had to", "must", "have to"], "answer": "had to", "explanation": "Obligacion pasada -> had to." },
+
+    { "id": "t4-088", "subtopic": "contraste-modales", "type": "mcq", "prompt": "This is a library. You ___ talk loudly.", "options": ["mustn't", "don't have to", "couldn't"], "answer": "mustn't", "explanation": "Prohibicion -> mustn't." },
+    { "id": "t4-089", "subtopic": "contraste-modales", "type": "mcq", "prompt": "You ___ pay now; you can pay later.", "options": ["don't have to", "mustn't", "can't"], "answer": "don't have to", "explanation": "No es necesario -> don't have to." },
+    { "id": "t4-090", "subtopic": "contraste-modales", "type": "mcq", "prompt": "___ you speak any other languages?", "options": ["Can", "Must", "Should"], "answer": "Can", "explanation": "Pregunta de habilidad -> Can." },
+    { "id": "t4-091", "subtopic": "contraste-modales", "type": "mcq", "prompt": "It might be cold. You ___ take a jacket.", "options": ["should", "must", "can"], "answer": "should", "explanation": "Consejo -> should." },
+    { "id": "t4-092", "subtopic": "contraste-modales", "type": "mcq", "prompt": "Employees ___ arrive by 9:00. (norma de la empresa)", "options": ["have to", "should to", "can"], "answer": "have to", "explanation": "Obligacion externa -> have to." },
+    { "id": "t4-093", "subtopic": "contraste-modales", "type": "mcq", "prompt": "___ I open the window? It's hot.", "options": ["Shall", "Must", "Should"], "answer": "Shall", "explanation": "Shall I...? para ofrecer / proponer." },
+    { "id": "t4-094", "subtopic": "contraste-modales", "type": "mcq", "prompt": "You ___ worry, everything is under control.", "options": ["needn't", "mustn't", "can't"], "answer": "needn't", "explanation": "No hace falta -> needn't (= don't need to)." },
+    { "id": "t4-095", "subtopic": "contraste-modales", "type": "mcq", "prompt": "When I was 10 I ___ ride a bike without hands.", "options": ["could", "was able to", "managed to"], "answer": "could", "explanation": "Habilidad general en el pasado -> could." },
+    { "id": "t4-096", "subtopic": "contraste-modales", "type": "mcq", "prompt": "Passengers ___ not leave bags unattended. (aviso)", "options": ["must", "have", "can"], "answer": "must", "explanation": "En avisos: must not + base." },
+    { "id": "t4-097", "subtopic": "contraste-modales", "type": "mcq", "prompt": "___ I speak to the manager, please? (peticion educada)", "options": ["Could", "Must", "Should"], "answer": "Could", "explanation": "Could I...? para una peticion educada." },
+    { "id": "t4-098", "subtopic": "contraste-modales", "type": "mcq", "prompt": "___ we book a table? It might be busy.", "options": ["Shall", "Must", "Have to"], "answer": "Shall", "explanation": "Shall we...? para sugerir." },
+    { "id": "t4-099", "subtopic": "contraste-modales", "type": "mcq", "prompt": "You ___ smoke here. It's a hospital.", "options": ["can't", "don't have to", "needn't"], "answer": "can't", "explanation": "Prohibicion -> can't (o mustn't)." },
+    { "id": "t4-100", "subtopic": "contraste-modales", "type": "mcq", "prompt": "She's very fit. She ___ run a marathon easily.", "options": ["can", "must", "should"], "answer": "can", "explanation": "Habilidad / capacidad -> can." }
+  ]
+}

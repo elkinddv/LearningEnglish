@@ -1,0 +1,232 @@
+{
+  "id": 1,
+  "slug": "presentes-aspecto",
+  "level": "B1",
+  "title": "Tiempos presentes y aspecto verbal",
+  "lesson": {
+    "intro": "Los <strong>presentes</strong> en ingles no se eligen por <em>cuando pasa</em> sino por <strong>como ves la accion</strong>: como algo <em>habitual o permanente</em> (Present Simple) o como algo <em>en curso, temporal o en cambio</em> (Present Continuous). Ademas, un grupo de verbos - los <strong>de estado</strong> - casi nunca se usan en <code>-ing</code>. Domina estas tres ideas y controlas la mayoria de los errores de nivel B1.",
+    "sections": [
+      {
+        "subtopic": "present-simple-usos",
+        "heading": "1 - Present Simple: cuando se usa",
+        "body": "<p>Usa el Present Simple para lo que es <strong>estable, repetido o programado</strong>:</p><ul><li><strong>Rutinas y habitos</strong>: <em>every day, usually, on Mondays, twice a week</em>.</li><li><strong>Hechos y verdades generales</strong>: ciencia, naturaleza, cosas que no cambian.</li><li><strong>Horarios y programaciones</strong> (trenes, cines, clases), <em>aunque se refieran al futuro</em>.</li><li><strong>Instrucciones, recetas y procesos</strong> paso a paso.</li><li><strong>Estados permanentes</strong>: donde vives, en que trabajas, que idiomas hablas.</li></ul>",
+        "examples": [
+          "I <strong>get up</strong> at seven every day.",
+          "Water <strong>boils</strong> at 100 &deg;C.",
+          "The train <strong>leaves</strong> at 6:00 tomorrow morning.",
+          "First you <strong>break</strong> the eggs, then you <strong>add</strong> the flour.",
+          "She <strong>works</strong> in a bank and <strong>speaks</strong> three languages."
+        ]
+      },
+      {
+        "subtopic": "present-simple-forma",
+        "heading": "2 - Present Simple: como se forma",
+        "body": "<p><strong>Afirmativa:</strong> verbo en forma base. Con <strong>he / she / it</strong> se anade <code>-s</code>.</p><ul><li><code>-s</code> normal: <em>work &rarr; works</em>.</li><li><code>+es</code> tras <em>-o, -s, -ss, -sh, -ch, -x</em>: <em>go &rarr; goes, watch &rarr; watches, finish &rarr; finishes</em>.</li><li>consonante + <em>y</em> &rarr; <code>-ies</code>: <em>study &rarr; studies</em>; vocal + <em>y</em> no cambia: <em>play &rarr; plays</em>.</li><li>irregular: <em>have &rarr; has</em>.</li></ul><p><strong>Negativa:</strong> <code>don't / doesn't</code> + base (el verbo principal nunca lleva <code>-s</code>).</p><p><strong>Preguntas:</strong> <code>Do / Does</code> + sujeto + base. Con <em>who/what</em> como sujeto no se usa <em>do</em>: <em>Who lives here?</em></p>",
+        "examples": [
+          "He <strong>goes</strong> / She <strong>studies</strong> / It <strong>watches</strong>.",
+          "They <strong>don't</strong> smoke. &middot; Anna <strong>doesn't</strong> eat meat.",
+          "<strong>Does</strong> he <strong>play</strong> tennis? &middot; Where <strong>do</strong> you <strong>live</strong>?"
+        ]
+      },
+      {
+        "subtopic": "present-continuous-usos",
+        "heading": "3 - Present Continuous: cuando se usa",
+        "body": "<p>Usa <code>am/is/are + -ing</code> para lo que esta <strong>en movimiento</strong>:</p><ul><li><strong>Accion ahora mismo</strong>: <em>now, right now, at the moment, Look!, Listen!</em></li><li><strong>Situacion temporal</strong> alrededor de ahora, aunque no en este segundo: <em>this week, these days</em> (I'm reading a great book).</li><li><strong>Situaciones que cambian o evolucionan</strong>: <em>get, become, improve, increase, rise, grow</em>.</li><li><strong>Planes y citas futuras ya acordadas</strong>: <em>tomorrow, next week</em>.</li><li>Con <strong>always / constantly</strong> para quejarse de algo repetido y molesto.</li></ul>",
+        "examples": [
+          "Be quiet - the baby <strong>is sleeping</strong>.",
+          "I'<strong>m staying</strong> with friends this week.",
+          "Your English <strong>is improving</strong>.",
+          "I'<strong>m meeting</strong> Sara tomorrow.",
+          "He'<strong>s always losing</strong> his keys!"
+        ]
+      },
+      {
+        "subtopic": "present-continuous-forma",
+        "heading": "4 - Present Continuous: como se forma",
+        "body": "<p><code>am / is / are</code> + <strong>verbo-ing</strong>. Ortografia del <code>-ing</code>:</p><ul><li>general: <em>work &rarr; working</em>.</li><li>termina en <em>-e</em> muda &rarr; se quita: <em>make &rarr; making, write &rarr; writing</em>.</li><li>una silaba <strong>consonante-vocal-consonante</strong> &rarr; se dobla la ultima consonante: <em>run &rarr; running, sit &rarr; sitting, swim &rarr; swimming</em>.</li><li>en ingles britanico tambien se dobla la <em>-l</em>: <em>travel &rarr; travelling</em>.</li><li>termina en <em>-ie</em> &rarr; <code>-ying</code>: <em>lie &rarr; lying, die &rarr; dying</em>.</li><li>termina en <em>-y</em> o <em>-ee</em> no cambia: <em>study &rarr; studying, see &rarr; seeing</em>.</li></ul><p><strong>Negativa:</strong> <code>'m not / isn't / aren't</code> + <em>-ing</em>. <strong>Pregunta:</strong> <code>Am/Is/Are</code> + sujeto + <em>-ing</em>.</p>",
+        "examples": [
+          "I'<strong>m writing</strong> an email.",
+          "He'<strong>s running</strong> in the park.",
+          "She'<strong>s lying</strong> on the sofa.",
+          "They <strong>aren't listening</strong>. &middot; <strong>Are</strong> you <strong>coming</strong>?"
+        ]
+      },
+      {
+        "subtopic": "marcadores-temporales",
+        "heading": "5 - Marcadores de tiempo y adverbios de frecuencia",
+        "body": "<p><strong>Senales de Present Simple:</strong> <em>always, usually, often, sometimes, rarely, never, every day/week, on Mondays, once a week, how often...?</em></p><p><strong>Senales de Present Continuous:</strong> <em>now, right now, at the moment, at present, currently, today, this week, these days, nowadays, Look!, Listen!</em></p><p><strong>Posicion de los adverbios de frecuencia:</strong> antes del verbo principal (I <strong>always</strong> walk), pero <strong>despues</strong> del verbo <em>be</em> (I <strong>am always</strong> late).</p><p>Ojo: <em>these days / nowadays / currently</em> pueden ir con Simple (habito actual) o con Continuous (tendencia que cambia), segun el sentido.</p>",
+        "examples": [
+          "<strong>At the moment</strong> I'm staying at a hotel.",
+          "We <strong>usually go</strong> abroad in summer.",
+          "Tom <strong>always walks</strong> to school. &middot; He <strong>is always</strong> late."
+        ]
+      },
+      {
+        "subtopic": "verbos-de-estado",
+        "heading": "6 - Verbos de estado (stative): no van en -ing",
+        "body": "<p>Describen <strong>estados, no acciones</strong>: normalmente <strong>no</strong> se usan en Continuous, aunque el momento sea ahora (British Council). Categorias:</p><ul><li><strong>Pensamiento / opinion:</strong> know, believe, understand, think (=opinar), mean, remember, agree, doubt, recognise, suppose.</li><li><strong>Emociones / preferencias:</strong> like, love, hate, prefer, want, wish, need.</li><li><strong>Sentidos / percepcion:</strong> see, hear, smell, taste, seem, appear, look (=parecer), sound.</li><li><strong>Posesion / medida:</strong> have (=tener), own, belong, possess, contain, cost, weigh, measure.</li><li>Otros: be, matter, depend, fit, involve.</li></ul>",
+        "examples": [
+          "I <strong>know</strong> the answer. (NO: I am knowing)",
+          "She <strong>wants</strong> a coffee. (NO: she is wanting)",
+          "This book <strong>belongs</strong> to me."
+        ]
+      },
+      {
+        "subtopic": "verbos-estado-o-accion",
+        "heading": "7 - Verbos que cambian de significado",
+        "body": "<p>Algunos verbos son <strong>estado o accion</strong> segun lo que signifiquen (British Council):</p><ul><li><strong>think:</strong> opinion &rarr; I think it's nice (estado) / reflexionar &rarr; I'm thinking about it (accion).</li><li><strong>have:</strong> posesion &rarr; I have a car / actividad &rarr; I'm having lunch, a shower, a good time.</li><li><strong>see:</strong> percibir o entender &rarr; I see what you mean / quedar con alguien &rarr; I'm seeing the dentist tomorrow.</li><li><strong>taste, smell:</strong> percepcion &rarr; The soup tastes salty / accion voluntaria &rarr; The chef is tasting the soup.</li><li><strong>look:</strong> parecer &rarr; You look tired / mirar &rarr; I'm looking at the photos.</li><li><strong>be:</strong> cualidad &rarr; He is kind / conducta puntual &rarr; He is being rude today.</li><li><strong>weigh:</strong> medida &rarr; It weighs 2 kg / accion &rarr; The grocer is weighing the fruit.</li></ul>",
+        "examples": [
+          "I <strong>think</strong> you're right. - Hold on, I'<strong>m thinking</strong>.",
+          "We <strong>have</strong> a dog. - We'<strong>re having</strong> a party.",
+          "I <strong>see</strong> the problem. - I'<strong>m seeing</strong> a client at 5."
+        ]
+      },
+      {
+        "subtopic": "contraste-simple-continuo",
+        "heading": "8 - Elegir Simple o Continuous",
+        "body": "<p>Preguntate: es <strong>habito, verdad o algo permanente</strong>? &rarr; <strong>Simple</strong>. Es <strong>algo en curso, temporal, en cambio o un plan acordado</strong>? &rarr; <strong>Continuous</strong>.</p><p><strong>Futuro:</strong> horario fijo (trenes, cine, clases) &rarr; Simple (The film starts at 8); cita o plan personal &rarr; Continuous (I'm seeing a film tonight).</p><p><strong>Contrastes tipicos:</strong> I work in Madrid (siempre) / I'm working from home this week (temporal); What do you do? (profesion) / What are you doing? (ahora).</p>",
+        "examples": [
+          "Normally I <strong>cycle</strong> to work, but this week I'<strong>m taking</strong> the bus.",
+          "She <strong>comes</strong> from Italy but she'<strong>s living</strong> in Spain now.",
+          "The shop <strong>opens</strong> at 9. - I'<strong>m opening</strong> a new shop next month."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Tabla de contraste",
+      "headers": ["Situacion", "Present Simple", "Present Continuous"],
+      "rows": [
+        ["Rutina / habito", "I usually <strong>cycle</strong> to work.", "I'<strong>m taking</strong> the bus this week."],
+        ["Verdad general", "Ice <strong>melts</strong> in the sun.", "Look - the ice <strong>is melting</strong>."],
+        ["Horario / programacion", "The class <strong>starts</strong> at 9.", "I'<strong>m starting</strong> a course on Monday."],
+        ["Estado (opinion, posesion...)", "I <strong>love</strong> this city.", "(no se usa)"],
+        ["Cambio / evolucion", "Prices <strong>rise</strong> every year.", "Prices <strong>are rising</strong> fast right now."],
+        ["Queja con always", "-", "You'<strong>re always interrupting</strong> me!"]
+      ]
+    },
+    "mistakes": [
+      "NO: I <em>am agreeing</em> with you.  ->  SI: I <strong>agree</strong> with you.",
+      "NO: She <em>is having</em> a nice car.  ->  SI: She <strong>has</strong> a nice car.",
+      "NO: He <em>go</em> to school by bus.  ->  SI: He <strong>goes</strong> to school by bus.",
+      "NO: They <em>are knowing</em> the truth.  ->  SI: They <strong>know</strong> the truth.",
+      "NO: Look! It <em>rains</em>.  ->  SI: Look! It'<strong>s raining</strong>.",
+      "NO: I'<em>m liking</em> this song.  ->  SI: I <strong>like</strong> this song.",
+      "NO: What <em>means</em> this word?  ->  SI: What <strong>does</strong> this word <strong>mean</strong>?"
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Present simple", "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/present-simple" },
+      { "label": "British Council LearnEnglish - Present continuous", "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/present-continuous" },
+      { "label": "British Council LearnEnglish - Stative verbs", "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/stative-verbs" },
+      { "label": "Test-English - Present simple vs continuous (B1)", "url": "https://test-english.com/grammar-points/b1/present-simple-present-continuous/" }
+    ]
+  },
+  "questions": [
+    { "id": "t1-001", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "Water ___ at 100 degrees.", "options": ["boils", "is boiling", "boil", "boiled"], "answer": "boils", "explanation": "Verdad cientifica: siempre es asi -> Present Simple." },
+    { "id": "t1-002", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "My father ___ coffee every morning.", "options": ["drinks", "is drinking", "drink"], "answer": "drinks", "explanation": "Habito (every morning) y 3a persona singular -> drink + s." },
+    { "id": "t1-003", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "The museum ___ at 9 a.m. and closes at 6 p.m.", "options": ["opens", "is opening", "open"], "answer": "opens", "explanation": "Horario fijo -> Present Simple." },
+    { "id": "t1-004", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "I usually ___ to work by bus.", "options": ["go", "am going", "goes"], "answer": "go", "explanation": "Habito con 'usually'; con 'I' no se anade -s." },
+    { "id": "t1-005", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "The sun ___ in the east.", "options": ["rises", "is rising", "rise"], "answer": "rises", "explanation": "Verdad general de la naturaleza -> Present Simple." },
+    { "id": "t1-006", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "She ___ three languages.", "options": ["speaks", "is speaking", "speak"], "answer": "speaks", "explanation": "Estado permanente / habilidad -> Simple, 3a persona -s." },
+    { "id": "t1-007", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "According to the timetable, our train ___ at 7:45 tomorrow.", "options": ["leaves", "is leaving", "leave"], "answer": "leaves", "explanation": "Horario programado, aunque sea futuro -> Present Simple." },
+    { "id": "t1-008", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "First you ___ the eggs, then you add the flour.", "options": ["beat", "are beating", "beats"], "answer": "beat", "explanation": "Instrucciones de una receta -> Present Simple." },
+    { "id": "t1-009", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "He ___ football every weekend.", "options": ["plays", "is playing", "play"], "answer": "plays", "explanation": "Rutina (every weekend) -> Simple, 3a persona -s." },
+    { "id": "t1-010", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "Cats ___ meat.", "options": ["eat", "are eating", "eats"], "answer": "eat", "explanation": "Verdad general sobre una especie; sujeto plural, sin -s." },
+    { "id": "t1-011", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "The cinema website says the film ___ at 8 p.m.", "options": ["starts", "is starting", "start"], "answer": "starts", "explanation": "Programacion anunciada -> Present Simple." },
+    { "id": "t1-012", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "I ___ tea, not coffee.", "options": ["drink", "am drinking", "drinks"], "answer": "drink", "explanation": "Preferencia habitual -> Present Simple." },
+    { "id": "t1-013", "subtopic": "present-simple-usos", "type": "mcq", "prompt": "Every December, they ___ to the mountains.", "options": ["travel", "are travelling", "travels"], "answer": "travel", "explanation": "Habito anual (every December) -> Simple; sujeto plural." },
+
+    { "id": "t1-014", "subtopic": "present-simple-forma", "type": "gap", "prompt": "Completa: She ___ (go) to the gym on Mondays.", "accept": ["goes"], "answer": "goes", "explanation": "Tras -o se anade -es: goes." },
+    { "id": "t1-015", "subtopic": "present-simple-forma", "type": "gap", "prompt": "Completa: He ___ (study) medicine.", "accept": ["studies"], "answer": "studies", "explanation": "Consonante + y -> -ies: studies." },
+    { "id": "t1-016", "subtopic": "present-simple-forma", "type": "gap", "prompt": "Completa: The lesson ___ (finish) at noon.", "accept": ["finishes"], "answer": "finishes", "explanation": "Tras -sh se anade -es: finishes." },
+    { "id": "t1-017", "subtopic": "present-simple-forma", "type": "gap", "prompt": "Completa: My sister ___ (watch) TV after dinner.", "accept": ["watches"], "answer": "watches", "explanation": "Tras -ch se anade -es: watches." },
+    { "id": "t1-018", "subtopic": "present-simple-forma", "type": "mcq", "prompt": "___ your brother ___ jazz?", "options": ["Does / like", "Do / likes", "Does / likes", "Do / like"], "answer": "Does / like", "explanation": "Pregunta en 3a persona: Does + sujeto + verbo base (sin -s)." },
+    { "id": "t1-019", "subtopic": "present-simple-forma", "type": "mcq", "prompt": "They ___ live near here.", "options": ["don't", "doesn't", "aren't"], "answer": "don't", "explanation": "Sujeto plural -> don't + base." },
+    { "id": "t1-020", "subtopic": "present-simple-forma", "type": "mcq", "prompt": "Anna ___ eat meat.", "options": ["doesn't", "don't", "isn't"], "answer": "doesn't", "explanation": "3a persona singular -> doesn't + base." },
+    { "id": "t1-021", "subtopic": "present-simple-forma", "type": "mcq", "prompt": "Where ___ she work?", "options": ["does", "do", "is"], "answer": "does", "explanation": "Pregunta con 'she' -> does + base." },
+    { "id": "t1-022", "subtopic": "present-simple-forma", "type": "mcq", "prompt": "___ you speak French?", "options": ["Do", "Does", "Are"], "answer": "Do", "explanation": "Pregunta con 'you' -> Do + base." },
+    { "id": "t1-023", "subtopic": "present-simple-forma", "type": "mcq", "prompt": "Cual oracion es correcta?", "options": ["She drinks coffee every day.", "She drink coffee every day.", "She is drink coffee every day.", "She every day drinks coffee."], "answer": "She drinks coffee every day.", "explanation": "3a persona con -s y el complemento de tiempo al final." },
+    { "id": "t1-024", "subtopic": "present-simple-forma", "type": "gap", "prompt": "Completa: He ___ (fly) to London twice a year.", "accept": ["flies"], "answer": "flies", "explanation": "Consonante + y -> -ies: flies." },
+    { "id": "t1-025", "subtopic": "present-simple-forma", "type": "gap", "prompt": "Completa: She ___ (have) a big house.", "accept": ["has"], "answer": "has", "explanation": "'have' es irregular en 3a persona: has." },
+
+    { "id": "t1-026", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "Be quiet! The baby ___.", "options": ["is sleeping", "sleeps", "sleep"], "answer": "is sleeping", "explanation": "Accion ahora mismo -> Present Continuous." },
+    { "id": "t1-027", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "Look! It ___.", "options": ["is raining", "rains", "rain"], "answer": "is raining", "explanation": "'Look!' senala algo que ocurre ahora -> Continuous." },
+    { "id": "t1-028", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "These days, more and more people ___ from home.", "options": ["are working", "work", "works"], "answer": "are working", "explanation": "Tendencia que cambia -> Present Continuous." },
+    { "id": "t1-029", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "My English ___ slowly.", "options": ["is improving", "improves", "improve"], "answer": "is improving", "explanation": "Situacion que se desarrolla -> Continuous." },
+    { "id": "t1-030", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "You ___ your keys! (queja)", "options": ["are always losing", "always lose", "are losing always"], "answer": "are always losing", "explanation": "always + Continuous = accion repetida y molesta." },
+    { "id": "t1-031", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "I ___ a book by Orwell at the moment.", "options": ["am reading", "read", "reads"], "answer": "am reading", "explanation": "Situacion temporal alrededor de ahora -> Continuous." },
+    { "id": "t1-032", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "The climate ___ warmer.", "options": ["is getting", "gets", "get"], "answer": "is getting", "explanation": "Cambio / evolucion -> Continuous." },
+    { "id": "t1-033", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "She ___ with her parents until she finds a flat.", "options": ["is living", "lives", "live"], "answer": "is living", "explanation": "Situacion temporal -> Continuous." },
+    { "id": "t1-034", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "Why ___ at me?", "options": ["are you looking", "do you look", "you are looking"], "answer": "are you looking", "explanation": "Accion en este momento -> Continuous; orden auxiliar + sujeto + -ing." },
+    { "id": "t1-035", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "This year prices ___ all the time.", "options": ["are rising", "rise", "rises"], "answer": "are rising", "explanation": "Cambio en curso (this year) -> Continuous." },
+    { "id": "t1-036", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "He ___ really hard for his exams this week.", "options": ["is studying", "studies", "study"], "answer": "is studying", "explanation": "Periodo temporal (this week) -> Continuous." },
+    { "id": "t1-037", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "Listen! Someone ___ the piano.", "options": ["is playing", "plays", "play"], "answer": "is playing", "explanation": "'Listen!' -> algo que ocurre ahora -> Continuous." },
+    { "id": "t1-038", "subtopic": "present-continuous-usos", "type": "mcq", "prompt": "The number of tourists ___ at the moment because of the festival.", "options": ["is increasing", "increases", "increase"], "answer": "is increasing", "explanation": "'at the moment' -> Continuous." },
+
+    { "id": "t1-039", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: They ___ (have) lunch right now.", "accept": ["are having"], "answer": "are having", "explanation": "'have lunch' es accion -> am/is/are + having." },
+    { "id": "t1-040", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: He ___ (run) in the park.", "accept": ["is running"], "answer": "is running", "explanation": "Silaba consonante-vocal-consonante -> se dobla la consonante: running." },
+    { "id": "t1-041", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: I ___ (write) an email.", "accept": ["am writing", "'m writing"], "answer": "am writing", "explanation": "Termina en -e muda -> write -> writing." },
+    { "id": "t1-042", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: We ___ (sit) in the garden.", "accept": ["are sitting"], "answer": "are sitting", "explanation": "Consonante-vocal-consonante -> sitting." },
+    { "id": "t1-043", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: She ___ (lie) on the sofa.", "accept": ["is lying"], "answer": "is lying", "explanation": "-ie -> -ying: lying." },
+    { "id": "t1-044", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: It ___ (get) dark.", "accept": ["is getting"], "answer": "is getting", "explanation": "Consonante-vocal-consonante -> getting." },
+    { "id": "t1-045", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: You ___ (make) too much noise.", "accept": ["are making"], "answer": "are making", "explanation": "-e muda -> making." },
+    { "id": "t1-046", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: The dog ___ (swim) across the river.", "accept": ["is swimming"], "answer": "is swimming", "explanation": "Consonante-vocal-consonante -> swimming." },
+    { "id": "t1-047", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: I ___ (study) for my test.", "accept": ["am studying", "'m studying"], "answer": "am studying", "explanation": "La -y se mantiene: studying." },
+    { "id": "t1-048", "subtopic": "present-continuous-forma", "type": "gap", "prompt": "Completa: They ___ (travel) around Asia.", "accept": ["are travelling", "are traveling"], "answer": "are travelling", "explanation": "En ingles britanico se dobla la -l: travelling (AmE: traveling)." },
+    { "id": "t1-049", "subtopic": "present-continuous-forma", "type": "mcq", "prompt": "He ___ to me.", "options": ["isn't listening", "doesn't listening", "not listening"], "answer": "isn't listening", "explanation": "Negativa: isn't / aren't / 'm not + -ing." },
+    { "id": "t1-050", "subtopic": "present-continuous-forma", "type": "mcq", "prompt": "___ with us?", "options": ["Are you coming", "Do you coming", "You are coming"], "answer": "Are you coming", "explanation": "Pregunta: Are + sujeto + -ing." },
+
+    { "id": "t1-051", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "___, I'm staying at a hotel.", "options": ["At the moment", "Every day", "Usually"], "answer": "At the moment", "explanation": "'At the moment' acompana al Present Continuous." },
+    { "id": "t1-052", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "We ___ abroad in summer.", "options": ["usually go", "go usually", "are usually going"], "answer": "usually go", "explanation": "El adverbio de frecuencia va antes del verbo principal." },
+    { "id": "t1-053", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "___ she reads before bed.", "options": ["Every night", "Right now", "At present"], "answer": "Every night", "explanation": "'Every night' -> habito -> Present Simple." },
+    { "id": "t1-054", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "He ___ late for meetings.", "options": ["is always", "always is", "is being always"], "answer": "is always", "explanation": "Con el verbo 'be' el adverbio va despues: is always." },
+    { "id": "t1-055", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "Que grupo de palabras indica Present Continuous?", "options": ["now, at the moment, Look!", "every day, usually, on Mondays", "always, often, never"], "answer": "now, at the moment, Look!", "explanation": "Marcan una accion en curso." },
+    { "id": "t1-056", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "___ I hardly ever watch TV.", "options": ["These days", "Right now", "At this moment"], "answer": "These days", "explanation": "'These days' + habito actual -> Present Simple (watch)." },
+    { "id": "t1-057", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "Nowadays people ___ more and more attention to health.", "options": ["are paying", "pay", "pays"], "answer": "are paying", "explanation": "'Nowadays' + tendencia que cambia -> Continuous." },
+    { "id": "t1-058", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "Cual tiene el adverbio bien colocado?", "options": ["Tom always walks to school.", "Tom walks always to school.", "Always Tom walks to school.", "Tom walks to school always."], "answer": "Tom always walks to school.", "explanation": "Adverbio de frecuencia antes del verbo principal." },
+    { "id": "t1-059", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "How often ___ to the gym?", "options": ["do you go", "are you going", "you go"], "answer": "do you go", "explanation": "'How often' pregunta por frecuencia -> Present Simple." },
+    { "id": "t1-060", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "___ this weekend?", "options": ["What are you doing", "What do you do", "What you are doing"], "answer": "What are you doing", "explanation": "Plan futuro acordado -> Present Continuous." },
+    { "id": "t1-061", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "I ___ get up early on Sundays.", "options": ["never", "now", "at the moment"], "answer": "never", "explanation": "Adverbio de frecuencia -> Present Simple." },
+    { "id": "t1-062", "subtopic": "marcadores-temporales", "type": "mcq", "prompt": "The kids are watching cartoons ___.", "options": ["right now", "every morning", "on Saturdays"], "answer": "right now", "explanation": "El Continuous pide un marcador de 'ahora'." },
+
+    { "id": "t1-063", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "I ___ what you mean.", "options": ["know", "am knowing", "knows"], "answer": "know", "explanation": "'know' es verbo de estado: no va en -ing." },
+    { "id": "t1-064", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "She ___ this song.", "options": ["loves", "is loving", "love"], "answer": "loves", "explanation": "'love' (emocion) es estativo -> Simple." },
+    { "id": "t1-065", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "This book ___ to the library.", "options": ["belongs", "is belonging", "belong"], "answer": "belongs", "explanation": "'belong' (posesion) es estativo." },
+    { "id": "t1-066", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "___ a bigger size?", "options": ["Do you want", "Are you wanting", "You want"], "answer": "Do you want", "explanation": "'want' es estativo -> Present Simple." },
+    { "id": "t1-067", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "I ___ you completely.", "options": ["understand", "am understanding", "understands"], "answer": "understand", "explanation": "'understand' es estativo." },
+    { "id": "t1-068", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "The bottle ___ two litres.", "options": ["contains", "is containing", "contain"], "answer": "contains", "explanation": "'contain' es estativo (contenido / medida)." },
+    { "id": "t1-069", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "They ___ three cars.", "options": ["own", "are owning", "owns"], "answer": "own", "explanation": "'own' (posesion) es estativo." },
+    { "id": "t1-070", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "It ___ like a good idea.", "options": ["seems", "is seeming", "seem"], "answer": "seems", "explanation": "'seem' es estativo." },
+    { "id": "t1-071", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "This ___ a lot of money.", "options": ["costs", "is costing", "cost"], "answer": "costs", "explanation": "'cost' (precio) es estativo." },
+    { "id": "t1-072", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "I ___ tea to coffee.", "options": ["prefer", "am preferring", "prefers"], "answer": "prefer", "explanation": "'prefer' es estativo." },
+    { "id": "t1-073", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "___ me? We met last year.", "options": ["Do you remember", "Are you remembering", "You remember"], "answer": "Do you remember", "explanation": "'remember' es estativo." },
+    { "id": "t1-074", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "The box ___ five kilos.", "options": ["weighs", "is weighing", "weigh"], "answer": "weighs", "explanation": "Aqui 'weigh' expresa una medida -> estativo." },
+    { "id": "t1-075", "subtopic": "verbos-de-estado", "type": "mcq", "prompt": "She ___ that ghosts exist.", "options": ["believes", "is believing", "believe"], "answer": "believes", "explanation": "'believe' (opinion) es estativo." },
+
+    { "id": "t1-076", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "I ___ it's a great film.", "options": ["think", "am thinking", "thinks"], "answer": "think", "explanation": "'think' = opinar -> estativo -> Simple." },
+    { "id": "t1-077", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "Wait - I ___ about your question.", "options": ["am thinking", "think", "thinks"], "answer": "am thinking", "explanation": "'think' = reflexionar -> accion -> Continuous." },
+    { "id": "t1-078", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "We ___ a car.", "options": ["have", "are having", "has"], "answer": "have", "explanation": "'have' = poseer -> estativo." },
+    { "id": "t1-079", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "We ___ a party on Saturday.", "options": ["are having", "have", "has"], "answer": "are having", "explanation": "'have a party' = actividad / plan -> Continuous." },
+    { "id": "t1-080", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "This soup ___ delicious.", "options": ["tastes", "is tasting", "taste"], "answer": "tastes", "explanation": "'taste' = percepcion -> estativo." },
+    { "id": "t1-081", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "The chef ___ the sauce.", "options": ["is tasting", "tastes", "taste"], "answer": "is tasting", "explanation": "'taste' = accion voluntaria -> Continuous." },
+    { "id": "t1-082", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "I ___ what you mean now.", "options": ["see", "am seeing", "sees"], "answer": "see", "explanation": "'see' = entender / percibir -> estativo." },
+    { "id": "t1-083", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "I ___ the dentist tomorrow.", "options": ["am seeing", "see", "sees"], "answer": "am seeing", "explanation": "'see' = tener una cita -> accion / plan -> Continuous." },
+    { "id": "t1-084", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "Stop it! You ___ silly.", "options": ["are being", "are", "is being"], "answer": "are being", "explanation": "'be' = conducta puntual -> Continuous (are being silly)." },
+    { "id": "t1-085", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "That picture ___ nice.", "options": ["looks", "is looking", "look"], "answer": "looks", "explanation": "'look' = parecer -> estativo." },
+    { "id": "t1-086", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "Why ___ at your phone?", "options": ["are you looking", "do you look", "you are looking"], "answer": "are you looking", "explanation": "'look at' = mirar -> accion -> Continuous." },
+    { "id": "t1-087", "subtopic": "verbos-estado-o-accion", "type": "mcq", "prompt": "The baby ___ 4 kilos now.", "options": ["weighs", "is weighing", "weigh"], "answer": "weighs", "explanation": "Medida / estado -> Simple; 'is weighing' seria la accion de pesar en una balanza." },
+
+    { "id": "t1-088", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "Normally I ___ at home, but this week I ___ in the office.", "options": ["work / am working", "am working / work", "work / work"], "answer": "work / am working", "explanation": "Habito -> Simple; situacion temporal (this week) -> Continuous." },
+    { "id": "t1-089", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "- What ___? - I'm a nurse.", "options": ["do you do", "are you doing", "you do"], "answer": "do you do", "explanation": "Pregunta por la profesion -> Present Simple." },
+    { "id": "t1-090", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "- What ___ right now? - Cooking.", "options": ["are you doing", "do you do", "you are doing"], "answer": "are you doing", "explanation": "Accion en este momento -> Continuous." },
+    { "id": "t1-091", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "My sister ___ usually cook, but tonight she ___ pasta.", "options": ["doesn't / is making", "isn't / makes", "doesn't / makes"], "answer": "doesn't / is making", "explanation": "Habito negativo -> Simple; excepcion de esta noche -> Continuous." },
+    { "id": "t1-092", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "We ___ dinner at 8 every day, but today we ___ early.", "options": ["have / are having", "are having / have", "have / have"], "answer": "have / are having", "explanation": "Rutina -> Simple; hoy (excepcion) -> Continuous." },
+    { "id": "t1-093", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "According to the timetable, the plane ___ at 6 a.m.", "options": ["leaves", "is leaving", "leave"], "answer": "leaves", "explanation": "Horario fijo, aunque sea futuro -> Present Simple." },
+    { "id": "t1-094", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "I ___ Sarah for lunch tomorrow.", "options": ["am meeting", "meet", "meets"], "answer": "am meeting", "explanation": "Cita personal acordada -> Present Continuous para el futuro." },
+    { "id": "t1-095", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "He ___ me! It's so annoying.", "options": ["is always interrupting", "always interrupts", "interrupts always"], "answer": "is always interrupting", "explanation": "Queja por accion repetida -> always + Continuous." },
+    { "id": "t1-096", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "She ___ from Italy, but right now she ___ in Spain.", "options": ["comes / is living", "is coming / lives", "comes / lives"], "answer": "comes / is living", "explanation": "Origen = hecho permanente -> Simple; residencia temporal -> Continuous." },
+    { "id": "t1-097", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "This year I ___ to eat more vegetables.", "options": ["am trying", "try", "tries"], "answer": "am trying", "explanation": "Esfuerzo temporal en curso (this year) -> Continuous." },
+    { "id": "t1-098", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "Bees ___ honey; look, this one ___ nectar.", "options": ["make / is collecting", "are making / collects", "make / collects"], "answer": "make / is collecting", "explanation": "Verdad general -> Simple; accion visible ahora (look) -> Continuous." },
+    { "id": "t1-099", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "___ often ___ here in winter?", "options": ["Does it / snow", "Is it / snowing", "Does it / snows"], "answer": "Does it / snow", "explanation": "Pregunta sobre frecuencia (often) -> Present Simple: Does + it + base." },
+    { "id": "t1-100", "subtopic": "contraste-simple-continuo", "type": "mcq", "prompt": "Why ___ your coat? Is it cold in here?", "options": ["are you wearing", "do you wear", "you are wearing"], "answer": "are you wearing", "explanation": "Accion inusual en este momento -> Continuous (vs 'do you wear' = habito)." }
+  ]
+}

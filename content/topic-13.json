@@ -1,0 +1,232 @@
+{
+  "id": 13,
+  "slug": "cleft-sentences",
+  "level": "C2",
+  "title": "Cleft sentences y focalizacion",
+  "lesson": {
+    "intro": "Una oracion <strong>escindida</strong> (cleft) parte una frase en dos para <strong>destacar</strong> un elemento y, a menudo, <strong>contrastarlo</strong> o corregirlo. Los dos moldes basicos: <code>It + be + X + that/who...</code> (it-cleft) y <code>What + oracion + be + X</code> (wh-cleft o pseudo-cleft), donde <em>X</em> es la informacion que quieres resaltar.",
+    "sections": [
+      {
+        "subtopic": "it-clefts",
+        "heading": "1 - It-clefts",
+        "body": "<p>Estructura: <code>It + be + [elemento destacado] + that / who</code> + resto.</p><p>Sirve para poner el foco (y a menudo contrastar) en un sujeto, objeto, complemento o circunstancial. Personas: <em>who</em> o <em>that</em>; lugar / tiempo: <em>that</em> (no <em>where</em> / <em>when</em>). <em>be</em> concuerda con <em>it</em> (normalmente <em>is / was</em>). El verbo principal <strong>no</strong> se focaliza con un it-cleft.</p>",
+        "examples": [
+          "<strong>It was John who</strong> broke the window.",
+          "<strong>It was in Paris that</strong> they met.",
+          "<strong>It wasn't me who</strong> told her.",
+          "<strong>It is only now that</strong> I understand."
+        ]
+      },
+      {
+        "subtopic": "wh-clefts",
+        "heading": "2 - Wh-clefts (pseudo-clefts)",
+        "body": "<p>Estructura: <code>What + [oracion] + be + [foco]</code>. El foco (informacion nueva) va al <strong>final</strong>.</p><p>Muy util para \"preparar el terreno\" antes de dar el dato importante. <em>be</em> concuerda con el foco: <em>What I need is a rest</em> / <em>What I need are new shoes</em>.</p>",
+        "examples": [
+          "<strong>What I need is</strong> a holiday.",
+          "<strong>What surprised me was</strong> his reaction.",
+          "<strong>What matters is</strong> the result, not the effort.",
+          "<strong>What happened was</strong> that the deal fell through."
+        ]
+      },
+      {
+        "subtopic": "all-clefts",
+        "heading": "3 - All-clefts",
+        "body": "<p>Como un wh-cleft pero con <code>All (that)</code> en lugar de <em>What</em>. Anade el matiz de <strong>\"solo esto y nada mas\"</strong>. El <em>that</em> es opcional.</p>",
+        "examples": [
+          "<strong>All I want is</strong> a coffee.",
+          "<strong>All you have to do is</strong> ask.",
+          "<strong>All she said was</strong> \"sorry\".",
+          "<strong>All we can do is</strong> wait."
+        ]
+      },
+      {
+        "subtopic": "the-thing-clefts",
+        "heading": "4 - The reason / the thing / the place ... is ...",
+        "body": "<p>Variantes del wh-cleft con un <strong>sustantivo</strong> (the reason, the thing, the person, the place, the day, the moment) + clausula de relativo + <code>be</code> + foco.</p>",
+        "examples": [
+          "<strong>The reason (why) I called is</strong> to invite you.",
+          "<strong>The thing that annoys me is</strong> the noise.",
+          "<strong>The place where we met was</strong> a small cafe.",
+          "<strong>The one thing you mustn't do is</strong> panic."
+        ]
+      },
+      {
+        "subtopic": "reverse-wh-clefts",
+        "heading": "5 - Wh-clefts invertidos",
+        "body": "<p>Se le da la vuelta al wh-cleft: <code>[foco] + be + what-clause</code>. Muy comun al <strong>senalar</strong> algo o <strong>resumir</strong>.</p>",
+        "examples": [
+          "A holiday <strong>is what</strong> we all need.",
+          "That <strong>is what</strong> I meant.",
+          "Trust <strong>is what</strong> a team is built on.",
+          "Results <strong>are what</strong> count, not promises."
+        ]
+      },
+      {
+        "subtopic": "clefts-verbo-do",
+        "heading": "6 - Clefts que enfatizan la accion",
+        "body": "<p>Para destacar lo que alguien <strong>hizo</strong>: <code>What + sujeto + do/does/did + be + (to) infinitivo</code>. El <em>to</em> es opcional.</p><p>Tambien: <code>All he did was + (to) infinitivo</code>.</p>",
+        "examples": [
+          "<strong>What he did was</strong> (to) ignore the warning.",
+          "<strong>What we need to do is</strong> act now.",
+          "<strong>All they did was</strong> laugh.",
+          "<strong>What I'll do is</strong> call the police."
+        ]
+      },
+      {
+        "subtopic": "foco-y-registro",
+        "heading": "7 - Para que sirven y su registro",
+        "body": "<p>Los clefts sirven para <strong>focalizar</strong> un elemento, <strong>contrastar o corregir</strong> (<em>It was Ana, not Sara, who called</em>) e introducir informacion nueva de forma ordenada.</p><p>It-clefts: tipicos de la escritura y el habla formal. Wh-clefts: comunes en habla y escritura para conducir al oyente hacia el punto clave. Abusar de ellos hace el texto pesado.</p>",
+        "examples": [
+          "It was Ana, not Sara, who called. (correccion)",
+          "What's important is that everyone is safe. (enmarca el punto clave)",
+          "It is with great sadness that we announce... (tono ceremonial)"
+        ]
+      },
+      {
+        "subtopic": "contraste-clefts",
+        "heading": "8 - Transformar a oracion escindida",
+        "body": "<p>Elige el elemento que quieres destacar:</p><ul><li>Nombre / circunstancia &rarr; <code>It + be + X + that/who...</code></li><li>Lo que se necesita / quiere / importa &rarr; <code>What + oracion + be + X</code></li><li>Una accion &rarr; <code>What + sujeto + did + be + (to) infinitivo</code></li></ul><p>Cualquier wh-cleft se puede invertir (<em>X is what...</em>). Errores: <em>where/when</em> en it-clefts (usa <em>that</em>); <em>it</em> de mas en wh-clefts.</p>",
+        "examples": [
+          "Ana wrote the report. &rarr; <strong>It was Ana who</strong> wrote the report.",
+          "I need a break. &rarr; <strong>What I need is</strong> a break.",
+          "She resigned. &rarr; <strong>What she did was</strong> resign."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Tipos de oracion escindida (cleft)",
+      "headers": ["Tipo", "Patron", "Ejemplo"],
+      "rows": [
+        ["It-cleft", "It + be + X + that/who...", "<strong>It was John who</strong> broke it."],
+        ["Wh-cleft", "What + oracion + be + X", "<strong>What I need is</strong> a rest."],
+        ["All-cleft", "All (that) + oracion + be + X", "<strong>All I want is</strong> peace."],
+        ["The-thing cleft", "The reason/thing/place... + be + X", "<strong>The reason I called is</strong>..."],
+        ["Wh-cleft invertido", "X + be + what-clause", "A rest <strong>is what I need</strong>."],
+        ["Cleft de accion", "What + sujeto + did + be + (to) inf.", "<strong>What he did was</strong> resign."]
+      ]
+    },
+    "mistakes": [
+      "NO: It was in the park <em>where</em> we met.  ->  SI: It was in the park <strong>that</strong> we met.",
+      "NO: It was yesterday <em>when</em> I saw her.  ->  SI: It was yesterday <strong>that</strong> I saw her.",
+      "NO: What I want <em>it is</em> a holiday.  ->  SI: What I want <strong>is</strong> a holiday.",
+      "NO: <em>That I want</em> is peace.  ->  SI: <strong>What I want</strong> is peace.",
+      "NO: What he did was <em>resigned</em>.  ->  SI: What he did was <strong>(to) resign</strong>.",
+      "NO: It <em>were</em> the workers who complained.  ->  SI: It <strong>was</strong> the workers who complained.",
+      "NO: It is his courage <em>what</em> I admire.  ->  SI: It is his courage <strong>that</strong> I admire."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Cleft sentences (it, what)", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/cleft-sentences-it-what" },
+      { "label": "Cambridge Dictionary Grammar - Cleft sentences", "url": "https://dictionary.cambridge.org/grammar/british-grammar/cleft-sentences-it-was-in-june-we-got-married" },
+      { "label": "Test-English - Cleft sentences: focus (C1)", "url": "https://test-english.com/grammar-points/c1/cleft-sentences-focus/" }
+    ]
+  },
+  "questions": [
+    { "id": "t13-001", "subtopic": "it-clefts", "type": "mcq", "prompt": "'John broke the window.' Destaca 'John': 'It ___ John who broke the window.'", "options": ["was", "did", "is broke"], "answer": "was", "explanation": "It + was + X + who..." },
+    { "id": "t13-002", "subtopic": "it-clefts", "type": "mcq", "prompt": "En un it-cleft, tras 'It + be' ponemos:", "options": ["el elemento destacado", "el verbo", "la frase entera"], "answer": "el elemento destacado", "explanation": "El foco va justo detras de 'It was/is'." },
+    { "id": "t13-003", "subtopic": "it-clefts", "type": "mcq", "prompt": "'It was in Paris ___ they met.'", "options": ["that", "who", "which"], "answer": "that", "explanation": "Con lugar / tiempo se usa 'that', no 'where'/'when'." },
+    { "id": "t13-004", "subtopic": "it-clefts", "type": "mcq", "prompt": "Para focalizar una persona podemos usar ___ o 'that'.", "options": ["who", "which", "what"], "answer": "who", "explanation": "It was Ana who / that called." },
+    { "id": "t13-005", "subtopic": "it-clefts", "type": "mcq", "prompt": "'It ___ yesterday that I saw her, not today.'", "options": ["was", "did", "is"], "answer": "was", "explanation": "It + was + circunstancial + that (contraste)." },
+    { "id": "t13-006", "subtopic": "it-clefts", "type": "mcq", "prompt": "Los it-clefts sirven para:", "options": ["resaltar / contrastar una parte de la frase", "acortar la frase", "hacer una pregunta"], "answer": "resaltar / contrastar una parte de la frase", "explanation": "Focalizacion y contraste." },
+    { "id": "t13-007", "subtopic": "it-clefts", "type": "mcq", "prompt": "'It was the noise ___ woke me up.'", "options": ["that", "who", "what"], "answer": "that", "explanation": "Cosa -> that." },
+    { "id": "t13-008", "subtopic": "it-clefts", "type": "mcq", "prompt": "'It's not what you say, ___ how you say it.'", "options": ["it's", "that", "which"], "answer": "it's", "explanation": "Contraste con dos clausulas 'it's... it's...'." },
+    { "id": "t13-009", "subtopic": "it-clefts", "type": "mcq", "prompt": "Cual es un it-cleft correcto?", "options": ["It was here that I lost my keys.", "It was here where I lost my keys.", "It here that I lost my keys."], "answer": "It was here that I lost my keys.", "explanation": "Se usa 'that', no 'where'." },
+    { "id": "t13-010", "subtopic": "it-clefts", "type": "mcq", "prompt": "'It wasn't me ___ told her.'", "options": ["who", "which", "what"], "answer": "who", "explanation": "Persona -> who." },
+    { "id": "t13-011", "subtopic": "it-clefts", "type": "mcq", "prompt": "El verbo 'be' de un it-cleft concuerda con:", "options": ["'it' (normalmente singular: is/was)", "el nombre destacado", "la clausula de 'that'"], "answer": "'it' (normalmente singular: is/was)", "explanation": "Aunque el foco sea plural, se dice 'It was the workers who...'." },
+    { "id": "t13-012", "subtopic": "it-clefts", "type": "mcq", "prompt": "'It is only now ___ I understand.'", "options": ["that", "when", "which"], "answer": "that", "explanation": "Con tiempo -> 'that'." },
+    { "id": "t13-013", "subtopic": "it-clefts", "type": "mcq", "prompt": "Con un it-cleft se puede focalizar casi cualquier elemento EXCEPTO:", "options": ["el verbo principal (para eso se usa un wh-cleft)", "un sustantivo", "un circunstancial"], "answer": "el verbo principal (para eso se usa un wh-cleft)", "explanation": "'What he did was...' focaliza la accion." },
+
+    { "id": "t13-014", "subtopic": "wh-clefts", "type": "mcq", "prompt": "'I need a holiday.' -> 'What I need ___ a holiday.'", "options": ["is", "are", "was need"], "answer": "is", "explanation": "What + oracion + be + foco." },
+    { "id": "t13-015", "subtopic": "wh-clefts", "type": "mcq", "prompt": "Un wh-cleft suele empezar por:", "options": ["What", "It", "That"], "answer": "What", "explanation": "What + [oracion] + be + [foco]." },
+    { "id": "t13-016", "subtopic": "wh-clefts", "type": "mcq", "prompt": "En 'What surprised me was his reaction', el foco (info nueva) es:", "options": ["his reaction", "What", "surprised"], "answer": "his reaction", "explanation": "El elemento tras 'be' recibe el enfasis." },
+    { "id": "t13-017", "subtopic": "wh-clefts", "type": "mcq", "prompt": "'What you should do ___ apologise.'", "options": ["is", "are", "do is"], "answer": "is", "explanation": "What + oracion + is + foco." },
+    { "id": "t13-018", "subtopic": "wh-clefts", "type": "mcq", "prompt": "Los wh-clefts colocan el foco:", "options": ["al final (tras 'be')", "al principio", "en el medio"], "answer": "al final (tras 'be')", "explanation": "Preparan el terreno y luego dan el dato clave." },
+    { "id": "t13-019", "subtopic": "wh-clefts", "type": "mcq", "prompt": "'What I like about her ___ her honesty.'", "options": ["is", "are", "likes"], "answer": "is", "explanation": "be concuerda con 'her honesty' (singular)." },
+    { "id": "t13-020", "subtopic": "wh-clefts", "type": "gap", "prompt": "Reescribe: 'I hate his arrogance.' -> 'What I hate ___ his arrogance.'", "accept": ["is"], "answer": "is", "explanation": "What + oracion + is + foco." },
+    { "id": "t13-021", "subtopic": "wh-clefts", "type": "mcq", "prompt": "'What happened ___ that the deal fell through.'", "options": ["was", "were", "did"], "answer": "was", "explanation": "What happened + was + that-clause." },
+    { "id": "t13-022", "subtopic": "wh-clefts", "type": "mcq", "prompt": "'What we did ___ complain to the manager.'", "options": ["was", "did", "were"], "answer": "was", "explanation": "What we did + was + (to) infinitivo." },
+    { "id": "t13-023", "subtopic": "wh-clefts", "type": "mcq", "prompt": "Los wh-clefts son comunes en:", "options": ["ingles hablado y escrito, para ordenar la informacion", "solo en textos legales", "nunca"], "answer": "ingles hablado y escrito, para ordenar la informacion", "explanation": "Recurso muy usado en ambos medios." },
+    { "id": "t13-024", "subtopic": "wh-clefts", "type": "mcq", "prompt": "'What matters ___ the result, not the effort.'", "options": ["is", "are", "matter"], "answer": "is", "explanation": "be concuerda con 'the result'." },
+    { "id": "t13-025", "subtopic": "wh-clefts", "type": "mcq", "prompt": "Cual es un wh-cleft correcto?", "options": ["What I want is some peace and quiet.", "What I want it is peace.", "That I want is peace."], "answer": "What I want is some peace and quiet.", "explanation": "Sin 'it' extra; con 'What', no 'That'." },
+    { "id": "t13-026", "subtopic": "wh-clefts", "type": "mcq", "prompt": "El 'be' de un wh-cleft concuerda normalmente con:", "options": ["el foco que va detras (What I need are new shoes)", "'what', siempre singular", "el sujeto de la clausula"], "answer": "el foco que va detras (What I need are new shoes)", "explanation": "Si el foco es plural, el verbo va en plural." },
+
+    { "id": "t13-027", "subtopic": "all-clefts", "type": "mcq", "prompt": "'All ___ want is a coffee.'", "options": ["I", "me", "my"], "answer": "I", "explanation": "All (that) I want... - el 'that' es opcional." },
+    { "id": "t13-028", "subtopic": "all-clefts", "type": "mcq", "prompt": "Los all-clefts sugieren:", "options": ["'solo esto y nada mas'", "'todo'", "una pregunta"], "answer": "'solo esto y nada mas'", "explanation": "'All I want' = lo unico que quiero." },
+    { "id": "t13-029", "subtopic": "all-clefts", "type": "mcq", "prompt": "'All you have to do ___ ask.'", "options": ["is", "are", "do is"], "answer": "is", "explanation": "All + oracion + is + (to) infinitivo." },
+    { "id": "t13-030", "subtopic": "all-clefts", "type": "mcq", "prompt": "'All (that) she said ___ 'sorry'.'", "options": ["was", "were", "said"], "answer": "was", "explanation": "All + oracion + was + foco." },
+    { "id": "t13-031", "subtopic": "all-clefts", "type": "mcq", "prompt": "'All I did ___ tell the truth.'", "options": ["was", "did", "was to"], "answer": "was", "explanation": "All I did was (to) tell the truth." },
+    { "id": "t13-032", "subtopic": "all-clefts", "type": "mcq", "prompt": "'All' en un all-cleft significa aproximadamente:", "options": ["'lo unico que'", "'mucho'", "'nada'"], "answer": "'lo unico que'", "explanation": "Reduce y limita: 'lo unico'." },
+    { "id": "t13-033", "subtopic": "all-clefts", "type": "gap", "prompt": "Reescribe: 'I only want to help.' -> 'All I want ___ to help.'", "accept": ["is"], "answer": "is", "explanation": "All I want + is + to help." },
+    { "id": "t13-034", "subtopic": "all-clefts", "type": "mcq", "prompt": "'All that remains ___ to sign the contract.'", "options": ["is", "are", "remain"], "answer": "is", "explanation": "All that remains + is + to + infinitivo." },
+    { "id": "t13-035", "subtopic": "all-clefts", "type": "mcq", "prompt": "El 'that' de 'All that I know' es:", "options": ["opcional (se puede omitir)", "obligatorio", "incorrecto"], "answer": "opcional (se puede omitir)", "explanation": "'All I know' = 'All that I know'." },
+    { "id": "t13-036", "subtopic": "all-clefts", "type": "mcq", "prompt": "'All we can do ___ wait.'", "options": ["is", "are", "can"], "answer": "is", "explanation": "All we can do + is + (to) infinitivo." },
+    { "id": "t13-037", "subtopic": "all-clefts", "type": "mcq", "prompt": "Cual transmite 'nada mas que esto'?", "options": ["All I asked for was a little respect.", "I asked for a lot of things.", "-"], "answer": "All I asked for was a little respect.", "explanation": "'All ... was' limita a una sola cosa." },
+    { "id": "t13-038", "subtopic": "all-clefts", "type": "mcq", "prompt": "Los all-clefts son un tipo especial de:", "options": ["wh-cleft", "it-cleft", "cleft invertido"], "answer": "wh-cleft", "explanation": "'All' sustituye a 'What'." },
+
+    { "id": "t13-039", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The reason ___ I called is to invite you.'", "options": ["(why)", "that why", "for"], "answer": "(why)", "explanation": "the reason (why) + oracion + be + foco." },
+    { "id": "t13-040", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The thing ___ annoys me is the noise.'", "options": ["that", "what", "which"], "answer": "that", "explanation": "the thing that + verbo." },
+    { "id": "t13-041", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The place ___ we met was a small cafe.'", "options": ["where", "that where", "which"], "answer": "where", "explanation": "the place where + oracion." },
+    { "id": "t13-042", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The person ___ helped me was a stranger.'", "options": ["who", "which", "what"], "answer": "who", "explanation": "the person who + verbo." },
+    { "id": "t13-043", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The thing I regret most ___ not travelling more.'", "options": ["is", "are", "regret"], "answer": "is", "explanation": "the thing... + is + foco." },
+    { "id": "t13-044", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The reason (why) she left ___ never explained.'", "options": ["was", "were", "did"], "answer": "was", "explanation": "the reason... + was + foco." },
+    { "id": "t13-045", "subtopic": "the-thing-clefts", "type": "gap", "prompt": "Reescribe: 'I called to say thank you.' -> 'The reason I called ___ to say thank you.'", "accept": ["is", "was"], "answer": "is", "explanation": "The reason I called + is + to + infinitivo." },
+    { "id": "t13-046", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "Los clefts con 'the thing / the reason / the place' funcionan como:", "options": ["wh-clefts con un sustantivo en lugar de 'what'", "it-clefts", "inversiones"], "answer": "wh-clefts con un sustantivo en lugar de 'what'", "explanation": "Mismo mecanismo que 'What...'." },
+    { "id": "t13-047", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'What I admire is her courage' se puede reformular como:", "options": ["The thing I admire is her courage.", "It is her courage what I admire.", "-"], "answer": "The thing I admire is her courage.", "explanation": "'The thing' equivale a 'What'." },
+    { "id": "t13-048", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The day ___ everything changed was 3 March.'", "options": ["(when)", "that when", "which"], "answer": "(when)", "explanation": "the day (when) + oracion + be + foco." },
+    { "id": "t13-049", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The one thing you mustn't do ___ panic.'", "options": ["is", "are", "do is"], "answer": "is", "explanation": "the one thing... + is + (to) infinitivo." },
+    { "id": "t13-050", "subtopic": "the-thing-clefts", "type": "mcq", "prompt": "'The moment I realised the truth ___ a shock.'", "options": ["was", "were", "realise"], "answer": "was", "explanation": "the moment... + was + foco." },
+
+    { "id": "t13-051", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'What I need is a rest.' invertido: '___ is what I need.'", "options": ["A rest", "It", "That"], "answer": "A rest", "explanation": "[foco] + be + what-clause." },
+    { "id": "t13-052", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "En un wh-cleft invertido, el foco va:", "options": ["al principio", "al final", "en el medio"], "answer": "al principio", "explanation": "Se antepone lo que se destaca o se senala." },
+    { "id": "t13-053", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'Peace and quiet ___ what I'm looking for.'", "options": ["is", "are", "am"], "answer": "is", "explanation": "'peace and quiet' se trata como una idea unica -> is." },
+    { "id": "t13-054", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'That ___ what I meant.'", "options": ["is", "are", "means"], "answer": "is", "explanation": "That + is + what-clause." },
+    { "id": "t13-055", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'Honesty ___ what matters most to me.'", "options": ["is", "are", "matter"], "answer": "is", "explanation": "[foco singular] + is + what..." },
+    { "id": "t13-056", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "Los wh-clefts invertidos suelen empezar por:", "options": ["'That', 'This' o el sustantivo del foco", "'What' o 'It'", "'The'"], "answer": "'That', 'This' o el sustantivo del foco", "explanation": "Se usan mucho para senalar o resumir." },
+    { "id": "t13-057", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'A holiday ___ what we all need.'", "options": ["is", "are", "need"], "answer": "is", "explanation": "[foco] + is + what-clause." },
+    { "id": "t13-058", "subtopic": "reverse-wh-clefts", "type": "gap", "prompt": "Invierte 'What upset her was the tone.' -> 'The tone ___ what upset her.'", "accept": ["was"], "answer": "was", "explanation": "[foco] + was + what-clause." },
+    { "id": "t13-059", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'This ___ what democracy looks like.'", "options": ["is", "are", "looks"], "answer": "is", "explanation": "This + is + what-clause." },
+    { "id": "t13-060", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'Trust ___ what a good team is built on.'", "options": ["is", "are", "built"], "answer": "is", "explanation": "[foco] + is + what-clause." },
+    { "id": "t13-061", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "'Results ___ what count, not promises.'", "options": ["are", "is", "count"], "answer": "are", "explanation": "Foco plural ('results') -> are." },
+    { "id": "t13-062", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "Los wh-clefts invertidos son comunes cuando:", "options": ["senalas algo o resumes ('That's what I love about it')", "haces preguntas", "-"], "answer": "senalas algo o resumes ('That's what I love about it')", "explanation": "Muy frecuentes al comentar o concluir." },
+    { "id": "t13-063", "subtopic": "reverse-wh-clefts", "type": "mcq", "prompt": "Cual es un wh-cleft invertido?", "options": ["Money is what he cares about.", "What he cares about money.", "It is money what he cares about."], "answer": "Money is what he cares about.", "explanation": "[foco] + is + what-clause." },
+
+    { "id": "t13-064", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "Para enfatizar una ACCION usamos:", "options": ["'What + sujeto + do/does/did + be + (to) infinitivo'", "un it-cleft", "'All that'"], "answer": "'What + sujeto + do/does/did + be + (to) infinitivo'", "explanation": "'What he did was resign.'" },
+    { "id": "t13-065", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "'He ignored the warning.' -> 'What he did ___ ignore the warning.'", "options": ["was", "did", "were"], "answer": "was", "explanation": "What he did + was + (to) infinitivo." },
+    { "id": "t13-066", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "'What she did was (to) resign.' El infinitivo:", "options": ["puede ir con o sin 'to'", "debe llevar 'to'", "debe ser -ing"], "answer": "puede ir con o sin 'to'", "explanation": "'was resign' o 'was to resign'." },
+    { "id": "t13-067", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "'They just laughed.' -> 'What they did ___ laugh.'", "options": ["was", "did", "were"], "answer": "was", "explanation": "What they did + was + (to) infinitivo." },
+    { "id": "t13-068", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "Para una accion futura: 'What I'll do ___ call the police.'", "options": ["is", "was", "will"], "answer": "is", "explanation": "El 'be' del cleft va en presente aunque la accion sea futura." },
+    { "id": "t13-069", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "'What happens next ___ up to you.'", "options": ["is", "are", "happen"], "answer": "is", "explanation": "What happens next + is + foco." },
+    { "id": "t13-070", "subtopic": "clefts-verbo-do", "type": "gap", "prompt": "Reescribe: 'He apologised.' -> 'What he did ___ apologise.'", "accept": ["was", "was to"], "answer": "was", "explanation": "What he did + was + (to) infinitivo." },
+    { "id": "t13-071", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "'All he did ___ complain.'", "options": ["was", "did", "were"], "answer": "was", "explanation": "All he did + was + (to) infinitivo." },
+    { "id": "t13-072", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "'What we need to do ___ act now.'", "options": ["is", "are", "need"], "answer": "is", "explanation": "What we need to do + is + (to) infinitivo." },
+    { "id": "t13-073", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "Esta estructura sirve para:", "options": ["subrayar o dramatizar lo que alguien hizo", "ocultar el sujeto", "preguntar por el momento"], "answer": "subrayar o dramatizar lo que alguien hizo", "explanation": "Pone el foco en la accion." },
+    { "id": "t13-074", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "'What the government should do ___ invest in schools.'", "options": ["is", "are", "should"], "answer": "is", "explanation": "What ... should do + is + (to) infinitivo." },
+    { "id": "t13-075", "subtopic": "clefts-verbo-do", "type": "mcq", "prompt": "Cual enfatiza bien la accion 'he sold the house'?", "options": ["What he did was sell the house.", "What he did was sold the house.", "What he did sell the house."], "answer": "What he did was sell the house.", "explanation": "was + infinitivo sin 'to' (o con 'to')." },
+
+    { "id": "t13-076", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Las oraciones escindidas se usan sobre todo para:", "options": ["focalizar una parte y, a menudo, contrastarla", "alargar frases sin motivo", "formar preguntas"], "answer": "focalizar una parte y, a menudo, contrastarla", "explanation": "Su funcion es la focalizacion." },
+    { "id": "t13-077", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "'It was Ana (not Sara) who called.' - el cleft sirve para:", "options": ["corregir / contrastar", "anadir una pregunta", "suavizar"], "answer": "corregir / contrastar", "explanation": "Marca 'X, no Y'." },
+    { "id": "t13-078", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Los clefts ayudan a gestionar:", "options": ["la estructura de la informacion (dado vs nuevo)", "la ortografia", "los tiempos verbales"], "answer": "la estructura de la informacion (dado vs nuevo)", "explanation": "Organizan que es informacion nueva y que es contexto." },
+    { "id": "t13-079", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Comparado con una frase normal, un cleft es:", "options": ["mas enfatico / marcado", "mas informal", "agramatical"], "answer": "mas enfatico / marcado", "explanation": "Es una version 'marcada' de la frase." },
+    { "id": "t13-080", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Los it-clefts son especialmente comunes en:", "options": ["la escritura y el habla formal", "la jerga de mensajes", "-"], "answer": "la escritura y el habla formal", "explanation": "Registro cuidado." },
+    { "id": "t13-081", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Los wh-clefts son comunes en:", "options": ["habla y escritura, para conducir al oyente al punto clave", "solo textos academicos", "-"], "answer": "habla y escritura, para conducir al oyente al punto clave", "explanation": "Muy usados en ambos medios." },
+    { "id": "t13-082", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Un cleft desplaza la informacion ___ a una posicion prominente.", "options": ["nueva / importante", "vieja", "irrelevante"], "answer": "nueva / importante", "explanation": "Destaca lo que aporta contenido nuevo." },
+    { "id": "t13-083", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "'What's important is that everyone is safe.' El cleft:", "options": ["enmarca el punto clave", "hace una pregunta", "reporta un discurso"], "answer": "enmarca el punto clave", "explanation": "Introduce la idea central de forma destacada." },
+    { "id": "t13-084", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Abusar de los clefts hace que el texto sea:", "options": ["pesado y repetitivo", "siempre mas claro", "mas corto"], "answer": "pesado y repetitivo", "explanation": "Conviene usarlos con moderacion." },
+    { "id": "t13-085", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "'It is with great sadness that we announce...' - este cleft senala:", "options": ["un tono formal, ceremonial", "informalidad", "una broma"], "answer": "un tono formal, ceremonial", "explanation": "Formula tipica de comunicados." },
+    { "id": "t13-086", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "Elegirias un cleft en vez de una frase normal cuando:", "options": ["quieres destacar o contrastar un elemento concreto", "el sentido es neutro", "tienes prisa"], "answer": "quieres destacar o contrastar un elemento concreto", "explanation": "El cleft anade enfasis intencionado." },
+    { "id": "t13-087", "subtopic": "foco-y-registro", "type": "mcq", "prompt": "'The one who should apologise is you.' Pone el peso en:", "options": ["'you'", "'apologise'", "'one'"], "answer": "'you'", "explanation": "El foco va tras 'is'." },
+
+    { "id": "t13-088", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Destaca 'Ana': 'Ana wrote the report.'", "options": ["It was Ana who wrote the report.", "It was wrote Ana the report.", "What Ana the report."], "answer": "It was Ana who wrote the report.", "explanation": "It + was + Ana + who..." },
+    { "id": "t13-089", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Destaca 'in 2010': 'They moved here in 2010.'", "options": ["It was in 2010 that they moved here.", "It was in 2010 when they moved here.", "In 2010 it was that they moved."], "answer": "It was in 2010 that they moved here.", "explanation": "Con tiempo -> 'that', no 'when'." },
+    { "id": "t13-090", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Destaca 'a break': 'I need a break.'", "options": ["What I need is a break.", "It is a break what I need.", "A break what I need."], "answer": "What I need is a break.", "explanation": "What + oracion + is + foco." },
+    { "id": "t13-091", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Destaca la accion 'she resigned':", "options": ["What she did was resign.", "What she did was resigned.", "What did she resign."], "answer": "What she did was resign.", "explanation": "What she did + was + (to) infinitivo." },
+    { "id": "t13-092", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "'The only thing I asked for was honesty.' es un tipo de:", "options": ["wh-cleft (patron 'the thing')", "it-cleft", "cleft invertido"], "answer": "wh-cleft (patron 'the thing')", "explanation": "'the (only) thing' equivale a 'what'." },
+    { "id": "t13-093", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Detecta el error: 'It was in the park where we met.'", "options": ["'that' (no 'where'): 'It was in the park that we met.'", "'It was the park...'", "esta bien"], "answer": "'that' (no 'where'): 'It was in the park that we met.'", "explanation": "En los it-clefts se usa 'that' para lugar y tiempo." },
+    { "id": "t13-094", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Detecta el error: 'What I want it is a holiday.'", "options": ["quita 'it': 'What I want is a holiday.'", "anade 'that'", "esta bien"], "answer": "quita 'it': 'What I want is a holiday.'", "explanation": "El wh-cleft no lleva 'it' extra." },
+    { "id": "t13-095", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Invierte el wh-cleft: 'What annoys me is his tone.'", "options": ["His tone is what annoys me.", "It is his tone what annoys me.", "His tone what annoys me."], "answer": "His tone is what annoys me.", "explanation": "[foco] + is + what-clause." },
+    { "id": "t13-096", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "'It is not until you leave home that you appreciate it.' focaliza:", "options": ["'not until you leave home' (el momento)", "'you'", "'appreciate'"], "answer": "'not until you leave home' (el momento)", "explanation": "El it-cleft destaca el circunstancial temporal." },
+    { "id": "t13-097", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Cual NO tiene cleft (es una frase normal)?", "options": ["He fixed the car.", "It was he who fixed the car.", "What he fixed was the car."], "answer": "He fixed the car.", "explanation": "Las otras dos son clefts." },
+    { "id": "t13-098", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "'All that glitters is not gold' - 'All that glitters' funciona como:", "options": ["sujeto de tipo wh-cleft ('las cosas que brillan')", "un it-cleft", "una inversion"], "answer": "sujeto de tipo wh-cleft ('las cosas que brillan')", "explanation": "'All that + verbo' = un sujeto nominalizado." },
+    { "id": "t13-099", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Para contrastar con fuerza ('X, no Y'), la mejor herramienta suele ser:", "options": ["un it-cleft: 'It was X, not Y, that/who...'", "una frase normal", "una pregunta"], "answer": "un it-cleft: 'It was X, not Y, that/who...'", "explanation": "El it-cleft marca la correccion de forma nitida." },
+    { "id": "t13-100", "subtopic": "contraste-clefts", "type": "mcq", "prompt": "Los clefts parten una oracion en dos partes:", "options": ["una parte 'foco' y otra de 'informacion de fondo'", "solo sujeto y objeto", "dos preguntas"], "answer": "una parte 'foco' y otra de 'informacion de fondo'", "explanation": "Foco (nuevo) + presuposicion (dado)." }
+  ]
+}

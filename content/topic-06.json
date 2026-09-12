@@ -1,0 +1,234 @@
+{
+  "id": 6,
+  "slug": "voz-pasiva",
+  "level": "B2",
+  "title": "La voz pasiva",
+  "lesson": {
+    "intro": "La pasiva cambia el foco: el <strong>objeto</strong> de la accion pasa a ser el sujeto de la frase. Se usa cuando el que hace la accion es <strong>desconocido, evidente o poco importante</strong>, o cuando quieres sonar <strong>impersonal</strong> (textos formales, cientificos, noticias). La formula no cambia nunca: <code>be</code> (en el tiempo que toque) + <strong>participio pasado</strong>.",
+    "sections": [
+      {
+        "subtopic": "pasiva-concepto",
+        "heading": "1 - Voz pasiva: cuando se usa",
+        "body": "<p>Elige la pasiva cuando:</p><ul><li>el agente es <strong>desconocido</strong> (My bike was stolen), <strong>evidente</strong> (The thief was arrested) o <strong>irrelevante</strong>.</li><li>quieres poner el <strong>foco</strong> en quien o que recibe la accion.</li><li>buscas un tono <strong>impersonal / formal</strong> (informes, ciencia, prensa).</li></ul><p>Estructura: <code>be</code> + participio pasado.</p>",
+        "examples": [
+          "My bike <strong>was stolen</strong>.",
+          "English <strong>is spoken</strong> here.",
+          "The bridge <strong>was built</strong> in 1890.",
+          "Mistakes <strong>were made</strong>."
+        ]
+      },
+      {
+        "subtopic": "pasiva-presente",
+        "heading": "2 - Pasiva en presente",
+        "body": "<ul><li><strong>Present simple:</strong> <code>am / is / are</code> + participio &rarr; Rice <strong>is grown</strong> in Asia.</li><li><strong>Present continuous:</strong> <code>am / is / are being</code> + participio &rarr; The road <strong>is being repaired</strong> right now.</li></ul><p>Negativa: <em>isn't / aren't (being)</em> + participio. Pregunta: <em>Is / Are</em> + sujeto + (being) + participio.</p>",
+        "examples": [
+          "These rooms <strong>are cleaned</strong> every day.",
+          "Millions of emails <strong>are sent</strong> every second.",
+          "The house <strong>is being painted</strong> at the moment.",
+          "Where <strong>are</strong> these shoes <strong>made</strong>?"
+        ]
+      },
+      {
+        "subtopic": "pasiva-pasado",
+        "heading": "3 - Pasiva en pasado",
+        "body": "<ul><li><strong>Past simple:</strong> <code>was / were</code> + participio &rarr; The Mona Lisa <strong>was painted</strong> by Leonardo.</li><li><strong>Past continuous:</strong> <code>was / were being</code> + participio &rarr; The room <strong>was being cleaned</strong> when I arrived.</li></ul>",
+        "examples": [
+          "The windows <strong>were cleaned</strong> yesterday.",
+          "This castle <strong>was built</strong> in the 12th century.",
+          "<strong>Was</strong> the package <strong>delivered</strong> on time?",
+          "The stadium <strong>was being built</strong> when the storm hit."
+        ]
+      },
+      {
+        "subtopic": "pasiva-perfect-futuro",
+        "heading": "4 - Pasiva en perfect y futuro",
+        "body": "<ul><li><strong>Present perfect:</strong> <code>has / have been</code> + participio &rarr; The project <strong>has been finished</strong>.</li><li><strong>Futuro con will:</strong> <code>will be</code> + participio &rarr; The winners <strong>will be announced</strong>.</li><li><strong>going to:</strong> <code>is/are going to be</code> + participio.</li><li><strong>Future perfect:</strong> <code>will have been</code> + participio.</li></ul>",
+        "examples": [
+          "The parcel hasn't <strong>been delivered</strong> yet.",
+          "All flights <strong>have been cancelled</strong>.",
+          "Your order <strong>will be shipped</strong> tomorrow.",
+          "A new bridge <strong>is going to be built</strong> here."
+        ]
+      },
+      {
+        "subtopic": "pasiva-modales",
+        "heading": "5 - Pasiva con modales",
+        "body": "<p><code>modal</code> + <code>be</code> + participio: <em>must be done, can be seen, should be taken, has to be sent, might be delayed</em>.</p><p>Negativa: <code>modal</code> + <code>not</code> + <code>be</code> + participio (This switch <strong>must not be touched</strong>).</p>",
+        "examples": [
+          "This form <strong>must be completed</strong> in black ink.",
+          "Nothing <strong>can be done</strong> until tomorrow.",
+          "The homework <strong>should be handed in</strong> by Friday.",
+          "Seatbelts <strong>must be worn</strong> at all times."
+        ]
+      },
+      {
+        "subtopic": "by-agente",
+        "heading": "6 - El agente con 'by'",
+        "body": "<p>Anade <code>by + agente</code> solo cuando aporta informacion <strong>util o inesperada</strong> (written <strong>by Shakespeare</strong>, discovered <strong>by Fleming</strong>).</p><p>Omite el agente si es desconocido, evidente (the thief was arrested [by the police]) o \"la gente en general\".</p><p>Para el <strong>instrumento</strong> se usa <code>with</code>, no <em>by</em>: broken <strong>with</strong> a hammer.</p>",
+        "examples": [
+          "Hamlet was written <strong>by</strong> Shakespeare.",
+          "The town was destroyed <strong>by</strong> the earthquake.",
+          "This house was built in 1900. (agente omitido)",
+          "The window was broken <strong>with</strong> a stone."
+        ]
+      },
+      {
+        "subtopic": "pasiva-transformacion",
+        "heading": "7 - Transformar activa en pasiva",
+        "body": "<p>Tres pasos:</p><ol><li>El <strong>objeto</strong> de la activa pasa a ser el <strong>sujeto</strong> de la pasiva.</li><li>El verbo se pone en <code>be</code> + participio, <strong>en el mismo tiempo</strong> que tenia la activa.</li><li>El sujeto de la activa se vuelve <code>by + agente</code> (opcional).</li></ol><p>Verbos con <strong>dos objetos</strong> (give, send, offer, tell): cualquiera puede ser el sujeto &rarr; <em>Ana was given a prize</em> / <em>A prize was given to Ana</em>.</p>",
+        "examples": [
+          "They sell tickets online. &rarr; Tickets <strong>are sold</strong> online.",
+          "Someone has taken my seat. &rarr; My seat <strong>has been taken</strong>.",
+          "They will paint the house. &rarr; The house <strong>will be painted</strong>.",
+          "The teacher gave Ana a prize. &rarr; Ana <strong>was given</strong> a prize."
+        ]
+      },
+      {
+        "subtopic": "contraste-pasiva",
+        "heading": "8 - Elegir activa o pasiva; errores",
+        "body": "<p>Usa la <strong>activa</strong> cuando el agente es conocido y relevante: es mas directa y clara. No abuses de la pasiva: hace el texto vago y pesado.</p><p>Los verbos <strong>intransitivos</strong> (arrive, happen, fall, come, go, exist...) <strong>no tienen pasiva</strong>.</p><p>En ingles informal se usa <code>get</code> en vez de <em>be</em>: <em>He got fired</em>.</p>",
+        "examples": [
+          "The accident <strong>happened</strong> yesterday. (no 'was happened')",
+          "My phone <strong>got stolen</strong> at the party. (informal)",
+          "The mixture <strong>was heated</strong> to 90 &deg;C. (informe de laboratorio)"
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "La pasiva en cada tiempo",
+      "headers": ["Tiempo", "Forma pasiva", "Ejemplo"],
+      "rows": [
+        ["Present simple", "am/is/are + participio", "Cars <strong>are made</strong> here."],
+        ["Present continuous", "am/is/are being + participio", "A car <strong>is being made</strong> now."],
+        ["Past simple", "was/were + participio", "It <strong>was made</strong> in 1990."],
+        ["Past continuous", "was/were being + participio", "It <strong>was being made</strong> then."],
+        ["Present perfect", "has/have been + participio", "It <strong>has been made</strong>."],
+        ["Futuro (will)", "will be + participio", "It <strong>will be made</strong> soon."],
+        ["Modales", "modal + be + participio", "It <strong>must be made</strong> today."]
+      ]
+    },
+    "mistakes": [
+      "NO: The house <em>was build</em> in 1900.  ->  SI: The house <strong>was built</strong> in 1900.",
+      "NO: A decision <em>will made</em> soon.  ->  SI: A decision <strong>will be made</strong> soon.",
+      "NO: This form must <em>completed</em>.  ->  SI: This form must <strong>be completed</strong>.",
+      "NO: The accident <em>was happened</em>.  ->  SI: The accident <strong>happened</strong>. (verbo intransitivo)",
+      "NO: The road <em>is repairing</em> right now.  ->  SI: The road <strong>is being repaired</strong> right now.",
+      "NO: The window was broken <em>by</em> a hammer.  ->  SI: ... broken <strong>with</strong> a hammer.",
+      "NO: My seat <em>has taken</em>.  ->  SI: My seat <strong>has been taken</strong>."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Passive voice", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/passive-voice" },
+      { "label": "British Council LearnEnglish - 'have something done'", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/have-something-done" },
+      { "label": "Test-English - The passive (B2)", "url": "https://test-english.com/grammar-points/b2/the-passive/" }
+    ]
+  },
+  "questions": [
+    { "id": "t6-001", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "Usamos la pasiva sobre todo cuando:", "options": ["el que hace la accion es desconocido, evidente o poco importante", "queremos sonar informales", "la accion es futura"], "answer": "el que hace la accion es desconocido, evidente o poco importante", "explanation": "El foco pasa al objeto; el agente se difumina." },
+    { "id": "t6-002", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "'My car was stolen last night.' Por que pasiva?", "options": ["no sabemos quien lo hizo", "el coche hizo la accion", "es una verdad general"], "answer": "no sabemos quien lo hizo", "explanation": "Agente desconocido -> pasiva sin 'by'." },
+    { "id": "t6-003", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "En la pasiva, lo importante es:", "options": ["que le pasa al sujeto (el que recibe la accion)", "quien hace la accion", "el momento"], "answer": "que le pasa al sujeto (el que recibe la accion)", "explanation": "La pasiva pone el receptor de la accion en primer lugar." },
+    { "id": "t6-004", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "La voz pasiva es habitual en:", "options": ["textos formales, cientificos y periodisticos", "solo en conversacion informal", "solo en preguntas"], "answer": "textos formales, cientificos y periodisticos", "explanation": "Da un tono impersonal y objetivo." },
+    { "id": "t6-005", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "'English is spoken here.' El agente:", "options": ["no se dice porque es obvio / general", "es 'here'", "es 'English'"], "answer": "no se dice porque es obvio / general", "explanation": "'la gente' -> se omite el agente." },
+    { "id": "t6-006", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "La pasiva se forma con:", "options": ["be + participio pasado", "have + participio pasado", "be + -ing"], "answer": "be + participio pasado", "explanation": "Formula fija de la voz pasiva." },
+    { "id": "t6-007", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "Cual oracion es pasiva?", "options": ["The bridge was built in 1890.", "They built the bridge in 1890.", "The bridge is very old."], "answer": "The bridge was built in 1890.", "explanation": "was + participio = pasiva." },
+    { "id": "t6-008", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "Elegir la pasiva te permite:", "options": ["poner el resultado / objeto al principio de la frase", "no usar verbos", "acortar siempre la frase"], "answer": "poner el resultado / objeto al principio de la frase", "explanation": "El objeto se convierte en el tema de la oracion." },
+    { "id": "t6-009", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "'Mistakes were made.' Esta frase:", "options": ["oculta quien cometio los errores", "nombra al responsable", "esta en voz activa"], "answer": "oculta quien cometio los errores", "explanation": "Pasiva sin agente -> nadie asume la responsabilidad." },
+    { "id": "t6-010", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "Los titulares de prensa usan la pasiva porque:", "options": ["el hecho importa mas que el agente", "es mas larga", "es informal"], "answer": "el hecho importa mas que el agente", "explanation": "Se destaca la noticia, no quien la causo." },
+    { "id": "t6-011", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "El verbo que siempre aparece en una pasiva es:", "options": ["be (am/is/are/was/were/been/being)", "do", "have"], "answer": "be (am/is/are/was/were/been/being)", "explanation": "be + participio en el tiempo que toque." },
+    { "id": "t6-012", "subtopic": "pasiva-concepto", "type": "mcq", "prompt": "'The results will be announced tomorrow.' El foco esta en:", "options": ["los resultados", "manana", "quien los anuncia"], "answer": "los resultados", "explanation": "La pasiva situa 'the results' como tema." },
+
+    { "id": "t6-013", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Rice ___ in many countries.", "options": ["is grown", "grows", "is growing"], "answer": "is grown", "explanation": "Present simple passive: is + participio." },
+    { "id": "t6-014", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "These rooms ___ every day.", "options": ["are cleaned", "are cleaning", "clean"], "answer": "are cleaned", "explanation": "Present simple passive: are + participio." },
+    { "id": "t6-015", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Look - the road ___ right now.", "options": ["is being repaired", "is repaired", "repairs"], "answer": "is being repaired", "explanation": "Present continuous passive: is being + participio." },
+    { "id": "t6-016", "subtopic": "pasiva-presente", "type": "gap", "prompt": "Completa: This bridge ___ (use) by thousands of cars every day.", "accept": ["is used"], "answer": "is used", "explanation": "Present simple passive: is + participio." },
+    { "id": "t6-017", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "The report ___ at the moment; it'll be ready soon.", "options": ["is being written", "is written", "writes"], "answer": "is being written", "explanation": "Accion en curso -> present continuous passive." },
+    { "id": "t6-018", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Present simple passive =", "options": ["am/is/are + participio", "am/is/are being + participio", "have been + participio"], "answer": "am/is/are + participio", "explanation": "be en presente simple + participio." },
+    { "id": "t6-019", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Present continuous passive =", "options": ["am/is/are being + participio", "am/is/are + participio", "was being + participio"], "answer": "am/is/are being + participio", "explanation": "be + being + participio." },
+    { "id": "t6-020", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Millions of emails ___ every second.", "options": ["are sent", "are sending", "send"], "answer": "are sent", "explanation": "Present simple passive: are + participio." },
+    { "id": "t6-021", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "'Where ___ these shoes ___?'", "options": ["are / made", "do / made", "are / making"], "answer": "are / made", "explanation": "Pregunta pasiva: Are + sujeto + participio." },
+    { "id": "t6-022", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "The house ___ at the moment, so it's a mess.", "options": ["is being painted", "is painted", "paints"], "answer": "is being painted", "explanation": "Accion en curso -> is being + participio." },
+    { "id": "t6-023", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Negativa en presente: 'The office ___ on Sundays.'", "options": ["isn't cleaned", "doesn't clean", "isn't cleaning"], "answer": "isn't cleaned", "explanation": "isn't + participio." },
+    { "id": "t6-024", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Coffee ___ from beans.", "options": ["is made", "makes", "is making"], "answer": "is made", "explanation": "Present simple passive: is + participio." },
+    { "id": "t6-025", "subtopic": "pasiva-presente", "type": "mcq", "prompt": "Right now, the results ___.", "options": ["are being counted", "are counted", "count"], "answer": "are being counted", "explanation": "'right now' -> present continuous passive." },
+
+    { "id": "t6-026", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "The Mona Lisa ___ by Leonardo da Vinci.", "options": ["was painted", "was painting", "painted"], "answer": "was painted", "explanation": "Past simple passive: was + participio." },
+    { "id": "t6-027", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "The windows ___ yesterday.", "options": ["were cleaned", "were cleaning", "cleaned"], "answer": "were cleaned", "explanation": "Past simple passive: were + participio." },
+    { "id": "t6-028", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "When I arrived, the room ___.", "options": ["was being decorated", "was decorated", "decorated"], "answer": "was being decorated", "explanation": "Accion en progreso en el pasado -> was being + participio." },
+    { "id": "t6-029", "subtopic": "pasiva-pasado", "type": "gap", "prompt": "Completa: This castle ___ (build) in the 12th century.", "accept": ["was built"], "answer": "was built", "explanation": "Past simple passive: was + participio (built)." },
+    { "id": "t6-030", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "Past simple passive =", "options": ["was/were + participio", "was/were being + participio", "had been + participio"], "answer": "was/were + participio", "explanation": "be en pasado simple + participio." },
+    { "id": "t6-031", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "Past continuous passive =", "options": ["was/were being + participio", "was/were + participio", "has been + participio"], "answer": "was/were being + participio", "explanation": "was/were + being + participio." },
+    { "id": "t6-032", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "The letters ___ last week.", "options": ["were posted", "were posting", "posted"], "answer": "were posted", "explanation": "Past simple passive: were + participio." },
+    { "id": "t6-033", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "'___ the package ___ on time?'", "options": ["Was / delivered", "Did / delivered", "Was / delivering"], "answer": "Was / delivered", "explanation": "Pregunta pasiva en pasado: Was + sujeto + participio." },
+    { "id": "t6-034", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "The bridge ___ while we were there.", "options": ["was being inspected", "was inspected", "inspected"], "answer": "was being inspected", "explanation": "Accion en curso en el pasado -> was being + participio." },
+    { "id": "t6-035", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "Negativa en pasado: 'The email ___.'", "options": ["wasn't sent", "didn't send", "wasn't sending"], "answer": "wasn't sent", "explanation": "wasn't + participio." },
+    { "id": "t6-036", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "America ___ in 1492.", "options": ["was discovered", "discovered", "was discovering"], "answer": "was discovered", "explanation": "Past simple passive: was + participio." },
+    { "id": "t6-037", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "The suspects ___ by the police last night.", "options": ["were questioned", "were questioning", "questioned"], "answer": "were questioned", "explanation": "Past simple passive: were + participio." },
+    { "id": "t6-038", "subtopic": "pasiva-pasado", "type": "mcq", "prompt": "The stadium ___ when the storm hit.", "options": ["was being built", "was built", "built"], "answer": "was being built", "explanation": "Accion en progreso -> was being + participio." },
+
+    { "id": "t6-039", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "The project ___ already ___.", "options": ["has / been finished", "has / finished", "is / finished"], "answer": "has / been finished", "explanation": "Present perfect passive: has been + participio." },
+    { "id": "t6-040", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "Present perfect passive =", "options": ["has/have been + participio", "has/have + participio", "will be + participio"], "answer": "has/have been + participio", "explanation": "has/have + been + participio." },
+    { "id": "t6-041", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "Millions of trees ___ this year (y sumando).", "options": ["have been planted", "were planted", "are planted"], "answer": "have been planted", "explanation": "Tiempo no terminado -> present perfect passive." },
+    { "id": "t6-042", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "The winners ___ next week.", "options": ["will be announced", "will announce", "are announced"], "answer": "will be announced", "explanation": "Future passive: will be + participio." },
+    { "id": "t6-043", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "Future passive con 'will' =", "options": ["will be + participio", "will being + participio", "is going to + participio"], "answer": "will be + participio", "explanation": "will + be + participio." },
+    { "id": "t6-044", "subtopic": "pasiva-perfect-futuro", "type": "gap", "prompt": "Completa (present perfect passive): The road ___ (finish) at last.", "accept": ["has been finished"], "answer": "has been finished", "explanation": "has + been + participio." },
+    { "id": "t6-045", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "A new bridge ___ here. (going to, planeado)", "options": ["is going to be built", "is going to build", "will building"], "answer": "is going to be built", "explanation": "going to be + participio." },
+    { "id": "t6-046", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "By 2030, the disease ___, scientists hope.", "options": ["will have been eradicated", "will eradicate", "is eradicated"], "answer": "will have been eradicated", "explanation": "Future perfect passive: will have been + participio." },
+    { "id": "t6-047", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "The parcel hasn't ___ yet.", "options": ["been delivered", "delivered", "being delivered"], "answer": "been delivered", "explanation": "hasn't + been + participio." },
+    { "id": "t6-048", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "'___ the decision ___ yet?'", "options": ["Has / been made", "Did / make", "Has / made"], "answer": "Has / been made", "explanation": "Pregunta present perfect passive: Has + sujeto + been + participio." },
+    { "id": "t6-049", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "All flights ___ due to the storm.", "options": ["have been cancelled", "are cancelling", "cancelled"], "answer": "have been cancelled", "explanation": "Present perfect passive con efecto presente." },
+    { "id": "t6-050", "subtopic": "pasiva-perfect-futuro", "type": "mcq", "prompt": "Your order ___ tomorrow.", "options": ["will be shipped", "will ship", "is shipping"], "answer": "will be shipped", "explanation": "Future passive: will be + participio." },
+
+    { "id": "t6-051", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "This form ___ in black ink.", "options": ["must be completed", "must complete", "must completing"], "answer": "must be completed", "explanation": "modal + be + participio." },
+    { "id": "t6-052", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "Pasiva con modal =", "options": ["modal + be + participio", "modal + being + participio", "modal + participio"], "answer": "modal + be + participio", "explanation": "Ej.: must be done, can be seen." },
+    { "id": "t6-053", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "Nothing ___ until tomorrow.", "options": ["can be done", "can do", "can be do"], "answer": "can be done", "explanation": "can + be + participio (done)." },
+    { "id": "t6-054", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "The homework ___ by Friday.", "options": ["should be handed in", "should hand in", "should handing in"], "answer": "should be handed in", "explanation": "should + be + participio." },
+    { "id": "t6-055", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "This medicine ___ with food.", "options": ["should be taken", "should take", "should be taking"], "answer": "should be taken", "explanation": "should + be + participio (taken)." },
+    { "id": "t6-056", "subtopic": "pasiva-modales", "type": "gap", "prompt": "Completa: The door ___ (must / lock) at night.", "accept": ["must be locked"], "answer": "must be locked", "explanation": "must + be + participio." },
+    { "id": "t6-057", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "Rubbish ___ in the bins provided.", "options": ["must be put", "must put", "must be putting"], "answer": "must be put", "explanation": "must + be + participio (put)." },
+    { "id": "t6-058", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "Passwords ___ regularly.", "options": ["should be changed", "should change", "should be changing"], "answer": "should be changed", "explanation": "should + be + participio." },
+    { "id": "t6-059", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "The exam ___ in silence.", "options": ["must be taken", "must take", "must be taking"], "answer": "must be taken", "explanation": "must + be + participio." },
+    { "id": "t6-060", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "This switch ___ under any circumstances.", "options": ["must not be touched", "must not touch", "mustn't touching"], "answer": "must not be touched", "explanation": "modal + not + be + participio." },
+    { "id": "t6-061", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "Can this ___ by tomorrow?", "options": ["be finished", "finish", "being finished"], "answer": "be finished", "explanation": "Can + sujeto + be + participio." },
+    { "id": "t6-062", "subtopic": "pasiva-modales", "type": "mcq", "prompt": "Seatbelts ___ at all times.", "options": ["must be worn", "must wear", "must be wearing"], "answer": "must be worn", "explanation": "must + be + participio (worn)." },
+
+    { "id": "t6-063", "subtopic": "by-agente", "type": "mcq", "prompt": "Incluimos 'by + agente' cuando:", "options": ["el agente es importante o es informacion nueva/sorprendente", "el agente es obvio", "el agente es desconocido"], "answer": "el agente es importante o es informacion nueva/sorprendente", "explanation": "Si no aporta nada, se omite." },
+    { "id": "t6-064", "subtopic": "by-agente", "type": "mcq", "prompt": "'Hamlet was written ___ Shakespeare.'", "options": ["by", "from", "with"], "answer": "by", "explanation": "'by' introduce el agente." },
+    { "id": "t6-065", "subtopic": "by-agente", "type": "mcq", "prompt": "'The window was broken ___ a stone.' (instrumento)", "options": ["with", "by", "from"], "answer": "with", "explanation": "'by' = agente; 'with' = instrumento." },
+    { "id": "t6-066", "subtopic": "by-agente", "type": "mcq", "prompt": "En 'This house was built in 1900' omitimos el agente porque:", "options": ["es desconocido / poco importante", "es un error", "la casa se construyo sola"], "answer": "es desconocido / poco importante", "explanation": "No aporta informacion util." },
+    { "id": "t6-067", "subtopic": "by-agente", "type": "mcq", "prompt": "'The town was destroyed by the earthquake.' - mantenemos 'by the earthquake'?", "options": ["Si, es informacion clave", "No, siempre se omite 'by'", "Solo en preguntas"], "answer": "Si, es informacion clave", "explanation": "El agente aqui explica la causa: se conserva." },
+    { "id": "t6-068", "subtopic": "by-agente", "type": "mcq", "prompt": "'The thief was arrested.' No decimos 'by the police' porque:", "options": ["es obvio", "es incorrecto", "no hay agente"], "answer": "es obvio", "explanation": "Se sobreentiende quien arresta." },
+    { "id": "t6-069", "subtopic": "by-agente", "type": "mcq", "prompt": "'The cake was made ___ my grandmother.'", "options": ["by", "with", "from"], "answer": "by", "explanation": "Agente -> 'by'." },
+    { "id": "t6-070", "subtopic": "by-agente", "type": "mcq", "prompt": "'The soup was flavoured ___ fresh herbs.'", "options": ["with", "by", "of"], "answer": "with", "explanation": "Instrumento / medio -> 'with'." },
+    { "id": "t6-071", "subtopic": "by-agente", "type": "mcq", "prompt": "La mayoria de las pasivas en textos reales:", "options": ["no llevan 'by + agente'", "siempre llevan 'by + agente'", "usan 'from' en vez de 'by'"], "answer": "no llevan 'by + agente'", "explanation": "El agente suele ser irrelevante y se omite." },
+    { "id": "t6-072", "subtopic": "by-agente", "type": "mcq", "prompt": "Elige la frase natural:", "options": ["The report was written by our team last month.", "The report was written by someone last month.", "The report was written by it last month."], "answer": "The report was written by our team last month.", "explanation": "'by our team' aporta informacion; 'by someone' sobra." },
+    { "id": "t6-073", "subtopic": "by-agente", "type": "mcq", "prompt": "'She was raised ___ her grandparents.'", "options": ["by", "with", "from"], "answer": "by", "explanation": "Agente -> 'by'." },
+    { "id": "t6-074", "subtopic": "by-agente", "type": "mcq", "prompt": "'Penicillin was discovered ___ Alexander Fleming.'", "options": ["by", "from", "in"], "answer": "by", "explanation": "Agente -> 'by'." },
+    { "id": "t6-075", "subtopic": "by-agente", "type": "mcq", "prompt": "Cuando el agente es 'la gente en general' (they / someone), normalmente:", "options": ["se omite", "se escribe 'by people'", "se usa solo la activa"], "answer": "se omite", "explanation": "No se especifica un agente generico." },
+
+    { "id": "t6-076", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'They sell tickets online.' Pasiva:", "options": ["Tickets are sold online.", "Tickets are selling online.", "Tickets sell online."], "answer": "Tickets are sold online.", "explanation": "Objeto -> sujeto; are + participio." },
+    { "id": "t6-077", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'Someone has taken my seat.' Pasiva:", "options": ["My seat has been taken.", "My seat has taken.", "My seat is taken by someone."], "answer": "My seat has been taken.", "explanation": "Present perfect passive: has been + participio." },
+    { "id": "t6-078", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'The teacher gave Ana a prize.' Pasiva (sujeto = Ana):", "options": ["Ana was given a prize.", "A prize was given Ana.", "Ana gave a prize."], "answer": "Ana was given a prize.", "explanation": "Con verbos de dos objetos, la persona puede ser el sujeto." },
+    { "id": "t6-079", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'The teacher gave Ana a prize.' Pasiva (sujeto = a prize):", "options": ["A prize was given to Ana.", "A prize was given Ana.", "A prize gave to Ana."], "answer": "A prize was given to Ana.", "explanation": "El otro objeto lleva 'to': ... given to Ana." },
+    { "id": "t6-080", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Para hacer una pasiva, el ___ de la activa pasa a ser el sujeto.", "options": ["objeto", "adverbio", "verbo"], "answer": "objeto", "explanation": "Objeto directo -> sujeto de la pasiva." },
+    { "id": "t6-081", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'They will paint the house.' Pasiva:", "options": ["The house will be painted.", "The house will paint.", "The house is painted."], "answer": "The house will be painted.", "explanation": "Future passive: will be + participio." },
+    { "id": "t6-082", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'People speak Spanish in Peru.' Pasiva:", "options": ["Spanish is spoken in Peru.", "Spanish speaks in Peru.", "Spanish is speaking in Peru."], "answer": "Spanish is spoken in Peru.", "explanation": "Present simple passive; agente 'people' se omite." },
+    { "id": "t6-083", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'The dog was chasing the cat.' Pasiva:", "options": ["The cat was being chased by the dog.", "The cat was chased the dog.", "The cat chased by the dog."], "answer": "The cat was being chased by the dog.", "explanation": "Past continuous passive: was being + participio." },
+    { "id": "t6-084", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "El tiempo verbal en la pasiva:", "options": ["se mantiene igual que en la activa (lo lleva 'be')", "siempre pasa a pasado", "siempre pasa a presente"], "answer": "se mantiene igual que en la activa (lo lleva 'be')", "explanation": "El verbo 'be' se conjuga en el mismo tiempo." },
+    { "id": "t6-085", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'Nobody has cleaned this room.' Pasiva:", "options": ["This room hasn't been cleaned.", "This room hasn't cleaned.", "This room isn't cleaned by nobody."], "answer": "This room hasn't been cleaned.", "explanation": "Present perfect passive en negativa." },
+    { "id": "t6-086", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'They are building a new school.' Pasiva:", "options": ["A new school is being built.", "A new school is built.", "A new school builds."], "answer": "A new school is being built.", "explanation": "Present continuous passive: is being + participio." },
+    { "id": "t6-087", "subtopic": "pasiva-transformacion", "type": "mcq", "prompt": "Activa: 'You must follow the rules.' Pasiva:", "options": ["The rules must be followed.", "The rules must follow.", "The rules must be following."], "answer": "The rules must be followed.", "explanation": "modal + be + participio." },
+
+    { "id": "t6-088", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "Que verbo NO puede ir en pasiva?", "options": ["arrive", "build", "clean"], "answer": "arrive", "explanation": "Los verbos intransitivos (sin objeto) no tienen pasiva." },
+    { "id": "t6-089", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "'The accident ___ yesterday.'", "options": ["happened", "was happened", "was happening by"], "answer": "happened", "explanation": "'happen' es intransitivo: no lleva pasiva." },
+    { "id": "t6-090", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "Alternativa informal a 'be' en la pasiva:", "options": ["get (He got fired.)", "do", "have"], "answer": "get (He got fired.)", "explanation": "'get + participio' es la pasiva coloquial." },
+    { "id": "t6-091", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "'My phone ___ at the party.' (pasiva informal)", "options": ["got stolen", "stole", "was stealing"], "answer": "got stolen", "explanation": "get + participio (informal)." },
+    { "id": "t6-092", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "Mejor frase para un informe de laboratorio:", "options": ["The mixture was heated to 90 C.", "We heated the mixture, you know.", "Somebody heated the mixture."], "answer": "The mixture was heated to 90 C.", "explanation": "La pasiva da el tono impersonal cientifico." },
+    { "id": "t6-093", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "La activa suele ser mejor cuando:", "options": ["el agente es conocido y relevante", "quieres ser impersonal", "el agente es desconocido"], "answer": "el agente es conocido y relevante", "explanation": "La activa es mas directa y clara." },
+    { "id": "t6-094", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "'This song ___ by millions of people.'", "options": ["has been downloaded", "has downloaded", "downloads"], "answer": "has been downloaded", "explanation": "Present perfect passive: has been + participio." },
+    { "id": "t6-095", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "Detecta el error: 'The letter was wrote yesterday.'", "options": ["deberia ser 'was written'", "deberia ser 'was write'", "esta bien"], "answer": "deberia ser 'was written'", "explanation": "El participio de 'write' es 'written'." },
+    { "id": "t6-096", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "Detecta el error: 'A decision will made soon.'", "options": ["deberia ser 'will be made'", "deberia ser 'will making'", "esta bien"], "answer": "deberia ser 'will be made'", "explanation": "Falta el 'be': will + be + participio." },
+    { "id": "t6-097", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "'She ___ a lot of money.' (activa, no pasiva)", "options": ["earns", "is earned", "is earning by"], "answer": "earns", "explanation": "Aqui el sujeto hace la accion: activa." },
+    { "id": "t6-098", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "Cual es pasiva Y correcta?", "options": ["The results are checked twice.", "The results check twice.", "The results are checking twice."], "answer": "The results are checked twice.", "explanation": "are + participio = present simple passive." },
+    { "id": "t6-099", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "'The window ___ during the storm.' Elige la pasiva natural:", "options": ["was broken", "was breaking", "is broken then"], "answer": "was broken", "explanation": "Past simple passive: was + participio." },
+    { "id": "t6-100", "subtopic": "contraste-pasiva", "type": "mcq", "prompt": "Abusar de la pasiva hace que el texto sea:", "options": ["vago y pesado", "mas claro siempre", "mas corto siempre"], "answer": "vago y pesado", "explanation": "Demasiada pasiva oculta agentes y complica la lectura." }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": 11,
+  "slug": "inversion-y-enfasis",
+  "level": "C1",
+  "title": "Inversion enfatica y estructuras de enfasis",
+  "lesson": {
+    "intro": "La <strong>inversion</strong> consiste en poner el auxiliar <em>antes</em> del sujeto (como en una pregunta) despues de ciertos elementos al principio de la frase: adverbios negativos, <em>Not only</em>, <em>No sooner</em>, <em>Only then</em>, o <em>Had / Were / Should</em> en condicionales. Es un recurso de registro <strong>formal, literario o dramatico</strong> que anade enfasis.",
+    "sections": [
+      {
+        "subtopic": "inversion-negativos",
+        "heading": "1 - Inversion tras adverbios negativos",
+        "body": "<p>Si la frase empieza por un adverbio o expresion <strong>negativa o restrictiva</strong> (<em>Never, Rarely, Seldom, Little, Nowhere, Not until, At no time, Under no circumstances, Not once</em>), el verbo se invierte: <code>adverbio + auxiliar + sujeto + verbo</code>.</p><p>En presente / pasado simple se anade <code>do / does / did</code>.</p>",
+        "examples": [
+          "<strong>Never have I</strong> seen such a thing.",
+          "<strong>Rarely does he</strong> complain.",
+          "<strong>Little did she</strong> know the truth.",
+          "<strong>Under no circumstances should you</strong> open that door."
+        ]
+      },
+      {
+        "subtopic": "inversion-not-only",
+        "heading": "2 - Not only... but also",
+        "body": "<p>Para destacar <strong>dos puntos</strong> (a menudo sorprendentes). La primera parte lleva inversion: <code>Not only + auxiliar + sujeto..., but ... also...</code></p><p><em>but also</em> se puede reducir a <em>but ... too / as well</em>.</p>",
+        "examples": [
+          "<strong>Not only did she pass</strong>, but she also got the top mark.",
+          "<strong>Not only was he late</strong>, but he forgot the tickets.",
+          "<strong>Not only did they buy</strong> the house, but they redecorated it."
+        ]
+      },
+      {
+        "subtopic": "inversion-no-sooner-hardly",
+        "heading": "3 - No sooner / Hardly / Scarcely",
+        "body": "<p>Para decir que una cosa paso <strong>justo despues</strong> de otra en el pasado.</p><ul><li><code>No sooner + had + sujeto + participio + than</code>...</li><li><code>Hardly / Scarcely + had + sujeto + participio + when</code>...</li></ul><p>Ojo con la conjuncion: <em>No sooner... <strong>than</strong></em>; <em>Hardly / Scarcely... <strong>when</strong></em>.</p>",
+        "examples": [
+          "<strong>No sooner had I sat down than</strong> the phone rang.",
+          "<strong>Hardly had we arrived when</strong> it started to rain.",
+          "<strong>Scarcely had they got</strong> home <strong>when</strong> the storm broke."
+        ]
+      },
+      {
+        "subtopic": "inversion-only",
+        "heading": "4 - Only + inversion",
+        "body": "<p>Si la frase empieza por <em>Only then / Only after / Only when / Only by / Only if / Only in...</em>, la clausula <strong>principal</strong> lleva inversion (no la de <em>only</em>).</p><p>Excepcion: <code>Only + sujeto</code> (<em>Only Maria noticed</em>) <strong>no</strong> invierte.</p>",
+        "examples": [
+          "<strong>Only then did I</strong> understand.",
+          "<strong>Only by working hard can you</strong> succeed.",
+          "<strong>Only if you apologise will I</strong> forgive you."
+        ]
+      },
+      {
+        "subtopic": "inversion-condicionales",
+        "heading": "5 - Inversion en condicionales",
+        "body": "<p>Alternativa <strong>formal</strong> a <em>if</em>: se omite <em>if</em> y se invierte.</p><ul><li><em>If I had known</em> &rarr; <code>Had I known</code></li><li><em>If I were you</em> &rarr; <code>Were I you</code></li><li><em>If you should need</em> &rarr; <code>Should you need</code></li></ul><p>Negativa: <code>Had I not known</code> / <code>Were it not for...</code></p>",
+        "examples": [
+          "<strong>Had you told me</strong>, I would have come.",
+          "<strong>Should you have</strong> any questions, please contact us.",
+          "<strong>Were I</strong> in your position, I'd resign.",
+          "<strong>Had she not left</strong> early, she would have seen it."
+        ]
+      },
+      {
+        "subtopic": "so-such-neither-nor",
+        "heading": "6 - So / Such / Neither / Nor + inversion",
+        "body": "<ul><li><code>So + adjetivo/adverbio + that</code> + resultado; con inversion: <em>So loud was the noise that...</em></li><li><code>Such + (a/an) + sustantivo + that</code>; con inversion: <em>Such was the demand that...</em></li><li>Acuerdo: <code>So + auxiliar + sujeto</code> (So do I) tras afirmativa; <code>Neither / Nor + auxiliar + sujeto</code> (Neither do I) tras negativa.</li></ul>",
+        "examples": [
+          "<strong>So tired was I that</strong> I fell asleep.",
+          "\"I love jazz.\" \"<strong>So do I</strong>.\"",
+          "\"I can't drive.\" \"<strong>Neither can I</strong>.\""
+        ]
+      },
+      {
+        "subtopic": "enfasis-do-fronting",
+        "heading": "7 - Enfasis con 'do' y fronting",
+        "body": "<p><strong>'do' enfatico:</strong> <code>do / does / did</code> + verbo base para insistir: <em>I <u>do</u> like it; She <u>did</u> call; <u>Do</u> sit down</em>.</p><p><strong>Fronting:</strong> mover una parte al principio para dar enfasis o contraste: <em>This film I really enjoyed; Down came the rain</em>.</p><p>Otros: <em>the very, at all, whatsoever</em>, y las estructuras enfaticas <em>It was X that...</em> / <em>What ... is ...</em>.</p>",
+        "examples": [
+          "I <strong>do</strong> apologise.",
+          "That mistake I will <strong>never</strong> forget. (fronting)",
+          "It was <strong>you</strong> who did it.",
+          "<strong>What I want</strong> is some peace."
+        ]
+      },
+      {
+        "subtopic": "contraste-inversion",
+        "heading": "8 - Transformar a la forma con inversion",
+        "body": "<p>Pasos:</p><ol><li>Identifica el elemento que va al principio (adverbio negativo, <em>Only...</em>, <em>Not only...</em>, <em>Had / Were / Should</em>).</li><li>Detras pon el <strong>auxiliar</strong> (o <em>do/does/did</em> en simple; <em>had</em> en past perfect).</li><li>Luego el sujeto y el resto.</li></ol><p>Recuerda: <em>Only + sujeto</em> <strong>no</strong> invierte.</p>",
+        "examples": [
+          "I have never seen it. &rarr; <strong>Never have I</strong> seen it.",
+          "We only realised then. &rarr; <strong>Only then did we</strong> realise.",
+          "If I had known... &rarr; <strong>Had I</strong> known..."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Con inversion o sin ella",
+      "headers": ["Normal", "Con inversion (enfatico / formal)"],
+      "rows": [
+        ["I have never seen it.", "<strong>Never have I</strong> seen it."],
+        ["He rarely calls.", "<strong>Rarely does he</strong> call."],
+        ["She had hardly left when it rained.", "<strong>Hardly had she</strong> left when it rained."],
+        ["We only understood then.", "<strong>Only then did we</strong> understand."],
+        ["If I had known, ...", "<strong>Had I</strong> known, ..."],
+        ["If I were you, ...", "<strong>Were I</strong> you, ..."],
+        ["I love it. Me too.", "I love it. <strong>So do I.</strong>"]
+      ]
+    },
+    "mistakes": [
+      "NO: Never <em>I have</em> seen this.  ->  SI: Never <strong>have I</strong> seen this.",
+      "NO: No sooner I <em>had left</em> when...  ->  SI: No sooner <strong>had I left than</strong>...",
+      "NO: Hardly had we arrived <em>than</em>...  ->  SI: Hardly had we arrived <strong>when</strong>...",
+      "NO: Only then <em>I realised</em>.  ->  SI: Only then <strong>did I realise</strong>.",
+      "NO: Not only <em>he lied</em>, but...  ->  SI: Not only <strong>did he lie</strong>, but...",
+      "NO: <em>If had I</em> known...  ->  SI: <strong>Had I</strong> known... (se quita 'if')",
+      "NO: \"I'm tired.\" \"<em>So I am</em>.\" (eso significa 'en efecto lo estoy')  ->  Para acuerdo: \"<strong>So am I</strong>.\""
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Inversion", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/inversion" },
+      { "label": "Cambridge Dictionary Grammar - Inversion", "url": "https://dictionary.cambridge.org/grammar/british-grammar/inversion" },
+      { "label": "British Council LearnEnglish - Cleft sentences: it, what", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/cleft-sentences-it-what" },
+      { "label": "Test-English - Inversion (C1)", "url": "https://test-english.com/grammar-points/c1/inversion/" }
+    ]
+  },
+  "questions": [
+    { "id": "t11-001", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Never ___ such a thing.", "options": ["have I seen", "I have seen", "I saw"], "answer": "have I seen", "explanation": "Adverbio negativo al principio -> auxiliar + sujeto." },
+    { "id": "t11-002", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Rarely ___ so quiet.", "options": ["is the office", "the office is", "the office"], "answer": "is the office", "explanation": "Inversion: verbo/auxiliar antes del sujeto." },
+    { "id": "t11-003", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Cuando un adverbio negativo abre la frase, usamos:", "options": ["inversion (auxiliar antes del sujeto)", "orden normal", "sin verbo"], "answer": "inversion (auxiliar antes del sujeto)", "explanation": "Como en una pregunta." },
+    { "id": "t11-004", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Seldom ___ a more boring film.", "options": ["have we watched", "we have watched", "we watched"], "answer": "have we watched", "explanation": "Seldom + auxiliar + sujeto + participio." },
+    { "id": "t11-005", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Little ___ that he was being followed.", "options": ["did he know", "he knew", "he did know"], "answer": "did he know", "explanation": "'Little' negativo -> did + sujeto + base." },
+    { "id": "t11-006", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Nowhere ___ such kindness.", "options": ["will you find", "you will find", "you find"], "answer": "will you find", "explanation": "Nowhere + auxiliar + sujeto." },
+    { "id": "t11-007", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Not until midnight ___ home.", "options": ["did she get", "she got", "she did get"], "answer": "did she get", "explanation": "'Not until...' -> did + sujeto + base." },
+    { "id": "t11-008", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Under no circumstances ___ the door.", "options": ["should you open", "you should open", "you open"], "answer": "should you open", "explanation": "Expresion restrictiva -> modal + sujeto + base." },
+    { "id": "t11-009", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "'At no time ___ aware of the danger.'", "options": ["was I", "I was", "did I be"], "answer": "was I", "explanation": "'At no time' -> was + sujeto." },
+    { "id": "t11-010", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "Esta estructura se usa en:", "options": ["registro formal, literario o dramatico", "conversacion informal", "solo en preguntas"], "answer": "registro formal, literario o dramatico", "explanation": "No es habitual en el habla cotidiana." },
+    { "id": "t11-011", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "En presente simple, la inversion necesita:", "options": ["do/does + sujeto + verbo base", "solo el verbo", "were + sujeto"], "answer": "do/does + sujeto + verbo base", "explanation": "Se anade el auxiliar 'do'." },
+    { "id": "t11-012", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "'Rarely he goes out.' Correccion:", "options": ["Rarely does he go out.", "Rarely he does go out.", "Rarely goes he out."], "answer": "Rarely does he go out.", "explanation": "Rarely + does + sujeto + base." },
+    { "id": "t11-013", "subtopic": "inversion-negativos", "type": "mcq", "prompt": "'Not once ___ to apologise.'", "options": ["did he try", "he tried", "he did try"], "answer": "did he try", "explanation": "'Not once' -> did + sujeto + base." },
+
+    { "id": "t11-014", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "Not only ___ late, but he also forgot the tickets.", "options": ["was he", "he was", "did he be"], "answer": "was he", "explanation": "Not only + auxiliar (was) + sujeto." },
+    { "id": "t11-015", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "'Not only... but also' con inversion enfatiza:", "options": ["que hay dos puntos (a menudo sorprendentes)", "un contraste", "una condicion"], "answer": "que hay dos puntos (a menudo sorprendentes)", "explanation": "Suma dos ideas destacadas." },
+    { "id": "t11-016", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "Not only ___ the exam, she got the top mark.", "options": ["did she pass", "she passed", "she did pass"], "answer": "did she pass", "explanation": "Not only + did + sujeto + base." },
+    { "id": "t11-017", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "Not only ___ rude, but he was dishonest too.", "options": ["was he", "he was", "he did be"], "answer": "was he", "explanation": "Not only + was + sujeto." },
+    { "id": "t11-018", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "La inversion va en:", "options": ["la clausula de 'Not only'", "la clausula de 'but also'", "las dos"], "answer": "la clausula de 'Not only'", "explanation": "La segunda clausula lleva orden normal (+ also)." },
+    { "id": "t11-019", "subtopic": "inversion-not-only", "type": "gap", "prompt": "Completa: Not only ___ (he / lie), but he also cheated.", "accept": ["did he lie"], "answer": "did he lie", "explanation": "Not only + did + sujeto + base." },
+    { "id": "t11-020", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "Not only ___ the money, they demanded an apology.", "options": ["did they want", "they wanted", "they did want"], "answer": "did they want", "explanation": "Not only + did + sujeto + base." },
+    { "id": "t11-021", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "'Not only she sings, but she dances.' Correccion:", "options": ["Not only does she sing, but she also dances.", "Not only she does sing...", "Not only sings she..."], "answer": "Not only does she sing, but she also dances.", "explanation": "Inversion con 'does' en la primera parte." },
+    { "id": "t11-022", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "'but also' se puede reducir a:", "options": ["'but ... too' / 'but ... as well'", "'but only'", "'and not'"], "answer": "'but ... too' / 'but ... as well'", "explanation": "El 'also' se puede desplazar o cambiar." },
+    { "id": "t11-023", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "Not only ___ the house, but they redecorated it.", "options": ["did they buy", "they bought", "bought they"], "answer": "did they buy", "explanation": "Not only + did + sujeto + base." },
+    { "id": "t11-024", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "Not only ___ tired, I was also hungry.", "options": ["was I", "I was", "did I"], "answer": "was I", "explanation": "Not only + was + sujeto." },
+    { "id": "t11-025", "subtopic": "inversion-not-only", "type": "mcq", "prompt": "Cual es correcta y enfatica?", "options": ["Not only did he apologise, but he also paid for the damage.", "Not only he apologised, but he paid.", "Not only apologised he..."], "answer": "Not only did he apologise, but he also paid for the damage.", "explanation": "Inversion en la primera parte, 'also' en la segunda." },
+
+    { "id": "t11-026", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "No sooner ___ the door than the phone rang.", "options": ["had I closed", "I had closed", "did I close"], "answer": "had I closed", "explanation": "No sooner + had + sujeto + participio." },
+    { "id": "t11-027", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "'No sooner...' va seguido de:", "options": ["than", "when", "that"], "answer": "than", "explanation": "No sooner ... than ..." },
+    { "id": "t11-028", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "'Hardly...' y 'Scarcely...' van seguidos de:", "options": ["when", "than", "that"], "answer": "when", "explanation": "Hardly / Scarcely ... when ..." },
+    { "id": "t11-029", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "Hardly ___ when it started to rain.", "options": ["had we arrived", "we had arrived", "did we arrive"], "answer": "had we arrived", "explanation": "Hardly + had + sujeto + participio." },
+    { "id": "t11-030", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "Estas estructuras describen:", "options": ["una cosa justo despues de otra (en el pasado)", "una condicion", "una preferencia"], "answer": "una cosa justo despues de otra (en el pasado)", "explanation": "Secuencia inmediata de dos hechos." },
+    { "id": "t11-031", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "El tiempo verbal de la primera clausula suele ser:", "options": ["past perfect", "past simple", "present perfect"], "answer": "past perfect", "explanation": "had + participio." },
+    { "id": "t11-032", "subtopic": "inversion-no-sooner-hardly", "type": "gap", "prompt": "Completa: No sooner ___ (I / sit down) than someone knocked.", "accept": ["had I sat down"], "answer": "had I sat down", "explanation": "No sooner + had + sujeto + participio." },
+    { "id": "t11-033", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "Scarcely ___ home when the storm broke.", "options": ["had they got", "they had got", "did they get"], "answer": "had they got", "explanation": "Scarcely + had + sujeto + participio." },
+    { "id": "t11-034", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "'No sooner had I left than...' significa:", "options": ["justo despues de irme, ...", "antes de irme, ...", "mucho despues de irme, ..."], "answer": "justo despues de irme, ...", "explanation": "Inmediatez entre los dos hechos." },
+    { "id": "t11-035", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "'Hardly had the film started ___ the lights went out.'", "options": ["when", "than", "that"], "answer": "when", "explanation": "Hardly ... when (no 'than')." },
+    { "id": "t11-036", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "Equivalente sin inversion de 'No sooner had I arrived than she left':", "options": ["As soon as I arrived, she left.", "I arrived after she left.", "-"], "answer": "As soon as I arrived, she left.", "explanation": "'As soon as' expresa la misma inmediatez." },
+    { "id": "t11-037", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "No sooner ___ the news than she burst into tears.", "options": ["had she heard", "she had heard", "did she hear"], "answer": "had she heard", "explanation": "No sooner + had + sujeto + participio." },
+    { "id": "t11-038", "subtopic": "inversion-no-sooner-hardly", "type": "mcq", "prompt": "Hardly ___ a word all evening.", "options": ["did he say", "he said", "he did say"], "answer": "did he say", "explanation": "'Hardly' (= apenas) al principio -> did + sujeto + base." },
+
+    { "id": "t11-039", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only then ___ what she meant.", "options": ["did I understand", "I understood", "understood I"], "answer": "did I understand", "explanation": "Only then + did + sujeto + base (en la principal)." },
+    { "id": "t11-040", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only after the meeting ___ the mistake.", "options": ["did we notice", "we noticed", "noticed we"], "answer": "did we notice", "explanation": "Only after... -> inversion en la principal." },
+    { "id": "t11-041", "subtopic": "inversion-only", "type": "mcq", "prompt": "'Only when' / 'Only after' / 'Only by' al principio provocan:", "options": ["inversion en la clausula principal", "inversion en la clausula de tiempo", "ninguna inversion"], "answer": "inversion en la clausula principal", "explanation": "La clausula de 'only' va en orden normal." },
+    { "id": "t11-042", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only by working together ___ succeed.", "options": ["can we", "we can", "we could to"], "answer": "can we", "explanation": "Only by... + modal + sujeto." },
+    { "id": "t11-043", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only if you apologise ___ forgive you.", "options": ["will I", "I will", "I do"], "answer": "will I", "explanation": "Only if... -> inversion en la principal." },
+    { "id": "t11-044", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only recently ___ the truth.", "options": ["have I learned", "I have learned", "learned I"], "answer": "have I learned", "explanation": "Only recently + auxiliar + sujeto." },
+    { "id": "t11-045", "subtopic": "inversion-only", "type": "gap", "prompt": "Completa: Only after she left ___ (I / realise) I loved her.", "accept": ["did I realise", "did I realize"], "answer": "did I realise", "explanation": "Only after... -> did + sujeto + base." },
+    { "id": "t11-046", "subtopic": "inversion-only", "type": "mcq", "prompt": "En 'Only when it was too late did he act', la inversion esta en:", "options": ["'did he act' (la clausula principal)", "'it was too late'", "en ninguna"], "answer": "'did he act' (la clausula principal)", "explanation": "La subordinada de tiempo va normal." },
+    { "id": "t11-047", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only in an emergency ___ this number.", "options": ["should you call", "you should call", "call you"], "answer": "should you call", "explanation": "Only in... -> modal + sujeto + base." },
+    { "id": "t11-048", "subtopic": "inversion-only", "type": "mcq", "prompt": "'Only then I realised.' Correccion:", "options": ["Only then did I realise.", "Only then I did realise.", "Only then realised I."], "answer": "Only then did I realise.", "explanation": "Only then + did + sujeto + base." },
+    { "id": "t11-049", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only after checking twice ___ satisfied.", "options": ["was he", "he was", "did he be"], "answer": "was he", "explanation": "Only after... -> was + sujeto." },
+    { "id": "t11-050", "subtopic": "inversion-only", "type": "mcq", "prompt": "Only Sarah ___ the answer.", "options": ["knew", "did know", "did she know"], "answer": "knew", "explanation": "'Only + sujeto' NO invierte." },
+    { "id": "t11-051", "subtopic": "inversion-only", "type": "mcq", "prompt": "Cual necesita inversion?", "options": ["Only later did we find out.", "Only Sarah passed.", "-"], "answer": "Only later did we find out.", "explanation": "'Only + adverbio' invierte; 'Only + sujeto' no." },
+
+    { "id": "t11-052", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'Had I known, I would have helped' equivale a:", "options": ["If I had known, ...", "I had known, ...", "Have I known, ..."], "answer": "If I had known, ...", "explanation": "Inversion formal del 3er condicional." },
+    { "id": "t11-053", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "3er condicional invertido: sustituye 'if' poniendo ___ delante.", "options": ["had", "would", "did"], "answer": "had", "explanation": "Had + sujeto + participio." },
+    { "id": "t11-054", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'___ you need anything, just ask.' (= If you should need)", "options": ["Should", "Would", "Had"], "answer": "Should", "explanation": "Should + sujeto + base = 'if you (should) need'." },
+    { "id": "t11-055", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'___ I in your position, I'd resign.' (= If I were)", "options": ["Were", "Was", "Had"], "answer": "Were", "explanation": "Were + sujeto = 'if I were'." },
+    { "id": "t11-056", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "Los condicionales invertidos son:", "options": ["mas formales que las clausulas con 'if'", "informales", "incorrectos"], "answer": "mas formales que las clausulas con 'if'", "explanation": "Registro escrito / cuidado." },
+    { "id": "t11-057", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'Had she not left early, she ___ the accident.'", "options": ["would have seen", "would see", "saw"], "answer": "would have seen", "explanation": "3er condicional: would have + participio en la principal." },
+    { "id": "t11-058", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'Should you have any questions, ___ contact us.'", "options": ["please", "you please", "do you please"], "answer": "please", "explanation": "La clausula principal puede ser un imperativo educado." },
+    { "id": "t11-059", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "La negativa de 'Had I known' es:", "options": ["Had I not known", "Hadn't I known", "Had not I known"], "answer": "Had I not known", "explanation": "En la inversion formal el 'not' va tras el sujeto." },
+    { "id": "t11-060", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'Were it not for your help, I ___ failed.'", "options": ["would have", "will have", "had"], "answer": "would have", "explanation": "'Were it not for...' = 'If it weren't for...'; resultado: would have + participio." },
+    { "id": "t11-061", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'If I were rich' con inversion = '___ I rich'.", "options": ["Were", "Was", "Had"], "answer": "Were", "explanation": "Were + sujeto + resto." },
+    { "id": "t11-062", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "'Should you change your mind, let me know' significa:", "options": ["Si (llegaras a) cambiar de opinion, ...", "Debes cambiar de opinion", "-"], "answer": "Si (llegaras a) cambiar de opinion, ...", "explanation": "Should + sujeto = condicion poco probable / educada." },
+    { "id": "t11-063", "subtopic": "inversion-condicionales", "type": "mcq", "prompt": "Cual es un condicional invertido correcto?", "options": ["Were I you, I'd apologise.", "Was I you, I'd apologise.", "If were I you..."], "answer": "Were I you, I'd apologise.", "explanation": "Were + sujeto, sin 'if'." },
+
+    { "id": "t11-064", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "So ___ was the noise that we couldn't sleep.", "options": ["loud", "loudly", "the loud"], "answer": "loud", "explanation": "So + adjetivo + that." },
+    { "id": "t11-065", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "Such ___ that the tickets sold out in minutes.", "options": ["was the demand", "the demand was", "demanded"], "answer": "was the demand", "explanation": "Such + sustantivo (invertido: Such was the demand that...)." },
+    { "id": "t11-066", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'So + adjetivo' se combina con:", "options": ["'that' + resultado", "'such'", "'than'"], "answer": "'that' + resultado", "explanation": "So + adj + that + consecuencia." },
+    { "id": "t11-067", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'Such + sustantivo' se combina con:", "options": ["'that' + resultado", "'so'", "'as'"], "answer": "'that' + resultado", "explanation": "Such + (a) + nombre + that + consecuencia." },
+    { "id": "t11-068", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'I love jazz.' - 'So ___ I.'", "options": ["do", "am", "did"], "answer": "do", "explanation": "So + auxiliar (do) + sujeto = acuerdo con una afirmativa." },
+    { "id": "t11-069", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'I can't swim.' - 'Neither ___ I.'", "options": ["can", "can't", "do"], "answer": "can", "explanation": "Neither + auxiliar AFIRMATIVO + sujeto." },
+    { "id": "t11-070", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'She won't come.' - '___ will he.'", "options": ["Neither / Nor", "So", "Either"], "answer": "Neither / Nor", "explanation": "Tras una negativa se usa Neither / Nor." },
+    { "id": "t11-071", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'They were late.' - 'So ___ we.'", "options": ["were", "was", "did"], "answer": "were", "explanation": "So + auxiliar que concuerda (were) + sujeto." },
+    { "id": "t11-072", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'So do I' expresa:", "options": ["acuerdo con una afirmacion positiva", "desacuerdo", "una pregunta"], "answer": "acuerdo con una afirmacion positiva", "explanation": "'yo tambien'." },
+    { "id": "t11-073", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'Neither do I' expresa:", "options": ["acuerdo con una afirmacion negativa", "desacuerdo", "una orden"], "answer": "acuerdo con una afirmacion negativa", "explanation": "'yo tampoco'." },
+    { "id": "t11-074", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "So beautiful ___ the view that we stopped the car.", "options": ["was", "were", "did be"], "answer": "was", "explanation": "So + adj + was + sujeto + that." },
+    { "id": "t11-075", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'He didn't call. ___ did she.'", "options": ["Neither / Nor", "So", "Also"], "answer": "Neither / Nor", "explanation": "Tras una negativa -> Neither / Nor + auxiliar + sujeto." },
+    { "id": "t11-076", "subtopic": "so-such-neither-nor", "type": "mcq", "prompt": "'So + auxiliar + sujeto' = '... tambien'; 'Neither + auxiliar + sujeto' =", "options": ["'... tampoco'", "'... ademas'", "'... en cambio'"], "answer": "'... tampoco'", "explanation": "So = tambien; Neither/Nor = tampoco." },
+
+    { "id": "t11-077", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'I do love this song.' Aqui 'do' es:", "options": ["para enfasis (me encanta de verdad)", "una marca de pregunta", "pasado"], "answer": "para enfasis (me encanta de verdad)", "explanation": "'do' enfatico + verbo base." },
+    { "id": "t11-078", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'She did tell you, I heard her.' 'did' anade:", "options": ["enfasis / insistencia", "cortesia", "sentido futuro"], "answer": "enfasis / insistencia", "explanation": "Se usa para rebatir o insistir." },
+    { "id": "t11-079", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "El 'do' enfatico va seguido de:", "options": ["la forma base del verbo", "la forma -ing", "la forma de pasado"], "answer": "la forma base del verbo", "explanation": "do/does/did + infinitivo sin 'to'." },
+    { "id": "t11-080", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'Do sit down!' El 'Do' hace la peticion:", "options": ["mas calida / enfatica", "mas fria", "una pregunta"], "answer": "mas calida / enfatica", "explanation": "'Do' + imperativo suaviza y refuerza la invitacion." },
+    { "id": "t11-081", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "El 'fronting' consiste en:", "options": ["mover una parte al principio para dar enfasis o contraste", "eliminar el sujeto", "anadir 'do'"], "answer": "mover una parte al principio para dar enfasis o contraste", "explanation": "Se destaca lo que se adelanta." },
+    { "id": "t11-082", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'This book I really enjoyed.' El objeto se adelanta para:", "options": ["dar enfasis / contraste", "sin motivo", "por obligacion gramatical"], "answer": "dar enfasis / contraste", "explanation": "Se contrasta con otros libros, por ejemplo." },
+    { "id": "t11-083", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'Down came the rain.' Este adelantamiento de un adverbial es tipico de:", "options": ["prosa descriptiva / narrativa", "textos legales", "correos"], "answer": "prosa descriptiva / narrativa", "explanation": "Recurso estilistico de la narracion." },
+    { "id": "t11-084", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'The very thing I need' - 'the very' anade:", "options": ["enfasis ('exactamente esto')", "negacion", "una pregunta"], "answer": "enfasis ('exactamente esto')", "explanation": "'the very' intensifica el sustantivo." },
+    { "id": "t11-085", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'I have no idea whatsoever.' 'whatsoever' intensifica:", "options": ["'no' (ninguna en absoluto)", "el verbo", "el sujeto"], "answer": "'no' (ninguna en absoluto)", "explanation": "Refuerza la negacion tras 'no + sustantivo'." },
+    { "id": "t11-086", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'not ... at all' sirve para:", "options": ["reforzar una negacion", "suavizar una negacion", "hacer una pregunta"], "answer": "reforzar una negacion", "explanation": "'para nada / en absoluto'." },
+    { "id": "t11-087", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'It was John who broke it' pone el foco en:", "options": ["John", "broke", "it"], "answer": "John", "explanation": "Estructura enfatica 'It was X that/who...'." },
+    { "id": "t11-088", "subtopic": "enfasis-do-fronting", "type": "mcq", "prompt": "'What I need is a holiday.' Esta estructura enfatiza:", "options": ["'a holiday'", "'I'", "'need'"], "answer": "'a holiday'", "explanation": "El elemento tras 'is' recibe el foco." },
+
+    { "id": "t11-089", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Reescribe de forma enfatica: 'I have never been so embarrassed.'", "options": ["Never have I been so embarrassed.", "Never I have been so embarrassed.", "Never been I so embarrassed."], "answer": "Never have I been so embarrassed.", "explanation": "Never + have + sujeto + participio." },
+    { "id": "t11-090", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Reescribe: 'She had hardly sat down when the bell rang.'", "options": ["Hardly had she sat down when the bell rang.", "Hardly she had sat down...", "Hardly sat she down..."], "answer": "Hardly had she sat down when the bell rang.", "explanation": "Hardly + had + sujeto + participio + when." },
+    { "id": "t11-091", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Reescribe: 'If you had told me, I would have come.'", "options": ["Had you told me, I would have come.", "Would you have told me...", "Had told you me..."], "answer": "Had you told me, I would have come.", "explanation": "Se quita 'if' e invierte: Had + sujeto + participio." },
+    { "id": "t11-092", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Reescribe: 'We only realised the truth then.'", "options": ["Only then did we realise the truth.", "Only then we realised the truth.", "Only then realised we the truth."], "answer": "Only then did we realise the truth.", "explanation": "Only then + did + sujeto + base." },
+    { "id": "t11-093", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Reescribe: 'He is not only talented but also modest.'", "options": ["Not only is he talented, but he is also modest.", "Not only he is talented...", "Not only talented is he..."], "answer": "Not only is he talented, but he is also modest.", "explanation": "Inversion en la clausula de 'Not only'." },
+    { "id": "t11-094", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Detecta el error: 'Never I have seen such a mess.'", "options": ["'Never have I seen' (falta la inversion)", "'Never seen I have'", "esta bien"], "answer": "'Never have I seen' (falta la inversion)", "explanation": "Tras 'Never' inicial se invierte auxiliar y sujeto." },
+    { "id": "t11-095", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Detecta el error: 'No sooner I had left when it rained.'", "options": ["'No sooner had I left THAN it rained' (inversion + 'than')", "'No sooner I left than'", "esta bien"], "answer": "'No sooner had I left THAN it rained' (inversion + 'than')", "explanation": "No sooner + had + sujeto + participio + than." },
+    { "id": "t11-096", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Reescribe con 'So': 'It rained heavily, so the match was cancelled.'", "options": ["So heavily did it rain that the match was cancelled.", "So heavily it rained that...", "So it rained heavily that..."], "answer": "So heavily did it rain that the match was cancelled.", "explanation": "So + adverbio + did + sujeto + base + that." },
+    { "id": "t11-097", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "'Should you need help' significa lo mismo que:", "options": ["If you need help", "You should need help", "You must help"], "answer": "If you need help", "explanation": "Should + sujeto = condicion." },
+    { "id": "t11-098", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "La inversion enfatica aparece sobre todo en:", "options": ["ingles formal, literario o dramatico", "jerga hablada", "mensajes de texto"], "answer": "ingles formal, literario o dramatico", "explanation": "Es un recurso de registro alto." },
+    { "id": "t11-099", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "Cual mantiene el orden normal (SIN inversion)?", "options": ["Only Maria noticed.", "Only later did Maria notice.", "Never did Maria notice."], "answer": "Only Maria noticed.", "explanation": "'Only + sujeto' no invierte." },
+    { "id": "t11-100", "subtopic": "contraste-inversion", "type": "mcq", "prompt": "El auxiliar de una inversion concuerda con:", "options": ["el sujeto y el tiempo verbal original", "nada", "siempre con 'do'"], "answer": "el sujeto y el tiempo verbal original", "explanation": "Si la frase era 'have + participio', se usa 'have/has'; si era simple, 'do/does/did'." }
+  ]
+}

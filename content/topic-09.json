@@ -1,0 +1,233 @@
+{
+  "id": 9,
+  "slug": "deduccion-y-gerundio-infinitivo",
+  "level": "C1",
+  "title": "Modales de deduccion y especulacion + Gerundio vs Infinitivo",
+  "lesson": {
+    "intro": "Dos bloques de C1. Primero, los <strong>modales de deduccion</strong>: como decir lo seguros que estamos de algo (<em>must be, can't be, might have been...</em>). Segundo, la eleccion entre <strong>gerundio (-ing) e infinitivo con 'to'</strong>: depende del contexto (preposicion, verbo, adjetivo, proposito) y, en algunos verbos, cambia el significado.",
+    "sections": [
+      {
+        "subtopic": "deduccion-presente",
+        "heading": "1 - Deduccion en presente",
+        "body": "<p>Para expresar cuanto de seguros estamos de algo <strong>ahora</strong>:</p><ul><li><code>must be</code> = casi seguro que SI (He must be tired).</li><li><code>can't be</code> = casi seguro que NO (This can't be right).</li><li><code>might / may / could be</code> = es posible, no estoy seguro.</li></ul><p>El contrario de <em>must be</em> es <strong>can't be</strong>, no \"mustn't be\".</p>",
+        "examples": [
+          "She <strong>must be</strong> at work; her coat's gone.",
+          "He <strong>can't be</strong> serious.",
+          "It <strong>might be</strong> a mistake.",
+          "They <strong>could be</strong> stuck in traffic."
+        ]
+      },
+      {
+        "subtopic": "deduccion-pasado",
+        "heading": "2 - Deduccion en pasado",
+        "body": "<ul><li><code>must have</code> + participio = seguro que paso (The ground's wet - it must have rained).</li><li><code>can't / couldn't have</code> + participio = seguro que no paso (She can't have seen us).</li><li><code>might / may / could have</code> + participio = quiza paso.</li></ul><p>Ojo: <em>must have done</em> (deduccion) &ne; <em>should have done</em> (critica o consejo sobre el pasado).</p>",
+        "examples": [
+          "He <strong>must have left</strong> early.",
+          "They <strong>can't have finished</strong> already.",
+          "She <strong>might have forgotten</strong>.",
+          "Someone <strong>must have eaten</strong> the cake."
+        ]
+      },
+      {
+        "subtopic": "modales-continuo",
+        "heading": "3 - Modales + -ing (progresivo)",
+        "body": "<ul><li><code>modal + be + -ing</code> = deduccion sobre algo <strong>en curso ahora</strong>: They <strong>must be joking</strong>; He <strong>can't be sleeping</strong> at noon.</li><li><code>modal + have been + -ing</code> = deduccion sobre algo que <strong>estaba pasando</strong> en el pasado: She <strong>must have been working</strong> all night.</li></ul>",
+        "examples": [
+          "Listen - they <strong>must be arguing</strong>.",
+          "The engine's warm; he <strong>must have been driving</strong>.",
+          "She's exhausted; she <strong>must have been working</strong> all night."
+        ]
+      },
+      {
+        "subtopic": "gerundio-usos",
+        "heading": "4 - Gerundio (-ing): usos",
+        "body": "<ul><li>Como <strong>sujeto</strong>: <em>Smoking is bad</em>.</li><li>Tras <strong>preposicion</strong>: interested <strong>in</strong> learning; good <strong>at</strong> cooking; after <strong>finishing</strong>.</li><li>Tras ciertos verbos: <em>enjoy, avoid, mind, suggest, keep, finish, deny, imagine, risk, practise, consider, miss</em>.</li><li>Tras expresiones: <em>look forward to, be/get used to, it's no use/good, it's (not) worth, can't help, spend time</em> (+ -ing).</li></ul>",
+        "examples": [
+          "<strong>Swimming</strong> is good for you.",
+          "I'm interested in <strong>learning</strong> more.",
+          "She avoided <strong>answering</strong> the question.",
+          "I look forward to <strong>hearing</strong> from you."
+        ]
+      },
+      {
+        "subtopic": "infinitivo-usos",
+        "heading": "5 - Infinitivo con 'to': usos",
+        "body": "<ul><li>Tras ciertos verbos: <em>want, hope, decide, offer, refuse, manage, afford, agree, promise, learn, plan, expect, seem, tend, choose</em>.</li><li>Tras <strong>adjetivos</strong>: <em>easy to do, happy to help</em>.</li><li>Para expresar <strong>proposito</strong>: <em>I came here to see you</em>.</li><li>Con <em>too / enough</em>: <em>too tired to walk; old enough to drive</em>.</li></ul>",
+        "examples": [
+          "She decided <strong>to accept</strong> the job.",
+          "It was hard <strong>to accept</strong> the truth.",
+          "I went to the shop <strong>to buy</strong> milk.",
+          "He's not old enough <strong>to drive</strong>."
+        ]
+      },
+      {
+        "subtopic": "verbos-cambio-significado",
+        "heading": "6 - Verbos que cambian de significado",
+        "body": "<ul><li><em>stop <strong>-ing</strong></em> (dejar de) / <em>stop <strong>to</strong></em> (parar para).</li><li><em>remember <strong>-ing</strong></em> (recordar algo hecho) / <em>remember <strong>to</strong></em> (acordarse de hacer).</li><li><em>forget <strong>-ing</strong></em> (olvidar una experiencia) / <em>forget <strong>to</strong></em> (olvidarse de hacer).</li><li><em>regret <strong>-ing</strong></em> (arrepentirse de) / <em>regret <strong>to</strong> inform</em> (lamentar comunicar).</li><li><em>try <strong>-ing</strong></em> (probar a) / <em>try <strong>to</strong></em> (esforzarse por).</li><li><em>mean <strong>-ing</strong></em> (implicar) / <em>mean <strong>to</strong></em> (tener la intencion de).</li></ul>",
+        "examples": [
+          "I stopped <strong>smoking</strong>. (lo deje) / I stopped <strong>to smoke</strong>. (pare para fumar)",
+          "Remember <strong>to lock</strong> the door. / I remember <strong>locking</strong> it.",
+          "Try <strong>adding</strong> salt. / She tried <strong>to open</strong> the jar."
+        ]
+      },
+      {
+        "subtopic": "verbo-objeto-infinitivo",
+        "heading": "7 - Verbo + objeto + infinitivo",
+        "body": "<ul><li><em>want / ask / tell / expect / would like / warn</em> + objeto + <code>to</code> + infinitivo: <em>I want you <strong>to stay</strong></em>.</li><li><em>make / let</em> + objeto + infinitivo <strong>sin 'to'</strong>: <em>She made me <strong>wait</strong>; Let me <strong>go</strong></em>.</li><li><em>help</em> + objeto + <code>(to)</code> infinitivo (las dos valen).</li></ul><p>En <strong>pasiva</strong>, <em>make</em> recupera el 'to': <em>He was made <strong>to wait</strong></em>.</p>",
+        "examples": [
+          "I want you <strong>to stay</strong>.",
+          "They made me <strong>do</strong> it again.",
+          "My parents let me <strong>stay</strong> out late.",
+          "He helped me <strong>(to) carry</strong> the boxes."
+        ]
+      },
+      {
+        "subtopic": "contraste-ing-to",
+        "heading": "8 - Elegir -ing o 'to' infinitivo",
+        "body": "<p>Regla rapida:</p><ul><li>Tras <strong>preposicion</strong> &rarr; -ing.</li><li>Tras verbos de gustar / evitar / terminar / sugerir &rarr; -ing.</li><li>Tras verbos de querer / decidir / planear / prometer &rarr; to.</li><li>Como <strong>sujeto</strong> &rarr; -ing. Para <strong>proposito</strong> &rarr; to.</li></ul><p>Y memoriza los verbos que cambian de sentido.</p>",
+        "examples": [
+          "He suggested <strong>taking</strong> a taxi. / He offered <strong>to call</strong> a taxi.",
+          "It's not worth <strong>arguing</strong>. / I can't wait <strong>to see</strong> you.",
+          "She's good at <strong>solving</strong> problems."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "-ing o 'to' infinitivo?",
+      "headers": ["Contexto", "Forma", "Ejemplo"],
+      "rows": [
+        ["Sujeto de la frase", "-ing", "<strong>Reading</strong> relaxes me."],
+        ["Tras preposicion", "-ing", "good at <strong>drawing</strong>"],
+        ["Tras enjoy, avoid, mind, suggest, finish...", "-ing", "I avoid <strong>driving</strong> at night."],
+        ["Tras want, hope, decide, offer, refuse...", "to + inf.", "She decided <strong>to leave</strong>."],
+        ["Tras adjetivo / too / enough", "to + inf.", "too late <strong>to call</strong>"],
+        ["Proposito", "to + inf.", "I went out <strong>to buy</strong> bread."],
+        ["make / let + objeto", "infinitivo sin 'to'", "They made me <strong>wait</strong>."]
+      ]
+    },
+    "mistakes": [
+      "NO: This <em>mustn't</em> be right. (deduccion)  ->  SI: This <strong>can't</strong> be right.",
+      "NO: He <em>must had</em> left.  ->  SI: He <strong>must have</strong> left.",
+      "NO: I'm interested in <em>to learn</em> French.  ->  SI: I'm interested in <strong>learning</strong> French.",
+      "NO: She wants <em>that I stay</em>.  ->  SI: She wants <strong>me to stay</strong>.",
+      "NO: They made me <em>to wait</em>.  ->  SI: They made me <strong>wait</strong>.",
+      "NO: I look forward to <em>hear</em> from you.  ->  SI: ... to <strong>hearing</strong> from you.",
+      "NO: <em>should have done</em> = deduccion.  ->  Cuidado: <strong>must have done</strong> = deduccion; <strong>should have done</strong> = critica/consejo."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Modals: deductions about the present", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/modals-deductions-about-the-present" },
+      { "label": "British Council LearnEnglish - Modals: deductions about the past", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/modals-deductions-about-the-past" },
+      { "label": "British Council LearnEnglish - Verbs followed by '-ing' or infinitive", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/verbs-followed-ing-clause-or-infinitive" },
+      { "label": "Test-English - Gerunds and infinitives (B2-C1)", "url": "https://test-english.com/grammar-points/b2/gerunds-and-infinitives/" }
+    ]
+  },
+  "questions": [
+    { "id": "t9-001", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "He's got three phones. He ___ be rich.", "options": ["must", "can't", "might not"], "answer": "must", "explanation": "Deduccion casi segura (positiva) -> must." },
+    { "id": "t9-002", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "She ___ be at home - her car isn't here.", "options": ["can't", "must", "might"], "answer": "can't", "explanation": "Deduccion casi segura (negativa) -> can't." },
+    { "id": "t9-003", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "I'm not sure, but he ___ be French.", "options": ["might", "must", "can't"], "answer": "might", "explanation": "Posibilidad, sin seguridad -> might / may / could." },
+    { "id": "t9-004", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "There's no reply. They ___ be asleep.", "options": ["could", "can't", "mustn't"], "answer": "could", "explanation": "Explicacion posible -> could / might / may." },
+    { "id": "t9-005", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "'must' para deduccion expresa:", "options": ["casi certeza de que algo ES verdad", "obligacion", "posibilidad"], "answer": "casi certeza de que algo ES verdad", "explanation": "Deduccion fuerte positiva." },
+    { "id": "t9-006", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "'can't' para deduccion expresa:", "options": ["casi certeza de que algo NO es verdad", "permiso", "posibilidad debil"], "answer": "casi certeza de que algo NO es verdad", "explanation": "Deduccion fuerte negativa." },
+    { "id": "t9-007", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "El contrario de 'must be' (deduccion) es:", "options": ["can't be", "mustn't be", "don't must be"], "answer": "can't be", "explanation": "En deduccion, must be <-> can't be." },
+    { "id": "t9-008", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "'That ___ be John - he's on holiday in Peru.'", "options": ["can't", "must", "might not"], "answer": "can't", "explanation": "Imposible -> can't." },
+    { "id": "t9-009", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "'It ___ be true; I read it in three papers.'", "options": ["must", "can't", "may not"], "answer": "must", "explanation": "Casi seguro que si -> must." },
+    { "id": "t9-010", "subtopic": "deduccion-presente", "type": "gap", "prompt": "Completa: He knows everyone here. He ___ (must / be) a regular.", "accept": ["must be"], "answer": "must be", "explanation": "must + be (deduccion presente)." },
+    { "id": "t9-011", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "'She ___ know the answer; she's an expert.'", "options": ["must", "can't", "doesn't"], "answer": "must", "explanation": "Deduccion probable -> must." },
+    { "id": "t9-012", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "'You ___ be joking!' (no me lo creo)", "options": ["must", "can't", "might"], "answer": "must", "explanation": "'You must be joking' es la expresion fija." },
+    { "id": "t9-013", "subtopic": "deduccion-presente", "type": "mcq", "prompt": "Para un nivel intermedio de certeza usamos:", "options": ["may / might / could", "must", "can't"], "answer": "may / might / could", "explanation": "Posibilidad sin compromiso." },
+
+    { "id": "t9-014", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "The ground's wet. It ___ rained.", "options": ["must have", "can't have", "might not have"], "answer": "must have", "explanation": "Seguro que paso -> must have + participio." },
+    { "id": "t9-015", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "She ___ have seen us - she wasn't there.", "options": ["can't", "must", "might"], "answer": "can't", "explanation": "Seguro que no paso -> can't have + participio." },
+    { "id": "t9-016", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "He didn't answer. He ___ have been busy.", "options": ["might", "must", "can't"], "answer": "might", "explanation": "Explicacion posible -> might have + participio." },
+    { "id": "t9-017", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "Deduccion pasada (seguro que paso) =", "options": ["must have + participio", "can't have + participio", "should have + participio"], "answer": "must have + participio", "explanation": "must have done." },
+    { "id": "t9-018", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "Deduccion pasada (seguro que NO paso) =", "options": ["can't/couldn't have + participio", "mustn't have", "didn't have to"], "answer": "can't/couldn't have + participio", "explanation": "can't have done / couldn't have done." },
+    { "id": "t9-019", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "'The lights are off. They ___ have gone to bed.'", "options": ["must", "can't", "don't"], "answer": "must", "explanation": "Deduccion segura -> must have." },
+    { "id": "t9-020", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "'You ___ have felt terrible after that news.'", "options": ["must", "can't", "might not"], "answer": "must", "explanation": "Deduccion empatica -> must have." },
+    { "id": "t9-021", "subtopic": "deduccion-pasado", "type": "gap", "prompt": "Completa: The cake's gone. Someone ___ (must / eat) it.", "accept": ["must have eaten"], "answer": "must have eaten", "explanation": "must have + participio (eaten)." },
+    { "id": "t9-022", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "'He passed without studying? He ___ have cheated.'", "options": ["must", "can't", "should"], "answer": "must", "explanation": "Sospecha fuerte -> must have." },
+    { "id": "t9-023", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "'She ___ have got my message; her phone was off all day.'", "options": ["can't", "must", "might"], "answer": "can't", "explanation": "Imposible -> can't have + participio." },
+    { "id": "t9-024", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "'I ___ have left my keys at the office - they're not here.'", "options": ["must", "can't", "shouldn't"], "answer": "must", "explanation": "Conclusion logica -> must have." },
+    { "id": "t9-025", "subtopic": "deduccion-pasado", "type": "mcq", "prompt": "Diferencia entre 'must have done' y 'should have done':", "options": ["'must have' = deduccion; 'should have' = critica/consejo sobre el pasado", "son iguales", "'should have' es mas seguro"], "answer": "'must have' = deduccion; 'should have' = critica/consejo sobre el pasado", "explanation": "No confundir deduccion con reproche." },
+
+    { "id": "t9-026", "subtopic": "modales-continuo", "type": "mcq", "prompt": "Listen! Someone's shouting. They ___ be arguing.", "options": ["must", "can't", "don't"], "answer": "must", "explanation": "Deduccion sobre algo en curso -> must be + -ing." },
+    { "id": "t9-027", "subtopic": "modales-continuo", "type": "mcq", "prompt": "He looks awful. He ___ be feeling well.", "options": ["can't", "must", "might"], "answer": "can't", "explanation": "Deduccion negativa sobre el momento -> can't be + -ing." },
+    { "id": "t9-028", "subtopic": "modales-continuo", "type": "mcq", "prompt": "She called at 3 a.m.? She ___ have been dreaming.", "options": ["must", "can't", "should"], "answer": "must", "explanation": "Deduccion sobre accion pasada en curso -> must have been + -ing." },
+    { "id": "t9-029", "subtopic": "modales-continuo", "type": "mcq", "prompt": "modal + be + -ing describe:", "options": ["una deduccion sobre algo que pasa AHORA", "una deduccion pasada", "una obligacion"], "answer": "una deduccion sobre algo que pasa AHORA", "explanation": "must/can't/might be + -ing." },
+    { "id": "t9-030", "subtopic": "modales-continuo", "type": "mcq", "prompt": "modal + have been + -ing describe:", "options": ["una deduccion sobre una accion en curso en el pasado", "un habito presente", "un plan futuro"], "answer": "una deduccion sobre una accion en curso en el pasado", "explanation": "must have been working, etc." },
+    { "id": "t9-031", "subtopic": "modales-continuo", "type": "mcq", "prompt": "'You ___ be joking.'", "options": ["must", "can't", "should"], "answer": "must", "explanation": "Expresion fija: 'You must be joking'." },
+    { "id": "t9-032", "subtopic": "modales-continuo", "type": "mcq", "prompt": "'The engine's still warm. He ___ have been driving recently.'", "options": ["must", "can't", "shouldn't"], "answer": "must", "explanation": "Evidencia -> must have been + -ing." },
+    { "id": "t9-033", "subtopic": "modales-continuo", "type": "mcq", "prompt": "'She's exhausted. She ___ have been working all night.'", "options": ["must", "can't", "shouldn't"], "answer": "must", "explanation": "Deduccion fuerte -> must have been + -ing." },
+    { "id": "t9-034", "subtopic": "modales-continuo", "type": "mcq", "prompt": "'He ___ be studying now - the library closed hours ago.'", "options": ["can't", "must", "might"], "answer": "can't", "explanation": "Imposible ahora -> can't be + -ing." },
+    { "id": "t9-035", "subtopic": "modales-continuo", "type": "mcq", "prompt": "'They ___ be having dinner; it's only 5 p.m.'", "options": ["can't", "must", "should"], "answer": "can't", "explanation": "Improbable -> can't be + -ing." },
+    { "id": "t9-036", "subtopic": "modales-continuo", "type": "mcq", "prompt": "'I keep sneezing. I ___ be getting a cold.'", "options": ["must", "can't", "don't"], "answer": "must", "explanation": "Deduccion sobre proceso en curso -> must be + -ing." },
+    { "id": "t9-037", "subtopic": "modales-continuo", "type": "mcq", "prompt": "Elige la deduccion continua correcta:", "options": ["He must be joking.", "He must joking.", "He must to be joking."], "answer": "He must be joking.", "explanation": "modal + be + -ing (sin 'to', con 'be')." },
+
+    { "id": "t9-038", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "___ is good for your health.", "options": ["Swimming", "To swim", "Swim"], "answer": "Swimming", "explanation": "Gerundio como sujeto de la frase." },
+    { "id": "t9-039", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "I'm interested in ___ more.", "options": ["learning", "to learn", "learn"], "answer": "learning", "explanation": "Tras preposicion ('in') -> -ing." },
+    { "id": "t9-040", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "She enjoys ___.", "options": ["cooking", "to cook", "cook"], "answer": "cooking", "explanation": "enjoy + -ing." },
+    { "id": "t9-041", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "Would you mind ___ the door?", "options": ["closing", "to close", "close"], "answer": "closing", "explanation": "mind + -ing." },
+    { "id": "t9-042", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "He avoided ___ the question.", "options": ["answering", "to answer", "answer"], "answer": "answering", "explanation": "avoid + -ing." },
+    { "id": "t9-043", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "They kept ___ even though they were tired.", "options": ["walking", "to walk", "walk"], "answer": "walking", "explanation": "keep + -ing." },
+    { "id": "t9-044", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "I've finished ___ the report.", "options": ["writing", "to write", "write"], "answer": "writing", "explanation": "finish + -ing." },
+    { "id": "t9-045", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "She denied ___ the money.", "options": ["taking", "to take", "take"], "answer": "taking", "explanation": "deny + -ing." },
+    { "id": "t9-046", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "Tras 'look forward to', 'be used to', 'get used to' usamos:", "options": ["-ing (el 'to' es preposicion)", "el infinitivo", "la forma base"], "answer": "-ing (el 'to' es preposicion)", "explanation": "Aqui 'to' no es de infinitivo." },
+    { "id": "t9-047", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "I look forward to ___ from you.", "options": ["hearing", "hear", "to hear"], "answer": "hearing", "explanation": "look forward to + -ing." },
+    { "id": "t9-048", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "'It's no use / no good / worth' + ...", "options": ["-ing", "to + infinitivo", "forma base"], "answer": "-ing", "explanation": "It's no use worrying; it's worth trying." },
+    { "id": "t9-049", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "It's no use ___ about it now.", "options": ["worrying", "to worry", "worry"], "answer": "worrying", "explanation": "It's no use + -ing." },
+    { "id": "t9-050", "subtopic": "gerundio-usos", "type": "mcq", "prompt": "Verbos que suelen ir con -ing:", "options": ["enjoy, avoid, mind, suggest, finish, deny, imagine, risk, practise", "want, hope, decide, offer", "-"], "answer": "enjoy, avoid, mind, suggest, finish, deny, imagine, risk, practise", "explanation": "Grupo tipico de verbos + gerundio." },
+
+    { "id": "t9-051", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "I want ___ home.", "options": ["to go", "going", "go"], "answer": "to go", "explanation": "want + to + infinitivo." },
+    { "id": "t9-052", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "She decided ___ the job.", "options": ["to accept", "accepting", "accept"], "answer": "to accept", "explanation": "decide + to + infinitivo." },
+    { "id": "t9-053", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "He offered ___ me.", "options": ["to help", "helping", "help"], "answer": "to help", "explanation": "offer + to + infinitivo." },
+    { "id": "t9-054", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "They can't afford ___ a house.", "options": ["to buy", "buying", "buy"], "answer": "to buy", "explanation": "afford + to + infinitivo." },
+    { "id": "t9-055", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "It was hard ___ the truth.", "options": ["to accept", "accepting", "accept"], "answer": "to accept", "explanation": "adjetivo ('hard') + to + infinitivo." },
+    { "id": "t9-056", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "I went to the shop ___ some milk. (proposito)", "options": ["to buy", "for buy", "buying"], "answer": "to buy", "explanation": "Proposito -> to + infinitivo." },
+    { "id": "t9-057", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "She refused ___ anything.", "options": ["to say", "saying", "say"], "answer": "to say", "explanation": "refuse + to + infinitivo." },
+    { "id": "t9-058", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "We managed ___ on time.", "options": ["to finish", "finishing", "finish"], "answer": "to finish", "explanation": "manage + to + infinitivo." },
+    { "id": "t9-059", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "I'm learning ___.", "options": ["to drive", "driving", "drive"], "answer": "to drive", "explanation": "learn + to + infinitivo." },
+    { "id": "t9-060", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "He promised ___ back soon.", "options": ["to come", "coming", "come"], "answer": "to come", "explanation": "promise + to + infinitivo." },
+    { "id": "t9-061", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "'too' + adjetivo + ...", "options": ["to + infinitivo ('too tired to walk')", "-ing", "that"], "answer": "to + infinitivo ('too tired to walk')", "explanation": "too + adj + to + infinitivo." },
+    { "id": "t9-062", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "'enough' + ...", "options": ["to + infinitivo ('old enough to drive')", "-ing", "for + -ing"], "answer": "to + infinitivo ('old enough to drive')", "explanation": "adj + enough + to + infinitivo." },
+    { "id": "t9-063", "subtopic": "infinitivo-usos", "type": "mcq", "prompt": "Verbos que suelen ir con 'to' + infinitivo:", "options": ["want, hope, decide, offer, refuse, manage, agree, promise, plan", "enjoy, avoid, finish", "-"], "answer": "want, hope, decide, offer, refuse, manage, agree, promise, plan", "explanation": "Grupo tipico de verbos + infinitivo con 'to'." },
+
+    { "id": "t9-064", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'I stopped ___ (smoke).' = deje de fumar.", "options": ["smoking", "to smoke", "smoke"], "answer": "smoking", "explanation": "stop + -ing = dejar de hacer algo." },
+    { "id": "t9-065", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'On the way I stopped ___ (buy) petrol.' = pare para comprar.", "options": ["to buy", "buying", "buy"], "answer": "to buy", "explanation": "stop + to = parar con el fin de." },
+    { "id": "t9-066", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'Remember ___ (lock) the door.' (aun no lo has hecho)", "options": ["to lock", "locking", "lock"], "answer": "to lock", "explanation": "remember + to = acordarse de hacer algo (futuro)." },
+    { "id": "t9-067", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'I remember ___ (lock) the door.' (recuerdo haberlo hecho)", "options": ["locking", "to lock", "lock"], "answer": "locking", "explanation": "remember + -ing = recordar algo ya hecho." },
+    { "id": "t9-068", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'I regret ___ (tell) you this, but...' (lo lamento ahora)", "options": ["to tell", "telling", "tell"], "answer": "to tell", "explanation": "regret + to (inform/tell/say) = lamentar tener que comunicar." },
+    { "id": "t9-069", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'I regret ___ (not study) harder.' (me arrepiento del pasado)", "options": ["not studying", "not to study", "don't study"], "answer": "not studying", "explanation": "regret + -ing = arrepentirse de algo hecho (o no hecho)." },
+    { "id": "t9-070", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'She tried ___ (open) the window, but it was stuck.' (se esforzo)", "options": ["to open", "opening", "open"], "answer": "to open", "explanation": "try + to = esforzarse por conseguir algo." },
+    { "id": "t9-071", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'Try ___ (add) more salt - puede ayudar.' (prueba a hacerlo)", "options": ["adding", "to add", "add"], "answer": "adding", "explanation": "try + -ing = probar / experimentar una solucion." },
+    { "id": "t9-072", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'I forgot ___ (call) her.' (no la llame)", "options": ["to call", "calling", "call"], "answer": "to call", "explanation": "forget + to = olvidarse de hacer algo." },
+    { "id": "t9-073", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'I'll never forget ___ (see) the Alps for the first time.'", "options": ["seeing", "to see", "see"], "answer": "seeing", "explanation": "forget + -ing = olvidar una experiencia vivida." },
+    { "id": "t9-074", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'This will mean ___ (work) weekends.' (implicar)", "options": ["working", "to work", "work"], "answer": "working", "explanation": "mean + -ing = suponer / implicar." },
+    { "id": "t9-075", "subtopic": "verbos-cambio-significado", "type": "mcq", "prompt": "'I meant ___ (call) you, sorry.' (tener la intencion)", "options": ["to call", "calling", "call"], "answer": "to call", "explanation": "mean + to = tener la intencion de." },
+
+    { "id": "t9-076", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "I want you ___ here.", "options": ["to stay", "stay", "staying"], "answer": "to stay", "explanation": "want + objeto + to + infinitivo." },
+    { "id": "t9-077", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "She told me ___ down.", "options": ["to sit", "sit", "sitting"], "answer": "to sit", "explanation": "tell + objeto + to + infinitivo." },
+    { "id": "t9-078", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "They made me ___ it again.", "options": ["do", "to do", "doing"], "answer": "do", "explanation": "make + objeto + infinitivo SIN 'to'." },
+    { "id": "t9-079", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "Let me ___ you.", "options": ["help", "to help", "helping"], "answer": "help", "explanation": "let + objeto + infinitivo SIN 'to'." },
+    { "id": "t9-080", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "'make' y 'let' van seguidos de objeto + ...", "options": ["infinitivo sin 'to'", "to + infinitivo", "-ing"], "answer": "infinitivo sin 'to'", "explanation": "make sb do; let sb do." },
+    { "id": "t9-081", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "'help' se puede construir con:", "options": ["objeto + (to) infinitivo - las dos valen", "objeto + -ing solo", "that + clausula solo"], "answer": "objeto + (to) infinitivo - las dos valen", "explanation": "help me carry / help me to carry." },
+    { "id": "t9-082", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "He helped me ___ the table.", "options": ["(to) carry", "carrying", "carried"], "answer": "(to) carry", "explanation": "help + objeto + (to) + infinitivo." },
+    { "id": "t9-083", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "La pasiva de 'They made him wait' es:", "options": ["He was made to wait.", "He was made wait.", "He was make to wait."], "answer": "He was made to wait.", "explanation": "En pasiva, 'make' recupera el 'to'." },
+    { "id": "t9-084", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "I'd like you ___ me a favour.", "options": ["to do", "do", "doing"], "answer": "to do", "explanation": "would like + objeto + to + infinitivo." },
+    { "id": "t9-085", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "'want' / 'expect' / 'would like' + objeto + ...", "options": ["to + infinitivo", "infinitivo sin 'to'", "-ing"], "answer": "to + infinitivo", "explanation": "I want you to..., I expect them to..." },
+    { "id": "t9-086", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "She warned us ___ the dog.", "options": ["not to touch", "don't touch", "not touching"], "answer": "not to touch", "explanation": "warn + objeto + (not) to + infinitivo." },
+    { "id": "t9-087", "subtopic": "verbo-objeto-infinitivo", "type": "mcq", "prompt": "Cual es correcta?", "options": ["My parents let me stay out late.", "My parents let me to stay out late.", "My parents let me staying out late."], "answer": "My parents let me stay out late.", "explanation": "let + objeto + infinitivo sin 'to'." },
+
+    { "id": "t9-088", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "He suggested ___ a taxi.", "options": ["taking", "to take", "take"], "answer": "taking", "explanation": "suggest + -ing." },
+    { "id": "t9-089", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "He offered ___ a taxi.", "options": ["to call", "calling", "call"], "answer": "to call", "explanation": "offer + to + infinitivo." },
+    { "id": "t9-090", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "It's not worth ___.", "options": ["arguing", "to argue", "argue"], "answer": "arguing", "explanation": "worth + -ing." },
+    { "id": "t9-091", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "I can't wait ___ you!", "options": ["to see", "seeing", "see"], "answer": "to see", "explanation": "can't wait + to + infinitivo." },
+    { "id": "t9-092", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "Do you fancy ___ out tonight?", "options": ["going", "to go", "go"], "answer": "going", "explanation": "fancy + -ing." },
+    { "id": "t9-093", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "She's good at ___ problems.", "options": ["solving", "to solve", "solve"], "answer": "solving", "explanation": "Tras preposicion ('at') -> -ing." },
+    { "id": "t9-094", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "We agreed ___ the plan.", "options": ["to change", "changing", "change"], "answer": "to change", "explanation": "agree + to + infinitivo." },
+    { "id": "t9-095", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "I don't mind ___ early.", "options": ["getting up", "to get up", "get up"], "answer": "getting up", "explanation": "mind + -ing." },
+    { "id": "t9-096", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "The rain made us ___ the picnic.", "options": ["cancel", "to cancel", "cancelling"], "answer": "cancel", "explanation": "make + objeto + infinitivo sin 'to'." },
+    { "id": "t9-097", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "'stop to rest' vs 'stop resting':", "options": ["'stop to rest' = parar para descansar; 'stop resting' = dejar de descansar", "son iguales", "ambas incorrectas"], "answer": "'stop to rest' = parar para descansar; 'stop resting' = dejar de descansar", "explanation": "El cambio de forma cambia el significado." },
+    { "id": "t9-098", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "He admitted ___ the mistake.", "options": ["making", "to make", "make"], "answer": "making", "explanation": "admit + -ing." },
+    { "id": "t9-099", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "We hope ___ you soon.", "options": ["to see", "seeing", "see"], "answer": "to see", "explanation": "hope + to + infinitivo." },
+    { "id": "t9-100", "subtopic": "contraste-ing-to", "type": "mcq", "prompt": "Regla practica: tras una preposicion, usa siempre:", "options": ["-ing", "to + infinitivo", "la forma base"], "answer": "-ing", "explanation": "Preposicion + gerundio, sin excepciones utiles." }
+  ]
+}

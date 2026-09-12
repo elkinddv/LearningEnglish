@@ -1,0 +1,230 @@
+{
+  "id": 5,
+  "slug": "condicionales",
+  "level": "B2",
+  "title": "Oraciones condicionales",
+  "lesson": {
+    "intro": "Un condicional tiene dos partes: la <strong>clausula <em>if</em></strong> (la condicion) y la <strong>clausula principal</strong> (el resultado). El tipo lo decide una pregunta: la condicion, es <strong>siempre cierta</strong> (cero), una <strong>posibilidad real futura</strong> (primero), una <strong>hipotesis del presente</strong> (segundo) o un <strong>pasado que ya no se puede cambiar</strong> (tercero)? Regla de oro: nunca <em>will</em> ni <em>would</em> dentro de la clausula <em>if</em>.",
+    "sections": [
+      {
+        "subtopic": "zero-conditional",
+        "heading": "1 - Zero conditional",
+        "body": "<p><code>if / when</code> + presente simple, presente simple.</p><p>Para <strong>verdades generales</strong>, leyes de la naturaleza y relaciones causa-efecto que se cumplen siempre. Aqui <em>if</em> y <em>when</em> son intercambiables.</p>",
+        "examples": [
+          "If you heat ice, it <strong>melts</strong>.",
+          "When it gets dark, the lights <strong>come on</strong>.",
+          "Water <strong>boils</strong> if you heat it to 100 &deg;C.",
+          "If you don't water plants, they <strong>die</strong>."
+        ]
+      },
+      {
+        "subtopic": "first-conditional",
+        "heading": "2 - First conditional",
+        "body": "<p><code>if</code> + presente simple, <code>will / can / may / might</code> + base (o imperativo).</p><p>Para situaciones <strong>reales y posibles en el futuro</strong>. En la clausula <em>if</em> <strong>nunca</strong> se pone <em>will</em>.</p>",
+        "examples": [
+          "If it rains, we<strong>'ll stay</strong> in.",
+          "If you see her, <strong>tell</strong> her.",
+          "You <strong>might</strong> be late if you don't hurry.",
+          "If we leave now, we<strong>'ll catch</strong> the early train."
+        ]
+      },
+      {
+        "subtopic": "second-conditional",
+        "heading": "3 - Second conditional",
+        "body": "<p><code>if</code> + pasado simple, <code>would / could / might</code> + base.</p><p>Para situaciones <strong>imaginarias, improbables o imposibles</strong> en el presente o el futuro. Con <em>be</em> se usa <code>were</code> para todas las personas: <em>If I were you...</em></p>",
+        "examples": [
+          "If I won the lottery, I <strong>would travel</strong>.",
+          "If I <strong>were</strong> taller, I'd play basketball.",
+          "What would you do if you <strong>saw</strong> a bear?",
+          "They'd be happier if they <strong>lived</strong> in the countryside."
+        ]
+      },
+      {
+        "subtopic": "third-conditional",
+        "heading": "4 - Third conditional",
+        "body": "<p><code>if</code> + past perfect (<code>had</code> + participio), <code>would have / could have / might have</code> + participio.</p><p>Para el <strong>pasado que NO ocurrio</strong>: hipotesis y arrepentimientos sobre lo que ya paso.</p>",
+        "examples": [
+          "If I <strong>had known</strong>, I <strong>would have told</strong> you.",
+          "She <strong>would have passed</strong> if she <strong>had studied</strong>.",
+          "We wouldn't have got lost if we<strong>'d had</strong> a map."
+        ]
+      },
+      {
+        "subtopic": "unless-y-conectores",
+        "heading": "5 - unless, as long as, provided, in case, even if",
+        "body": "<ul><li><code>unless</code> = <em>if... not</em>: Don't call <strong>unless</strong> it's urgent.</li><li><code>as long as</code> / <code>provided (that)</code> = solo si: You can go <strong>as long as</strong> you're back by ten.</li><li><code>in case</code> = por si acaso; el verbo va en presente: Take cash <strong>in case</strong> the card doesn't work.</li><li><code>even if</code> = aunque / aun si: <strong>Even if</strong> it rains, we'll go.</li></ul>",
+        "examples": [
+          "You'll fail <strong>unless</strong> you study.",
+          "I'll lend it to you <strong>as long as</strong> you return it tomorrow.",
+          "I'll write it down <strong>in case</strong> you forget.",
+          "<strong>Even if</strong> I had a million euros, I wouldn't buy that."
+        ]
+      },
+      {
+        "subtopic": "puntuacion-y-orden",
+        "heading": "6 - Orden de las clausulas y coma",
+        "body": "<p>Las dos clausulas se pueden <strong>intercambiar</strong> sin cambiar el sentido.</p><ul><li>Si la clausula <em>if</em> va <strong>primera</strong>, se pone <strong>coma</strong> detras: <em>If it rains, we'll stay.</em></li><li>Si va <strong>segunda</strong>, no hay coma: <em>We'll stay if it rains.</em></li></ul><p>El <em>will / would</em> va en la clausula <strong>principal</strong>, no en la de <em>if</em>. <em>then</em> puede abrir la principal (If..., then...).</p>",
+        "examples": [
+          "<strong>If you leave now, </strong>you'll make it.",
+          "You'll make it <strong>if you leave now</strong>. (sin coma)",
+          "If I were you, <strong>then</strong> I'd apologise."
+        ]
+      },
+      {
+        "subtopic": "errores-would-will-if",
+        "heading": "7 - Errores tipicos: will / would tras 'if'",
+        "body": "<ul><li>1er condicional: <strong>no</strong> se pone <em>will</em> en la clausula <em>if</em> (<em>If you help me</em>, no \"If you will help me\").</li><li>2o / 3er condicional: <strong>no</strong> se pone <em>would</em> en la clausula <em>if</em> (<em>If I were / If I had known</em>, no \"If I would be / If I would have known\").</li></ul><p>Excepciones: <em>If you will / would wait here...</em> como peticion muy formal, o <em>if</em> con sentido de <em>whether</em> (I don't know if she will come).</p>",
+        "examples": [
+          "If it <strong>rains</strong> tomorrow, we'll cancel.",
+          "If I <strong>had</strong> more time, I would learn the guitar.",
+          "I would have called you if I <strong>had known</strong>."
+        ]
+      },
+      {
+        "subtopic": "contraste-condicionales",
+        "heading": "8 - Elegir el tipo de condicional",
+        "body": "<p>Cuatro preguntas rapidas:</p><ol><li>Es una verdad <strong>siempre cierta</strong>? &rarr; zero.</li><li>Es una <strong>posibilidad real</strong> en el futuro? &rarr; first.</li><li>Es <strong>imaginario o improbable</strong> ahora? &rarr; second.</li><li>Es sobre el <strong>pasado que ya no se puede cambiar</strong>? &rarr; third.</li></ol>",
+        "examples": [
+          "If you drop it, it <strong>breaks</strong>. (zero)",
+          "If it rains, we<strong>'ll</strong> stay. (first)",
+          "If I <strong>had</strong> time, I<strong>'d</strong> help. (second)",
+          "If I<strong>'d</strong> known, I<strong>'d have</strong> come. (third)"
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Los cuatro condicionales",
+      "headers": ["Tipo", "Clausula if", "Clausula principal", "Ejemplo"],
+      "rows": [
+        ["Zero (verdad general)", "presente simple", "presente simple", "If you drop it, it <strong>breaks</strong>."],
+        ["First (futuro real)", "presente simple", "will + base", "If it rains, we<strong>'ll</strong> stay."],
+        ["Second (hipotesis presente)", "pasado simple", "would + base", "If I <strong>had</strong> time, I<strong>'d</strong> help."],
+        ["Third (pasado irreal)", "past perfect", "would have + participio", "If I<strong>'d</strong> known, I<strong>'d have</strong> come."]
+      ]
+    },
+    "mistakes": [
+      "NO: If it <em>will rain</em>, we'll stay.  ->  SI: If it <strong>rains</strong>, we'll stay.",
+      "NO: If I <em>would be</em> you, I'd rest.  ->  SI: If I <strong>were</strong> you, I'd rest.",
+      "NO: If I <em>would have known</em>, I would have come.  ->  SI: If I <strong>had known</strong>, I would have come.",
+      "NO: If I had a car, I <em>will</em> drive you.  ->  SI: If I had a car, I <strong>would</strong> drive you.",
+      "NO: Unless you <em>don't hurry</em>, you'll be late.  ->  SI: <strong>Unless you hurry</strong>, you'll be late.",
+      "NO: She would have called if she <em>knew</em>.  ->  SI: ... if she <strong>had known</strong>.",
+      "NO: If you leave now you'll make it.  ->  SI: If you leave now<strong>,</strong> you'll make it."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Conditionals 1 (zero, first)", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/conditionals-1" },
+      { "label": "British Council LearnEnglish - Conditionals 2 (second, third)", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/conditionals-2" },
+      { "label": "British Council LearnEnglish - The zero conditional", "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/zero-conditional" },
+      { "label": "Test-English - Zero, first and second conditional (B1)", "url": "https://test-english.com/grammar-points/b1/zero-first-second-conditional/" }
+    ]
+  },
+  "questions": [
+    { "id": "t5-001", "subtopic": "zero-conditional", "type": "mcq", "prompt": "If you heat ice, it ___.", "options": ["melts", "will melt", "would melt"], "answer": "melts", "explanation": "Verdad general -> zero: presente + presente." },
+    { "id": "t5-002", "subtopic": "zero-conditional", "type": "mcq", "prompt": "Plants die if they ___ enough water.", "options": ["don't get", "won't get", "wouldn't get"], "answer": "don't get", "explanation": "Zero conditional: presente simple en las dos clausulas." },
+    { "id": "t5-003", "subtopic": "zero-conditional", "type": "mcq", "prompt": "When the sun ___, it gets warm.", "options": ["rises", "will rise", "would rise"], "answer": "rises", "explanation": "'when' + presente simple (verdad general)." },
+    { "id": "t5-004", "subtopic": "zero-conditional", "type": "mcq", "prompt": "If I ___ tired, I go to bed early.", "options": ["'m", "'ll be", "would be"], "answer": "'m", "explanation": "Rutina con causa-efecto -> zero: presente + presente." },
+    { "id": "t5-005", "subtopic": "zero-conditional", "type": "mcq", "prompt": "El zero conditional sirve para:", "options": ["hechos y verdades generales", "planes futuros", "situaciones imaginarias"], "answer": "hechos y verdades generales", "explanation": "Leyes de la naturaleza, rutinas siempre ciertas." },
+    { "id": "t5-006", "subtopic": "zero-conditional", "type": "mcq", "prompt": "Water ___ if you cool it to 0 C.", "options": ["freezes", "will freeze", "froze"], "answer": "freezes", "explanation": "Verdad cientifica -> presente simple." },
+    { "id": "t5-007", "subtopic": "zero-conditional", "type": "mcq", "prompt": "If you press this button, the machine ___.", "options": ["stops", "stopped", "would stop"], "answer": "stops", "explanation": "Relacion causa-efecto general -> zero." },
+    { "id": "t5-008", "subtopic": "zero-conditional", "type": "gap", "prompt": "Completa: If you mix blue and yellow, you ___ (get) green.", "accept": ["get"], "answer": "get", "explanation": "Verdad general -> presente simple." },
+    { "id": "t5-009", "subtopic": "zero-conditional", "type": "mcq", "prompt": "En el zero conditional, 'if' se puede sustituir por:", "options": ["when / whenever", "unless", "will"], "answer": "when / whenever", "explanation": "En verdades generales, if = when." },
+    { "id": "t5-010", "subtopic": "zero-conditional", "type": "mcq", "prompt": "My dog barks if someone ___ at the door.", "options": ["knocks", "will knock", "would knock"], "answer": "knocks", "explanation": "Causa-efecto habitual -> presente simple." },
+    { "id": "t5-011", "subtopic": "zero-conditional", "type": "mcq", "prompt": "If metal ___ hot, it expands.", "options": ["gets", "will get", "got"], "answer": "gets", "explanation": "Ley fisica -> zero." },
+    { "id": "t5-012", "subtopic": "zero-conditional", "type": "mcq", "prompt": "Las dos clausulas del zero conditional van en:", "options": ["presente simple", "presente + will", "pasado + would"], "answer": "presente simple", "explanation": "if + presente, presente." },
+
+    { "id": "t5-013", "subtopic": "first-conditional", "type": "mcq", "prompt": "If it rains tomorrow, we ___ inside.", "options": ["'ll stay", "stay", "stayed"], "answer": "'ll stay", "explanation": "First conditional: if + presente, will + base." },
+    { "id": "t5-014", "subtopic": "first-conditional", "type": "mcq", "prompt": "I'll call you if I ___ time.", "options": ["have", "'ll have", "had"], "answer": "have", "explanation": "En la clausula 'if', presente simple (no will)." },
+    { "id": "t5-015", "subtopic": "first-conditional", "type": "mcq", "prompt": "If you don't hurry, you ___ the bus.", "options": ["'ll miss", "miss", "missed"], "answer": "'ll miss", "explanation": "Resultado futuro real -> will + base." },
+    { "id": "t5-016", "subtopic": "first-conditional", "type": "mcq", "prompt": "She ___ be angry if she finds out.", "options": ["might", "would", "-"], "answer": "might", "explanation": "En la principal caben will / may / might / can." },
+    { "id": "t5-017", "subtopic": "first-conditional", "type": "mcq", "prompt": "If you see John, ___ him to call me.", "options": ["tell", "you'll tell", "telling"], "answer": "tell", "explanation": "Imperativo en la clausula principal." },
+    { "id": "t5-018", "subtopic": "first-conditional", "type": "gap", "prompt": "Completa: If we leave now, we ___ (catch) the early train.", "accept": ["will catch", "'ll catch"], "answer": "will catch", "explanation": "Resultado futuro real -> will + base." },
+    { "id": "t5-019", "subtopic": "first-conditional", "type": "mcq", "prompt": "El first conditional habla de:", "options": ["situaciones reales y posibles en el futuro", "hechos generales", "situaciones imposibles"], "answer": "situaciones reales y posibles en el futuro", "explanation": "Condiciones que pueden cumplirse de verdad." },
+    { "id": "t5-020", "subtopic": "first-conditional", "type": "mcq", "prompt": "I won't go if you ___ come with me.", "options": ["don't", "won't", "wouldn't"], "answer": "don't", "explanation": "Clausula 'if' -> presente simple, tambien en negativa." },
+    { "id": "t5-021", "subtopic": "first-conditional", "type": "mcq", "prompt": "If the weather ___ good, we'll have a picnic.", "options": ["is", "will be", "was"], "answer": "is", "explanation": "if + presente simple." },
+    { "id": "t5-022", "subtopic": "first-conditional", "type": "mcq", "prompt": "If I ___ promoted, I'll buy a car.", "options": ["get", "will get", "got"], "answer": "get", "explanation": "if + presente simple (aunque el sentido sea futuro)." },
+    { "id": "t5-023", "subtopic": "first-conditional", "type": "mcq", "prompt": "You can borrow my car if you ___ careful.", "options": ["are", "will be", "would be"], "answer": "are", "explanation": "Clausula 'if' -> presente simple; 'can' en la principal." },
+    { "id": "t5-024", "subtopic": "first-conditional", "type": "mcq", "prompt": "Unless it stops raining, we ___ at home.", "options": ["'ll stay", "stay", "stayed"], "answer": "'ll stay", "explanation": "'unless' funciona como 'if... not' en un 1er condicional." },
+    { "id": "t5-025", "subtopic": "first-conditional", "type": "mcq", "prompt": "If he ___ hard, he'll pass.", "options": ["works", "will work", "worked"], "answer": "works", "explanation": "if + presente simple." },
+
+    { "id": "t5-026", "subtopic": "second-conditional", "type": "mcq", "prompt": "If I ___ rich, I would travel the world.", "options": ["were", "am", "will be"], "answer": "were", "explanation": "Second conditional: if + pasado simple; con 'be' -> were." },
+    { "id": "t5-027", "subtopic": "second-conditional", "type": "mcq", "prompt": "If I won the lottery, I ___ a house.", "options": ["would buy", "will buy", "bought"], "answer": "would buy", "explanation": "Resultado hipotetico -> would + base." },
+    { "id": "t5-028", "subtopic": "second-conditional", "type": "mcq", "prompt": "If I ___ you, I wouldn't do that.", "options": ["were", "am", "will be"], "answer": "were", "explanation": "'If I were you' es la forma fija para dar consejo." },
+    { "id": "t5-029", "subtopic": "second-conditional", "type": "mcq", "prompt": "She ___ help if she had time.", "options": ["would", "will", "-"], "answer": "would", "explanation": "Clausula principal del 2o condicional -> would + base." },
+    { "id": "t5-030", "subtopic": "second-conditional", "type": "mcq", "prompt": "If we lived nearer, we ___ visit more often.", "options": ["would", "will", "-"], "answer": "would", "explanation": "Hipotesis presente -> would + base." },
+    { "id": "t5-031", "subtopic": "second-conditional", "type": "mcq", "prompt": "El second conditional es para:", "options": ["situaciones imaginarias o improbables (presente/futuro)", "hechos generales", "el pasado"], "answer": "situaciones imaginarias o improbables (presente/futuro)", "explanation": "Hipotesis que no son reales ahora." },
+    { "id": "t5-032", "subtopic": "second-conditional", "type": "gap", "prompt": "Completa: If I ___ (have) more money, I would buy it.", "accept": ["had"], "answer": "had", "explanation": "Clausula 'if' del 2o condicional -> pasado simple." },
+    { "id": "t5-033", "subtopic": "second-conditional", "type": "mcq", "prompt": "What would you do if you ___ a ghost?", "options": ["saw", "see", "would see"], "answer": "saw", "explanation": "if + pasado simple." },
+    { "id": "t5-034", "subtopic": "second-conditional", "type": "mcq", "prompt": "If he studied more, he ___ better grades.", "options": ["would get", "will get", "gets"], "answer": "would get", "explanation": "Resultado hipotetico -> would + base." },
+    { "id": "t5-035", "subtopic": "second-conditional", "type": "mcq", "prompt": "En el second conditional, la clausula 'if' usa:", "options": ["pasado simple", "presente simple", "would + base"], "answer": "pasado simple", "explanation": "if + pasado simple (aunque no hable del pasado)." },
+    { "id": "t5-036", "subtopic": "second-conditional", "type": "mcq", "prompt": "I wouldn't say that if I ___ you.", "options": ["were", "am", "will be"], "answer": "were", "explanation": "'If I were you' (forma fija)." },
+    { "id": "t5-037", "subtopic": "second-conditional", "type": "mcq", "prompt": "If it ___ so expensive, I'd buy one.", "options": ["weren't", "isn't", "wouldn't be"], "answer": "weren't", "explanation": "Clausula 'if' con 'be' -> were / weren't." },
+    { "id": "t5-038", "subtopic": "second-conditional", "type": "mcq", "prompt": "They'd be happier if they ___ in the countryside.", "options": ["lived", "live", "would live"], "answer": "lived", "explanation": "if + pasado simple." },
+
+    { "id": "t5-039", "subtopic": "third-conditional", "type": "mcq", "prompt": "If I had known, I ___ you.", "options": ["would have told", "would tell", "told"], "answer": "would have told", "explanation": "Third conditional: would have + participio." },
+    { "id": "t5-040", "subtopic": "third-conditional", "type": "mcq", "prompt": "If she ___ harder, she would have passed.", "options": ["had studied", "studied", "would study"], "answer": "had studied", "explanation": "Clausula 'if' -> past perfect (had + participio)." },
+    { "id": "t5-041", "subtopic": "third-conditional", "type": "mcq", "prompt": "We ___ the train if we hadn't left late.", "options": ["would have caught", "would catch", "caught"], "answer": "would have caught", "explanation": "Resultado pasado irreal -> would have + participio." },
+    { "id": "t5-042", "subtopic": "third-conditional", "type": "mcq", "prompt": "El third conditional habla de:", "options": ["el pasado que no ocurrio (imaginario)", "el futuro", "hechos generales"], "answer": "el pasado que no ocurrio (imaginario)", "explanation": "Hipotesis y arrepentimientos sobre el pasado." },
+    { "id": "t5-043", "subtopic": "third-conditional", "type": "gap", "prompt": "Completa: If you ___ (ask) me, I would have helped.", "accept": ["had asked"], "answer": "had asked", "explanation": "Clausula 'if' -> past perfect." },
+    { "id": "t5-044", "subtopic": "third-conditional", "type": "mcq", "prompt": "If it hadn't rained, the match ___.", "options": ["would have gone ahead", "would go ahead", "went ahead"], "answer": "would have gone ahead", "explanation": "would have + participio." },
+    { "id": "t5-045", "subtopic": "third-conditional", "type": "mcq", "prompt": "En el third conditional, la clausula 'if' usa:", "options": ["past perfect (had + participio)", "past simple", "would have"], "answer": "past perfect (had + participio)", "explanation": "if + had + participio." },
+    { "id": "t5-046", "subtopic": "third-conditional", "type": "mcq", "prompt": "He wouldn't have got lost if he ___ a map.", "options": ["had had", "had", "would have had"], "answer": "had had", "explanation": "Past perfect de 'have' -> had had." },
+    { "id": "t5-047", "subtopic": "third-conditional", "type": "mcq", "prompt": "I ___ come if you had invited me.", "options": ["would have", "will have", "would"], "answer": "would have", "explanation": "would have + participio (come)." },
+    { "id": "t5-048", "subtopic": "third-conditional", "type": "mcq", "prompt": "If they had left earlier, they ___ stuck in traffic.", "options": ["wouldn't have got", "wouldn't get", "didn't get"], "answer": "wouldn't have got", "explanation": "Negativa de would have + participio." },
+    { "id": "t5-049", "subtopic": "third-conditional", "type": "mcq", "prompt": "'If only I had listened' expresa:", "options": ["arrepentimiento por el pasado", "un plan", "una regla"], "answer": "arrepentimiento por el pasado", "explanation": "Estructura de lamento ligada al 3er condicional." },
+    { "id": "t5-050", "subtopic": "third-conditional", "type": "mcq", "prompt": "She would have called if she ___ your number.", "options": ["had known", "knew", "would know"], "answer": "had known", "explanation": "Clausula 'if' -> past perfect." },
+    { "id": "t5-051", "subtopic": "third-conditional", "type": "mcq", "prompt": "La clausula principal del third conditional usa:", "options": ["would have + participio", "would + base", "had + participio"], "answer": "would have + participio", "explanation": "would / could / might have + participio." },
+
+    { "id": "t5-052", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "'unless' significa mas o menos:", "options": ["if... not", "if", "when"], "answer": "if... not", "explanation": "unless = a menos que / si no." },
+    { "id": "t5-053", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "You'll fail ___ you study.", "options": ["unless", "if", "as long as"], "answer": "unless", "explanation": "unless you study = if you don't study." },
+    { "id": "t5-054", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "I'll lend it to you ___ you return it tomorrow.", "options": ["as long as", "unless", "in case"], "answer": "as long as", "explanation": "'as long as' = solo si / siempre que." },
+    { "id": "t5-055", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "Take an umbrella ___ it rains.", "options": ["in case", "unless", "as long as"], "answer": "in case", "explanation": "'in case' = por si acaso." },
+    { "id": "t5-056", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "You can go out ___ you're home by ten.", "options": ["provided that", "unless", "even if"], "answer": "provided that", "explanation": "'provided that' = con la condicion de que." },
+    { "id": "t5-057", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "___ I had a million euros, I wouldn't buy that.", "options": ["Even if", "Unless", "As long as"], "answer": "Even if", "explanation": "'even if' = aunque / aun si." },
+    { "id": "t5-058", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "We won't get there on time ___ we leave now.", "options": ["unless", "if", "provided"], "answer": "unless", "explanation": "unless we leave = if we don't leave." },
+    { "id": "t5-059", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "Tras 'in case', el verbo suele ir en:", "options": ["presente simple", "futuro con will", "condicional"], "answer": "presente simple", "explanation": "'in case it rains', no 'in case it will rain'." },
+    { "id": "t5-060", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "You can borrow the car ___ you don't drive too fast.", "options": ["as long as", "unless", "in case"], "answer": "as long as", "explanation": "'as long as' introduce la condicion que hay que cumplir." },
+    { "id": "t5-061", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "Equivale a 'You'll be fine if you don't panic':", "options": ["You'll be fine unless you panic.", "You'll be fine as long as you panic.", "You'll be fine in case you panic."], "answer": "You'll be fine unless you panic.", "explanation": "unless = if... not." },
+    { "id": "t5-062", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "I'll write down the address ___ you forget it.", "options": ["in case", "unless", "provided"], "answer": "in case", "explanation": "'in case' = como precaucion." },
+    { "id": "t5-063", "subtopic": "unless-y-conectores", "type": "mcq", "prompt": "Don't call me ___ it's an emergency.", "options": ["unless", "if", "as long as"], "answer": "unless", "explanation": "unless it's an emergency = if it isn't an emergency." },
+
+    { "id": "t5-064", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "Cuando la clausula 'if' va primera, se pone:", "options": ["una coma detras de ella", "una coma antes de 'if'", "ninguna coma"], "answer": "una coma detras de ella", "explanation": "If..., + clausula principal." },
+    { "id": "t5-065", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "Cual esta bien puntuada?", "options": ["If you leave now, you'll make it.", "If you leave now you'll make it,", "If, you leave now you'll make it."], "answer": "If you leave now, you'll make it.", "explanation": "Coma tras la clausula 'if' inicial." },
+    { "id": "t5-066", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "'We'll help you if you ask.' - Hace falta coma?", "options": ["No, porque la clausula 'if' va en segundo lugar.", "Si, siempre.", "Si, antes de 'you'."], "answer": "No, porque la clausula 'if' va en segundo lugar.", "explanation": "Sin coma cuando 'if' va al final." },
+    { "id": "t5-067", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "El orden de las dos clausulas del condicional:", "options": ["se puede cambiar sin alterar el significado", "es fijo (clausula 'if' primero)", "es fijo (clausula principal primero)"], "answer": "se puede cambiar sin alterar el significado", "explanation": "Solo cambia la puntuacion." },
+    { "id": "t5-068", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "En 'If I were you, I'd rest', 'I'd' es:", "options": ["I would", "I had", "I did"], "answer": "I would", "explanation": "En condicionales, 'd = would." },
+    { "id": "t5-069", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "Ordena: 'rains / if / it / we'll stay in'.", "options": ["If it rains, we'll stay in.", "If rains it, we'll stay in.", "We'll stay in, if it rains."], "answer": "If it rains, we'll stay in.", "explanation": "if + sujeto + verbo; coma antes de la principal." },
+    { "id": "t5-070", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "'would' / 'will' van en:", "options": ["la clausula principal, no en la de 'if'", "la clausula de 'if'", "las dos clausulas"], "answer": "la clausula principal, no en la de 'if'", "explanation": "Regla basica de los condicionales." },
+    { "id": "t5-071", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "Cual es correcta?", "options": ["I would go if I had time.", "I would go if I would have time.", "I will go if I would have time."], "answer": "I would go if I had time.", "explanation": "2o condicional: would en la principal, pasado simple tras 'if'." },
+    { "id": "t5-072", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "'Had I known, I would have come' es:", "options": ["una inversion formal del 3er condicional (= If I had known...)", "un error", "un segundo condicional"], "answer": "una inversion formal del 3er condicional (= If I had known...)", "explanation": "Registro formal: se omite 'if' e invierte had + sujeto." },
+    { "id": "t5-073", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "Por escrito, 'If she calls I'll tell her' se escribe mejor:", "options": ["If she calls, I'll tell her.", "If she calls I'll tell her.", "If, she calls, I'll tell her."], "answer": "If she calls, I'll tell her.", "explanation": "Coma tras la clausula 'if' inicial." },
+    { "id": "t5-074", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "La palabra 'then' puede introducir:", "options": ["la clausula principal (If..., then...)", "la clausula 'if'", "ninguna"], "answer": "la clausula principal (If..., then...)", "explanation": "'If..., then...' es correcto y comun." },
+    { "id": "t5-075", "subtopic": "puntuacion-y-orden", "type": "mcq", "prompt": "Cual NO necesita coma?", "options": ["I'd travel more if I had the money.", "If I had the money I'd travel more.", "If I had the money, I'd travel more."], "answer": "I'd travel more if I had the money.", "explanation": "Sin coma cuando la clausula 'if' va al final." },
+
+    { "id": "t5-076", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "Correcto: 'If it ___ tomorrow, we'll cancel.'", "options": ["rains", "will rain", "would rain"], "answer": "rains", "explanation": "Clausula 'if' del 1er condicional -> presente simple." },
+    { "id": "t5-077", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "Correcto: 'If I ___ more time, I would learn the guitar.'", "options": ["had", "would have", "will have"], "answer": "had", "explanation": "Clausula 'if' del 2o condicional -> pasado simple." },
+    { "id": "t5-078", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "Patron incorrecto: 'If you will help me, ...'. La correccion:", "options": ["If you help me, ...", "If you would help me, ...", "If you helping me, ..."], "answer": "If you help me, ...", "explanation": "Nada de will en la clausula 'if'." },
+    { "id": "t5-079", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "'If I would be rich...' deberia ser:", "options": ["If I were rich...", "If I will be rich...", "If I am rich..."], "answer": "If I were rich...", "explanation": "2o condicional: if + were, sin would." },
+    { "id": "t5-080", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "Clausula principal del 2o condicional: 'I ___ happier.'", "options": ["would be", "will be", "am"], "answer": "would be", "explanation": "would + base en la principal." },
+    { "id": "t5-081", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "Clausula 'if' del 3er condicional: 'If they ___ earlier...'", "options": ["had arrived", "arrived", "would arrive"], "answer": "had arrived", "explanation": "if + past perfect." },
+    { "id": "t5-082", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "Cual es correcta?", "options": ["If she asked me, I would say yes.", "If she would ask me, I would say yes.", "If she asks me, I would say yes."], "answer": "If she asked me, I would say yes.", "explanation": "2o condicional coherente: pasado simple + would." },
+    { "id": "t5-083", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "'will' tras 'if' solo se acepta cuando:", "options": ["es una peticion educada ('If you will wait here...') o 'if' significa 'whether'", "nunca", "siempre"], "answer": "es una peticion educada ('If you will wait here...') o 'if' significa 'whether'", "explanation": "Son los dos usos legitimos de 'if ... will'." },
+    { "id": "t5-084", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "Corrige: 'I would have called you if I would have known.'", "options": ["... if I had known.", "... if I knew.", "... if I have known."], "answer": "... if I had known.", "explanation": "3er condicional: if + past perfect, sin 'would have'." },
+    { "id": "t5-085", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "First conditional correcto:", "options": ["If we hurry, we'll be on time.", "If we will hurry, we'll be on time.", "If we hurry, we be on time."], "answer": "If we hurry, we'll be on time.", "explanation": "if + presente, will + base." },
+    { "id": "t5-086", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "En 'If I ___ you, I'd apologise', usa:", "options": ["were", "would be", "will be"], "answer": "were", "explanation": "'If I were you' es la forma correcta." },
+    { "id": "t5-087", "subtopic": "errores-would-will-if", "type": "mcq", "prompt": "'If he had listened, he would ___ the mistake.' Completa:", "options": ["have avoided", "avoid", "avoided"], "answer": "have avoided", "explanation": "would have + participio." },
+
+    { "id": "t5-088", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If you ___ water to 100 C, it boils. (verdad general)", "options": ["heat", "will heat", "would heat"], "answer": "heat", "explanation": "Verdad siempre cierta -> zero conditional." },
+    { "id": "t5-089", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If I ___ you tomorrow, I'll give you the book. (probable)", "options": ["see", "will see", "saw"], "answer": "see", "explanation": "Posibilidad real futura -> first conditional (if + presente)." },
+    { "id": "t5-090", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If I ___ a bird, I would fly south. (imposible)", "options": ["were", "am", "will be"], "answer": "were", "explanation": "Hipotesis irreal del presente -> second conditional." },
+    { "id": "t5-091", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If we ___ booked, we would have had seats. (pasado)", "options": ["had", "have", "would have"], "answer": "had", "explanation": "Pasado irreal -> third conditional (if + past perfect)." },
+    { "id": "t5-092", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "I'll be surprised if she ___ on time. (realista)", "options": ["arrives", "will arrive", "arrived"], "answer": "arrives", "explanation": "First conditional -> if + presente simple." },
+    { "id": "t5-093", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If humans ___ wings, air travel would be different. (hipotesis)", "options": ["had", "have", "will have"], "answer": "had", "explanation": "Second conditional -> if + pasado simple." },
+    { "id": "t5-094", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If you don't water plants, they ___. (hecho)", "options": ["die", "would die", "had died"], "answer": "die", "explanation": "Zero conditional -> presente + presente." },
+    { "id": "t5-095", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If I ___ known you were coming, I'd have baked a cake. (pasado)", "options": ["had", "have", "would have"], "answer": "had", "explanation": "Third conditional -> if + past perfect." },
+    { "id": "t5-096", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If she ___ the offer, she'd regret it. (hipotesis presente)", "options": ["refused", "refuses", "would refuse"], "answer": "refused", "explanation": "Second conditional -> if + pasado simple." },
+    { "id": "t5-097", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "We'll miss the start if the train ___ late. (probable)", "options": ["is", "will be", "were"], "answer": "is", "explanation": "First conditional -> if + presente simple." },
+    { "id": "t5-098", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If it ___ so cold yesterday, we would have gone out. (pasado)", "options": ["hadn't been", "wasn't", "weren't"], "answer": "hadn't been", "explanation": "Third conditional -> if + past perfect (negativo)." },
+    { "id": "t5-099", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "If you ___ me earlier, I could have helped. (pasado)", "options": ["had told", "told", "would tell"], "answer": "had told", "explanation": "Third conditional -> if + past perfect." },
+    { "id": "t5-100", "subtopic": "contraste-condicionales", "type": "mcq", "prompt": "Hipotesis del presente + would -> que condicional?", "options": ["second", "first", "third"], "answer": "second", "explanation": "if + pasado simple, would + base = second conditional." }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": 15,
+  "slug": "conectores-y-elipsis",
+  "level": "C2",
+  "title": "Conectores avanzados de discurso y elipsis",
+  "lesson": {
+    "intro": "La <strong>cohesion</strong> es lo que hace que un texto se lea como un todo y no como frases sueltas. Se consigue con <strong>conectores</strong> precisos (que marcan contraste, adicion, consecuencia, ejemplo...) y con <strong>elipsis</strong> y <strong>sustitucion</strong>, que evitan repetir lo que ya se entiende.",
+    "sections": [
+      {
+        "subtopic": "conectores-contraste",
+        "heading": "1 - Conectores de contraste",
+        "body": "<p><em>however, nevertheless, nonetheless</em> (mas formal), <em>still, all the same, then again</em> introducen una idea que choca con la anterior (al principio, con coma).</p><p><em>whereas / while</em> contrastan dos hechos en una misma frase. <em>albeit</em> + frase (no clausula) = 'aunque'. <em>notwithstanding</em> = 'a pesar de' (+ nombre). <em>that said / having said that</em> = 'dicho esto'.</p>",
+        "examples": [
+          "It's slow; <strong>however</strong>, it's reliable.",
+          "She loves cats, <strong>whereas</strong> he prefers dogs.",
+          "He agreed, <strong>albeit</strong> reluctantly.",
+          "<strong>Notwithstanding</strong> the delays, it finished on time."
+        ]
+      },
+      {
+        "subtopic": "conectores-adicion-secuencia",
+        "heading": "2 - Conectores de adicion y secuencia",
+        "body": "<p><em>moreover, furthermore, in addition, what is more, on top of that, besides</em> suman un punto (a menudo mas fuerte).</p><p><em>likewise / similarly</em> marcan un paralelismo. Secuencia: <em>firstly, secondly, then, subsequently, finally, ultimately</em> (= al final / en el fondo).</p>",
+        "examples": [
+          "It's small. <strong>Moreover</strong>, it's far from the station.",
+          "The report is late. <strong>On top of that</strong>, several figures are wrong.",
+          "The results were poor; <strong>similarly</strong>, attendance dropped.",
+          "<strong>Ultimately</strong>, the decision is yours."
+        ]
+      },
+      {
+        "subtopic": "conectores-causa-consecuencia",
+        "heading": "3 - Conectores de causa y consecuencia",
+        "body": "<p><em>consequently, therefore, hence, thus, accordingly, as a result</em> introducen el efecto (al principio, con coma).</p><p><em>owing to / due to / because of</em> + <strong>nombre</strong>; <em>because / since / as / given (that)</em> + <strong>clausula</strong>. <em>thereby</em> + <code>-ing</code> = 'y asi...'. <em>hence</em> + nombre ('hence the delay').</p>",
+        "examples": [
+          "Sales fell sharply. <strong>Consequently</strong>, the factory closed.",
+          "The road was closed; <strong>therefore</strong>, we took a detour.",
+          "The bridge was damaged, <strong>thereby</strong> closing the main route.",
+          "<strong>Due to</strong> the storm, all flights were cancelled."
+        ]
+      },
+      {
+        "subtopic": "conectores-ejemplo-reformulacion",
+        "heading": "4 - Ejemplo y reformulacion",
+        "body": "<p><em>for example / for instance / such as / e.g.</em> dan muestras. <em>namely / viz.</em> dan la lista <strong>completa y concreta</strong>. <em>i.e. / that is (to say) / in other words</em> reformulan. <em>to be precise / or rather</em> afinan o corrigen. <em>in short / put simply</em> resumen.</p>",
+        "examples": [
+          "Only one option remains, <strong>namely</strong> to resign.",
+          "It's obsolete, <strong>i.e.</strong> no longer supported.",
+          "The main issue, <strong>that is</strong>, funding, remains.",
+          "It failed - <strong>or rather</strong>, it was never really tried."
+        ]
+      },
+      {
+        "subtopic": "conectores-concesion-enfasis",
+        "heading": "5 - Concesion y enfasis",
+        "body": "<p><em>admittedly, granted, to be fair, arguably</em> conceden que la otra parte tiene razon o suavizan una afirmacion.</p><p><em>indeed, in fact</em> refuerzan (o, <em>in fact</em>, corrigen suavemente). <em>if anything</em> = 'mas bien lo contrario'. <em>needless to say</em> = 'ni que decir tiene'. <em>let alone</em> (tras negativa) = 'y mucho menos'. <em>by and large</em> = 'en general'.</p>",
+        "examples": [
+          "<strong>Admittedly</strong>, the design has flaws, but it works.",
+          "It's cheap; <strong>indeed</strong>, it's the cheapest available.",
+          "<strong>If anything</strong>, the problem has got worse.",
+          "He can't walk, <strong>let alone</strong> run."
+        ]
+      },
+      {
+        "subtopic": "elipsis-verbal",
+        "heading": "6 - Elipsis verbal",
+        "body": "<p>Se omite el verbo o la frase que ya se entiende: <em>I can and I will (help)</em>; <em>She said she'd call, and she did</em>; \"Do you smoke?\" \"I <strong>do</strong>\"; <em>I'd love <strong>to</strong> (come)</em>.</p><p>Tras comparativos: <em>He works harder than she <strong>does</strong> / than I <strong>do</strong></em>. Con modales: <em>He must <strong>have</strong> (arrived) by now</em>.</p>",
+        "examples": [
+          "I can help, and I <strong>will</strong>.",
+          "She said she would call, and she <strong>did</strong>.",
+          "\"Do you like jazz?\" \"I <strong>do</strong>.\"",
+          "I'd love to come but I <strong>can't</strong>."
+        ]
+      },
+      {
+        "subtopic": "sustitucion",
+        "heading": "7 - Sustitucion",
+        "body": "<p><code>so / not</code> sustituyen una clausula tras <em>think, hope, believe, expect, suppose, be afraid</em> (\"I think so\", \"I'm afraid not\"). <em>doubt / know</em> llevan <code>it</code> (\"I doubt it\").</p><p><code>one / ones</code> sustituyen un sustantivo contable. <code>do (does/did)</code> sustituye un verbo. <code>the former / the latter</code> = el primero / el segundo de dos cosas mencionadas.</p>",
+        "examples": [
+          "\"Is it going to rain?\" \"I think <strong>so</strong>.\"",
+          "\"Did they win?\" \"I'm afraid <strong>not</strong>.\"",
+          "The red shoes are nicer than the black <strong>ones</strong>.",
+          "Of the two, I prefer the <strong>former</strong>."
+        ]
+      },
+      {
+        "subtopic": "contraste-cohesion",
+        "heading": "8 - Elegir el mecanismo de cohesion",
+        "body": "<p>Identifica la relacion logica: contraste &rarr; however / whereas / nevertheless; adicion &rarr; moreover / furthermore; consecuencia &rarr; consequently / therefore / hence; ejemplo &rarr; for instance / such as; especificacion &rarr; namely; reformulacion &rarr; in other words / i.e.</p><p>Comprueba la forma: <em>due to</em> + nombre, <em>albeit</em> + frase, conector al principio + coma. Usa elipsis y sustitucion para no repetir.</p>",
+        "examples": [
+          "Poor results. <strong>Consequently</strong>, funding was cut. (consecuencia)",
+          "Poor results. <strong>Nevertheless</strong>, the team stayed positive. (contraste)",
+          "One solution, <strong>namely</strong> a recount. (especificacion)"
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Que conector para que relacion",
+      "headers": ["Relacion", "Conectores", "Ejemplo"],
+      "rows": [
+        ["Contraste", "however, nevertheless, whereas, albeit", "It's slow; <strong>however</strong>, it's reliable."],
+        ["Adicion", "moreover, furthermore, in addition, what is more", "It's slow. <strong>Moreover</strong>, it's costly."],
+        ["Consecuencia", "consequently, therefore, hence, thus", "Sales fell; <strong>consequently</strong>, jobs were cut."],
+        ["Ejemplo", "for instance, such as, e.g.", "fruit, <strong>such as</strong> apples and pears"],
+        ["Especificacion", "namely, viz.", "one option, <strong>namely</strong> to resign"],
+        ["Reformulacion", "i.e., that is, in other words", "It's obsolete, <strong>i.e.</strong> unsupported."],
+        ["Concesion", "admittedly, granted, to be fair", "<strong>Admittedly</strong>, the data is limited."]
+      ]
+    },
+    "mistakes": [
+      "NO: <em>Due to</em> it was late, we left.  ->  SI: <strong>Because</strong> it was late... / <strong>Due to</strong> the late hour...",
+      "NO: <em>Albeit</em> he was tired, he continued.  ->  SI: <strong>Although</strong> he was tired... / He continued, <strong>albeit</strong> reluctantly.",
+      "NO: However <em>the price</em>, we bought it.  ->  SI: <strong>However</strong>, we bought it. / <strong>Despite</strong> the price, we bought it.",
+      "NO: I think <em>yes</em>.  ->  SI: I think <strong>so</strong>.",
+      "NO: I'm afraid <em>no</em>.  ->  SI: I'm afraid <strong>not</strong>.",
+      "NO: The red shoes are better than the black <em>one</em>.  ->  SI: ... than the black <strong>ones</strong>.",
+      "NO: 'Namely' antes de ejemplos sueltos.  ->  Usa <strong>namely</strong> para una lista completa; para muestras, <strong>e.g. / such as</strong>."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Linking words and expressions", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/linking-words-and-expressions" },
+      { "label": "British Council LearnEnglish - Ellipsis", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/ellipsis" },
+      { "label": "British Council LearnEnglish - Substitution", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/substitution" },
+      { "label": "Cambridge Dictionary Grammar - Discourse markers", "url": "https://dictionary.cambridge.org/grammar/british-grammar/discourse-markers-so-right-okay" }
+    ]
+  },
+  "questions": [
+    { "id": "t15-001", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "The plan is risky. ___, it may be our only option.", "options": ["Nevertheless", "Moreover", "Therefore"], "answer": "Nevertheless", "explanation": "Introduce una idea que contrasta con la anterior." },
+    { "id": "t15-002", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'whereas' y 'while' introducen:", "options": ["un contraste directo entre dos cosas", "un ejemplo", "un resultado"], "answer": "un contraste directo entre dos cosas", "explanation": "Enfrentan dos hechos en la misma frase." },
+    { "id": "t15-003", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'She loves cats, ___ he prefers dogs.'", "options": ["whereas", "hence", "namely"], "answer": "whereas", "explanation": "Contraste entre dos hechos." },
+    { "id": "t15-004", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'albeit' significa aproximadamente:", "options": ["'aunque / si bien' (+ frase, no clausula completa)", "'porque'", "'asi que'"], "answer": "'aunque / si bien' (+ frase, no clausula completa)", "explanation": "agreed, albeit reluctantly." },
+    { "id": "t15-005", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'He agreed, ___ reluctantly.'", "options": ["albeit", "thereby", "whereby"], "answer": "albeit", "explanation": "albeit + frase corta." },
+    { "id": "t15-006", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'Notwithstanding the delays, the project finished on time.' 'Notwithstanding' =", "options": ["'a pesar de'", "'gracias a'", "'para'"], "answer": "'a pesar de'", "explanation": "notwithstanding + nombre = despite." },
+    { "id": "t15-007", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'nonetheless' es:", "options": ["un sinonimo mas formal de 'nevertheless'", "lo contrario de 'however'", "un conector de causa"], "answer": "un sinonimo mas formal de 'nevertheless'", "explanation": "'aun asi / no obstante'." },
+    { "id": "t15-008", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'The food was cold. ___, we ate it.'", "options": ["All the same", "As a result", "Namely"], "answer": "All the same", "explanation": "'All the same' = aun asi (contraste)." },
+    { "id": "t15-009", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'Then again' se usa para:", "options": ["anadir una segunda idea que contrasta", "dar una razon", "concluir"], "answer": "anadir una segunda idea que contrasta", "explanation": "'pensandolo bien / por otra parte'." },
+    { "id": "t15-010", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'however' como conector de contraste suele ir seguido de:", "options": ["una coma (However, ...)", "'that'", "nada (sin puntuacion)"], "answer": "una coma (However, ...)", "explanation": "Va al principio, entre comas." },
+    { "id": "t15-011", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'It's expensive; ___, the quality is excellent.'", "options": ["that said", "for instance", "in short"], "answer": "that said", "explanation": "'that said' = dicho esto (concesion / contraste)." },
+    { "id": "t15-012", "subtopic": "conectores-contraste", "type": "mcq", "prompt": "'while' al principio de una clausula puede significar:", "options": ["'aunque' (concesion) o 'al mismo tiempo que'", "'porque'", "'para que'"], "answer": "'aunque' (concesion) o 'al mismo tiempo que'", "explanation": "Tiene doble valor: temporal y concesivo." },
+
+    { "id": "t15-013", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'The house is too small. ___, it's far from the station.'", "options": ["Moreover", "However", "Thus"], "answer": "Moreover", "explanation": "Anade otro punto negativo." },
+    { "id": "t15-014", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'furthermore' y 'moreover' anaden:", "options": ["un punto adicional, a menudo mas fuerte", "un contraste", "un ejemplo"], "answer": "un punto adicional, a menudo mas fuerte", "explanation": "Suman informacion en la misma direccion." },
+    { "id": "t15-015", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'What is more' es:", "options": ["una forma algo mas coloquial de 'moreover'", "una pregunta", "una conclusion"], "answer": "una forma algo mas coloquial de 'moreover'", "explanation": "'lo que es mas / es mas'." },
+    { "id": "t15-016", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'likewise' / 'similarly' senalan:", "options": ["un paralelismo / comparacion", "un contraste", "una causa"], "answer": "un paralelismo / comparacion", "explanation": "'del mismo modo'." },
+    { "id": "t15-017", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "Secuencia: 'Firstly... ___... Finally...'", "options": ["Secondly", "Namely", "Whereas"], "answer": "Secondly", "explanation": "Ordena los puntos: firstly / secondly / finally." },
+    { "id": "t15-018", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'subsequently' significa:", "options": ["'despues / mas tarde'", "'por eso'", "'por ejemplo'"], "answer": "'despues / mas tarde'", "explanation": "Marca posterioridad temporal." },
+    { "id": "t15-019", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'ultimately' como marcador de discurso significa:", "options": ["'al final / en el fondo'", "'rapidamente'", "'por ejemplo'"], "answer": "'al final / en el fondo'", "explanation": "Introduce la conclusion o lo esencial." },
+    { "id": "t15-020", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'in addition (to)' va seguido de:", "options": ["un nombre/gerundio ('in addition to paying...') o va solo ('In addition, ...')", "solo 'that'", "una clausula completa sin 'to'"], "answer": "un nombre/gerundio ('in addition to paying...') o va solo ('In addition, ...')", "explanation": "Con 'to' pide sustantivo o -ing." },
+    { "id": "t15-021", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'Not only is it cheap; it's ___ reliable.'", "options": ["also", "instead", "however"], "answer": "also", "explanation": "'not only... also' suma dos cualidades." },
+    { "id": "t15-022", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'Besides' como conector anade:", "options": ["una razon extra (a menudo decisiva)", "un contraste", "un resumen"], "answer": "una razon extra (a menudo decisiva)", "explanation": "'ademas / total, que'." },
+    { "id": "t15-023", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'to begin with' introduce:", "options": ["el primer punto de una lista de razones", "la conclusion", "un ejemplo"], "answer": "el primer punto de una lista de razones", "explanation": "'para empezar'." },
+    { "id": "t15-024", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'Coupled with' + nombre significa:", "options": ["'junto con / sumado a'", "'a pesar de'", "'a causa de'"], "answer": "'junto con / sumado a'", "explanation": "Anade un segundo factor." },
+    { "id": "t15-025", "subtopic": "conectores-adicion-secuencia", "type": "mcq", "prompt": "'The report is late. ___, several figures are wrong.'", "options": ["On top of that", "In contrast", "As a rule"], "answer": "On top of that", "explanation": "'encima de eso' = suma otro problema." },
+
+    { "id": "t15-026", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'Sales fell sharply. ___, the factory closed.'", "options": ["Consequently", "Nevertheless", "For example"], "answer": "Consequently", "explanation": "Introduce la consecuencia." },
+    { "id": "t15-027", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'hence' y 'thus' significan:", "options": ["'por esta razon / por tanto'", "'sin embargo'", "'por ejemplo'"], "answer": "'por esta razon / por tanto'", "explanation": "Conectores de consecuencia formales." },
+    { "id": "t15-028", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'hence' suele ir seguido de:", "options": ["un sintagma nominal ('hence the delay') o una clausula", "'that'", "una coma y nada mas"], "answer": "un sintagma nominal ('hence the delay') o una clausula", "explanation": "'hence + nombre' es muy comun." },
+    { "id": "t15-029", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'owing to' / 'due to' van seguidos de:", "options": ["un nombre ('due to the storm')", "una clausula ('due to it rained')", "'that'"], "answer": "un nombre ('due to the storm')", "explanation": "Con clausula se usa 'because'." },
+    { "id": "t15-030", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'as a result of' + ...", "options": ["un nombre/gerundio", "una clausula con sujeto y verbo", "'to' infinitivo"], "answer": "un nombre/gerundio", "explanation": "'as a result of the delay / of arriving late'." },
+    { "id": "t15-031", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'thereby' + -ing significa:", "options": ["'y de ese modo ...' ('thereby saving money')", "'a pesar de ...'", "'antes de ...'"], "answer": "'y de ese modo ...' ('thereby saving money')", "explanation": "Introduce el efecto de la accion anterior." },
+    { "id": "t15-032", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'accordingly' significa:", "options": ["'por tanto / en consecuencia'", "'por casualidad'", "'en cambio'"], "answer": "'por tanto / en consecuencia'", "explanation": "Introduce una accion coherente con lo anterior." },
+    { "id": "t15-033", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'The road was closed; ___, we had to take a detour.'", "options": ["therefore", "otherwise", "namely"], "answer": "therefore", "explanation": "Consecuencia." },
+    { "id": "t15-034", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'It was ___ a shock that she fainted.'", "options": ["such", "so", "thus"], "answer": "such", "explanation": "such + (a) + nombre + that (consecuencia)." },
+    { "id": "t15-035", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'The evidence is weak; ___ the case was dropped.'", "options": ["hence", "albeit", "likewise"], "answer": "hence", "explanation": "'hence' = por eso." },
+    { "id": "t15-036", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'due to the fact that' se puede sustituir por el mas breve:", "options": ["'because'", "'so'", "'in case'"], "answer": "'because'", "explanation": "'due to the fact that' es rebuscado; 'because' basta." },
+    { "id": "t15-037", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'Given (that)' introduce:", "options": ["una razon conocida ('Given that time is short, ...')", "un contraste", "un ejemplo"], "answer": "una razon conocida ('Given that time is short, ...')", "explanation": "'dado que'." },
+    { "id": "t15-038", "subtopic": "conectores-causa-consecuencia", "type": "mcq", "prompt": "'consequently' suele ir:", "options": ["al principio de la frase del resultado (con coma)", "al final de la clausula de causa", "delante del sujeto sin puntuacion"], "answer": "al principio de la frase del resultado (con coma)", "explanation": "Como conector de oracion, va al inicio." },
+
+    { "id": "t15-039", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'Only one option remains, ___ to resign.'", "options": ["namely", "however", "thus"], "answer": "namely", "explanation": "'namely' concreta la unica opcion." },
+    { "id": "t15-040", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'i.e.' significa:", "options": ["'es decir / en otras palabras'", "'por ejemplo'", "'etcetera'"], "answer": "'es decir / en otras palabras'", "explanation": "Del latin 'id est'." },
+    { "id": "t15-041", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'e.g.' significa:", "options": ["'por ejemplo'", "'es decir'", "'y lo demas'"], "answer": "'por ejemplo'", "explanation": "Del latin 'exempli gratia'." },
+    { "id": "t15-042", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'in other words' sirve para:", "options": ["reformular una idea de forma mas sencilla", "dar un primer ejemplo", "concluir"], "answer": "reformular una idea de forma mas sencilla", "explanation": "'dicho de otro modo'." },
+    { "id": "t15-043", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'or rather' se usa para:", "options": ["corregir o afinar lo que acabas de decir", "abrir un tema nuevo", "dar una razon"], "answer": "corregir o afinar lo que acabas de decir", "explanation": "'o mejor dicho'." },
+    { "id": "t15-044", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'to be precise' / 'to be exact' anaden:", "options": ["un dato mas exacto", "un contraste", "un resumen"], "answer": "un dato mas exacto", "explanation": "'para ser exactos'." },
+    { "id": "t15-045", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'that is to say' introduce:", "options": ["una aclaracion / parafrasis", "una lista de ejemplos", "una conclusion"], "answer": "una aclaracion / parafrasis", "explanation": "'esto es / o sea'." },
+    { "id": "t15-046", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'such as' y 'like' introducen:", "options": ["ejemplos", "reformulaciones", "resultados"], "answer": "ejemplos", "explanation": "'como (por ejemplo)'." },
+    { "id": "t15-047", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'namely' se diferencia de 'e.g.' en que introduce:", "options": ["una lista completa y concreta (todos los elementos), no solo muestras", "ejemplos al azar", "un contraste"], "answer": "una lista completa y concreta (todos los elementos), no solo muestras", "explanation": "'namely' = 'a saber', enumera todo." },
+    { "id": "t15-048", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'The main issue, ___, is funding.'", "options": ["that is", "for example", "by the way"], "answer": "that is", "explanation": "'that is' precisa cual es el problema." },
+    { "id": "t15-049", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'viz.' es una abreviatura formal que significa:", "options": ["'namely' (a saber)", "'for example'", "'et cetera'"], "answer": "'namely' (a saber)", "explanation": "Se lee 'namely'." },
+    { "id": "t15-050", "subtopic": "conectores-ejemplo-reformulacion", "type": "mcq", "prompt": "'put simply' / 'in short' senalan:", "options": ["un resumen o reformulacion concisa", "un ejemplo nuevo", "una digresion"], "answer": "un resumen o reformulacion concisa", "explanation": "'en resumen / dicho en pocas palabras'." },
+
+    { "id": "t15-051", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'___, the design has flaws, but overall it works well.'", "options": ["Admittedly", "Consequently", "Namely"], "answer": "Admittedly", "explanation": "'Hay que reconocer que...' (concesion)." },
+    { "id": "t15-052", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'indeed' se usa para:", "options": ["confirmar y reforzar un punto anterior", "contradecirlo", "dar un ejemplo"], "answer": "confirmar y reforzar un punto anterior", "explanation": "'en efecto / es mas'." },
+    { "id": "t15-053", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'in fact' puede:", "options": ["reforzar O corregir suavemente lo dicho", "solo hacer preguntas", "solo concluir"], "answer": "reforzar O corregir suavemente lo dicho", "explanation": "'de hecho' tiene ambos usos." },
+    { "id": "t15-054", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'granted' / 'admittedly' conceden:", "options": ["que la otra parte tiene razon en algo", "un resultado", "un ejemplo"], "answer": "que la otra parte tiene razon en algo", "explanation": "Reconocen un punto contrario antes de rebatir." },
+    { "id": "t15-055", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'arguably' suaviza una afirmacion sugiriendo:", "options": ["'se puede argumentar que ...' (no es una certeza)", "'sin duda'", "'nunca'"], "answer": "'se puede argumentar que ...' (no es una certeza)", "explanation": "Marca que es una opinion defendible, no un hecho." },
+    { "id": "t15-056", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'if anything' senala:", "options": ["que lo cierto es mas bien lo contrario de lo esperado", "un ejemplo firme", "una causa"], "answer": "que lo cierto es mas bien lo contrario de lo esperado", "explanation": "'si acaso / mas bien'." },
+    { "id": "t15-057", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'To be fair, ___' introduce:", "options": ["un punto a favor de alguien / una concesion equilibrada", "un ataque fuerte", "una lista"], "answer": "un punto a favor de alguien / una concesion equilibrada", "explanation": "'para ser justos'." },
+    { "id": "t15-058", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'as such' significa:", "options": ["'como tal / en sentido estricto, por tanto'", "'por ejemplo'", "'en cambio'"], "answer": "'como tal / en sentido estricto, por tanto'", "explanation": "Retoma lo dicho para sacar una consecuencia." },
+    { "id": "t15-059", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'It was a small error. ___, it should not have happened.'", "options": ["That said", "For instance", "Namely"], "answer": "That said", "explanation": "'dicho esto' concede y luego matiza." },
+    { "id": "t15-060", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'needless to say' significa:", "options": ["'obviamente / como era de esperar'", "'sorprendentemente'", "'en conclusion'"], "answer": "'obviamente / como era de esperar'", "explanation": "'ni que decir tiene'." },
+    { "id": "t15-061", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'let alone' se usa:", "options": ["tras una negativa, para anadir un caso mas extremo ('He can't walk, let alone run')", "para dar una razon", "para concluir"], "answer": "tras una negativa, para anadir un caso mas extremo ('He can't walk, let alone run')", "explanation": "'y mucho menos'." },
+    { "id": "t15-062", "subtopic": "conectores-concesion-enfasis", "type": "mcq", "prompt": "'by and large' significa:", "options": ["'en general / en conjunto'", "'de repente'", "'por ejemplo'"], "answer": "'en general / en conjunto'", "explanation": "Introduce una valoracion global." },
+
+    { "id": "t15-063", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'I can help, and I ___.'", "options": ["will", "will help too", "am helping"], "answer": "will", "explanation": "Se omite 'help': 'and I will (help)'." },
+    { "id": "t15-064", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "La elipsis consiste en:", "options": ["omitir palabras que se entienden por el contexto", "anadir palabras extra", "usar sinonimos"], "answer": "omitir palabras que se entienden por el contexto", "explanation": "Evita repeticiones innecesarias." },
+    { "id": "t15-065", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'She said she would call, and she ___.'", "options": ["did", "called it", "would"], "answer": "did", "explanation": "'did' sustituye a 'called' (elipsis con 'do')." },
+    { "id": "t15-066", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'Do you like jazz?' - 'I ___.'", "options": ["do", "like", "am"], "answer": "do", "explanation": "'I do' = 'I do (like it)'." },
+    { "id": "t15-067", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'He hasn't finished, but he ___ soon.'", "options": ["will", "will finish it", "finishes"], "answer": "will", "explanation": "'but he will (finish) soon'." },
+    { "id": "t15-068", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'Someone has to do it, and it might as well ___ me.'", "options": ["be", "being", "been"], "answer": "be", "explanation": "'might as well be (me)'." },
+    { "id": "t15-069", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'I'd love to come but I can't.' Aqui 'can't' equivale a:", "options": ["'can't come' (se omite el verbo)", "'cannot' aislado", "nada"], "answer": "'can't come' (se omite el verbo)", "explanation": "Elipsis tras el modal." },
+    { "id": "t15-070", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'- Do you want to join us? - I'd love ___.'", "options": ["to", "so", "it"], "answer": "to", "explanation": "'I'd love to (join you)': se conserva solo 'to'." },
+    { "id": "t15-071", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'You could have told me!' - 'I meant ___.'", "options": ["to", "so", "it"], "answer": "to", "explanation": "'I meant to (tell you)'." },
+    { "id": "t15-072", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'She's cleverer than I ___.'", "options": ["am", "do", "have"], "answer": "am", "explanation": "'than I am (clever)'." },
+    { "id": "t15-073", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'He works harder than she ___.'", "options": ["does", "is", "has"], "answer": "does", "explanation": "'than she does (work)'." },
+    { "id": "t15-074", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "En 'I've read more than you (have)', el '(have)' se puede:", "options": ["omitir", "no omitir nunca", "cambiar por 'do'"], "answer": "omitir", "explanation": "'more than you' basta." },
+    { "id": "t15-075", "subtopic": "elipsis-verbal", "type": "mcq", "prompt": "'- Has he arrived? - He must ___ by now.'", "options": ["have", "has", "been"], "answer": "have", "explanation": "'He must have (arrived) by now': elipsis tras 'have'." },
+
+    { "id": "t15-076", "subtopic": "sustitucion", "type": "mcq", "prompt": "'Is it going to rain?' - 'I think ___.'", "options": ["so", "it", "that"], "answer": "so", "explanation": "'so' sustituye a la clausula tras 'think'." },
+    { "id": "t15-077", "subtopic": "sustitucion", "type": "mcq", "prompt": "'Did they win?' - 'I'm afraid ___.'", "options": ["not", "no", "never"], "answer": "not", "explanation": "'I'm afraid not' = me temo que no." },
+    { "id": "t15-078", "subtopic": "sustitucion", "type": "mcq", "prompt": "'so' y 'not' pueden sustituir:", "options": ["una clausula con 'that' tras think, hope, believe, expect, suppose", "un nombre", "un adjetivo"], "answer": "una clausula con 'that' tras think, hope, believe, expect, suppose", "explanation": "'I think so' = 'I think that it will'." },
+    { "id": "t15-079", "subtopic": "sustitucion", "type": "mcq", "prompt": "'I need a pen. Have you got ___?'", "options": ["one", "it", "that"], "answer": "one", "explanation": "'one' sustituye a un nombre contable indefinido." },
+    { "id": "t15-080", "subtopic": "sustitucion", "type": "mcq", "prompt": "'The red shoes are nicer than the black ___.'", "options": ["ones", "one", "they"], "answer": "ones", "explanation": "Plural -> 'ones'." },
+    { "id": "t15-081", "subtopic": "sustitucion", "type": "mcq", "prompt": "'I don't cook as often as I used to, but I still ___ sometimes.'", "options": ["do", "cook it", "am"], "answer": "do", "explanation": "'do' sustituye a 'cook'." },
+    { "id": "t15-082", "subtopic": "sustitucion", "type": "mcq", "prompt": "'Of the two options, I prefer the ___ (= la primera).'", "options": ["former", "latter", "other"], "answer": "former", "explanation": "'the former' = el primero de dos." },
+    { "id": "t15-083", "subtopic": "sustitucion", "type": "mcq", "prompt": "'Tea or coffee? I'll have the ___ (= coffee, la segunda).'", "options": ["latter", "former", "last"], "answer": "latter", "explanation": "'the latter' = el segundo de dos." },
+    { "id": "t15-084", "subtopic": "sustitucion", "type": "mcq", "prompt": "'the former ... the latter' se refieren a:", "options": ["el primero y el segundo de dos cosas ya mencionadas", "dos elementos al azar", "causa y efecto"], "answer": "el primero y el segundo de dos cosas ya mencionadas", "explanation": "Solo funcionan con exactamente dos referentes." },
+    { "id": "t15-085", "subtopic": "sustitucion", "type": "mcq", "prompt": "'Will you help?' - 'Of course I ___.'", "options": ["will", "do", "am"], "answer": "will", "explanation": "'Of course I will (help)'." },
+    { "id": "t15-086", "subtopic": "sustitucion", "type": "mcq", "prompt": "'Do you think it'll work?' - 'I doubt ___.'", "options": ["it", "so", "not"], "answer": "it", "explanation": "'doubt' se combina con 'it', no con 'so'." },
+    { "id": "t15-087", "subtopic": "sustitucion", "type": "mcq", "prompt": "'so' como sustituto va con verbos de ___; 'it' con verbos como 'doubt'.", "options": ["opinion / creencia (think, hope, suppose, believe)", "movimiento", "percepcion"], "answer": "opinion / creencia (think, hope, suppose, believe)", "explanation": "'I think so / I hope so' vs 'I doubt it'." },
+
+    { "id": "t15-088", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'The results were poor. ___, the funding was cut.' (consecuencia)", "options": ["Consequently", "Nevertheless", "Namely"], "answer": "Consequently", "explanation": "Relacion de causa-efecto." },
+    { "id": "t15-089", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'The results were poor. ___, the team stayed positive.' (contraste)", "options": ["Nevertheless", "Consequently", "Therefore"], "answer": "Nevertheless", "explanation": "Idea que choca con la anterior." },
+    { "id": "t15-090", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'There is one solution, ___, a full recount.' (especificacion)", "options": ["namely", "however", "thus"], "answer": "namely", "explanation": "'namely' concreta la solucion." },
+    { "id": "t15-091", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'The city is beautiful; ___, it is very expensive.' (concesion / contraste)", "options": ["that said", "for example", "as a result"], "answer": "that said", "explanation": "'dicho esto' introduce la pega." },
+    { "id": "t15-092", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'He is highly qualified. ___, he has ten years' experience.' (adicion)", "options": ["Moreover", "However", "Hence"], "answer": "Moreover", "explanation": "Anade un punto a favor." },
+    { "id": "t15-093", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'- Are you coming? - I hope ___.' (sustitucion)", "options": ["so", "to", "that"], "answer": "so", "explanation": "'I hope so' sustituye a la clausula." },
+    { "id": "t15-094", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'I promised to help, and I ___.' (elipsis)", "options": ["did", "do it", "have helped"], "answer": "did", "explanation": "'and I did (help)'." },
+    { "id": "t15-095", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'She works in Rome, ___ her sister works in Milan.' (contraste de dos hechos)", "options": ["whereas", "therefore", "namely"], "answer": "whereas", "explanation": "'whereas' contrasta dos situaciones paralelas." },
+    { "id": "t15-096", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'Between the essay and the exam, the ___ counts more.' (= el segundo)", "options": ["latter", "former", "other"], "answer": "latter", "explanation": "'the latter' = el ultimo mencionado." },
+    { "id": "t15-097", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'The bridge was damaged, ___ closing the main route.' (resultado, -ing)", "options": ["thereby", "however", "namely"], "answer": "thereby", "explanation": "'thereby + -ing' expresa el efecto." },
+    { "id": "t15-098", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "Detecta el error: 'Due to it was raining, we stayed in.'", "options": ["'Because it was raining' (o 'Due to THE RAIN') - 'due to' + nombre", "'Owing that it rained'", "esta bien"], "answer": "'Because it was raining' (o 'Due to THE RAIN') - 'due to' + nombre", "explanation": "'due to' no admite una clausula con sujeto y verbo." },
+    { "id": "t15-099", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "'However' frente a 'Therefore': cual senala un contraste?", "options": ["However", "Therefore", "Los dos"], "answer": "However", "explanation": "'Therefore' senala consecuencia; 'However', contraste." },
+    { "id": "t15-100", "subtopic": "contraste-cohesion", "type": "mcq", "prompt": "Una buena cohesion significa:", "options": ["que las ideas estan enlazadas y el lector sigue la logica", "usar el maximo de conectores largos posibles", "no usar ningun conector"], "answer": "que las ideas estan enlazadas y el lector sigue la logica", "explanation": "Los conectores guian, no adornan." }
+  ]
+}

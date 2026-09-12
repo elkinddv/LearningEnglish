@@ -1,0 +1,234 @@
+{
+  "id": 10,
+  "slug": "wish-if-only-would-rather",
+  "level": "C1",
+  "title": "Wish, If only, Would rather y condicionales mixtos",
+  "lesson": {
+    "intro": "Todas estas estructuras hablan de lo <strong>irreal</strong> (lo que no es, lo que no fue, lo que prefeririamos) y para eso usan <strong>formas de pasado</strong>. La clave es el desfase: <em>pasado simple</em> para un presente irreal, <em>past perfect</em> para el arrepentimiento, <em>would</em> para quejarte del comportamiento de otro.",
+    "sections": [
+      {
+        "subtopic": "wish-presente",
+        "heading": "1 - wish + pasado simple",
+        "body": "<p>Para un deseo sobre algo que <strong>no es asi ahora</strong>: <code>wish</code> + pasado simple (o <code>were</code> para todas las personas con <em>be</em>). Con habilidad: <code>wish + could</code> + base.</p><p>Significa: \"me gustaria, pero no es asi\".</p>",
+        "examples": [
+          "I wish I <strong>had</strong> more time.",
+          "I wish I <strong>were</strong> on a beach.",
+          "I wish I <strong>could</strong> help.",
+          "I wish it <strong>weren't</strong> so cold."
+        ]
+      },
+      {
+        "subtopic": "wish-pasado",
+        "heading": "2 - wish + past perfect",
+        "body": "<p>Para un <strong>arrepentimiento sobre el pasado</strong> (algo que hiciste o dejaste de hacer): <code>wish</code> + <code>had (not)</code> + participio.</p><p>Significa: \"ojala hubiera / no hubiera...\".</p>",
+        "examples": [
+          "I wish I <strong>hadn't said</strong> that.",
+          "I wish I <strong>had studied</strong> harder.",
+          "She wishes she <strong>had taken</strong> the job.",
+          "I wish I <strong>had listened</strong> to your advice."
+        ]
+      },
+      {
+        "subtopic": "wish-would",
+        "heading": "3 - wish + would",
+        "body": "<p>Para <strong>quejarte del comportamiento molesto</strong> de otra persona (o del tiempo, o de una maquina) y desear que cambie: <code>wish</code> + sujeto + <code>would</code> + base.</p><p>Normalmente <strong>no</strong> se dice \"I wish I would...\" (no controlas tu propio comportamiento asi).</p>",
+        "examples": [
+          "I wish you <strong>would listen</strong>.",
+          "I wish they <strong>wouldn't make</strong> so much noise.",
+          "I wish the bus <strong>would come</strong>.",
+          "I wish it <strong>would stop</strong> raining."
+        ]
+      },
+      {
+        "subtopic": "if-only",
+        "heading": "4 - If only",
+        "body": "<p>Igual que <em>wish</em> pero <strong>mas enfatico y emocional</strong>. Mismas estructuras:</p><ul><li><code>If only</code> + pasado simple (presente irreal).</li><li><code>If only</code> + past perfect (arrepentimiento).</li><li><code>If only</code> + would (queja de comportamiento).</li></ul>",
+        "examples": [
+          "<strong>If only</strong> I had more money!",
+          "<strong>If only</strong> I had listened!",
+          "<strong>If only</strong> he would stop shouting.",
+          "<strong>If only</strong> it weren't so expensive!"
+        ]
+      },
+      {
+        "subtopic": "would-rather",
+        "heading": "5 - would rather",
+        "body": "<p>Expresa <strong>preferencia</strong>.</p><ul><li>Mismo sujeto: <code>would rather</code> + base &rarr; <em>I'd rather stay</em>.</li><li>Distinto sujeto: <code>would rather</code> + sujeto + pasado simple &rarr; <em>I'd rather you stayed / I'd rather you didn't smoke</em>.</li><li>Comparar: <code>would rather... than...</code> &rarr; <em>I'd rather walk than drive</em>.</li><li>Sobre el pasado: <code>would rather have</code> + participio.</li></ul>",
+        "examples": [
+          "I<strong>'d rather stay</strong> in tonight.",
+          "I<strong>'d rather you told</strong> me the truth.",
+          "She<strong>'d rather we didn't leave</strong> yet.",
+          "I<strong>'d rather walk than</strong> take the bus."
+        ]
+      },
+      {
+        "subtopic": "its-time",
+        "heading": "6 - It's (high) time + pasado",
+        "body": "<p>Para decir que algo <strong>ya deberia estar pasando</strong> (va con retraso): <code>It's time</code> + sujeto + pasado simple.</p><p>Con <em>high</em> / <em>about</em> se enfatiza. Sin sujeto concreto: <code>It's time to</code> + infinitivo.</p>",
+        "examples": [
+          "It's time we <strong>left</strong>.",
+          "It's time you <strong>went</strong> to bed.",
+          "It's high time the government <strong>did</strong> something.",
+          "It's time <strong>to go</strong>."
+        ]
+      },
+      {
+        "subtopic": "condicionales-mixtos",
+        "heading": "7 - Condicionales mixtos",
+        "body": "<p>Mezclan condicion y resultado de <strong>tiempos distintos</strong>:</p><ul><li><strong>Condicion pasada &rarr; resultado presente:</strong> <code>If</code> + past perfect, <code>would</code> + base. <em>If I had studied medicine, I would be a doctor now.</em></li><li><strong>Condicion presente &rarr; resultado pasado:</strong> <code>If</code> + past simple, <code>would have</code> + participio. <em>If I weren't so shy, I would have asked her out.</em></li></ul>",
+        "examples": [
+          "If I<strong>'d saved</strong> money, I<strong>'d have</strong> a house now.",
+          "If I <strong>weren't</strong> afraid of flying, I <strong>would have visited</strong> you last summer.",
+          "If she <strong>had taken</strong> the job, she <strong>would be living</strong> in London now."
+        ]
+      },
+      {
+        "subtopic": "contraste-deseos",
+        "heading": "8 - Elegir la estructura de deseo",
+        "body": "<ul><li>Arrepentimiento del pasado &rarr; <em>wish / if only + had done</em>.</li><li>Presente irreal &rarr; <em>wish / if only + did / were / could</em>.</li><li>Queja de un habito ajeno &rarr; <em>wish / if only + would</em>.</li><li>Preferencia &rarr; <em>would rather</em> (+ base, o + sujeto + pasado).</li><li>Algo con retraso &rarr; <em>It's time + pasado</em>.</li></ul><p>Todas usan formas de <strong>pasado</strong> para lo irreal.</p>",
+        "examples": [
+          "I wish I <strong>had</strong> (done)... (pasado)",
+          "I'd rather you <strong>didn't</strong> do that.",
+          "It's high time you <strong>made</strong> a decision."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Deseos y estructuras irreales",
+      "headers": ["Idea", "Estructura", "Ejemplo"],
+      "rows": [
+        ["Presente irreal", "wish / if only + pasado simple", "I wish I <strong>had</strong> a dog."],
+        ["Arrepentimiento del pasado", "wish / if only + past perfect", "I wish I <strong>hadn't lied</strong>."],
+        ["Queja de un habito ajeno", "wish / if only + would", "I wish you <strong>would call</strong>."],
+        ["Preferencia (mismo sujeto)", "would rather + base", "I<strong>'d rather stay</strong>."],
+        ["Preferencia (otro sujeto)", "would rather + sujeto + pasado", "I<strong>'d rather you stayed</strong>."],
+        ["Algo con retraso", "It's time + sujeto + pasado", "It's time we <strong>left</strong>."],
+        ["Condicion pasada, resultado hoy", "If + past perfect, would + base", "If I<strong>'d saved</strong>, I<strong>'d have</strong> a house now."]
+      ]
+    },
+    "mistakes": [
+      "NO: I wish I <em>have</em> more time.  ->  SI: I wish I <strong>had</strong> more time.",
+      "NO: I wish I <em>would be</em> taller.  ->  SI: I wish I <strong>were</strong> taller.",
+      "NO: I wish you <em>will</em> stop.  ->  SI: I wish you <strong>would</strong> stop.",
+      "NO: I wish I <em>didn't go</em> yesterday.  ->  SI: I wish I <strong>hadn't gone</strong> yesterday.",
+      "NO: I'd rather you <em>leave</em> now.  ->  SI: I'd rather you <strong>left</strong> now.",
+      "NO: It's time we <em>go</em>.  ->  SI: It's time we <strong>went</strong>.",
+      "NO: If I studied harder, I <em>would have</em> a better job now.  ->  SI: If I <strong>had studied</strong> harder, I would have a better job now."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - 'wish' and 'if only'", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/wish-if-only" },
+      { "label": "British Council LearnEnglish - 'would rather' and 'would sooner'", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/would-rather-would-sooner" },
+      { "label": "British Council LearnEnglish - Mixed conditionals", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/mixed-conditionals" },
+      { "label": "Test-English - Wish, if only, would rather, it's time (C1)", "url": "https://test-english.com/grammar-points/c1/wish-if-only-would-rather-its-time/" }
+    ]
+  },
+  "questions": [
+    { "id": "t10-001", "subtopic": "wish-presente", "type": "mcq", "prompt": "I wish I ___ taller.", "options": ["were", "am", "will be"], "answer": "were", "explanation": "wish + were (subjuntivo) para un presente irreal." },
+    { "id": "t10-002", "subtopic": "wish-presente", "type": "mcq", "prompt": "She wishes she ___ a car.", "options": ["had", "has", "would have"], "answer": "had", "explanation": "wish + pasado simple." },
+    { "id": "t10-003", "subtopic": "wish-presente", "type": "mcq", "prompt": "'I wish + pasado simple' expresa:", "options": ["un deseo sobre el presente que no es real", "un arrepentimiento del pasado", "un plan futuro"], "answer": "un deseo sobre el presente que no es real", "explanation": "'me gustaria, pero no es asi'." },
+    { "id": "t10-004", "subtopic": "wish-presente", "type": "mcq", "prompt": "I wish I ___ how to swim.", "options": ["knew", "know", "will know"], "answer": "knew", "explanation": "wish + pasado simple." },
+    { "id": "t10-005", "subtopic": "wish-presente", "type": "mcq", "prompt": "We wish we ___ nearer the city.", "options": ["lived", "live", "would live"], "answer": "lived", "explanation": "Situacion fija (no comportamiento) -> pasado simple." },
+    { "id": "t10-006", "subtopic": "wish-presente", "type": "mcq", "prompt": "'I wish it ___ so cold.' (hace frio ahora)", "options": ["weren't", "isn't", "won't be"], "answer": "weren't", "explanation": "wish + weren't (presente irreal)." },
+    { "id": "t10-007", "subtopic": "wish-presente", "type": "gap", "prompt": "Completa: I wish I ___ (have) more free time.", "accept": ["had"], "answer": "had", "explanation": "wish + pasado simple." },
+    { "id": "t10-008", "subtopic": "wish-presente", "type": "mcq", "prompt": "'I wish I could ___ you.'", "options": ["help", "to help", "helping"], "answer": "help", "explanation": "could + verbo base." },
+    { "id": "t10-009", "subtopic": "wish-presente", "type": "mcq", "prompt": "He wishes he ___ speak French.", "options": ["could", "can", "would can"], "answer": "could", "explanation": "wish + could para habilidad." },
+    { "id": "t10-010", "subtopic": "wish-presente", "type": "mcq", "prompt": "'I wish I were on holiday' significa:", "options": ["no estoy de vacaciones pero me gustaria", "estoy de vacaciones", "estuve de vacaciones"], "answer": "no estoy de vacaciones pero me gustaria", "explanation": "Deseo sobre un presente irreal." },
+    { "id": "t10-011", "subtopic": "wish-presente", "type": "mcq", "prompt": "En ingles formal, tras 'wish' se prefiere:", "options": ["were (para todas las personas)", "was", "am"], "answer": "were (para todas las personas)", "explanation": "I wish I were / he were..." },
+    { "id": "t10-012", "subtopic": "wish-presente", "type": "mcq", "prompt": "I wish you ___ here with me.", "options": ["were", "are", "will be"], "answer": "were", "explanation": "wish + were." },
+    { "id": "t10-013", "subtopic": "wish-presente", "type": "mcq", "prompt": "'I wish I didn't have to work' significa:", "options": ["pero si tengo que trabajar", "no trabajo", "no trabaje ayer"], "answer": "pero si tengo que trabajar", "explanation": "El deseo contradice la realidad presente." },
+
+    { "id": "t10-014", "subtopic": "wish-pasado", "type": "mcq", "prompt": "I wish I ___ that. (me arrepiento)", "options": ["hadn't said", "didn't say", "don't say"], "answer": "hadn't said", "explanation": "wish + had not + participio (arrepentimiento)." },
+    { "id": "t10-015", "subtopic": "wish-pasado", "type": "mcq", "prompt": "She wishes she ___ harder at school.", "options": ["had studied", "studied", "would study"], "answer": "had studied", "explanation": "wish + past perfect." },
+    { "id": "t10-016", "subtopic": "wish-pasado", "type": "mcq", "prompt": "'I wish + past perfect' expresa:", "options": ["un arrepentimiento del pasado", "un deseo presente", "una peticion"], "answer": "un arrepentimiento del pasado", "explanation": "'ojala hubiera / no hubiera...'." },
+    { "id": "t10-017", "subtopic": "wish-pasado", "type": "mcq", "prompt": "We wish we ___ tickets earlier.", "options": ["had bought", "bought", "would buy"], "answer": "had bought", "explanation": "wish + had + participio." },
+    { "id": "t10-018", "subtopic": "wish-pasado", "type": "mcq", "prompt": "I wish I ___ to that party. (fui y me arrepiento)", "options": ["hadn't gone", "didn't go", "wouldn't go"], "answer": "hadn't gone", "explanation": "wish + hadn't + participio." },
+    { "id": "t10-019", "subtopic": "wish-pasado", "type": "gap", "prompt": "Completa: I wish I ___ (listen) to your advice.", "accept": ["had listened"], "answer": "had listened", "explanation": "wish + had + participio." },
+    { "id": "t10-020", "subtopic": "wish-pasado", "type": "mcq", "prompt": "'I wish I had known' significa:", "options": ["no lo sabia entonces y lo lamento", "lo se ahora", "lo sabre"], "answer": "no lo sabia entonces y lo lamento", "explanation": "Arrepentimiento por no haber sabido algo." },
+    { "id": "t10-021", "subtopic": "wish-pasado", "type": "mcq", "prompt": "He wishes he ___ the offer. (la rechazo)", "options": ["hadn't refused", "didn't refuse", "wouldn't refuse"], "answer": "hadn't refused", "explanation": "wish + hadn't + participio." },
+    { "id": "t10-022", "subtopic": "wish-pasado", "type": "mcq", "prompt": "'If only I had saved more money' - la estructura es:", "options": ["If only + past perfect (arrepentimiento del pasado)", "If only + past simple", "If only + would"], "answer": "If only + past perfect (arrepentimiento del pasado)", "explanation": "Misma estructura que 'wish' para el pasado." },
+    { "id": "t10-023", "subtopic": "wish-pasado", "type": "mcq", "prompt": "I wish I ___ you sooner.", "options": ["had met", "met", "would meet"], "answer": "had met", "explanation": "wish + had + participio." },
+    { "id": "t10-024", "subtopic": "wish-pasado", "type": "mcq", "prompt": "She wishes she ___ so rude to him.", "options": ["hadn't been", "wasn't", "weren't"], "answer": "hadn't been", "explanation": "Arrepentimiento del pasado -> hadn't been." },
+    { "id": "t10-025", "subtopic": "wish-pasado", "type": "mcq", "prompt": "'I wish I could have gone' significa:", "options": ["queria ir pero no fue posible", "fui", "ire"], "answer": "queria ir pero no fue posible", "explanation": "could have + participio: posibilidad no cumplida en el pasado." },
+    { "id": "t10-026", "subtopic": "wish-pasado", "type": "mcq", "prompt": "Cual muestra un arrepentimiento del pasado?", "options": ["I wish I had taken the job.", "I wish I took the job.", "I wish I take the job."], "answer": "I wish I had taken the job.", "explanation": "wish + past perfect." },
+
+    { "id": "t10-027", "subtopic": "wish-would", "type": "mcq", "prompt": "I wish you ___ stop interrupting me!", "options": ["would", "will", "did"], "answer": "would", "explanation": "Queja de un comportamiento -> wish + would." },
+    { "id": "t10-028", "subtopic": "wish-would", "type": "mcq", "prompt": "'wish + would' se usa para:", "options": ["quejarse de habitos molestos de otra persona", "deseos sobre uno mismo", "arrepentimientos del pasado"], "answer": "quejarse de habitos molestos de otra persona", "explanation": "Deseo de que el otro cambie." },
+    { "id": "t10-029", "subtopic": "wish-would", "type": "mcq", "prompt": "I wish it ___ stop raining.", "options": ["would", "will", "does"], "answer": "would", "explanation": "Deseo de cambio (tiempo) -> wish + would." },
+    { "id": "t10-030", "subtopic": "wish-would", "type": "mcq", "prompt": "Normalmente no decimos 'I wish I would...' porque:", "options": ["no puedes 'ordenar' asi tu propio comportamiento", "es demasiado formal", "-"], "answer": "no puedes 'ordenar' asi tu propio comportamiento", "explanation": "Para uno mismo se usa wish + could / wish + past simple." },
+    { "id": "t10-031", "subtopic": "wish-would", "type": "mcq", "prompt": "I wish my neighbours ___ so much noise.", "options": ["wouldn't make", "don't make", "didn't made"], "answer": "wouldn't make", "explanation": "wish + wouldn't + base (queja)." },
+    { "id": "t10-032", "subtopic": "wish-would", "type": "mcq", "prompt": "'I wish you would listen' expresa:", "options": ["irritacion: no me escuchas y quiero que lo hagas", "una peticion educada", "un hecho pasado"], "answer": "irritacion: no me escuchas y quiero que lo hagas", "explanation": "wish + would suele tener tono de queja." },
+    { "id": "t10-033", "subtopic": "wish-would", "type": "mcq", "prompt": "I wish the bus ___ come. (llega tarde)", "options": ["would", "will", "does"], "answer": "would", "explanation": "Deseo de que algo ocurra ya -> wish + would." },
+    { "id": "t10-034", "subtopic": "wish-would", "type": "mcq", "prompt": "Para una situacion fija (no un comportamiento) se usa:", "options": ["wish + pasado simple ('I wish I had a car'), no 'would'", "wish + would siempre", "-"], "answer": "wish + pasado simple ('I wish I had a car'), no 'would'", "explanation": "'would' es para comportamientos / cambios, no para estados fijos." },
+    { "id": "t10-035", "subtopic": "wish-would", "type": "mcq", "prompt": "I wish he ___ tidy his room.", "options": ["would", "will", "does"], "answer": "would", "explanation": "Queja de un habito -> wish + would." },
+    { "id": "t10-036", "subtopic": "wish-would", "type": "mcq", "prompt": "'I wish it would snow' - vale 'would' aqui?", "options": ["Si - es un deseo de un cambio que no controlamos", "No, usa 'snowed'", "No, usa 'will snow'"], "answer": "Si - es un deseo de un cambio que no controlamos", "explanation": "Con el tiempo atmosferico wish + would es correcto." },
+    { "id": "t10-037", "subtopic": "wish-would", "type": "mcq", "prompt": "I wish you ___ complaining.", "options": ["would stop", "will stop", "stops"], "answer": "would stop", "explanation": "wish + would + base." },
+    { "id": "t10-038", "subtopic": "wish-would", "type": "mcq", "prompt": "'I wish you wouldn't do that' es:", "options": ["una queja / peticion suave de dejar un habito", "un cumplido", "un arrepentimiento del pasado"], "answer": "una queja / peticion suave de dejar un habito", "explanation": "wish + wouldn't = 'ojala dejaras de...'." },
+
+    { "id": "t10-039", "subtopic": "if-only", "type": "mcq", "prompt": "'If only' es:", "options": ["una version mas enfatica de 'wish'", "lo contrario de 'wish'", "solo para el futuro"], "answer": "una version mas enfatica de 'wish'", "explanation": "Mismas estructuras, mas emocion." },
+    { "id": "t10-040", "subtopic": "if-only", "type": "mcq", "prompt": "If only I ___ more time!", "options": ["had", "have", "would have"], "answer": "had", "explanation": "If only + pasado simple (presente irreal)." },
+    { "id": "t10-041", "subtopic": "if-only", "type": "mcq", "prompt": "If only I ___ listened to you!", "options": ["had", "did", "would have"], "answer": "had", "explanation": "If only + past perfect (arrepentimiento)." },
+    { "id": "t10-042", "subtopic": "if-only", "type": "mcq", "prompt": "If only he ___ stop shouting.", "options": ["would", "will", "does"], "answer": "would", "explanation": "If only + would (queja)." },
+    { "id": "t10-043", "subtopic": "if-only", "type": "mcq", "prompt": "'If only' admite:", "options": ["los mismos tiempos que 'wish'", "solo el presente simple", "solo 'would'"], "answer": "los mismos tiempos que 'wish'", "explanation": "past simple / past perfect / would." },
+    { "id": "t10-044", "subtopic": "if-only", "type": "mcq", "prompt": "If only she ___ here now.", "options": ["were", "is", "will be"], "answer": "were", "explanation": "If only + were (presente irreal)." },
+    { "id": "t10-045", "subtopic": "if-only", "type": "gap", "prompt": "Completa: If only I ___ (not spend) all my money.", "accept": ["hadn't spent", "had not spent"], "answer": "hadn't spent", "explanation": "If only + hadn't + participio." },
+    { "id": "t10-046", "subtopic": "if-only", "type": "mcq", "prompt": "'If only I could fly' expresa:", "options": ["un deseo presente imposible", "un arrepentimiento del pasado", "un plan futuro"], "answer": "un deseo presente imposible", "explanation": "If only + could (habilidad irreal)." },
+    { "id": "t10-047", "subtopic": "if-only", "type": "mcq", "prompt": "If only they ___ tell us the truth.", "options": ["would", "will", "do"], "answer": "would", "explanation": "If only + would (deseo de que otro actue)." },
+    { "id": "t10-048", "subtopic": "if-only", "type": "mcq", "prompt": "Cual es un arrepentimiento del pasado?", "options": ["If only I had brought an umbrella.", "If only I brought an umbrella.", "If only I bring an umbrella."], "answer": "If only I had brought an umbrella.", "explanation": "If only + past perfect." },
+    { "id": "t10-049", "subtopic": "if-only", "type": "mcq", "prompt": "'If only' suele anadir:", "options": ["mas emocion / frustracion que 'wish'", "una pregunta", "una condicion"], "answer": "mas emocion / frustracion que 'wish'", "explanation": "Es la version 'con mas sentimiento'." },
+    { "id": "t10-050", "subtopic": "if-only", "type": "mcq", "prompt": "If only it ___ so expensive!", "options": ["weren't", "isn't", "wouldn't be"], "answer": "weren't", "explanation": "If only + weren't (presente irreal)." },
+
+    { "id": "t10-051", "subtopic": "would-rather", "type": "mcq", "prompt": "I'd rather ___ at home tonight.", "options": ["stay", "to stay", "staying"], "answer": "stay", "explanation": "would rather + base (mismo sujeto)." },
+    { "id": "t10-052", "subtopic": "would-rather", "type": "mcq", "prompt": "I'd rather you ___ me alone. (otro sujeto)", "options": ["left", "leave", "to leave"], "answer": "left", "explanation": "would rather + sujeto + pasado simple." },
+    { "id": "t10-053", "subtopic": "would-rather", "type": "mcq", "prompt": "'I'd rather stay' vs 'I'd rather you stayed':", "options": ["mismo sujeto -> base; distinto sujeto -> pasado simple", "no hay diferencia", "las dos con 'to'"], "answer": "mismo sujeto -> base; distinto sujeto -> pasado simple", "explanation": "Regla clave de 'would rather'." },
+    { "id": "t10-054", "subtopic": "would-rather", "type": "mcq", "prompt": "I'd rather ___ tea than coffee.", "options": ["have", "having", "to have"], "answer": "have", "explanation": "would rather + base." },
+    { "id": "t10-055", "subtopic": "would-rather", "type": "mcq", "prompt": "She'd rather we ___ now.", "options": ["didn't leave", "don't leave", "not leave"], "answer": "didn't leave", "explanation": "would rather + sujeto + pasado (negativo: didn't + base)." },
+    { "id": "t10-056", "subtopic": "would-rather", "type": "mcq", "prompt": "'I would rather... than...' compara:", "options": ["dos opciones (preferencia)", "pasado y presente", "dos personas"], "answer": "dos opciones (preferencia)", "explanation": "would rather A than B." },
+    { "id": "t10-057", "subtopic": "would-rather", "type": "mcq", "prompt": "I'd rather walk ___ take the bus.", "options": ["than", "that", "to"], "answer": "than", "explanation": "would rather ... than ..." },
+    { "id": "t10-058", "subtopic": "would-rather", "type": "mcq", "prompt": "Would you rather ___ or stay in?", "options": ["go out", "going out", "to go out"], "answer": "go out", "explanation": "would rather + base." },
+    { "id": "t10-059", "subtopic": "would-rather", "type": "mcq", "prompt": "'I'd rather you didn't smoke here' es:", "options": ["una forma educada de pedir que no hagas algo", "una orden", "un arrepentimiento del pasado"], "answer": "una forma educada de pedir que no hagas algo", "explanation": "would rather + sujeto + didn't + base." },
+    { "id": "t10-060", "subtopic": "would-rather", "type": "gap", "prompt": "Completa: I'd rather you ___ (tell) me the truth.", "accept": ["told"], "answer": "told", "explanation": "would rather + sujeto + pasado simple." },
+    { "id": "t10-061", "subtopic": "would-rather", "type": "mcq", "prompt": "'I'd rather have stayed' (sobre el pasado) significa:", "options": ["habria preferido quedarme (pero no lo hice)", "me quede", "me quedare"], "answer": "habria preferido quedarme (pero no lo hice)", "explanation": "would rather have + participio: preferencia sobre el pasado." },
+    { "id": "t10-062", "subtopic": "would-rather", "type": "mcq", "prompt": "He'd rather his kids ___ less TV.", "options": ["watched", "watch", "to watch"], "answer": "watched", "explanation": "would rather + sujeto + pasado simple." },
+    { "id": "t10-063", "subtopic": "would-rather", "type": "mcq", "prompt": "''d rather' es la contraccion de:", "options": ["would rather", "had rather", "did rather"], "answer": "would rather", "explanation": "'d = would en esta estructura." },
+
+    { "id": "t10-064", "subtopic": "its-time", "type": "mcq", "prompt": "It's time we ___ home.", "options": ["went", "go", "to go"], "answer": "went", "explanation": "It's time + sujeto + pasado simple." },
+    { "id": "t10-065", "subtopic": "its-time", "type": "mcq", "prompt": "It's time you ___ to bed. (a un nino)", "options": ["went", "go", "going"], "answer": "went", "explanation": "It's time + sujeto + pasado simple (aunque el sentido sea 'ahora')." },
+    { "id": "t10-066", "subtopic": "its-time", "type": "mcq", "prompt": "'It's time + pasado simple' significa:", "options": ["deberia ocurrir ya / va con retraso", "ocurrio en el pasado", "es un plan"], "answer": "deberia ocurrir ya / va con retraso", "explanation": "Idea de que llega tarde." },
+    { "id": "t10-067", "subtopic": "its-time", "type": "mcq", "prompt": "It's high time the government ___ something.", "options": ["did", "does", "do"], "answer": "did", "explanation": "It's high time + sujeto + pasado simple." },
+    { "id": "t10-068", "subtopic": "its-time", "type": "mcq", "prompt": "'It's time to go' vs 'It's time we went':", "options": ["'to go' = general; 'we went' = nosotros, y con cierto retraso", "no hay diferencia", "'we went' es incorrecto"], "answer": "'to go' = general; 'we went' = nosotros, y con cierto retraso", "explanation": "Con sujeto se usa el pasado; sin sujeto, 'to' + infinitivo." },
+    { "id": "t10-069", "subtopic": "its-time", "type": "mcq", "prompt": "It's about time he ___ up.", "options": ["grew", "grows", "grow"], "answer": "grew", "explanation": "It's about time + sujeto + pasado simple." },
+    { "id": "t10-070", "subtopic": "its-time", "type": "gap", "prompt": "Completa: It's time I ___ (get) a proper job.", "accept": ["got"], "answer": "got", "explanation": "It's time + sujeto + pasado simple." },
+    { "id": "t10-071", "subtopic": "its-time", "type": "mcq", "prompt": "Tras 'It's time', la forma verbal es:", "options": ["pasado simple (aunque el sentido sea presente/futuro)", "presente simple", "will + base"], "answer": "pasado simple (aunque el sentido sea presente/futuro)", "explanation": "Estructura fija con pasado 'irreal'." },
+    { "id": "t10-072", "subtopic": "its-time", "type": "mcq", "prompt": "It's time we ___ this problem seriously.", "options": ["took", "take", "taking"], "answer": "took", "explanation": "It's time + sujeto + pasado simple." },
+    { "id": "t10-073", "subtopic": "its-time", "type": "mcq", "prompt": "Cual es correcta?", "options": ["It's time you learned to drive.", "It's time you learn to drive.", "It's time you will learn to drive."], "answer": "It's time you learned to drive.", "explanation": "It's time + sujeto + pasado simple." },
+    { "id": "t10-074", "subtopic": "its-time", "type": "mcq", "prompt": "'It's time' + 'to + infinitivo' se usa cuando:", "options": ["no hay un sujeto concreto ('It's time to leave')", "siempre hay sujeto", "-"], "answer": "no hay un sujeto concreto ('It's time to leave')", "explanation": "Sin sujeto -> to + infinitivo." },
+    { "id": "t10-075", "subtopic": "its-time", "type": "mcq", "prompt": "It's high time ___.", "options": ["we made a decision", "we make a decision", "we will make a decision"], "answer": "we made a decision", "explanation": "It's high time + sujeto + pasado simple." },
+
+    { "id": "t10-076", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If I had studied medicine, I ___ a doctor now.", "options": ["would be", "would have been", "will be"], "answer": "would be", "explanation": "Condicion pasada -> resultado presente: would + base." },
+    { "id": "t10-077", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If I weren't so tired, I ___ to the party last night.", "options": ["would have gone", "would go", "will go"], "answer": "would have gone", "explanation": "Condicion presente -> resultado pasado: would have + participio." },
+    { "id": "t10-078", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "Un condicional mixto combina:", "options": ["una condicion y un resultado de tiempos distintos", "dos clausulas presentes", "dos clausulas pasadas"], "answer": "una condicion y un resultado de tiempos distintos", "explanation": "Ej.: pasado + presente, o presente + pasado." },
+    { "id": "t10-079", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If she had taken the job, she ___ in London now.", "options": ["would be living", "would have lived", "lives"], "answer": "would be living", "explanation": "Resultado presente en curso -> would be + -ing." },
+    { "id": "t10-080", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If he were more careful, he ___ that accident.", "options": ["wouldn't have had", "wouldn't have", "won't have"], "answer": "wouldn't have had", "explanation": "Condicion presente -> resultado pasado: wouldn't have + participio." },
+    { "id": "t10-081", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "'If I had saved money, I would have a house now.' - la condicion esta en el ___, el resultado en el ___.", "options": ["pasado / presente", "presente / pasado", "pasado / pasado"], "answer": "pasado / presente", "explanation": "past perfect + would + base." },
+    { "id": "t10-082", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If I spoke Japanese, I ___ that job in Tokyo last year.", "options": ["would have got", "would get", "got"], "answer": "would have got", "explanation": "Condicion presente -> resultado pasado." },
+    { "id": "t10-083", "subtopic": "condicionales-mixtos", "type": "gap", "prompt": "Completa: If you had gone to bed earlier, you ___ (not be) so tired now.", "accept": ["wouldn't be", "would not be"], "answer": "wouldn't be", "explanation": "Condicion pasada -> resultado presente: wouldn't be." },
+    { "id": "t10-084", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If we hadn't missed the flight, we ___ on the beach right now.", "options": ["would be", "would have been", "are"], "answer": "would be", "explanation": "Condicion pasada -> resultado presente." },
+    { "id": "t10-085", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If I were braver, I ___ him the truth years ago.", "options": ["would have told", "would tell", "told"], "answer": "would have told", "explanation": "Condicion presente -> resultado pasado." },
+    { "id": "t10-086", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "'If I hadn't broken my leg, I would be skiing now' - que condicional?", "options": ["mixto (condicion pasada, resultado presente)", "tercero", "segundo"], "answer": "mixto (condicion pasada, resultado presente)", "explanation": "past perfect + would be + -ing." },
+    { "id": "t10-087", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "If they knew the area better, they ___ lost yesterday.", "options": ["wouldn't have got", "wouldn't get", "don't get"], "answer": "wouldn't have got", "explanation": "Condicion presente -> resultado pasado." },
+    { "id": "t10-088", "subtopic": "condicionales-mixtos", "type": "mcq", "prompt": "'If I ___ (not be) afraid of flying, I would have visited you last summer.'", "options": ["weren't", "hadn't been", "am not"], "answer": "weren't", "explanation": "Condicion presente (2o condicional) + resultado pasado." },
+
+    { "id": "t10-089", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "Arrepentimiento del pasado ->", "options": ["I wish I had (done)...", "I wish I (did)...", "I wish I would..."], "answer": "I wish I had (done)...", "explanation": "wish + past perfect." },
+    { "id": "t10-090", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "Deseo de un presente irreal ->", "options": ["I wish I (had / were / could)...", "I wish I had (done)...", "-"], "answer": "I wish I (had / were / could)...", "explanation": "wish + pasado simple / were / could." },
+    { "id": "t10-091", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "Queja del habito de otra persona ->", "options": ["I wish you would (stop)...", "I wish you (stopped)...", "I wish you had..."], "answer": "I wish you would (stop)...", "explanation": "wish + would para comportamientos." },
+    { "id": "t10-092", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'I'd rather you ___ that.'", "options": ["didn't do", "don't do", "not to do"], "answer": "didn't do", "explanation": "would rather + sujeto + didn't + base." },
+    { "id": "t10-093", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'It's time we ___.'", "options": ["left", "leave", "to leave"], "answer": "left", "explanation": "It's time + sujeto + pasado simple." },
+    { "id": "t10-094", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'If only I ___ younger!'", "options": ["were", "am", "was going to be"], "answer": "were", "explanation": "If only + were (presente irreal)." },
+    { "id": "t10-095", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'I wish it ___ raining.' (esta lloviendo)", "options": ["would stop", "stops", "stopped"], "answer": "would stop", "explanation": "Deseo de un cambio en el tiempo -> wish + would stop." },
+    { "id": "t10-096", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'She wishes she ___ the concert.' (se lo perdio)", "options": ["hadn't missed", "didn't miss", "wouldn't miss"], "answer": "hadn't missed", "explanation": "Arrepentimiento del pasado -> wish + hadn't + participio." },
+    { "id": "t10-097", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'I'd rather ___ than lie.'", "options": ["tell the truth", "telling the truth", "to tell the truth"], "answer": "tell the truth", "explanation": "would rather + base ... than ..." },
+    { "id": "t10-098", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'If I had accepted, I ___ rich now.'", "options": ["would be", "would have been", "am"], "answer": "would be", "explanation": "Condicional mixto: condicion pasada -> resultado presente." },
+    { "id": "t10-099", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "'It's high time you ___ a decision.'", "options": ["made", "make", "to make"], "answer": "made", "explanation": "It's high time + sujeto + pasado simple." },
+    { "id": "t10-100", "subtopic": "contraste-deseos", "type": "mcq", "prompt": "Todas estas estructuras (wish, if only, would rather, it's time) usan formas de ___ para hablar de lo irreal.", "options": ["pasado", "futuro", "presente continuo"], "answer": "pasado", "explanation": "El 'pasado irreal' senala distancia de la realidad." }
+  ]
+}

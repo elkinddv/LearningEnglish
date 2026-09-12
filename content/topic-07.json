@@ -1,0 +1,229 @@
+{
+  "id": 7,
+  "slug": "estilo-indirecto",
+  "level": "B2",
+  "title": "Estilo indirecto",
+  "lesson": {
+    "intro": "El estilo indirecto (reported speech) sirve para contar lo que alguien dijo <strong>sin repetirlo textualmente</strong>. Cuatro cosas suelen cambiar: el <strong>tiempo verbal</strong> (backshift, porque <em>said/told</em> va en pasado), los <strong>pronombres</strong>, las palabras de <strong>tiempo y lugar</strong>, y el <strong>orden</strong> en las preguntas (sin inversion, sin <em>do</em>).",
+    "sections": [
+      {
+        "subtopic": "reported-statements",
+        "heading": "1 - Reported statements",
+        "body": "<p>Estructura: <code>say</code> / <code>tell (+ persona)</code> + <code>(that)</code> + oracion. El <em>that</em> es opcional.</p><p>Como el verbo introductor suele ir en pasado (<em>said, told</em>), el verbo de dentro <strong>retrocede un tiempo</strong> (backshift).</p>",
+        "examples": [
+          "\"I'm tired.\" &rarr; He said (that) he <strong>was</strong> tired.",
+          "\"We live here.\" &rarr; They said they <strong>lived</strong> there.",
+          "\"I passed!\" &rarr; She said she <strong>had passed</strong>."
+        ]
+      },
+      {
+        "subtopic": "backshift-tiempos",
+        "heading": "2 - El backshift de tiempos verbales",
+        "body": "<p>Con <em>said / told</em> en pasado:</p><ul><li>presente simple &rarr; <strong>pasado simple</strong></li><li>presente continuo &rarr; <strong>pasado continuo</strong></li><li>presente perfect / pasado simple &rarr; <strong>past perfect</strong></li><li>will &rarr; would; can &rarr; could; may &rarr; might; must (obligacion) &rarr; had to</li></ul><p><strong>No</strong> cambian: would, could, might, should. <strong>No</strong> se hace backshift si el verbo introductor esta en presente (<em>She says...</em>) o si es una verdad general todavia valida.</p>",
+        "examples": [
+          "\"I saw her.\" &rarr; He said he <strong>had seen</strong> her.",
+          "\"I can drive.\" &rarr; She said she <strong>could</strong> drive.",
+          "The teacher said that water <strong>boils</strong> at 100 &deg;C. (verdad general)"
+        ]
+      },
+      {
+        "subtopic": "reported-questions",
+        "heading": "3 - Reported questions",
+        "body": "<p>Sin inversion: el orden es el de una <strong>oracion afirmativa</strong> (sujeto + verbo). Se quita el auxiliar <em>do/does/did</em> y el signo de interrogacion.</p><ul><li>Preguntas de si/no &rarr; <code>if / whether</code>.</li><li>Preguntas con wh- &rarr; se mantiene la palabra wh-.</li></ul><p>Verbo introductor: <code>ask</code> (+ objeto opcional).</p>",
+        "examples": [
+          "\"Where do you live?\" &rarr; She asked where I <strong>lived</strong>.",
+          "\"Are you OK?\" &rarr; He asked <strong>if</strong> I was OK.",
+          "\"What time is it?\" &rarr; She asked what time <strong>it was</strong>."
+        ]
+      },
+      {
+        "subtopic": "reported-commands",
+        "heading": "4 - Reported commands and requests",
+        "body": "<p><code>tell</code> / <code>ask</code> + <strong>objeto</strong> (me, him...) + <code>(not) to</code> + infinitivo.</p><p>Ordenes &rarr; <em>tell</em>; peticiones educadas &rarr; <em>ask</em>. La negativa: <code>not to</code> + infinitivo. <em>say</em> no se usa para ordenes.</p>",
+        "examples": [
+          "\"Sit down.\" &rarr; She told me <strong>to sit</strong> down.",
+          "\"Don't touch it.\" &rarr; He told me <strong>not to touch</strong> it.",
+          "\"Please wait.\" &rarr; She asked me <strong>to wait</strong>."
+        ]
+      },
+      {
+        "subtopic": "cambios-tiempo-lugar",
+        "heading": "5 - Cambios de tiempo y lugar",
+        "body": "<p><em>now</em> &rarr; then; <em>today</em> &rarr; that day; <em>tonight</em> &rarr; that night; <em>tomorrow</em> &rarr; the next / following day; <em>yesterday</em> &rarr; the day before / the previous day; <em>... ago</em> &rarr; ... before; <em>next week</em> &rarr; the following week; <em>here</em> &rarr; there; <em>this</em> &rarr; that; <em>these</em> &rarr; those.</p><p>Solo se cambian si el contexto (momento o lugar) <strong>ya no es el mismo</strong>.</p>",
+        "examples": [
+          "\"I'll call you tomorrow.\" &rarr; He said he'd call me <strong>the next day</strong>.",
+          "\"I saw it here yesterday.\" &rarr; She said she'd seen it <strong>there the day before</strong>.",
+          "\"I'm busy now.\" &rarr; He said he was busy <strong>then</strong>."
+        ]
+      },
+      {
+        "subtopic": "say-vs-tell",
+        "heading": "6 - say vs tell y otros verbos",
+        "body": "<p><code>tell</code> va seguido de una <strong>persona</strong> (tell me, tell him). <code>say</code> no (say that..., o say <em>to</em> me).</p><p>Otros verbos: <em>explain (that), admit / deny + -ing, suggest / recommend + -ing o that, promise / offer / refuse + to, remind sb to, warn sb (not) to</em>.</p><p>Expresiones fijas: tell the truth / a lie / a story / the time; say hello / sorry / a few words.</p>",
+        "examples": [
+          "She <strong>told me</strong> the news.",
+          "She <strong>said</strong> that she was tired.",
+          "He <strong>admitted breaking</strong> the vase.",
+          "She <strong>promised to help</strong>."
+        ]
+      },
+      {
+        "subtopic": "pronombres-y-referencias",
+        "heading": "7 - Cambios de pronombres",
+        "body": "<p>Los pronombres y posesivos cambian segun <strong>quien habla</strong> y <strong>de quien se habla</strong> ahora.</p><p><em>I</em> del que hablaba &rarr; he / she; <em>you</em> &rarr; segun a quien se dirigia; <em>my / your</em> &rarr; his / her / my... El truco: piensa quien dice la frase reportada y a quien.</p>",
+        "examples": [
+          "Ana a mi: \"I like your car.\" &rarr; Ana said she liked <strong>my</strong> car.",
+          "Tom a Ana: \"I'll help you.\" (Ana lo cuenta) &rarr; Tom said he'd help <strong>me</strong>.",
+          "Ana: \"My brother lives here.\" &rarr; Ana said <strong>her</strong> brother lived there."
+        ]
+      },
+      {
+        "subtopic": "contraste-reported",
+        "heading": "8 - Transformar a estilo indirecto",
+        "body": "<p>Pasos:</p><ol><li>Elige <code>say / tell / ask</code> (+ persona).</li><li>Haz el <strong>backshift</strong> del verbo si <em>said</em> esta en pasado.</li><li>Cambia <strong>pronombres</strong> y posesivos.</li><li>Cambia palabras de <strong>tiempo / lugar</strong> si hace falta.</li><li>En preguntas: orden de afirmativa, sin <em>do</em>, con <em>if</em> para si/no. En ordenes: <code>(not) to</code> + infinitivo.</li></ol>",
+        "examples": [
+          "\"I am busy.\" &rarr; He said he <strong>was busy</strong>.",
+          "\"Do you smoke?\" &rarr; She asked <strong>if I smoked</strong>.",
+          "\"Call me later.\" &rarr; He told me <strong>to call him later</strong>."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Estilo directo -> indirecto",
+      "headers": ["Directo", "Cambia", "Indirecto"],
+      "rows": [
+        ["\"I <strong>am</strong> tired\"", "am -> was", "She said she <strong>was</strong> tired."],
+        ["\"I <strong>work</strong> here\"", "presente -> pasado", "He said he <strong>worked</strong> there."],
+        ["\"I <strong>saw</strong> him\"", "pasado -> past perfect", "She said she <strong>had seen</strong> him."],
+        ["\"I <strong>will</strong> call\"", "will -> would", "He said he <strong>would</strong> call."],
+        ["\"<strong>Do</strong> you smoke?\"", "sin 'do', + if", "She asked <strong>if</strong> I <strong>smoked</strong>."],
+        ["\"<strong>Where</strong> are you?\"", "orden de afirmativa", "He asked <strong>where</strong> I <strong>was</strong>."],
+        ["\"<strong>Sit</strong> down\"", "-> (not) to + inf.", "She told me <strong>to sit</strong> down."]
+      ]
+    },
+    "mistakes": [
+      "NO: She said <em>me</em> that she was tired.  ->  SI: She <strong>told me</strong> / She <strong>said</strong> that she was tired.",
+      "NO: He asked me where <em>did I live</em>.  ->  SI: He asked me where <strong>I lived</strong>.",
+      "NO: He told me <em>that sit down</em>.  ->  SI: He told me <strong>to sit down</strong>.",
+      "NO: She said she <em>will</em> come.  ->  SI: She said she <strong>would</strong> come.",
+      "NO: He asked <em>that</em> I was ready.  ->  SI: He asked <strong>if / whether</strong> I was ready.",
+      "NO: They told <em>to me</em> the news.  ->  SI: They <strong>told me</strong> the news.",
+      "NO: She said me to wait.  ->  SI: She <strong>told / asked me to wait</strong>."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Reported speech 1 (statements)", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-1-statements" },
+      { "label": "British Council LearnEnglish - Reported speech 2 (questions and requests)", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-2-questions-requests" },
+      { "label": "British Council LearnEnglish - 'say' and 'tell'", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/say-and-tell" },
+      { "label": "Test-English - Reported speech (B1-B2)", "url": "https://test-english.com/grammar-points/b1/reported-speech-i/" }
+    ]
+  },
+  "questions": [
+    { "id": "t7-001", "subtopic": "reported-statements", "type": "mcq", "prompt": "'I'm tired.' -> She said (that) she ___ tired.", "options": ["was", "is", "were"], "answer": "was", "explanation": "am/is -> was (backshift)." },
+    { "id": "t7-002", "subtopic": "reported-statements", "type": "mcq", "prompt": "'We live in Rome.' -> They said they ___ in Rome.", "options": ["lived", "live", "were living"], "answer": "lived", "explanation": "Presente simple -> pasado simple." },
+    { "id": "t7-003", "subtopic": "reported-statements", "type": "mcq", "prompt": "El 'that' tras say / tell es:", "options": ["opcional", "obligatorio", "prohibido"], "answer": "opcional", "explanation": "'She said (that) she...' - el 'that' puede omitirse." },
+    { "id": "t7-004", "subtopic": "reported-statements", "type": "mcq", "prompt": "'I passed!' -> He said he ___.", "options": ["had passed", "passed", "has passed"], "answer": "had passed", "explanation": "Pasado simple -> past perfect." },
+    { "id": "t7-005", "subtopic": "reported-statements", "type": "mcq", "prompt": "'She works hard.' -> He told me she ___ hard.", "options": ["worked", "works", "work"], "answer": "worked", "explanation": "Presente simple -> pasado simple." },
+    { "id": "t7-006", "subtopic": "reported-statements", "type": "mcq", "prompt": "El estilo indirecto normalmente necesita:", "options": ["un cambio (backshift) del tiempo verbal", "ningun cambio", "un signo de interrogacion"], "answer": "un cambio (backshift) del tiempo verbal", "explanation": "Porque el verbo introductor va en pasado." },
+    { "id": "t7-007", "subtopic": "reported-statements", "type": "gap", "prompt": "'I don't like coffee.' -> He said he ___ (not like) coffee.", "accept": ["didn't like", "did not like"], "answer": "didn't like", "explanation": "don't -> didn't (backshift de presente a pasado)." },
+    { "id": "t7-008", "subtopic": "reported-statements", "type": "mcq", "prompt": "'It will rain.' -> The forecast said it ___ rain.", "options": ["would", "will", "would have"], "answer": "would", "explanation": "will -> would." },
+    { "id": "t7-009", "subtopic": "reported-statements", "type": "mcq", "prompt": "'I can swim.' -> She said she ___ swim.", "options": ["could", "can", "could have"], "answer": "could", "explanation": "can -> could." },
+    { "id": "t7-010", "subtopic": "reported-statements", "type": "mcq", "prompt": "'They have arrived.' -> He said they ___.", "options": ["had arrived", "have arrived", "arrived"], "answer": "had arrived", "explanation": "Present perfect -> past perfect." },
+    { "id": "t7-011", "subtopic": "reported-statements", "type": "mcq", "prompt": "'said' esta en ___, y por eso hay backshift.", "options": ["pasado", "presente", "futuro"], "answer": "pasado", "explanation": "El verbo introductor en pasado arrastra el resto al pasado." },
+    { "id": "t7-012", "subtopic": "reported-statements", "type": "mcq", "prompt": "'I'm studying.' -> She said she ___ studying.", "options": ["was", "is", "has been"], "answer": "was", "explanation": "Presente continuo -> pasado continuo (was + -ing)." },
+    { "id": "t7-013", "subtopic": "reported-statements", "type": "mcq", "prompt": "'I am here.' bien reportado:", "options": ["He said he was there.", "He said I am here.", "He said he is here."], "answer": "He said he was there.", "explanation": "am -> was; here -> there; I -> he." },
+
+    { "id": "t7-014", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "present simple ->", "options": ["past simple", "past perfect", "present perfect"], "answer": "past simple", "explanation": "work -> worked." },
+    { "id": "t7-015", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "present continuous ->", "options": ["past continuous", "past perfect continuous", "present perfect"], "answer": "past continuous", "explanation": "is working -> was working." },
+    { "id": "t7-016", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "past simple ->", "options": ["past perfect", "present perfect", "future"], "answer": "past perfect", "explanation": "saw -> had seen." },
+    { "id": "t7-017", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "will ->", "options": ["would", "will", "would have"], "answer": "would", "explanation": "will -> would." },
+    { "id": "t7-018", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "can ->", "options": ["could", "can", "could have"], "answer": "could", "explanation": "can -> could." },
+    { "id": "t7-019", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "must (obligacion) ->", "options": ["had to", "must", "musted"], "answer": "had to", "explanation": "must -> had to." },
+    { "id": "t7-020", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "may ->", "options": ["might", "may", "might have"], "answer": "might", "explanation": "may -> might." },
+    { "id": "t7-021", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "NO se hace backshift cuando:", "options": ["el verbo introductor esta en presente ('She says...')", "la frase es larga", "hay un nombre propio"], "answer": "el verbo introductor esta en presente ('She says...')", "explanation": "Sin pasado en el introductor, no hay retroceso." },
+    { "id": "t7-022", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "'The teacher said that water boils at 100 C.' Se puede dejar 'boils' porque:", "options": ["es una verdad general aun valida", "es un error", "'said' esta en presente"], "answer": "es una verdad general aun valida", "explanation": "Verdades permanentes pueden no retroceder." },
+    { "id": "t7-023", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "'I saw her.' -> He said he ___ her.", "options": ["had seen", "saw", "has seen"], "answer": "had seen", "explanation": "Pasado simple -> past perfect." },
+    { "id": "t7-024", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "'should', 'would', 'could', 'might' en estilo indirecto:", "options": ["normalmente no cambian", "pasan a 'shall/will/can/may'", "desaparecen"], "answer": "normalmente no cambian", "explanation": "Ya son formas 'de pasado' modal." },
+    { "id": "t7-025", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "'I was cooking.' -> She said she ___ cooking.", "options": ["had been", "was", "has been"], "answer": "had been", "explanation": "Pasado continuo -> past perfect continuous." },
+    { "id": "t7-026", "subtopic": "backshift-tiempos", "type": "mcq", "prompt": "'She says she ___ busy.' (introductor en presente)", "options": ["is", "was", "had been"], "answer": "is", "explanation": "Sin backshift porque 'says' esta en presente." },
+
+    { "id": "t7-027", "subtopic": "reported-questions", "type": "mcq", "prompt": "'Where do you live?' -> She asked where I ___.", "options": ["lived", "did I live", "do I live"], "answer": "lived", "explanation": "Sin 'do', orden de afirmativa, backshift: lived." },
+    { "id": "t7-028", "subtopic": "reported-questions", "type": "mcq", "prompt": "'Are you coming?' -> He asked ___ I was coming.", "options": ["if", "that", "-"], "answer": "if", "explanation": "Preguntas de si/no -> if / whether." },
+    { "id": "t7-029", "subtopic": "reported-questions", "type": "mcq", "prompt": "Las reported questions tienen orden de:", "options": ["oracion afirmativa (sujeto + verbo)", "pregunta (verbo + sujeto)", "ninguno"], "answer": "oracion afirmativa (sujeto + verbo)", "explanation": "No hay inversion en el estilo indirecto." },
+    { "id": "t7-030", "subtopic": "reported-questions", "type": "mcq", "prompt": "'What time is it?' -> She asked what time ___.", "options": ["it was", "was it", "is it"], "answer": "it was", "explanation": "Orden de afirmativa + backshift." },
+    { "id": "t7-031", "subtopic": "reported-questions", "type": "mcq", "prompt": "'Do you like jazz?' -> He asked me ___ I liked jazz.", "options": ["whether", "that", "what"], "answer": "whether", "explanation": "if / whether para preguntas de si/no." },
+    { "id": "t7-032", "subtopic": "reported-questions", "type": "mcq", "prompt": "En las reported questions se quita:", "options": ["el auxiliar 'do/does/did' y el signo de interrogacion", "el sujeto", "el verbo principal"], "answer": "el auxiliar 'do/does/did' y el signo de interrogacion", "explanation": "Pasa a ser una oracion, no una pregunta." },
+    { "id": "t7-033", "subtopic": "reported-questions", "type": "gap", "prompt": "'Why are you late?' -> She asked me why I ___ (be) late.", "accept": ["was"], "answer": "was", "explanation": "are -> was; orden de afirmativa." },
+    { "id": "t7-034", "subtopic": "reported-questions", "type": "mcq", "prompt": "'Can you help?' -> He asked if I ___ help.", "options": ["could", "can", "would could"], "answer": "could", "explanation": "can -> could." },
+    { "id": "t7-035", "subtopic": "reported-questions", "type": "mcq", "prompt": "Cual es correcta?", "options": ["She asked where the station was.", "She asked where was the station.", "She asked where the station is?"], "answer": "She asked where the station was.", "explanation": "Sin inversion, sin signo de interrogacion, con backshift." },
+    { "id": "t7-036", "subtopic": "reported-questions", "type": "mcq", "prompt": "'Have you finished?' -> She asked if I ___ finished.", "options": ["had", "have", "did"], "answer": "had", "explanation": "Present perfect -> past perfect." },
+    { "id": "t7-037", "subtopic": "reported-questions", "type": "mcq", "prompt": "El verbo para reportar una pregunta suele ser:", "options": ["ask (+ objeto opcional)", "say", "tell (sin objeto)"], "answer": "ask (+ objeto opcional)", "explanation": "ask me / ask him / ask." },
+    { "id": "t7-038", "subtopic": "reported-questions", "type": "mcq", "prompt": "'Who called?' -> He wanted to know who ___.", "options": ["had called", "did call", "call"], "answer": "had called", "explanation": "Backshift; en preguntas de sujeto se mantiene el orden." },
+    { "id": "t7-039", "subtopic": "reported-questions", "type": "mcq", "prompt": "'When does the shop open?' -> I asked when the shop ___.", "options": ["opened", "did open", "opens"], "answer": "opened", "explanation": "Sin 'do', orden de afirmativa, backshift." },
+
+    { "id": "t7-040", "subtopic": "reported-commands", "type": "mcq", "prompt": "'Sit down.' -> She told me ___ down.", "options": ["to sit", "sit", "that I sit"], "answer": "to sit", "explanation": "tell + objeto + to + infinitivo." },
+    { "id": "t7-041", "subtopic": "reported-commands", "type": "mcq", "prompt": "'Don't touch it!' -> He told me ___ it.", "options": ["not to touch", "to not touch", "don't touch"], "answer": "not to touch", "explanation": "Negativa: not to + infinitivo." },
+    { "id": "t7-042", "subtopic": "reported-commands", "type": "mcq", "prompt": "Reported command = tell/ask + ___ + (not) to + infinitivo.", "options": ["objeto (me, him...)", "that", "if"], "answer": "objeto (me, him...)", "explanation": "Siempre lleva la persona: told me, asked him..." },
+    { "id": "t7-043", "subtopic": "reported-commands", "type": "mcq", "prompt": "'Please wait here.' -> She asked me ___ there.", "options": ["to wait", "wait", "waiting"], "answer": "to wait", "explanation": "ask + objeto + to + infinitivo (peticion educada)." },
+    { "id": "t7-044", "subtopic": "reported-commands", "type": "mcq", "prompt": "'Be quiet!' -> The teacher told us ___ quiet.", "options": ["to be", "be", "being"], "answer": "to be", "explanation": "to + infinitivo (to be)." },
+    { "id": "t7-045", "subtopic": "reported-commands", "type": "mcq", "prompt": "Para ordenes usamos ___; para peticiones educadas, ___.", "options": ["tell / ask", "ask / tell", "say / say"], "answer": "tell / ask", "explanation": "tell me to... (orden) / ask me to... (peticion)." },
+    { "id": "t7-046", "subtopic": "reported-commands", "type": "gap", "prompt": "'Open the window.' -> He told me ___ (open) the window.", "accept": ["to open"], "answer": "to open", "explanation": "tell + objeto + to + infinitivo." },
+    { "id": "t7-047", "subtopic": "reported-commands", "type": "mcq", "prompt": "'Don't be late.' -> She reminded me ___ late.", "options": ["not to be", "to not be", "don't be"], "answer": "not to be", "explanation": "Negativa: not to + infinitivo." },
+    { "id": "t7-048", "subtopic": "reported-commands", "type": "mcq", "prompt": "Cual es correcta?", "options": ["He told me to call him.", "He told to call him.", "He said me to call him."], "answer": "He told me to call him.", "explanation": "tell necesita objeto; say no se usa para ordenes." },
+    { "id": "t7-049", "subtopic": "reported-commands", "type": "mcq", "prompt": "'Could you close the door?' -> She asked him ___ the door.", "options": ["to close", "close", "closing"], "answer": "to close", "explanation": "Peticion -> ask + objeto + to + infinitivo." },
+    { "id": "t7-050", "subtopic": "reported-commands", "type": "mcq", "prompt": "'say' con ordenes:", "options": ["no se usa ('say to do' es incorrecto)", "es la mejor opcion", "no necesita 'to'"], "answer": "no se usa ('say to do' es incorrecto)", "explanation": "Se usa tell/ask + objeto + to." },
+    { "id": "t7-051", "subtopic": "reported-commands", "type": "mcq", "prompt": "'Let's go.' -> He suggested ___.", "options": ["going / that we go", "to go", "go"], "answer": "going / that we go", "explanation": "suggest + -ing o + that." },
+
+    { "id": "t7-052", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "now ->", "options": ["then", "now", "today"], "answer": "then", "explanation": "'now' pasa a 'then'." },
+    { "id": "t7-053", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "today ->", "options": ["that day", "this day", "the day"], "answer": "that day", "explanation": "'today' pasa a 'that day'." },
+    { "id": "t7-054", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "tomorrow ->", "options": ["the next / the following day", "tomorrow", "that day"], "answer": "the next / the following day", "explanation": "'tomorrow' pasa a 'the next/following day'." },
+    { "id": "t7-055", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "yesterday ->", "options": ["the day before / the previous day", "yesterday", "that day"], "answer": "the day before / the previous day", "explanation": "'yesterday' pasa a 'the day before'." },
+    { "id": "t7-056", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "here ->", "options": ["there", "here", "that place only"], "answer": "there", "explanation": "'here' pasa a 'there'." },
+    { "id": "t7-057", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "this (book) ->", "options": ["that (book)", "this (book)", "the this"], "answer": "that (book)", "explanation": "'this' pasa a 'that'." },
+    { "id": "t7-058", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "these ->", "options": ["those", "these", "them"], "answer": "those", "explanation": "'these' pasa a 'those'." },
+    { "id": "t7-059", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "'... ago' ->", "options": ["... before", "... ago", "... since"], "answer": "... before", "explanation": "'two days ago' -> 'two days before'." },
+    { "id": "t7-060", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "next week ->", "options": ["the following week", "next week", "that week ago"], "answer": "the following week", "explanation": "'next week' -> 'the following week'." },
+    { "id": "t7-061", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "'I'll call you tomorrow.' -> He said he'd call me ___.", "options": ["the next day", "tomorrow", "that day"], "answer": "the next day", "explanation": "tomorrow -> the next day." },
+    { "id": "t7-062", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "'I saw it here yesterday.' -> She said she'd seen it ___ ___.", "options": ["there / the day before", "here / yesterday", "there / yesterday"], "answer": "there / the day before", "explanation": "here -> there; yesterday -> the day before." },
+    { "id": "t7-063", "subtopic": "cambios-tiempo-lugar", "type": "mcq", "prompt": "Estos cambios de tiempo/lugar hacen falta:", "options": ["solo cuando el contexto (momento o lugar) ha cambiado", "siempre, sin excepcion", "nunca"], "answer": "solo cuando el contexto (momento o lugar) ha cambiado", "explanation": "Si repites la frase el mismo dia y sitio, no cambian." },
+
+    { "id": "t7-064", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'tell' va seguido de:", "options": ["una persona (objeto)", "'to' + persona", "nada"], "answer": "una persona (objeto)", "explanation": "tell me, tell him, tell the class..." },
+    { "id": "t7-065", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'say':", "options": ["no lleva persona detras (o usa 'to + persona')", "siempre lleva persona detras", "es lo mismo que 'speak'"], "answer": "no lleva persona detras (o usa 'to + persona')", "explanation": "say that... / say to me that..." },
+    { "id": "t7-066", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'He ___ me the news.'", "options": ["told", "said", "said to"], "answer": "told", "explanation": "Con la persona directamente detras -> tell." },
+    { "id": "t7-067", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'She ___ that she was tired.'", "options": ["said", "told", "told to"], "answer": "said", "explanation": "Sin persona -> say." },
+    { "id": "t7-068", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'She ___ me that she was tired.'", "options": ["told", "said", "said me"], "answer": "told", "explanation": "Con 'me' detras -> tell." },
+    { "id": "t7-069", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'admit', 'deny', 'suggest', 'recommend' van seguidos de:", "options": ["-ing (o clausula con 'that')", "'to' + infinitivo siempre", "objeto + 'to'"], "answer": "-ing (o clausula con 'that')", "explanation": "admit doing / suggest going / deny taking." },
+    { "id": "t7-070", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'He ___ breaking the vase.' (confesar)", "options": ["admitted", "said", "told"], "answer": "admitted", "explanation": "admit + -ing." },
+    { "id": "t7-071", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'She ___ to help me.' (prometer)", "options": ["promised", "said", "told"], "answer": "promised", "explanation": "promise + to + infinitivo." },
+    { "id": "t7-072", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'He ___ that the plan was risky.' (explicar)", "options": ["explained", "told", "said me"], "answer": "explained", "explanation": "explain (that)... / explain to me that..." },
+    { "id": "t7-073", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'They ___ us about the changes.'", "options": ["told", "said", "explained"], "answer": "told", "explanation": "tell someone about something." },
+    { "id": "t7-074", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "Expresiones fijas con 'tell':", "options": ["tell a lie, tell the truth, tell a story, tell the time", "tell hello, tell sorry", "tell to someone"], "answer": "tell a lie, tell the truth, tell a story, tell the time", "explanation": "Colocaciones fijas con 'tell'." },
+    { "id": "t7-075", "subtopic": "say-vs-tell", "type": "mcq", "prompt": "'___ hello / ___ sorry / ___ a few words' usan:", "options": ["say", "tell", "speak"], "answer": "say", "explanation": "say hello, say sorry, say a few words." },
+
+    { "id": "t7-076", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Ana a mi: 'I like your car.' -> Ana said she liked ___ car.", "options": ["my", "her", "your"], "answer": "my", "explanation": "'your' (mi coche) -> 'my' porque ahora lo cuento yo." },
+    { "id": "t7-077", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Tom a Ana: 'I'll help you.' (Ana lo cuenta) -> Tom said he'd help ___.", "options": ["me", "you", "her"], "answer": "me", "explanation": "'you' (= Ana) -> 'me' porque Ana lo reporta." },
+    { "id": "t7-078", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Ana: 'My brother lives here.' -> Ana said ___ brother lived there.", "options": ["her", "my", "his"], "answer": "her", "explanation": "'my' (de Ana) -> 'her'." },
+    { "id": "t7-079", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Sam a Kim: 'You forgot my keys.' (Kim lo cuenta) -> Sam said ___ had forgotten ___ keys.", "options": ["I / his", "you / my", "she / her"], "answer": "I / his", "explanation": "'you' (= Kim) -> 'I'; 'my' (de Sam) -> 'his'." },
+    { "id": "t7-080", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Los cambios de pronombre en estilo indirecto dependen de:", "options": ["quien habla y de quien se habla", "solo del tiempo verbal", "de nada"], "answer": "quien habla y de quien se habla", "explanation": "Hay que reubicar cada pronombre en la nueva situacion." },
+    { "id": "t7-081", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Ana a Tom: 'I can't find our tickets.' (Tom se lo recuerda a Ana) -> 'You said you couldn't find ___ tickets.'", "options": ["our", "your", "their"], "answer": "our", "explanation": "'our' (de Ana y Tom) sigue siendo 'our'." },
+    { "id": "t7-082", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "El jefe al empleado: 'Your report is late.' (lo cuenta el empleado) -> The boss said ___ report was late.", "options": ["my", "your", "his"], "answer": "my", "explanation": "'your' (= el empleado) -> 'my'." },
+    { "id": "t7-083", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "'this morning' (dicho por la tarde del mismo dia) suele quedar como:", "options": ["this morning / that morning", "the morning before", "tomorrow morning"], "answer": "this morning / that morning", "explanation": "Si sigue siendo el mismo dia, apenas cambia." },
+    { "id": "t7-084", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Ana: 'These are mine.' -> Ana said those were ___.", "options": ["hers", "mine", "theirs"], "answer": "hers", "explanation": "'mine' (de Ana) -> 'hers'; 'these' -> 'those'." },
+    { "id": "t7-085", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "'I' (lo dice Ben, lo reporta Ann) pasa a:", "options": ["he", "I", "you"], "answer": "he", "explanation": "El 'I' del hablante -> he / she." },
+    { "id": "t7-086", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "'we' (hablan Ben y Ann; reporta Ann) pasa a:", "options": ["we (si Ann sigue incluida)", "they siempre", "you"], "answer": "we (si Ann sigue incluida)", "explanation": "Depende de si el que reporta sigue dentro del grupo." },
+    { "id": "t7-087", "subtopic": "pronombres-y-referencias", "type": "mcq", "prompt": "Kim a Sam: 'I'll bring your book back.' (Sam lo cuenta) -> Kim said she'd bring ___ book back.", "options": ["my", "your", "her"], "answer": "my", "explanation": "'your' (= Sam) -> 'my'." },
+
+    { "id": "t7-088", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'I am busy.' -> He said (that) ...", "options": ["he was busy", "he is busy", "I was busy"], "answer": "he was busy", "explanation": "am -> was; I -> he." },
+    { "id": "t7-089", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'Do you smoke?' -> She asked me ...", "options": ["if I smoked", "if did I smoke", "do I smoke"], "answer": "if I smoked", "explanation": "if + orden de afirmativa + backshift." },
+    { "id": "t7-090", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'Call me later.' -> He told me ...", "options": ["to call him later", "that call him later", "call him later"], "answer": "to call him later", "explanation": "tell + objeto + to + infinitivo; me -> him." },
+    { "id": "t7-091", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'I lost my keys yesterday.' -> She said she ___ ___ keys the day before.", "options": ["had lost / her", "lost / my", "had lost / my"], "answer": "had lost / her", "explanation": "lost -> had lost; my -> her; yesterday -> the day before." },
+    { "id": "t7-092", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'We can't come.' -> They said they ___ come.", "options": ["couldn't", "can't", "couldn't have"], "answer": "couldn't", "explanation": "can't -> couldn't." },
+    { "id": "t7-093", "subtopic": "contraste-reported", "type": "mcq", "prompt": "Detecta el error: 'He asked me where did I work.'", "options": ["debe ser 'where I worked' (sin 'did', orden de afirmativa)", "debe ser 'where did I worked'", "esta bien"], "answer": "debe ser 'where I worked' (sin 'did', orden de afirmativa)", "explanation": "Nada de 'did' en reported questions." },
+    { "id": "t7-094", "subtopic": "contraste-reported", "type": "mcq", "prompt": "Detecta el error: 'She said me that she was ill.'", "options": ["'She told me' o 'She said that'", "'She said to that'", "esta bien"], "answer": "'She told me' o 'She said that'", "explanation": "say no lleva persona directamente detras." },
+    { "id": "t7-095", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'The Earth goes round the Sun.' -> The teacher said the Earth ___ round the Sun.", "options": ["goes / went (ambas valen: verdad general)", "was going", "would go"], "answer": "goes / went (ambas valen: verdad general)", "explanation": "Con verdades permanentes el backshift es opcional." },
+    { "id": "t7-096", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'Don't worry.' -> She told me ___.", "options": ["not to worry", "to not worry", "don't worry"], "answer": "not to worry", "explanation": "Negativa de la orden: not to + infinitivo." },
+    { "id": "t7-097", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'Have you seen my phone?' -> He asked if I ___ seen his phone.", "options": ["had", "have", "did"], "answer": "had", "explanation": "Present perfect -> past perfect; my -> his." },
+    { "id": "t7-098", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'I'll be there at 6.' (reportado el mismo dia) -> She said she'd be there at 6.", "options": ["correcto (la hora sigue vigente)", "incorrecto: debe ser 'the next day'", "incorrecto: debe ser 'would have been'"], "answer": "correcto (la hora sigue vigente)", "explanation": "Si el plan sigue en pie, no hay que cambiar la hora." },
+    { "id": "t7-099", "subtopic": "contraste-reported", "type": "mcq", "prompt": "'Let's take a break.' -> He suggested ___ a break.", "options": ["taking", "to take", "take"], "answer": "taking", "explanation": "suggest + -ing." },
+    { "id": "t7-100", "subtopic": "contraste-reported", "type": "mcq", "prompt": "El estilo indirecto cambia sobre todo:", "options": ["tiempos verbales, pronombres y palabras de tiempo/lugar", "solo la puntuacion", "solo la primera palabra"], "answer": "tiempos verbales, pronombres y palabras de tiempo/lugar", "explanation": "Son los tres ejes del backshift." }
+  ]
+}

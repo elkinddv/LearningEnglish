@@ -1,0 +1,234 @@
+{
+  "id": 12,
+  "slug": "participio-y-causativo",
+  "level": "C1",
+  "title": "Clausulas de participio y causativo (have/get something done)",
+  "lesson": {
+    "intro": "Dos recursos de nivel C1. El <strong>causativo</strong> (<code>have / get + objeto + participio</code>) dice que <em>otra persona</em> hace el trabajo por ti (o que algo te pasa). Las <strong>clausulas de participio</strong> (<em>-ing</em>, <em>-ed</em>, <em>Having done</em>) comprimen una oracion subordinada en una frase mas corta y formal.",
+    "sections": [
+      {
+        "subtopic": "causativo-have-done",
+        "heading": "1 - Causativo: have something done",
+        "body": "<p>Estructura: <code>have + objeto + participio pasado</code>. Significa que <strong>otra persona</strong> (normalmente un profesional) hace el trabajo por ti.</p><p>El objeto va <strong>siempre</strong> entre <em>have</em> y el participio.</p>",
+        "examples": [
+          "I <strong>had my car repaired</strong>. (un mecanico lo hizo)",
+          "We're <strong>having the kitchen painted</strong>.",
+          "She <strong>had her photo taken</strong> for the passport.",
+          "Compara: I painted the house. (yo) / I <strong>had the house painted</strong>. (un pintor)"
+        ]
+      },
+      {
+        "subtopic": "causativo-get-done",
+        "heading": "2 - Causativo: get something done",
+        "body": "<p><code>get + objeto + participio pasado</code>. Mismo significado que <em>have something done</em> pero <strong>mas informal</strong> y frecuente al hablar.</p><p>Ojo: <code>get + persona + <u>to</u> + infinitivo</code> = conseguir / persuadir a alguien de que haga algo; <code>have + persona + infinitivo <u>sin to</u></code>.</p>",
+        "examples": [
+          "I need to <strong>get my hair cut</strong>.",
+          "Let's <strong>get the car washed</strong>.",
+          "I <strong>got the plumber to fix</strong> the leak.",
+          "I <strong>had the plumber fix</strong> the leak. (sin 'to')"
+        ]
+      },
+      {
+        "subtopic": "causativo-experiencia",
+        "heading": "3 - have/get something done: experiencias",
+        "body": "<p>La misma estructura describe algo (a menudo <strong>malo</strong>) que <strong>te pasa</strong> sin que lo hayas provocado.</p><p>El <strong>contexto</strong> dice si es un servicio o una desgracia.</p>",
+        "examples": [
+          "I <strong>had my wallet stolen</strong>.",
+          "She <strong>had her house broken into</strong> while on holiday.",
+          "They <strong>had their flight cancelled</strong>.",
+          "He <strong>had his nose broken</strong> in the fight."
+        ]
+      },
+      {
+        "subtopic": "causativo-tiempos",
+        "heading": "4 - El causativo en distintos tiempos",
+        "body": "<p>Lo que cambia de tiempo es <code>have</code> / <code>get</code>; el participio <strong>no</strong> cambia.</p><ul><li>Present continuous: I<strong>'m having</strong> it done.</li><li>Past simple: I <strong>had</strong> it done.</li><li>Present perfect: I<strong>'ve had</strong> it done.</li><li>Futuro: I<strong>'ll have</strong> it done / I<strong>'m going to have</strong> it done.</li><li>Modales: You <strong>should have</strong> it checked.</li><li>Con -ing: I hate <strong>having</strong> my photo taken.</li></ul>",
+        "examples": [
+          "We <strong>are having</strong> the bathroom retiled at the moment.",
+          "She <strong>has had</strong> her portrait painted.",
+          "I<strong>'ll have</strong> the car checked before the trip.",
+          "By next week we<strong>'ll have had</strong> the fence repaired."
+        ]
+      },
+      {
+        "subtopic": "participio-presente",
+        "heading": "5 - Clausulas de participio con -ing",
+        "body": "<p>Sustituyen a una clausula con <em>as / because / while / when + sujeto + verbo</em> cuando el sujeto es el <strong>mismo</strong> que el de la principal. Tienen sentido <strong>activo</strong>.</p><p>Sirven para causa (<em>Feeling tired, she left</em> = Because she felt tired) o para dos acciones simultaneas (<em>She left, slamming the door</em>).</p><p>Cuidado con el <strong>dangling participle</strong>: el sujeto de ambas partes debe coincidir.</p>",
+        "examples": [
+          "<strong>Feeling</strong> tired, she went to bed.",
+          "<strong>Walking</strong> home, I met a friend.",
+          "<strong>Not knowing</strong> what to say, he stayed silent.",
+          "She left, <strong>slamming</strong> the door."
+        ]
+      },
+      {
+        "subtopic": "participio-pasado",
+        "heading": "6 - Clausulas de participio con -ed",
+        "body": "<p>Empiezan por un <strong>participio pasado</strong> y tienen sentido <strong>pasivo</strong> (una pasiva reducida): <em>Built in 1850, the bridge...</em> (= It was built...).</p><p>Sirven tambien para condicion (<em>Cooked properly, this dish is delicious</em>) o para describir un estado.</p><p>Formulas frecuentes: <em>Given..., Faced with..., Compared with..., Based on..., Seen from...</em></p>",
+        "examples": [
+          "<strong>Built</strong> in 1900, the house needs work.",
+          "<strong>Given</strong> the choice, I'd stay.",
+          "<strong>Shocked</strong> by the news, she sat down.",
+          "The soldiers, <strong>exhausted</strong>, kept marching."
+        ]
+      },
+      {
+        "subtopic": "participio-perfecto",
+        "heading": "7 - Having + participio",
+        "body": "<p><code>Having + participio</code> indica una accion <strong>terminada ANTES</strong> de la accion principal (= After he had...).</p><p>Pasiva: <code>Having been + participio</code>. Negativa: <code>Not having + participio</code>. <em>Having said that</em> es un conector muy comun (\"dicho esto / no obstante\").</p>",
+        "examples": [
+          "<strong>Having finished</strong> the report, she went home.",
+          "<strong>Having been warned</strong>, he had no excuse.",
+          "<strong>Not having eaten</strong> all day, I was starving.",
+          "<strong>Having said that</strong>, the plan has risks."
+        ]
+      },
+      {
+        "subtopic": "contraste-causativo-participio",
+        "heading": "8 - Transformar y elegir",
+        "body": "<p><strong>Causativo:</strong> si el trabajo lo hace otro, usa <code>have/get + objeto + participio</code>, conjugando <em>have/get</em> en el tiempo que toque.</p><p><strong>Participios:</strong> <code>-ing</code> (activo: causa o simultaneidad), <code>-ed</code> (pasivo: pasiva reducida), <code>Having + participio</code> (accion anterior).</p><p>En todas, el sujeto implicito debe ser el de la oracion principal.</p>",
+        "examples": [
+          "A mechanic is servicing my car. &rarr; I<strong>'m having my car serviced</strong>.",
+          "Because she didn't know the way... &rarr; <strong>Not knowing</strong> the way...",
+          "After she had read the letter... &rarr; <strong>Having read</strong> the letter..."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Causativo y clausulas de participio",
+      "headers": ["Estructura", "Significado", "Ejemplo"],
+      "rows": [
+        ["have + objeto + participio", "otro hace el trabajo por ti", "I <strong>had my car repaired</strong>."],
+        ["get + objeto + participio", "igual, mas informal", "I need to <strong>get my hair cut</strong>."],
+        ["have/get + objeto + participio", "algo (malo) te pasa", "I <strong>had my wallet stolen</strong>."],
+        ["-ing participle", "activo; causa o simultaneidad", "<strong>Feeling</strong> tired, she left."],
+        ["-ed participle", "pasivo (pasiva reducida)", "<strong>Built</strong> in 1900, it needs work."],
+        ["Having + participio", "accion anterior a la principal", "<strong>Having finished</strong>, he left."]
+      ]
+    },
+    "mistakes": [
+      "NO: I <em>had cut my hair</em> at the salon.  ->  SI: I <strong>had my hair cut</strong> at the salon.",
+      "NO: We are <em>painting</em> the house by a decorator.  ->  SI: We are <strong>having the house painted</strong>.",
+      "NO: I got him <em>help</em> me.  ->  SI: I got him <strong>to help</strong> me. / I had him <strong>help</strong> me.",
+      "NO: <em>Feeling</em> tired, the meeting seemed long.  ->  SI: <strong>Feeling</strong> tired, <strong>I</strong> found the meeting long.",
+      "NO: <em>Building</em> in 1900, the house is old.  ->  SI: <strong>Built</strong> in 1900, the house is old.",
+      "NO: <em>Having ate</em>, we left.  ->  SI: <strong>Having eaten</strong>, we left.",
+      "NO: I need this document <em>sign</em>.  ->  SI: I need this document <strong>signed</strong>."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - 'have something done'", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/have-something-done" },
+      { "label": "British Council LearnEnglish - Participle clauses", "url": "https://learnenglish.britishcouncil.org/grammar/c1-grammar/participle-clauses" },
+      { "label": "Cambridge Dictionary Grammar - Participle clauses", "url": "https://dictionary.cambridge.org/grammar/british-grammar/participle-clauses" },
+      { "label": "Test-English - Causative: have / get something done (C1)", "url": "https://test-english.com/grammar-points/c1/causative-have-get-something-done/" }
+    ]
+  },
+  "questions": [
+    { "id": "t12-001", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "I ___ my car repaired yesterday.", "options": ["had", "did", "made"], "answer": "had", "explanation": "have + objeto + participio (causativo)." },
+    { "id": "t12-002", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "'have something done' significa:", "options": ["otra persona hace el trabajo por ti", "lo haces tu mismo", "te niegas a hacerlo"], "answer": "otra persona hace el trabajo por ti", "explanation": "Se delega la accion en un tercero (normalmente un profesional)." },
+    { "id": "t12-003", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "Estructura: have + ___ + participio pasado.", "options": ["objeto", "sujeto", "adverbio"], "answer": "objeto", "explanation": "have my car repaired: el objeto va en medio." },
+    { "id": "t12-004", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "We're ___ the kitchen painted next week.", "options": ["having", "doing", "making"], "answer": "having", "explanation": "be + having + objeto + participio (present continuous causativo)." },
+    { "id": "t12-005", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "She ___ her photo taken for the passport.", "options": ["had", "made", "did"], "answer": "had", "explanation": "had + objeto + participio." },
+    { "id": "t12-006", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "'I painted the house' vs 'I had the house painted':", "options": ["'had ... painted' = lo hizo un profesional", "no hay diferencia", "'had' significa que no esta acabado"], "answer": "'had ... painted' = lo hizo un profesional", "explanation": "El causativo marca que lo hace otro." },
+    { "id": "t12-007", "subtopic": "causativo-have-done", "type": "gap", "prompt": "Completa: We ___ (have) the roof fixed last month.", "accept": ["had"], "answer": "had", "explanation": "Past simple del causativo: had + objeto + participio." },
+    { "id": "t12-008", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "Pregunta: '___ you ___ your eyes tested recently?'", "options": ["Have / had", "Did / had", "Have / have"], "answer": "Have / had", "explanation": "Present perfect: Have + sujeto + had + objeto + participio." },
+    { "id": "t12-009", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "Negativa: 'I ___ my hair cut yet.'", "options": ["haven't had", "didn't have", "haven't have"], "answer": "haven't had", "explanation": "haven't + had + objeto + participio." },
+    { "id": "t12-010", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "'I need to have this document ___.'", "options": ["signed", "sign", "signing"], "answer": "signed", "explanation": "have + objeto + participio (signed)." },
+    { "id": "t12-011", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "Donde va el objeto?", "options": ["entre 'have' y el participio", "despues del participio", "antes de 'have'"], "answer": "entre 'have' y el participio", "explanation": "have + [objeto] + participio." },
+    { "id": "t12-012", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "'He has his suits ___ in Italy.'", "options": ["made", "make", "making"], "answer": "made", "explanation": "have + objeto + participio (made)." },
+    { "id": "t12-013", "subtopic": "causativo-have-done", "type": "mcq", "prompt": "Cual es correcta?", "options": ["We had our house valued.", "We had valued our house.", "We had our house value."], "answer": "We had our house valued.", "explanation": "Causativo: objeto + participio." },
+
+    { "id": "t12-014", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "I need to ___ my hair cut.", "options": ["get", "do", "take"], "answer": "get", "explanation": "get + objeto + participio (informal, muy comun)." },
+    { "id": "t12-015", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'get something done' vs 'have something done':", "options": ["'get' es mas informal; el significado es el mismo", "'get' significa que lo haces tu", "son totalmente distintos"], "answer": "'get' es mas informal; el significado es el mismo", "explanation": "Sinonimos; 'get' domina en el habla." },
+    { "id": "t12-016", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "You should ___ that mole checked.", "options": ["get", "make", "do"], "answer": "get", "explanation": "get + objeto + participio (checked)." },
+    { "id": "t12-017", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'get + persona + ___ + infinitivo' = conseguir que alguien haga algo. 'I got him ___ the door.'", "options": ["to open", "open", "opening"], "answer": "to open", "explanation": "get + persona + TO + infinitivo." },
+    { "id": "t12-018", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'I had the plumber ___ the leak.'", "options": ["fix", "to fix", "fixing"], "answer": "fix", "explanation": "have + persona + infinitivo SIN 'to'." },
+    { "id": "t12-019", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'I got the plumber ___ the leak.'", "options": ["to fix", "fix", "fixing"], "answer": "to fix", "explanation": "get + persona + TO + infinitivo." },
+    { "id": "t12-020", "subtopic": "causativo-get-done", "type": "gap", "prompt": "Completa: I finally ___ (get) my laptop repaired.", "accept": ["got"], "answer": "got", "explanation": "Past simple: got + objeto + participio." },
+    { "id": "t12-021", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'Let's get the car washed' significa:", "options": ["que alguien lo lave por nosotros (organizarlo)", "lavarlo nosotros seguro", "-"], "answer": "que alguien lo lave por nosotros (organizarlo)", "explanation": "get something done = hacer que se haga." },
+    { "id": "t12-022", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'get + objeto + participio' es habitual para:", "options": ["servicios cotidianos (corte de pelo, lavado de coche, reparaciones)", "contextos legales formales", "-"], "answer": "servicios cotidianos (corte de pelo, lavado de coche, reparaciones)", "explanation": "Registro informal / cotidiano." },
+    { "id": "t12-023", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'I must get these letters ___ today.'", "options": ["sent", "send", "sending"], "answer": "sent", "explanation": "get + objeto + participio (sent)." },
+    { "id": "t12-024", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "Cual es mas coloquial: 'have your eyes tested' o 'get your eyes tested'?", "options": ["get your eyes tested", "have your eyes tested", "son igual de formales"], "answer": "get your eyes tested", "explanation": "'get' es la version informal." },
+    { "id": "t12-025", "subtopic": "causativo-get-done", "type": "mcq", "prompt": "'We got the contract ___ by a lawyer.'", "options": ["checked", "check", "checking"], "answer": "checked", "explanation": "get + objeto + participio (checked)." },
+
+    { "id": "t12-026", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "'I had my wallet stolen' significa:", "options": ["me paso algo malo (me robaron la cartera)", "organice que me la robaran", "yo robe una cartera"], "answer": "me paso algo malo (me robaron la cartera)", "explanation": "Uso de experiencia (no de servicio)." },
+    { "id": "t12-027", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "'have/get something done' tambien puede describir:", "options": ["una experiencia desagradable que te ocurre", "solo servicios planificados", "solo hechos futuros"], "answer": "una experiencia desagradable que te ocurre", "explanation": "Misma estructura, sentido de 'sufrir' algo." },
+    { "id": "t12-028", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "She ___ her house broken into while on holiday.", "options": ["had", "made", "did"], "answer": "had", "explanation": "had + objeto + participio (experiencia negativa)." },
+    { "id": "t12-029", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "'He had his nose broken in the fight' - lo organizo el?", "options": ["No - simplemente le paso", "Si", "-"], "answer": "No - simplemente le paso", "explanation": "Uso de experiencia." },
+    { "id": "t12-030", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "'I had my flight cancelled' =", "options": ["la aerolinea cancelo mi vuelo (malo para mi)", "yo cancele mi vuelo", "-"], "answer": "la aerolinea cancelo mi vuelo (malo para mi)", "explanation": "Algo que te hacen / te pasa." },
+    { "id": "t12-031", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "El contexto te dice si es un servicio o una desgracia:", "options": ["si: 'have my car serviced' (servicio) vs 'have my car stolen' (desgracia)", "no, siempre es un servicio", "-"], "answer": "si: 'have my car serviced' (servicio) vs 'have my car stolen' (desgracia)", "explanation": "La forma es identica; el sentido depende del verbo y el contexto." },
+    { "id": "t12-032", "subtopic": "causativo-experiencia", "type": "gap", "prompt": "Completa: They ___ (have) their luggage lost by the airline.", "accept": ["had"], "answer": "had", "explanation": "had + objeto + participio (experiencia)." },
+    { "id": "t12-033", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "'We had our tent blown away in the storm.'", "options": ["una desgracia", "un servicio", "-"], "answer": "una desgracia", "explanation": "Algo que le paso, no que organizaron." },
+    { "id": "t12-034", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "'I got my phone smashed on the train.'", "options": ["experiencia accidental / mala", "pedi a alguien que lo rompiera", "-"], "answer": "experiencia accidental / mala", "explanation": "get + objeto + participio con sentido de experiencia." },
+    { "id": "t12-035", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "La forma es la misma (have/get + objeto + participio); lo que cambia es:", "options": ["el significado (organizado vs te pasa), segun el contexto", "el orden de las palabras", "el tiempo verbal"], "answer": "el significado (organizado vs te pasa), segun el contexto", "explanation": "Solo el contexto distingue los dos usos." },
+    { "id": "t12-036", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "'She had two teeth knocked out.'", "options": ["desgracia", "servicio", "-"], "answer": "desgracia", "explanation": "Algo que le ocurrio." },
+    { "id": "t12-037", "subtopic": "causativo-experiencia", "type": "mcq", "prompt": "Cual tiene lectura de desgracia?", "options": ["I had my bag snatched.", "I had my suit dry-cleaned.", "-"], "answer": "I had my bag snatched.", "explanation": "'snatched' (arrebatado) -> experiencia negativa." },
+
+    { "id": "t12-038", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Present continuous: 'We ___ the bathroom retiled at the moment.'", "options": ["are having", "have", "having"], "answer": "are having", "explanation": "be + having + objeto + participio." },
+    { "id": "t12-039", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Past simple: 'I ___ my teeth whitened last year.'", "options": ["had", "have had", "was having"], "answer": "had", "explanation": "had + objeto + participio." },
+    { "id": "t12-040", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Present perfect: 'She ___ her portrait painted.'", "options": ["has had", "had", "has have"], "answer": "has had", "explanation": "has had + objeto + participio." },
+    { "id": "t12-041", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Futuro: 'I ___ the car checked before the trip.'", "options": ["'ll have", "have", "having"], "answer": "'ll have", "explanation": "will have + objeto + participio." },
+    { "id": "t12-042", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Modal: 'You should ___ that cough looked at.'", "options": ["have", "to have", "having"], "answer": "have", "explanation": "modal + have + objeto + participio." },
+    { "id": "t12-043", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "El causativo cambia de tiempo en:", "options": ["'have'/'get' (el participio no cambia)", "el participio", "el objeto"], "answer": "'have'/'get' (el participio no cambia)", "explanation": "Solo se conjuga el auxiliar have/get." },
+    { "id": "t12-044", "subtopic": "causativo-tiempos", "type": "gap", "prompt": "Completa: I ___ (going to / have) my eyes tested tomorrow.", "accept": ["am going to have", "'m going to have"], "answer": "am going to have", "explanation": "going to + have + objeto + participio." },
+    { "id": "t12-045", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "'By next week, we'll ___ the fence repaired.'", "options": ["have had", "had", "have"], "answer": "have had", "explanation": "Future perfect: will have had + objeto + participio." },
+    { "id": "t12-046", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Forma -ing: 'I hate ___ my photo taken.'", "options": ["having", "have", "to have"], "answer": "having", "explanation": "hate + -ing -> having + objeto + participio." },
+    { "id": "t12-047", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "'We used to ___ our milk delivered.'", "options": ["have", "having", "had"], "answer": "have", "explanation": "used to + infinitivo -> have + objeto + participio." },
+    { "id": "t12-048", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Pregunta en pasado: '___ you ___ your car serviced last month?'", "options": ["Did / have", "Have / had", "Did / had"], "answer": "Did / have", "explanation": "Did + sujeto + have + objeto + participio." },
+    { "id": "t12-049", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "Negativa, present perfect: 'They ___ the report proofread.'", "options": ["haven't had", "didn't have", "hadn't"], "answer": "haven't had", "explanation": "haven't had + objeto + participio." },
+    { "id": "t12-050", "subtopic": "causativo-tiempos", "type": "mcq", "prompt": "'I'd like to ___ this parcel weighed.'", "options": ["have", "having", "had"], "answer": "have", "explanation": "would like + to + have + objeto + participio." },
+
+    { "id": "t12-051", "subtopic": "participio-presente", "type": "mcq", "prompt": "'___ tired, she went straight to bed.'", "options": ["Feeling", "Felt", "To feel"], "answer": "Feeling", "explanation": "= As/Because she felt tired." },
+    { "id": "t12-052", "subtopic": "participio-presente", "type": "mcq", "prompt": "Una clausula de participio con -ing sustituye a:", "options": ["una clausula con 'as/because/while/when + sujeto + verbo'", "un sustantivo", "un adjetivo"], "answer": "una clausula con 'as/because/while/when + sujeto + verbo'", "explanation": "Comprime la subordinada." },
+    { "id": "t12-053", "subtopic": "participio-presente", "type": "mcq", "prompt": "'___ down the street, I saw an old friend.' (= While I was walking)", "options": ["Walking", "Walked", "To walk"], "answer": "Walking", "explanation": "-ing = accion simultanea." },
+    { "id": "t12-054", "subtopic": "participio-presente", "type": "mcq", "prompt": "'The man ___ over there is my uncle.' (= who is standing)", "options": ["standing", "stood", "stands"], "answer": "standing", "explanation": "Relativa reducida: who is + -ing -> -ing." },
+    { "id": "t12-055", "subtopic": "participio-presente", "type": "mcq", "prompt": "'___ what to say, he stayed silent.' (= Not knowing)", "options": ["Not knowing", "Not to know", "Don't know"], "answer": "Not knowing", "explanation": "Negativa: Not + -ing." },
+    { "id": "t12-056", "subtopic": "participio-presente", "type": "mcq", "prompt": "Las clausulas de participio son habituales en:", "options": ["ingles formal / escrito", "solo en el habla informal", "en preguntas"], "answer": "ingles formal / escrito", "explanation": "Dan concision al texto escrito." },
+    { "id": "t12-057", "subtopic": "participio-presente", "type": "mcq", "prompt": "El sujeto de la clausula de -ing debe ser:", "options": ["el mismo que el de la oracion principal", "distinto", "un pronombre"], "answer": "el mismo que el de la oracion principal", "explanation": "Si no coincide, se produce un 'dangling participle'." },
+    { "id": "t12-058", "subtopic": "participio-presente", "type": "mcq", "prompt": "Error de participio suelto: 'Running for the bus, my phone fell out.' El problema:", "options": ["el telefono no corria - los sujetos no coinciden", "no hay error", "el tiempo esta mal"], "answer": "el telefono no corria - los sujetos no coinciden", "explanation": "El sujeto implicito debe ser 'I'." },
+    { "id": "t12-059", "subtopic": "participio-presente", "type": "gap", "prompt": "Reescribe: 'Because she felt ill, she left.' -> '___ ill, she left.'", "accept": ["feeling"], "answer": "feeling", "explanation": "because + felt -> Feeling (-ing)." },
+    { "id": "t12-060", "subtopic": "participio-presente", "type": "mcq", "prompt": "'___ the door, she noticed a light on.' (= When she opened)", "options": ["Opening", "Opened", "To open"], "answer": "Opening", "explanation": "when + opened -> Opening (accion simultanea/inmediata)." },
+    { "id": "t12-061", "subtopic": "participio-presente", "type": "mcq", "prompt": "'The results, ___ everyone, were excellent.' (= which surprised)", "options": ["surprising", "surprised", "to surprise"], "answer": "surprising", "explanation": "Relativa reducida activa -> -ing." },
+    { "id": "t12-062", "subtopic": "participio-presente", "type": "mcq", "prompt": "'___ that it was late, we hurried.' (= Realising)", "options": ["Realising", "Realised", "To realise"], "answer": "Realising", "explanation": "Causa -> -ing." },
+    { "id": "t12-063", "subtopic": "participio-presente", "type": "mcq", "prompt": "Clausula de -ing para dos acciones a la vez: 'She left, ___ the door behind her.'", "options": ["slamming", "slammed", "to slam"], "answer": "slamming", "explanation": "-ing = accion simultanea a 'left'." },
+
+    { "id": "t12-064", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'___ in 1850, the bridge is still in use.' (= It was built)", "options": ["Built", "Building", "To build"], "answer": "Built", "explanation": "Participio pasado = pasiva reducida." },
+    { "id": "t12-065", "subtopic": "participio-pasado", "type": "mcq", "prompt": "Una clausula con participio pasado tiene sentido ___.", "options": ["pasivo", "activo", "futuro"], "answer": "pasivo", "explanation": "'Built...' = 'It was built...'." },
+    { "id": "t12-066", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'___ properly, this dish is delicious.' (= If it is cooked)", "options": ["Cooked", "Cooking", "To cook"], "answer": "Cooked", "explanation": "Condicion + sentido pasivo -> participio pasado." },
+    { "id": "t12-067", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'The soldiers, ___ and hungry, kept marching.' (= who were exhausted)", "options": ["exhausted", "exhausting", "to exhaust"], "answer": "exhausted", "explanation": "Estado / relativa reducida pasiva -> participio pasado." },
+    { "id": "t12-068", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'___ from space, Earth looks blue.' (= When it is seen)", "options": ["Seen", "Seeing", "To see"], "answer": "Seen", "explanation": "Sentido pasivo -> participio pasado." },
+    { "id": "t12-069", "subtopic": "participio-pasado", "type": "mcq", "prompt": "Clausula de -ing vs de -ed:", "options": ["-ing = sentido activo; -ed = sentido pasivo", "no hay diferencia", "-ed siempre es incorrecto"], "answer": "-ing = sentido activo; -ed = sentido pasivo", "explanation": "La eleccion depende de quien hace / recibe la accion." },
+    { "id": "t12-070", "subtopic": "participio-pasado", "type": "gap", "prompt": "Reescribe: 'The house was damaged by the fire and had to be rebuilt.' -> '___ by the fire, the house had to be rebuilt.'", "accept": ["damaged"], "answer": "damaged", "explanation": "was damaged -> Damaged (participio pasado)." },
+    { "id": "t12-071", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'___ with the results, the team celebrated.' (= Because they were pleased)", "options": ["Pleased", "Pleasing", "To please"], "answer": "Pleased", "explanation": "Estado pasivo -> participio pasado." },
+    { "id": "t12-072", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'___ carefully, the instructions are easy to follow.' (= If they are read)", "options": ["Read", "Reading", "To read"], "answer": "Read", "explanation": "Condicion + sentido pasivo -> participio pasado (read)." },
+    { "id": "t12-073", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'Once ___, the form cannot be changed.' (= it has been submitted)", "options": ["submitted", "submitting", "to submit"], "answer": "submitted", "explanation": "Once + participio pasado (pasiva reducida)." },
+    { "id": "t12-074", "subtopic": "participio-pasado", "type": "mcq", "prompt": "Las clausulas de participio pasado suelen empezar por:", "options": ["Given, Faced with, Compared with, Based on, Seen from...", "Doing, Having, Being about to...", "-"], "answer": "Given, Faced with, Compared with, Based on, Seen from...", "explanation": "Formulas fijas de registro formal." },
+    { "id": "t12-075", "subtopic": "participio-pasado", "type": "mcq", "prompt": "'___ the choice, I'd prefer tea.' (= If I were given)", "options": ["Given", "Giving", "To give"], "answer": "Given", "explanation": "'Given...' = 'If I were given...' (pasiva reducida)." },
+
+    { "id": "t12-076", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'___ finished the report, she went home.' (= After she had finished)", "options": ["Having", "Have", "To have"], "answer": "Having", "explanation": "Having + participio = accion anterior." },
+    { "id": "t12-077", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'Having + participio' expresa:", "options": ["una accion terminada ANTES de la principal", "dos acciones a la vez", "el futuro"], "answer": "una accion terminada ANTES de la principal", "explanation": "= 'After ... had ...'." },
+    { "id": "t12-078", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'___ lived there for years, he knew everyone.' (= As he had lived)", "options": ["Having", "Have", "Had"], "answer": "Having", "explanation": "Having + participio (accion/estado anterior)." },
+    { "id": "t12-079", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'Having been ___, he had no more excuses.' (= having been warned)", "options": ["warned", "warning", "to warn"], "answer": "warned", "explanation": "Having been + participio (perfecto pasivo)." },
+    { "id": "t12-080", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'Having eaten' vs 'Eating':", "options": ["'Having eaten' = comer ocurrio antes; 'Eating' = a la vez", "no hay diferencia", "'Having eaten' es incorrecto"], "answer": "'Having eaten' = comer ocurrio antes; 'Eating' = a la vez", "explanation": "El perfecto marca anterioridad." },
+    { "id": "t12-081", "subtopic": "participio-perfecto", "type": "gap", "prompt": "Reescribe: 'After he had lost his job, he moved abroad.' -> '___ lost his job, he moved abroad.'", "accept": ["having"], "answer": "having", "explanation": "After he had -> Having." },
+    { "id": "t12-082", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'___ never seen snow, the children were amazed.' (= As they had never seen)", "options": ["Having", "Have", "Had"], "answer": "Having", "explanation": "Having (never) + participio." },
+    { "id": "t12-083", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'Having said that, ...' es un conector que significa:", "options": ["'no obstante / dicho esto'", "'por eso'", "'en primer lugar'"], "answer": "'no obstante / dicho esto'", "explanation": "Introduce un matiz o contraste." },
+    { "id": "t12-084", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "La negativa es:", "options": ["Not having (done)...", "Having not (done)...", "Don't having..."], "answer": "Not having (done)...", "explanation": "'Not' delante de 'having'." },
+    { "id": "t12-085", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "'___ apologised, he expected to be forgiven.' (= Because he had apologised)", "options": ["Having", "Have", "Had"], "answer": "Having", "explanation": "Having + participio (accion previa que justifica la principal)." },
+    { "id": "t12-086", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "Las clausulas 'Having + participio' son propias de:", "options": ["la escritura formal", "los mensajes de texto", "solo el dialogo"], "answer": "la escritura formal", "explanation": "Registro cuidado." },
+    { "id": "t12-087", "subtopic": "participio-perfecto", "type": "mcq", "prompt": "Cual muestra correctamente la accion previa?", "options": ["Having locked the door, she left.", "Locking the door, she had left.", "She left having lock the door."], "answer": "Having locked the door, she left.", "explanation": "Having + participio + ', ' + principal." },
+
+    { "id": "t12-088", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "'I cut my hair' vs 'I had my hair cut':", "options": ["la segunda significa que lo hizo una peluqueria", "no hay diferencia", "la primera es pasiva"], "answer": "la segunda significa que lo hizo una peluqueria", "explanation": "El causativo delega la accion." },
+    { "id": "t12-089", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "Reescribe (causativo): 'A mechanic is servicing my car.' -> 'I ___ my car ___.'", "options": ["am having / serviced", "have / service", "am servicing / -"], "answer": "am having / serviced", "explanation": "be + having + objeto + participio." },
+    { "id": "t12-090", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "Reescribe: 'Because she didn't know the way, she got lost.' -> '___ the way, she got lost.'", "options": ["Not knowing", "Not to know", "Didn't knowing"], "answer": "Not knowing", "explanation": "because + didn't know -> Not knowing (-ing negativo)." },
+    { "id": "t12-091", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "Reescribe: 'The novel was written in 1925 and is now a classic.' -> '___ in 1925, the novel is now a classic.'", "options": ["Written", "Writing", "Having written"], "answer": "Written", "explanation": "was written -> Written (participio pasado, pasiva reducida)." },
+    { "id": "t12-092", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "Reescribe: 'After she had read the letter, she cried.' -> '___ the letter, she cried.'", "options": ["Having read", "Reading", "Read"], "answer": "Having read", "explanation": "After ... had ... -> Having + participio." },
+    { "id": "t12-093", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "Detecta el error: 'I had cut my hair yesterday' (sentido: en la peluqueria).", "options": ["deberia ser 'I had my hair cut' (objeto antes del participio)", "deberia ser 'I have cut'", "esta bien"], "answer": "deberia ser 'I had my hair cut' (objeto antes del participio)", "explanation": "'I had cut my hair' = past perfect (yo mismo)." },
+    { "id": "t12-094", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "Detecta el error: 'Feeling tired, the film was boring.'", "options": ["participio suelto - la pelicula no estaba cansada", "no hay error", "el tiempo esta mal"], "answer": "participio suelto - la pelicula no estaba cansada", "explanation": "El sujeto implicito de 'Feeling' debe coincidir con el de la principal." },
+    { "id": "t12-095", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "'get + objeto + to infinitivo' vs 'have + objeto + infinitivo sin to':", "options": ["'get her to help' / 'have her help' - misma idea, distinta estructura", "no hay diferencia de forma", "las dos usan -ing"], "answer": "'get her to help' / 'have her help' - misma idea, distinta estructura", "explanation": "'get' pide 'to'; 'have' no." },
+    { "id": "t12-096", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "'We're getting the house valued' describe:", "options": ["organizar una tasacion profesional", "tasarla nosotros", "una desgracia"], "answer": "organizar una tasacion profesional", "explanation": "get something done = hacer que se haga." },
+    { "id": "t12-097", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "'Shocked by the news, ...' es una clausula de participio ___.", "options": ["pasado (sentido pasivo)", "presente (sentido activo)", "perfecto"], "answer": "pasado (sentido pasivo)", "explanation": "= 'Because she/he was shocked...'." },
+    { "id": "t12-098", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "'Walking home, ...' es una clausula de participio ___.", "options": ["presente (activo, a la vez)", "pasado (pasivo)", "perfecto"], "answer": "presente (activo, a la vez)", "explanation": "= 'While I was walking home...'." },
+    { "id": "t12-099", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "'Having checked everything, ...' es una clausula de participio ___.", "options": ["perfecto (accion anterior)", "presente", "pasado"], "answer": "perfecto (accion anterior)", "explanation": "= 'After I had checked everything...'." },
+    { "id": "t12-100", "subtopic": "contraste-causativo-participio", "type": "mcq", "prompt": "El causativo 'have/get something done' mantiene siempre el patron:", "options": ["have/get + OBJETO + PARTICIPIO PASADO", "have/get + participio + objeto", "have/get + to + infinitivo"], "answer": "have/get + OBJETO + PARTICIPIO PASADO", "explanation": "El orden objeto-participio no cambia." }
+  ]
+}

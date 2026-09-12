@@ -1,0 +1,228 @@
+{
+  "id": 8,
+  "slug": "clausulas-relativo",
+  "level": "B2",
+  "title": "Clausulas de relativo",
+  "lesson": {
+    "intro": "Una clausula de relativo anade informacion sobre un sustantivo. La gran division: <strong>defining</strong> (especificativa) dice <em>de que</em> persona o cosa hablamos - es esencial y va <strong>sin comas</strong>; <strong>non-defining</strong> (explicativa) anade un dato <em>extra</em> que se podria quitar - va <strong>entre comas</strong> y <strong>nunca</strong> con <em>that</em>.",
+    "sections": [
+      {
+        "subtopic": "defining-vs-nondefining",
+        "heading": "1 - Defining vs non-defining",
+        "body": "<p><strong>Defining:</strong> informacion <strong>esencial</strong> para saber de quien/que se habla. <strong>Sin comas</strong>. Se puede usar <em>that</em>. Si se quita, la frase pierde sentido o cambia.</p><p><strong>Non-defining:</strong> informacion <strong>extra</strong> que se puede quitar. <strong>Entre comas</strong>. <strong>Nunca</strong> <em>that</em>. En el habla se marca con pausas.</p>",
+        "examples": [
+          "The man <strong>who called you</strong> is my boss. (defining)",
+          "Mr Lee, <strong>who called you</strong>, is my boss. (non-defining)",
+          "Students <strong>who cheat</strong> will fail. (solo los que copian)"
+        ]
+      },
+      {
+        "subtopic": "pronombres-relativos",
+        "heading": "2 - Pronombres relativos",
+        "body": "<ul><li><code>who</code> - personas</li><li><code>which</code> - cosas y animales</li><li><code>that</code> - personas o cosas (<strong>solo defining</strong>)</li><li><code>whose</code> - posesion (personas y cosas)</li><li><code>where</code> - lugar &nbsp; <code>when</code> - tiempo &nbsp; <code>why</code> - razon (tras <em>the reason</em>)</li></ul>",
+        "examples": [
+          "the colleague <strong>who</strong> helped me",
+          "the film <strong>which / that</strong> we saw",
+          "the man <strong>whose</strong> car was stolen",
+          "the town <strong>where</strong> I was born"
+        ]
+      },
+      {
+        "subtopic": "sujeto-vs-objeto",
+        "heading": "3 - Relativo como sujeto u objeto",
+        "body": "<p>Si el relativo es el <strong>sujeto</strong> del verbo de la clausula, <strong>no</strong> se puede omitir: <em>The man <u>who</u> lives here</em>.</p><p>Si es el <strong>objeto</strong>, en clausulas <strong>defining</strong> se puede omitir: <em>The man (who) I met</em>. A esa clausula sin relativo se le llama <em>contact clause</em>.</p>",
+        "examples": [
+          "The book <strong>that</strong> is on the table is mine. (sujeto - no se omite)",
+          "The book <strong>(that)</strong> I lent you is mine. (objeto - se puede omitir)",
+          "The song I like best is old. (sin relativo)"
+        ]
+      },
+      {
+        "subtopic": "that-restricciones",
+        "heading": "4 - Cuando usar 'that' y cuando no",
+        "body": "<p><code>that</code> solo en clausulas <strong>defining</strong>. En non-defining: <em>who / which</em>.</p><p><em>that</em> es la opcion preferida tras <strong>superlativos</strong> y tras <em>all, everything, nothing, the only, the first</em>.</p>",
+        "examples": [
+          "It's the best film <strong>that</strong> I've seen.",
+          "It's the only thing <strong>that</strong> matters.",
+          "My car, <strong>which</strong> is red, is outside. (non-defining: nunca 'that')"
+        ]
+      },
+      {
+        "subtopic": "preposiciones",
+        "heading": "5 - Preposiciones en relativas",
+        "body": "<p><strong>Informal:</strong> la preposicion va al <strong>final</strong>: <em>the person <u>who</u> I spoke <u>to</u></em>.</p><p><strong>Formal:</strong> <code>preposicion + whom / which</code> al principio: <em>the person <u>to whom</u> I spoke</em>.</p><p>No se pone preposicion delante de <em>that</em> ni de <em>who</em>. Con phrasal verbs, la preposicion se queda al final.</p>",
+        "examples": [
+          "The people I work <strong>with</strong> are nice. (informal)",
+          "The colleagues <strong>with whom</strong> I work are nice. (formal)",
+          "the house I live <strong>in</strong> / the house <strong>in which</strong> I live"
+        ]
+      },
+      {
+        "subtopic": "non-defining-detalles",
+        "heading": "6 - Non-defining: comas y 'which'",
+        "body": "<p>Comas <strong>obligatorias</strong> antes y despues. <strong>Nunca</strong> <em>that</em>. <strong>Nunca</strong> se omite el pronombre.</p><p><code>which</code> puede referirse a <strong>toda la oracion anterior</strong>: <em>He was late, which annoyed me</em>.</p>",
+        "examples": [
+          "My laptop, <strong>which</strong> I bought last year, has broken.",
+          "Sarah, <strong>who</strong> works with me, is getting married.",
+          "She passed the exam, <strong>which</strong> surprised everyone."
+        ]
+      },
+      {
+        "subtopic": "whose-where-when",
+        "heading": "7 - whose / where / when / why y relativas reducidas",
+        "body": "<p><code>whose</code> + sustantivo = posesivo (his/her/its + sustantivo). <code>where</code> = lugar (= in/at which). <code>when</code> = tiempo. <code>why</code> = razon (the reason why).</p><p><strong>Relativas reducidas:</strong> <em>who is/are + -ing</em> &rarr; solo <code>-ing</code> (the people <u>living</u> here); <em>which was/were + participio</em> &rarr; solo el <code>participio</code> (the letter <u>sent</u> yesterday).</p>",
+        "examples": [
+          "The author <strong>whose</strong> book won the prize is here.",
+          "That's the restaurant <strong>where</strong> we had dinner.",
+          "I remember the day <strong>when</strong> we met.",
+          "The man <strong>standing</strong> over there is my boss."
+        ]
+      },
+      {
+        "subtopic": "contraste-relativo",
+        "heading": "8 - Elegir la relativa correcta",
+        "body": "<p>Personas &rarr; who / that / whose. Cosas &rarr; which / that / whose. Lugar &rarr; where. Tiempo &rarr; when.</p><p>Informacion <strong>esencial</strong> &rarr; sin comas, cabe <em>that</em>, se puede omitir si es objeto. Informacion <strong>extra</strong> &rarr; con comas, who / which, no se omite.</p>",
+        "examples": [
+          "The woman <strong>who</strong> lives here is a vet.",
+          "Rome, <strong>which</strong> I visited last year, is stunning.",
+          "This is the best book <strong>that</strong> I've ever read."
+        ]
+      }
+    ],
+    "contrast": {
+      "title": "Defining vs non-defining",
+      "headers": ["", "Defining", "Non-defining"],
+      "rows": [
+        ["Que aporta", "informacion <strong>esencial</strong> (identifica)", "informacion <strong>extra</strong> (se puede quitar)"],
+        ["Comas", "<strong>no</strong>", "<strong>si</strong>, antes y despues"],
+        ["'that'", "si se puede usar", "<strong>nunca</strong>"],
+        ["Omitir el pronombre", "si, cuando es objeto", "<strong>nunca</strong>"],
+        ["Ejemplo", "The book <strong>that</strong> I bought is good.", "This book, <strong>which</strong> I bought, is good."]
+      ]
+    },
+    "mistakes": [
+      "NO: My father, <em>that</em> is a teacher, is retired.  ->  SI: My father, <strong>who</strong> is a teacher, is retired.",
+      "NO: The keys <em>who</em> I lost were new.  ->  SI: The keys <strong>which / that</strong> I lost were new.",
+      "NO: The man <em>who he</em> lives here is nice.  ->  SI: The man <strong>who</strong> lives here is nice.",
+      "NO: This is the house <em>which</em> I was born.  ->  SI: ... the house <strong>where</strong> I was born / <strong>which</strong> I was born <strong>in</strong>.",
+      "NO: The person <em>to who</em> I spoke...  ->  SI: The person <strong>to whom</strong> I spoke... / who I spoke <strong>to</strong>...",
+      "NO: Paris which is the capital of France is nice.  ->  SI: Paris<strong>,</strong> which is the capital of France<strong>,</strong> is nice.",
+      "NO: She's the best friend <em>what</em> I have.  ->  SI: She's the best friend <strong>(that)</strong> I have."
+    ],
+    "sources": [
+      { "label": "British Council LearnEnglish - Defining relative clauses", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/relative-clauses-defining-relative-clauses" },
+      { "label": "British Council LearnEnglish - Non-defining relative clauses", "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/relative-clauses-non-defining-relative-clauses" },
+      { "label": "Cambridge Dictionary Grammar - Relative clauses", "url": "https://dictionary.cambridge.org/grammar/british-grammar/relative-clauses" },
+      { "label": "Test-English - Relative clauses (B1-B2)", "url": "https://test-english.com/grammar-points/b1/relative-clauses-defining-non-defining/" }
+    ]
+  },
+  "questions": [
+    { "id": "t8-001", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Una clausula de relativo defining:", "options": ["identifica de que persona/cosa hablamos (es esencial)", "anade info no esencial", "siempre lleva comas"], "answer": "identifica de que persona/cosa hablamos (es esencial)", "explanation": "Sin ella no sabriamos a cual nos referimos." },
+    { "id": "t8-002", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Una clausula non-defining:", "options": ["anade info extra y va entre comas", "identifica de cual se trata", "no se puede quitar"], "answer": "anade info extra y va entre comas", "explanation": "Se puede eliminar sin perder el sentido basico." },
+    { "id": "t8-003", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "'The book that I bought yesterday was great.' Si quitas la clausula, sigue claro que libro?", "options": ["No - la clausula es esencial (defining)", "Si - es info extra", "-"], "answer": "No - la clausula es esencial (defining)", "explanation": "Necesitas la clausula para identificar el libro." },
+    { "id": "t8-004", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "'My brother, who lives in Berlin, is a doctor.' La clausula da:", "options": ["info extra (solo tengo un hermano)", "de que hermano hablo", "nada"], "answer": "info extra (solo tengo un hermano)", "explanation": "Non-defining: se podria quitar." },
+    { "id": "t8-005", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Las clausulas defining llevan comas?", "options": ["no", "si, siempre", "solo al final"], "answer": "no", "explanation": "Van pegadas al sustantivo, sin comas." },
+    { "id": "t8-006", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Las clausulas non-defining llevan comas?", "options": ["si, antes y despues", "no", "solo antes"], "answer": "si, antes y despues", "explanation": "La clausula va aislada entre comas." },
+    { "id": "t8-007", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "'Students who cheat will fail.' (defining) significa:", "options": ["solo los estudiantes que copian", "todos los estudiantes", "ningun estudiante"], "answer": "solo los estudiantes que copian", "explanation": "La clausula restringe a un subgrupo." },
+    { "id": "t8-008", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "'Students, who cheat, will fail.' (con comas) sugiere por error:", "options": ["que todos copian y todos suspenderan", "algunos estudiantes", "-"], "answer": "que todos copian y todos suspenderan", "explanation": "Con comas se vuelve non-defining y cambia el sentido." },
+    { "id": "t8-009", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Al hablar, las clausulas non-defining se marcan con:", "options": ["pequenas pausas (como las comas)", "solo entonacion ascendente", "nada"], "answer": "pequenas pausas (como las comas)", "explanation": "Las pausas equivalen a las comas escritas." },
+    { "id": "t8-010", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Cual tiene una clausula non-defining?", "options": ["Paris, which is the capital of France, is beautiful.", "The city that I love most is Paris.", "-"], "answer": "Paris, which is the capital of France, is beautiful.", "explanation": "Va entre comas y anade info extra." },
+    { "id": "t8-011", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Defining o non-defining? 'The woman who called you is my aunt.'", "options": ["defining", "non-defining", "ninguna"], "answer": "defining", "explanation": "Identifica a que mujer (sin comas)." },
+    { "id": "t8-012", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Defining o non-defining? 'Mrs Lee, who called you, is my aunt.'", "options": ["non-defining", "defining", "ninguna"], "answer": "non-defining", "explanation": "'Mrs Lee' ya esta identificada; la clausula va entre comas." },
+    { "id": "t8-013", "subtopic": "defining-vs-nondefining", "type": "mcq", "prompt": "Se PUEDE omitir el pronombre relativo en:", "options": ["clausulas defining cuando es el objeto", "clausulas non-defining", "todas las clausulas"], "answer": "clausulas defining cuando es el objeto", "explanation": "Solo en defining y solo si el relativo es objeto." },
+
+    { "id": "t8-014", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "Para personas usamos:", "options": ["who (o that)", "which", "whose"], "answer": "who (o that)", "explanation": "who / that para personas." },
+    { "id": "t8-015", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "Para cosas / animales usamos:", "options": ["which (o that)", "who", "whom"], "answer": "which (o that)", "explanation": "which / that para cosas." },
+    { "id": "t8-016", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "Para la posesion usamos:", "options": ["whose", "who's", "which"], "answer": "whose", "explanation": "whose = 'cuyo/a'." },
+    { "id": "t8-017", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "Para lugares usamos:", "options": ["where", "which place", "when"], "answer": "where", "explanation": "where introduce clausulas de lugar." },
+    { "id": "t8-018", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "Para momentos usamos:", "options": ["when", "where", "which"], "answer": "when", "explanation": "when introduce clausulas de tiempo." },
+    { "id": "t8-019", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'The man ___ car was stolen called the police.'", "options": ["whose", "who's", "who"], "answer": "whose", "explanation": "Posesion: whose + sustantivo." },
+    { "id": "t8-020", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'This is the house ___ I grew up.'", "options": ["where", "which", "that"], "answer": "where", "explanation": "Lugar -> where (o 'that I grew up in')." },
+    { "id": "t8-021", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'2020 was the year ___ everything changed.'", "options": ["when", "where", "which"], "answer": "when", "explanation": "Tiempo -> when." },
+    { "id": "t8-022", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'The reason ___ he left is unclear.'", "options": ["why", "because", "which"], "answer": "why", "explanation": "the reason why + oracion." },
+    { "id": "t8-023", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'She's the colleague ___ helped me.'", "options": ["who", "which", "whose"], "answer": "who", "explanation": "Persona -> who." },
+    { "id": "t8-024", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'The film ___ we saw was boring.'", "options": ["that", "who", "whose"], "answer": "that", "explanation": "Cosa -> that / which." },
+    { "id": "t8-025", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'whose' se puede usar para:", "options": ["personas y cosas", "solo personas", "solo cosas"], "answer": "personas y cosas", "explanation": "the man whose... / the company whose..." },
+    { "id": "t8-026", "subtopic": "pronombres-relativos", "type": "mcq", "prompt": "'The town ___ I was born is small.'", "options": ["where", "which", "who"], "answer": "where", "explanation": "Lugar -> where." },
+
+    { "id": "t8-027", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "'The man who lives next door is friendly.' Aqui 'who' es:", "options": ["el sujeto de la clausula", "el objeto", "un posesivo"], "answer": "el sujeto de la clausula", "explanation": "'who' hace de sujeto de 'lives'." },
+    { "id": "t8-028", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "'The man (who) I met is friendly.' Aqui 'who' es:", "options": ["el objeto - se puede omitir", "el sujeto", "un adverbio"], "answer": "el objeto - se puede omitir", "explanation": "'I' es el sujeto; 'who' es el objeto de 'met'." },
+    { "id": "t8-029", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "Se puede quitar el relativo cuando es el ___ de una clausula defining.", "options": ["objeto", "sujeto", "verbo"], "answer": "objeto", "explanation": "Contact clause: 'the book I read'." },
+    { "id": "t8-030", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "NO se puede quitar el relativo cuando es el ___.", "options": ["sujeto", "objeto", "adverbio"], "answer": "sujeto", "explanation": "'The man lives here' necesita 'who'." },
+    { "id": "t8-031", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "'The book ___ is on the table is mine.' (sujeto - se mantiene)", "options": ["that", "-", "who"], "answer": "that", "explanation": "Como es sujeto, no se puede omitir." },
+    { "id": "t8-032", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "'The book ___ I lent you is mine.' (objeto - se puede quitar)", "options": ["- (se puede omitir)", "who", "whose"], "answer": "- (se puede omitir)", "explanation": "'The book I lent you' es correcto." },
+    { "id": "t8-033", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "Cual es correcta (contact clause)?", "options": ["The song I like best is old.", "The song what I like best is old.", "The song who I like best is old."], "answer": "The song I like best is old.", "explanation": "Se omite el relativo objeto; 'what' no es relativo aqui." },
+    { "id": "t8-034", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "'The people ___ work here are kind.' (sujeto)", "options": ["who", "-", "whom"], "answer": "who", "explanation": "Sujeto -> no se omite; personas -> who." },
+    { "id": "t8-035", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "'Everything ___ she said was true.' (objeto)", "options": ["(that) - o se omite", "who", "which only"], "answer": "(that) - o se omite", "explanation": "Tras 'everything' se prefiere 'that', y al ser objeto se puede omitir." },
+    { "id": "t8-036", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "En 'The dog that bit him ran away', 'that' es:", "options": ["el sujeto (no se puede omitir)", "el objeto (se puede omitir)", "un posesivo"], "answer": "el sujeto (no se puede omitir)", "explanation": "'that' hace de sujeto de 'bit'." },
+    { "id": "t8-037", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "En 'The dog (that) he saw ran away', 'that' es:", "options": ["el objeto (se puede omitir)", "el sujeto", "un adverbio"], "answer": "el objeto (se puede omitir)", "explanation": "'he' es el sujeto; 'that' es objeto de 'saw'." },
+    { "id": "t8-038", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "Omitir el pronombre solo funciona en:", "options": ["clausulas defining", "clausulas non-defining", "las dos"], "answer": "clausulas defining", "explanation": "En non-defining nunca se omite." },
+    { "id": "t8-039", "subtopic": "sujeto-vs-objeto", "type": "mcq", "prompt": "'The email ___ arrived this morning was spam.' (sujeto)", "options": ["that", "-", "whose"], "answer": "that", "explanation": "Sujeto -> no se omite; cosa -> that / which." },
+
+    { "id": "t8-040", "subtopic": "that-restricciones", "type": "mcq", "prompt": "'that' se puede usar en:", "options": ["solo en clausulas defining", "solo en non-defining", "en las dos"], "answer": "solo en clausulas defining", "explanation": "Nunca 'that' en non-defining." },
+    { "id": "t8-041", "subtopic": "that-restricciones", "type": "mcq", "prompt": "En las clausulas non-defining hay que usar:", "options": ["who / which (nunca 'that')", "that", "what"], "answer": "who / which (nunca 'that')", "explanation": "Regla fija del non-defining." },
+    { "id": "t8-042", "subtopic": "that-restricciones", "type": "mcq", "prompt": "Tras un superlativo, el pronombre preferido es:", "options": ["that", "which", "who"], "answer": "that", "explanation": "'the best film that I've seen'." },
+    { "id": "t8-043", "subtopic": "that-restricciones", "type": "mcq", "prompt": "Tras 'all', 'everything', 'nothing', 'the only', se prefiere:", "options": ["that", "which", "who"], "answer": "that", "explanation": "'everything that...', 'the only thing that...'." },
+    { "id": "t8-044", "subtopic": "that-restricciones", "type": "mcq", "prompt": "'It's the only thing ___ matters.'", "options": ["that", "which", "who"], "answer": "that", "explanation": "Tras 'the only' -> that." },
+    { "id": "t8-045", "subtopic": "that-restricciones", "type": "mcq", "prompt": "'She's the kindest person ___ I know.'", "options": ["that", "which", "whose"], "answer": "that", "explanation": "Tras superlativo -> that." },
+    { "id": "t8-046", "subtopic": "that-restricciones", "type": "mcq", "prompt": "Incorrecto: 'My car, that is red, is outside.' Correccion:", "options": ["My car, which is red, is outside.", "My car that is red is outside.", "-"], "answer": "My car, which is red, is outside.", "explanation": "En non-defining -> which, no 'that'." },
+    { "id": "t8-047", "subtopic": "that-restricciones", "type": "mcq", "prompt": "'that' como pronombre relativo se refiere a:", "options": ["personas o cosas", "solo cosas", "solo personas"], "answer": "personas o cosas", "explanation": "that vale para ambos (en defining)." },
+    { "id": "t8-048", "subtopic": "that-restricciones", "type": "mcq", "prompt": "'The house ___ we're buying needs work.' (defining, cosa)", "options": ["that (o which, o se omite)", "who", "whom"], "answer": "that (o which, o se omite)", "explanation": "Objeto en clausula defining: varias opciones validas." },
+    { "id": "t8-049", "subtopic": "that-restricciones", "type": "mcq", "prompt": "Mejor opcion tras 'the first...':", "options": ["He was the first person that spoke.", "He was the first person which spoke.", "-"], "answer": "He was the first person that spoke.", "explanation": "Tras 'the first' se prefiere 'that'." },
+    { "id": "t8-050", "subtopic": "that-restricciones", "type": "mcq", "prompt": "'Nothing ___ he says makes sense.'", "options": ["that", "which", "who"], "answer": "that", "explanation": "Tras 'nothing' -> that (y se podria omitir)." },
+    { "id": "t8-051", "subtopic": "that-restricciones", "type": "mcq", "prompt": "Para personas, en textos, 'who' frente a 'that':", "options": ["ambos valen, pero 'who' es lo habitual para personas", "solo 'that'", "solo 'who' en preguntas"], "answer": "ambos valen, pero 'who' es lo habitual para personas", "explanation": "'the people who...' suena mas natural que 'that' en escritura." },
+
+    { "id": "t8-052", "subtopic": "preposiciones", "type": "mcq", "prompt": "Informal: 'The person ___ I spoke ___ is here.'", "options": ["who / to", "to whom", "that to"], "answer": "who / to", "explanation": "Preposicion al final: who I spoke to." },
+    { "id": "t8-053", "subtopic": "preposiciones", "type": "mcq", "prompt": "Formal: 'The person ___ I spoke is here.'", "options": ["to whom", "who to", "that to"], "answer": "to whom", "explanation": "preposicion + whom al principio (formal)." },
+    { "id": "t8-054", "subtopic": "preposiciones", "type": "mcq", "prompt": "'The chair ___ broke.' (informal, prep al final)", "options": ["(that) I was sitting on", "on that I was sitting", "which I sat"], "answer": "(that) I was sitting on", "explanation": "sit on -> 'the chair (that) I was sitting on'." },
+    { "id": "t8-055", "subtopic": "preposiciones", "type": "mcq", "prompt": "Equivalente formal de 'the house I live in':", "options": ["the house in which I live", "the house which I live", "the house in that I live"], "answer": "the house in which I live", "explanation": "preposicion + which; nunca 'in that'." },
+    { "id": "t8-056", "subtopic": "preposiciones", "type": "mcq", "prompt": "Con phrasal verbs, la preposicion:", "options": ["se queda al final ('the fact which I wasn't aware of')", "se pone antes de 'which'", "se elimina"], "answer": "se queda al final ('the fact which I wasn't aware of')", "explanation": "Los phrasal verbs no separan bien la particula." },
+    { "id": "t8-057", "subtopic": "preposiciones", "type": "mcq", "prompt": "'to whom', 'for whom', 'with whom' son:", "options": ["formales", "informales", "incorrectos"], "answer": "formales", "explanation": "Registro escrito / formal." },
+    { "id": "t8-058", "subtopic": "preposiciones", "type": "mcq", "prompt": "'The colleague ___ I share an office is friendly.' (formal)", "options": ["with whom", "who with", "that with"], "answer": "with whom", "explanation": "preposicion + whom (formal)." },
+    { "id": "t8-059", "subtopic": "preposiciones", "type": "mcq", "prompt": "Version informal de 'the topic about which we argued':", "options": ["the topic (that) we argued about", "the topic about that we argued", "the topic which about we argued"], "answer": "the topic (that) we argued about", "explanation": "Preposicion al final; 'that' o se omite." },
+    { "id": "t8-060", "subtopic": "preposiciones", "type": "mcq", "prompt": "No se puede poner una preposicion delante de:", "options": ["'that' o 'who'", "'whom' o 'which'", "cualquier pronombre"], "answer": "'that' o 'who'", "explanation": "Solo delante de 'whom' / 'which'." },
+    { "id": "t8-061", "subtopic": "preposiciones", "type": "mcq", "prompt": "'The tools ___ he works are expensive.' (formal)", "options": ["with which", "which with", "that with"], "answer": "with which", "explanation": "preposicion + which (formal)." },
+    { "id": "t8-062", "subtopic": "preposiciones", "type": "mcq", "prompt": "Mas natural en ingles cotidiano:", "options": ["The people I work with are nice.", "The people with whom I work are nice.", "-"], "answer": "The people I work with are nice.", "explanation": "Prep al final + relativo omitido: lo habitual al hablar." },
+    { "id": "t8-063", "subtopic": "preposiciones", "type": "mcq", "prompt": "'This is the bridge ___ the accident happened.' (formal, lugar)", "options": ["on which", "which on", "where on"], "answer": "on which", "explanation": "preposicion + which (o simplemente 'where')." },
+
+    { "id": "t8-064", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "Las clausulas non-defining siempre necesitan:", "options": ["comas alrededor", "ninguna coma", "parentesis"], "answer": "comas alrededor", "explanation": "Una coma antes y otra despues." },
+    { "id": "t8-065", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "En las clausulas non-defining, 'that':", "options": ["no se permite", "es la opcion preferida", "es opcional"], "answer": "no se permite", "explanation": "Solo who / which." },
+    { "id": "t8-066", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "'My laptop, ___ I bought last year, has broken.'", "options": ["which", "that", "-"], "answer": "which", "explanation": "Non-defining + cosa -> which." },
+    { "id": "t8-067", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "'Sarah, ___ works with me, is getting married.'", "options": ["who", "that", "which"], "answer": "who", "explanation": "Non-defining + persona -> who." },
+    { "id": "t8-068", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "'which' tambien puede referirse a:", "options": ["toda la oracion anterior ('He was late, which annoyed me.')", "solo a un sustantivo", "solo a personas"], "answer": "toda la oracion anterior ('He was late, which annoyed me.')", "explanation": "'which' comenta la idea completa previa." },
+    { "id": "t8-069", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "'She passed the exam, ___ surprised everyone.'", "options": ["which", "that", "what"], "answer": "which", "explanation": "'which' se refiere a todo el hecho anterior." },
+    { "id": "t8-070", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "Se puede omitir el pronombre en una clausula non-defining?", "options": ["No, nunca", "Si, si es el objeto", "A veces"], "answer": "No, nunca", "explanation": "En non-defining el pronombre es obligatorio." },
+    { "id": "t8-071", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "'The Amazon, ___ is the largest rainforest, is under threat.'", "options": ["which", "that", "where"], "answer": "which", "explanation": "Non-defining + cosa -> which." },
+    { "id": "t8-072", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "La informacion non-defining se podria poner tambien:", "options": ["entre parentesis o en otra frase", "nunca por separado", "solo con 'that'"], "answer": "entre parentesis o en otra frase", "explanation": "Es info adicional, no esencial." },
+    { "id": "t8-073", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "'He didn't call, ___ was strange.'", "options": ["which", "that", "what"], "answer": "which", "explanation": "'which' comenta el hecho de no llamar." },
+    { "id": "t8-074", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "'My grandmother, ___ is 90, still drives.'", "options": ["who", "that", "which"], "answer": "who", "explanation": "Non-defining + persona -> who." },
+    { "id": "t8-075", "subtopic": "non-defining-detalles", "type": "mcq", "prompt": "Elige la clausula non-defining bien puntuada:", "options": ["London, which is huge, is expensive.", "London which is huge is expensive.", "London, that is huge, is expensive."], "answer": "London, which is huge, is expensive.", "explanation": "Comas + which (no 'that')." },
+
+    { "id": "t8-076", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'whose' expresa:", "options": ["posesion", "lugar", "tiempo"], "answer": "posesion", "explanation": "whose = de quien / cuyo." },
+    { "id": "t8-077", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'The author ___ book won the prize is here.'", "options": ["whose", "who's", "which"], "answer": "whose", "explanation": "whose + sustantivo (book)." },
+    { "id": "t8-078", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'That's the restaurant ___ we had dinner.'", "options": ["where", "which", "that"], "answer": "where", "explanation": "Lugar -> where." },
+    { "id": "t8-079", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'I remember the day ___ we met.'", "options": ["when", "where", "which"], "answer": "when", "explanation": "Tiempo -> when." },
+    { "id": "t8-080", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'where' se puede sustituir por:", "options": ["'in/at which' (formal) o 'that ... in'", "'when'", "'whose'"], "answer": "'in/at which' (formal) o 'that ... in'", "explanation": "the place where = the place in which / that ... in." },
+    { "id": "t8-081", "subtopic": "whose-where-when", "type": "mcq", "prompt": "Relativa reducida: 'The man ___ over there is my boss.' (= who is standing)", "options": ["standing", "stands", "stood"], "answer": "standing", "explanation": "-ing sustituye a 'who is + -ing'." },
+    { "id": "t8-082", "subtopic": "whose-where-when", "type": "mcq", "prompt": "Relativa reducida: 'The letter ___ yesterday was important.' (= which was sent)", "options": ["sent", "sending", "send"], "answer": "sent", "explanation": "El participio sustituye a 'which was + participio'." },
+    { "id": "t8-083", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'The company ___ headquarters are in Tokyo is huge.'", "options": ["whose", "which", "that"], "answer": "whose", "explanation": "whose + sustantivo, tambien para cosas/empresas." },
+    { "id": "t8-084", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'This is the town ___ I spent my childhood.'", "options": ["where", "which", "when"], "answer": "where", "explanation": "Lugar -> where." },
+    { "id": "t8-085", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'The people ___ living there are friendly.' (= who are living)", "options": ["(who are se puede quitar)", "whose", "when"], "answer": "(who are se puede quitar)", "explanation": "Relativa reducida: 'the people living there'." },
+    { "id": "t8-086", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'whose' + sustantivo funciona como:", "options": ["un posesivo ('his/her/its' + sustantivo)", "un adverbio", "un verbo"], "answer": "un posesivo ('his/her/its' + sustantivo)", "explanation": "the man whose car = his car." },
+    { "id": "t8-087", "subtopic": "whose-where-when", "type": "mcq", "prompt": "'Is there a shop ___ I can buy stamps?'", "options": ["where", "which", "that"], "answer": "where", "explanation": "Lugar -> where." },
+
+    { "id": "t8-088", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'The woman ___ lives here is a vet.'", "options": ["who", "which", "whose"], "answer": "who", "explanation": "Persona + sujeto -> who." },
+    { "id": "t8-089", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'The car ___ he drives is electric.'", "options": ["that", "who", "whose"], "answer": "that", "explanation": "Cosa -> that / which (o se omite, es objeto)." },
+    { "id": "t8-090", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'Rome, ___ I visited last year, is stunning.'", "options": ["which", "that", "where"], "answer": "which", "explanation": "Non-defining + cosa -> which." },
+    { "id": "t8-091", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'That's the man ___ dog barks all night.'", "options": ["whose", "who's", "who"], "answer": "whose", "explanation": "Posesion -> whose + sustantivo." },
+    { "id": "t8-092", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'The hotel ___ we stayed was cheap.'", "options": ["where", "which", "that"], "answer": "where", "explanation": "Lugar -> where (o 'which we stayed at')." },
+    { "id": "t8-093", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "Detecta el error: 'My sister, that lives in Peru, is a nurse.'", "options": ["'who' (en non-defining no se usa 'that')", "'which'", "esta bien"], "answer": "'who' (en non-defining no se usa 'that')", "explanation": "Non-defining + persona -> who." },
+    { "id": "t8-094", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "Detecta el error: 'The keys who I lost were expensive.'", "options": ["'which/that' (son cosas, no personas)", "'whose'", "esta bien"], "answer": "'which/that' (son cosas, no personas)", "explanation": "'who' solo para personas." },
+    { "id": "t8-095", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'This is the best book ___ I've ever read.'", "options": ["that", "which", "who"], "answer": "that", "explanation": "Tras superlativo -> that." },
+    { "id": "t8-096", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'He arrived late, ___ made everyone angry.'", "options": ["which", "that", "what"], "answer": "which", "explanation": "'which' se refiere a toda la oracion anterior." },
+    { "id": "t8-097", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'The film ___ I watched was long.' - se puede omitir el relativo?", "options": ["si - es el objeto, se puede quitar 'that/which'", "no", "solo 'who'"], "answer": "si - es el objeto, se puede quitar 'that/which'", "explanation": "Defining + objeto -> se puede omitir." },
+    { "id": "t8-098", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'The film ___ won the award was long.' - se puede omitir el relativo?", "options": ["no - es el sujeto, hay que mantener 'that/which'", "siempre se puede quitar", "solo en non-defining"], "answer": "no - es el sujeto, hay que mantener 'that/which'", "explanation": "Relativo sujeto -> obligatorio." },
+    { "id": "t8-099", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "'The 1990s, ___ I grew up in, were a strange decade.'", "options": ["which", "that", "who"], "answer": "which", "explanation": "Non-defining + cosa; 'which ... in' (o 'when')." },
+    { "id": "t8-100", "subtopic": "contraste-relativo", "type": "mcq", "prompt": "Clausula defining =", "options": ["info esencial, sin comas", "info extra, con comas", "siempre usa 'which'"], "answer": "info esencial, sin comas", "explanation": "Identifica de que se habla y va pegada al sustantivo." }
+  ]
+}

@@ -1,0 +1,7 @@
+node_modules/
+progreso.db
+progreso.db-*
+progreso.test.db*
+*.log
+.env
+tools/
