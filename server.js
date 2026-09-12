@@ -16,6 +16,7 @@ const course = JSON.parse(
 );
 const SUBTOPIC_LABELS = course.subtopicLabels || {};
 const EXAM_SIZE = course.examSize || 20;
+const MODULE_EXAM_SIZE = course.moduleExamSize || 60;
 const SUPER_SIZE = course.superExamSize || 100;
 const THRESHOLD = course.passThreshold || 90;
 const SUPER_EXAMS = course.superExams || [];
@@ -349,7 +350,7 @@ app.get('/api/topic/:id', (req, res) => {
     ready: entry.ready,
     status,
     passThreshold: THRESHOLD,
-    examSize: entry.kind === 'superexam' ? SUPER_SIZE : EXAM_SIZE,
+    examSize: entry.kind === 'superexam' ? SUPER_SIZE : MODULE_EXAM_SIZE,
     lesson: entry.kind === 'topic' ? entry.lesson : null,
     superExam: entry.kind === 'superexam'
       ? { sourceTopics: entry.sourceTopics, count: entry.questions.length }
@@ -371,7 +372,17 @@ app.post('/api/topic/:id/exam', (req, res) => {
     return res.status(403).json({
       error: entry.kind === 'superexam'
         ? `Aprueba los ${entry.sourceTopics.length} temas de este nivel para desbloquear el super examen.`
-        : 'Tema bloqueado. Aprueba lo anterior con el 90%.'
+        : `Tema bloqueado. Aprueba lo anterior con el ${THRESHOLD}%.`
+    });
+  }
+
+  // Chequeo independiente de entryStatus: el modulo puede estar "disponible" para
+  // estudiar sus subtemas y aun asi tener el examen final bloqueado.
+  const subtopicsForId = SUBTOPICS_OF_TOPIC.get(id) || [];
+  if (entry.kind === 'topic' && subtopicsForId.length &&
+      !moduleExamAvailable(subtopicsForId, store.getSubtopicProgressMap(id))) {
+    return res.status(403).json({
+      error: 'Aprueba todos los subtemas de este modulo para desbloquear el examen.'
     });
   }
 
@@ -381,7 +392,7 @@ app.post('/api/topic/:id/exam', (req, res) => {
     weak = [...new Set(last.answers.filter((a) => !a.is_correct).map((a) => a.subtopic))];
   }
 
-  const size = entry.kind === 'superexam' ? SUPER_SIZE : EXAM_SIZE;
+  const size = entry.kind === 'superexam' ? SUPER_SIZE : MODULE_EXAM_SIZE;
   const perSubMin = entry.kind === 'superexam' ? 3 : 1;
   const qs = pickExam(entry.questions, size, weak, perSubMin);
   const attemptId = store.createAttempt(id);
