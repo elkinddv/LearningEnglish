@@ -7,6 +7,7 @@ import { fileURLToPath } from 'node:url';
 import * as store from './db.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const __filename = fileURLToPath(import.meta.url);
 const PORT = Number(process.env.PORT) || 3000;
 
 // ---------- Contenido ----------
@@ -493,11 +494,16 @@ function lanAddresses() {
   return out;
 }
 
-app.listen(PORT, '0.0.0.0', () => {
-  console.log('\n  Learning English  ->  curso interactivo B1-C2\n');
-  console.log(`  Este equipo:     http://localhost:${PORT}`);
-  for (const ip of lanAddresses()) {
-    console.log(`  Movil / tablet:  http://${ip}:${PORT}   (misma red Wi-Fi)`);
-  }
-  console.log('\n  Ctrl+C para detener.\n');
-});
+const isMain = process.argv[1] && path.resolve(process.argv[1]) === __filename;
+if (isMain) {
+  app.listen(PORT, '0.0.0.0', () => {
+    console.log('\n  Learning English  ->  curso interactivo B1-C2\n');
+    console.log(`  Este equipo:     http://localhost:${PORT}`);
+    for (const ip of lanAddresses()) {
+      console.log(`  Movil / tablet:  http://${ip}:${PORT}   (misma red Wi-Fi)`);
+    }
+    console.log('\n  Ctrl+C para detener.\n');
+  });
+}
+
+export default app;

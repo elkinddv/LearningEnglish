@@ -6,7 +6,8 @@
   "description": "Curso interactivo de ingles B1-C2: explica el tema, evalua con 20 preguntas y lleva seguimiento en SQLite.",
   "scripts": {
     "start": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning server.js",
-    "dev": "node --env-file-if-exists=.env --watch --disable-warning=ExperimentalWarning server.js"
+    "dev": "node --env-file-if-exists=.env --watch --disable-warning=ExperimentalWarning server.js",
+    "test": "node --disable-warning=ExperimentalWarning --test test/**/*.test.js"
   },
   "dependencies": {
     "express": "^4.19.2"
