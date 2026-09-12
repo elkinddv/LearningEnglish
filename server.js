@@ -341,6 +341,16 @@ app.get('/api/topic/:id', (req, res) => {
     };
   }
 
+  const subtopicsMeta = SUBTOPICS_OF_TOPIC.get(id) || [];
+  const subProgForView = store.getSubtopicProgressMap(id);
+  const subtopicsStatus = subtopicsMeta.map((s) => ({
+    slug: s.slug,
+    title: s.title,
+    status: subtopicStatus(id, s.slug, subtopicsMeta, subProgForView)
+  }));
+  const examLocked = entry.kind === 'topic' && subtopicsMeta.length > 0 &&
+    !moduleExamAvailable(subtopicsMeta, subProgForView);
+
   res.json({
     id,
     kind: entry.kind,
@@ -356,6 +366,8 @@ app.get('/api/topic/:id', (req, res) => {
       ? { sourceTopics: entry.sourceTopics, count: entry.questions.length }
       : null,
     subtopicLabels: SUBTOPIC_LABELS,
+    subtopicsStatus,
+    examLocked,
     progress: prog[id] || null,
     lastResult,
     nav: navFor(id, prog)

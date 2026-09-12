@@ -840,3 +840,10 @@ h2.section-h + .ledger { margin-top: 10px; }
 
   .cta .btn-primary, .cta .btn-ghost, .admin-row .btn-danger { width: 100%; text-align: center; }
 }
+
+.subtopic-nav { margin: 1.5rem 0; }
+.subtopic-nav ol { list-style: none; padding: 0; display: flex; flex-direction: column; gap: .35rem; }
+.subtopic-nav li { padding: .4rem .6rem; border-radius: .4rem; }
+.subtopic-nav .st-passed { color: var(--good, #3b6a40); }
+.subtopic-nav .st-locked { color: var(--muted, #7c7157); }
+.subtopic-nav .st-icon { display: inline-block; width: 1.2em; text-align: center; }

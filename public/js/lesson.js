@@ -82,11 +82,13 @@
 
   function ctaBlock(lr) {
     let html = '';
-    if (data.status === 'locked') {
+    if (data.status === 'locked' || data.examLocked) {
       html += `<div class="cta">
         <span class="locked-note">${isSuper
           ? 'Aprueba los cuatro temas de este nivel para desbloquear el super examen.'
-          : 'Aprueba lo anterior con el ' + data.passThreshold + '% para desbloquear la evaluacion.'}</span>
+          : data.examLocked
+            ? 'Aprueba todos los subtemas de este modulo (mira la lista de arriba) para desbloquear el examen.'
+            : 'Aprueba lo anterior con el ' + data.passThreshold + '% para desbloquear la evaluacion.'}</span>
         ${data.nav.prevId ? `<a class="btn-ghost" href="/lesson?topic=${data.nav.prevId}">&larr; Volver</a>` : ''}
       </div>`;
     } else {
@@ -142,6 +144,18 @@
     }
     const lr = data.lastResult;
     let html = header();
+    if (data.subtopicsStatus && data.subtopicsStatus.length) {
+      html += '<nav class="subtopic-nav"><h2>Subtemas de este modulo</h2><ol>';
+      for (const s of data.subtopicsStatus) {
+        const icon = s.status === 'passed' ? '&#10003;' : s.status === 'locked' ? '&#128274;' : '&#9654;';
+        const cls = 'st-' + s.status;
+        html += s.status === 'locked'
+          ? `<li class="${cls}"><span class="st-icon">${icon}</span> ${App.esc(s.title)}</li>`
+          : `<li class="${cls}"><a href="/lesson?topic=${topicId}#s-${s.slug}" data-subtopic="${App.esc(s.slug)}">
+               <span class="st-icon">${icon}</span> ${App.esc(s.title)}</a></li>`;
+      }
+      html += '</ol></nav>';
+    }
     if (lr && !lr.passed) html += repasoBox(lr);
 
     html += '<article class="lesson">';
