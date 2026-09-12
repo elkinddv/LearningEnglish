@@ -16,6 +16,5 @@ test('GET /api/course responde 200 con estructura basica', async () => {
     assert.ok(Array.isArray(data.levels));
   } finally {
     await stopTestServer(server);
-    cleanupDb('smoke');
   }
 });

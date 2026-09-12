@@ -21,16 +21,6 @@ export async function startTestServer(app) {
   return { server, base: `http://127.0.0.1:${port}` };
 }
 
-export async function stopTestServer(server) {
-  // Close the server
-  await new Promise((resolve) => server.close(resolve));
-  // Close the database connection to release file locks before cleanup
-  try {
-    const { default: db } = await import('../db.js');
-    if (db && typeof db.close === 'function') {
-      db.close();
-    }
-  } catch (e) {
-    // Ignore if db doesn't have a close method
-  }
+export function stopTestServer(server) {
+  return new Promise((resolve) => server.close(resolve));
 }
