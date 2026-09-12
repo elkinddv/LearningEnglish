@@ -34,6 +34,14 @@ for (const meta of course.topics) {
   }
 }
 
+// slug -> titulo, en orden, para cada tema que ya adopto el esquema de subtemas.
+const SUBTOPICS_OF_TOPIC = new Map();
+for (const [tid, t] of topics) {
+  if (Array.isArray(t.subtopics) && t.subtopics.length) {
+    SUBTOPICS_OF_TOPIC.set(tid, t.subtopics);
+  }
+}
+
 // Mapas globales: id de pregunta -> pregunta y -> tema de origen
 const QUESTION_BY_ID = new Map();
 const TOPIC_OF_QUESTION = new Map();
@@ -118,6 +126,19 @@ function entryStatus(id, prog) {
   if (idx <= 0) return 'available';
   const prev = SEQUENCE[idx - 1];
   return prog[prev.id]?.passed ? 'available' : 'locked';
+}
+
+export function subtopicStatus(topicId, slug, subtopics, subProg) {
+  if (subProg[slug]?.passed) return 'passed';
+  const idx = subtopics.findIndex((s) => s.slug === slug);
+  if (idx <= 0) return 'available';
+  const prevSlug = subtopics[idx - 1].slug;
+  return subProg[prevSlug]?.passed ? 'available' : 'locked';
+}
+
+export function moduleExamAvailable(subtopics, subProg) {
+  if (!subtopics.length) return true; // tema aun no migrado: sin gating de subtema
+  return subtopics.every((s) => subProg[s.slug]?.passed);
 }
 
 function titleOf(id) {
