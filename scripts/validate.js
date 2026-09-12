@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 const dir = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'content');
 const course = JSON.parse(fs.readFileSync(path.join(dir, 'course.json'), 'utf8'));
 const labels = course.subtopicLabels || {};
+const SUBTOPIC_BANK_SIZE = 50;
 let problems = 0;
 
 for (const meta of course.topics) {
@@ -20,7 +21,27 @@ for (const meta of course.topics) {
   if (t.id !== meta.id) errs.push(`id ${t.id} != ${meta.id}`);
   if (!t.lesson || !Array.isArray(t.lesson.sections)) errs.push('sin lesson.sections');
   const qs = t.questions || [];
-  if (qs.length !== 100) errs.push(`${qs.length} preguntas (esperado 100)`);
+  const migrated = Array.isArray(t.subtopics) && t.subtopics.length > 0;
+
+  if (migrated) {
+    const expected = t.subtopics.length * SUBTOPIC_BANK_SIZE;
+    if (qs.length !== expected) {
+      errs.push(`${qs.length} preguntas (esperado ${expected} = ${t.subtopics.length} subtemas x ${SUBTOPIC_BANK_SIZE})`);
+    }
+    const declared = new Set(t.subtopics.map((s) => s.slug));
+    for (const s of t.subtopics) {
+      if (!s.slug || !s.title) errs.push(`subtopics[]: entrada sin slug/title (${JSON.stringify(s)})`);
+    }
+    const counts = {};
+    for (const q of qs) counts[q.subtopic] = (counts[q.subtopic] || 0) + 1;
+    for (const slug of declared) {
+      if ((counts[slug] || 0) !== SUBTOPIC_BANK_SIZE) {
+        errs.push(`subtema "${slug}": ${counts[slug] || 0} preguntas (esperado ${SUBTOPIC_BANK_SIZE})`);
+      }
+    }
+  } else if (qs.length !== 100) {
+    errs.push(`${qs.length} preguntas (esperado 100)`);
+  }
 
   const ids = new Set();
   const subCount = {};
@@ -28,16 +49,23 @@ for (const meta of course.topics) {
     if (ids.has(q.id)) errs.push(`id duplicado ${q.id}`);
     ids.add(q.id);
     subCount[q.subtopic] = (subCount[q.subtopic] || 0) + 1;
-    if (!labels[q.subtopic]) errs.push(`subtopic sin label: ${q.subtopic}`);
+    if (!labels[q.subtopic] && !migrated) errs.push(`subtopic sin label: ${q.subtopic}`);
     if (!q.prompt) errs.push(`${q.id}: sin prompt`);
     if (!q.explanation) errs.push(`${q.id}: sin explanation`);
+
     if (q.type === 'mcq') {
       if (!Array.isArray(q.options) || q.options.length < 2) errs.push(`${q.id}: opciones invalidas`);
       else if (!q.options.includes(q.answer)) errs.push(`${q.id}: answer no esta en options`);
       else if (new Set(q.options).size !== q.options.length) errs.push(`${q.id}: opciones repetidas`);
-    } else if (q.type === 'gap') {
+    } else if (q.type === 'gap' || q.type === 'key-word-transformation') {
       const acc = q.accept && q.accept.length ? q.accept : [q.answer];
-      if (!acc || !acc.length || !q.answer) errs.push(`${q.id}: gap sin accept/answer`);
+      if (!acc || !acc.length || !q.answer) errs.push(`${q.id}: ${q.type} sin accept/answer`);
+    } else if (q.type === 'error-correction') {
+      if (!Array.isArray(q.segments) || q.segments.length < 2) errs.push(`${q.id}: segments invalidos`);
+      else if (typeof q.answerIndex !== 'number' || q.answerIndex < 0 || q.answerIndex >= q.segments.length) {
+        errs.push(`${q.id}: answerIndex fuera de rango`);
+      }
+      if (!q.answer) errs.push(`${q.id}: error-correction sin answer (texto corregido para mostrar)`);
     } else {
       errs.push(`${q.id}: type desconocido "${q.type}"`);
     }
