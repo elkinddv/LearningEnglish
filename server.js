@@ -193,11 +193,14 @@ function normalize(s) {
     .replace(/[.]+$/, '');
 }
 
-function grade(q, given) {
+export function grade(q, given) {
   if (given == null || given === '') return false;
-  if (q.type === 'gap') {
+  if (q.type === 'gap' || q.type === 'key-word-transformation') {
     const accepts = (q.accept && q.accept.length ? q.accept : [q.answer]).map(normalize);
     return accepts.includes(normalize(given));
+  }
+  if (q.type === 'error-correction') {
+    return String(given) === String(q.answerIndex);
   }
   return given === q.answer;
 }
