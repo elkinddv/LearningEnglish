@@ -3,6 +3,16 @@
   "slug": "presentes-aspecto",
   "level": "B1",
   "title": "Tiempos presentes y aspecto verbal",
+  "subtopics": [
+    { "slug": "present-simple-usos", "title": "Present Simple - usos" },
+    { "slug": "present-simple-forma", "title": "Present Simple - forma (-s, do/does)" },
+    { "slug": "present-continuous-usos", "title": "Present Continuous - usos" },
+    { "slug": "present-continuous-forma", "title": "Present Continuous - forma (-ing)" },
+    { "slug": "marcadores-temporales", "title": "Marcadores de tiempo y frecuencia" },
+    { "slug": "verbos-de-estado", "title": "Verbos de estado (stative)" },
+    { "slug": "verbos-estado-o-accion", "title": "Verbos de estado o accion" },
+    { "slug": "contraste-simple-continuo", "title": "Contraste Simple vs Continuous" }
+  ],
   "lesson": {
     "intro": "Los <strong>presentes</strong> en ingles no se eligen por <em>cuando pasa</em> sino por <strong>como ves la accion</strong>: como algo <em>habitual o permanente</em> (Present Simple) o como algo <em>en curso, temporal o en cambio</em> (Present Continuous). Ademas, un grupo de verbos - los <strong>de estado</strong> - casi nunca se usan en <code>-ing</code>. Domina estas tres ideas y controlas la mayoria de los errores de nivel B1.",
     "sections": [
