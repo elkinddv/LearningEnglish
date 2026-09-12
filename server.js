@@ -503,6 +503,115 @@ app.post('/api/topic/:id/reset', (req, res) => {
   res.json({ ok: true });
 });
 
+const SUBTOPIC_QUIZ_SIZE = course.subtopicQuizSize || 15;
+
+function subtopicPool(topicId, slug) {
+  const t = topics.get(topicId);
+  return t ? t.questions.filter((q) => q.subtopic === slug) : [];
+}
+
+app.get('/api/topic/:id/subtopic/:slug', (req, res) => {
+  const id = Number(req.params.id);
+  const { slug } = req.params;
+  const subtopics = SUBTOPICS_OF_TOPIC.get(id) || [];
+  const meta = subtopics.find((s) => s.slug === slug);
+  if (!meta) return res.status(404).json({ error: 'Subtema no encontrado' });
+
+  const prog = store.getProgressMap();
+  if (entryStatus(id, prog) === 'locked') {
+    return res.status(403).json({ error: 'Tema bloqueado.' });
+  }
+
+  const subProg = store.getSubtopicProgressMap(id);
+  const status = subtopicStatus(id, slug, subtopics, subProg);
+  const t = topics.get(id);
+  const lessonSection = t.lesson.sections.find((s) => s.subtopic === slug) || null;
+
+  res.json({
+    topicId: id,
+    subtopic: slug,
+    title: meta.title,
+    status,
+    quizSize: SUBTOPIC_QUIZ_SIZE,
+    passThreshold: THRESHOLD,
+    lessonSection,
+    progress: subProg[slug] || null
+  });
+});
+
+app.post('/api/topic/:id/subtopic/:slug/quiz', (req, res) => {
+  const id = Number(req.params.id);
+  const { slug } = req.params;
+  const subtopics = SUBTOPICS_OF_TOPIC.get(id) || [];
+  if (!subtopics.find((s) => s.slug === slug)) {
+    return res.status(404).json({ error: 'Subtema no encontrado' });
+  }
+
+  const prog = store.getProgressMap();
+  const subProg = store.getSubtopicProgressMap(id);
+  const status = subtopicStatus(id, slug, subtopics, subProg);
+  if (entryStatus(id, prog) === 'locked' || status === 'locked') {
+    return res.status(403).json({ error: 'Subtema bloqueado. Aprueba el anterior primero.' });
+  }
+
+  const pool = subtopicPool(id, slug);
+  const qs = pickExam(pool, SUBTOPIC_QUIZ_SIZE);
+  const attemptId = store.createSubtopicAttempt(id, slug);
+
+  res.json({
+    attemptId,
+    topicId: id,
+    subtopic: slug,
+    passThreshold: THRESHOLD,
+    total: qs.length,
+    questions: qs.map((q) => ({
+      id: q.id,
+      type: q.type,
+      prompt: q.prompt,
+      options: q.type === 'mcq' ? shuffle(q.options) : q.type === 'error-correction' ? q.segments : null
+    }))
+  });
+});
+
+app.post('/api/topic/:id/subtopic/:slug/quiz/:attemptId/submit', (req, res) => {
+  const id = Number(req.params.id);
+  const { slug } = req.params;
+  const attemptId = Number(req.params.attemptId);
+  const submitted = Array.isArray(req.body?.answers) ? req.body.answers : [];
+  const now = new Date().toISOString();
+  const rows = [];
+  const results = [];
+  let correct = 0;
+
+  for (const item of submitted) {
+    const q = QUESTION_BY_ID.get(item.questionId);
+    if (!q) continue;
+    const ok = grade(q, item.given);
+    if (ok) correct++;
+    rows.push({
+      attempt_id: attemptId, topic_id: id, subtopic: slug, question_id: q.id,
+      given: item.given ?? '', correct: q.answer, is_correct: ok ? 1 : 0, answered_at: now
+    });
+    results.push({
+      questionId: q.id, prompt: q.prompt, type: q.type,
+      given: item.given ?? '', correct: q.answer, isCorrect: ok,
+      explanation: q.explanation || ''
+    });
+  }
+
+  const total = results.length;
+  const score = total ? Math.round((correct / total) * 100) : 0;
+  const passed = score >= THRESHOLD;
+
+  if (total > 0) {
+    store.insertSubtopicAnswers(rows);
+    store.finishSubtopicAttempt({ attemptId, score, correct, total, passed });
+    store.upsertSubtopicProgress(id, slug, score, passed);
+  }
+
+  res.json({ score, correct, total, passed, passThreshold: THRESHOLD, results });
+});
+
 app.get('/lesson', (req, res) =>
   res.sendFile(path.join(__dirname, 'public', 'lesson.html'))
 );

@@ -2,6 +2,7 @@
   "title": "La ruta del ingles",
   "passThreshold": 80,
   "examSize": 20,
+  "subtopicQuizSize": 15,
   "superExamSize": 100,
   "superExams": [
     { "id": 101, "code": "B1", "partIndex": 0, "sourceTopics": [1, 2, 3, 4] },
