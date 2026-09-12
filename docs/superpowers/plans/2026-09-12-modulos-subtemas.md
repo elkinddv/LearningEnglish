@@ -106,6 +106,13 @@ export function testDbPath(name) {
   return path.join(__dirname, `${name}.test.db`);
 }
 
+// Llamar SIEMPRE antes de importar '../server.js' (que abre la conexion sqlite),
+// nunca despues de stopTestServer(): en Windows el archivo .db sigue bloqueado
+// mientras el proceso vive, y borrarlo a mitad de proceso lanza EBUSY. Como cada
+// archivo de test corre en su propio proceso (comportamiento por defecto de
+// `node --test`), el archivo se libera solo al terminar ese proceso, y esta misma
+// llamada de "limpieza previa" se encarga de borrar lo que haya dejado la corrida
+// anterior antes de la siguiente.
 export function cleanupDb(name) {
   const p = testDbPath(name);
   if (existsSync(p)) unlinkSync(p);
@@ -118,6 +125,9 @@ export async function startTestServer(app) {
   return { server, base: `http://127.0.0.1:${port}` };
 }
 
+// Solo cierra el servidor HTTP, no la conexion sqlite (que es un singleton de
+// modulo compartido entre todos los test() de un mismo archivo) — cerrar la
+// conexion aqui rompería cualquier test() posterior en el mismo archivo.
 export function stopTestServer(server) {
   return new Promise((resolve) => server.close(resolve));
 }
@@ -131,9 +141,16 @@ En `package.json:7-9`, deja:
   "scripts": {
     "start": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning server.js",
     "dev": "node --env-file-if-exists=.env --watch --disable-warning=ExperimentalWarning server.js",
-    "test": "node --disable-warning=ExperimentalWarning --test test/"
+    "test": "node --disable-warning=ExperimentalWarning --test test/**/*.test.js"
   },
 ```
+
+(El glob explícito `test/**/*.test.js` es necesario: Node's `--test` por defecto trata
+como "test" cualquier archivo `.js` que viva dentro de una carpeta llamada `test/`,
+incluido `test/helpers.js` aunque no tenga ningún `test()` — el glob evita que
+`helpers.js` aparezca como un "test" falso-positivo en la salida de `npm test`. En
+Windows, además, pasar un directorio a secas (`--test test/` o `--test test`) falla
+con "Cannot find module" en Node 24.15 — otra razón para usar el glob explícito.)
 
 - [ ] **Step 4: Escribir el primer test de humo**
 
@@ -157,8 +174,11 @@ test('GET /api/course responde 200 con estructura basica', async () => {
     assert.equal(typeof data.title, 'string');
     assert.ok(Array.isArray(data.levels));
   } finally {
+    // No se llama cleanupDb() aqui: en Windows el archivo .db sigue abierto/
+    // bloqueado mientras el proceso vive, y borrarlo a mitad de proceso lanza
+    // EBUSY. cleanupDb() solo se llama ANTES de importar la app (linea de
+    // arriba), para limpiar el archivo que haya dejado una corrida anterior.
     await stopTestServer(server);
-    cleanupDb('smoke');
   }
 });
 ```
@@ -711,8 +731,9 @@ test('flujo de quiz de subtema: ver -> generar -> enviar', async () => {
       .then((r) => r.json());
     assert.equal(view2.progress.attempts_count, 1);
   } finally {
+    // No cleanupDb() aqui (ver nota de convencion en el smoke test de la Task 1):
+    // en Windows el archivo .db sigue bloqueado mientras el proceso vive.
     await stopTestServer(server);
-    cleanupDb('subtopic-routes');
   }
 });
 
@@ -729,7 +750,6 @@ test('el segundo subtema esta bloqueado hasta aprobar el primero', async () => {
     assert.equal(res.status, 403);
   } finally {
     await stopTestServer(server);
-    cleanupDb('subtopic-routes');
   }
 });
 ```
@@ -943,7 +963,6 @@ test('el examen de modulo tiene 60 preguntas una vez aprobados todos los subtema
     assert.equal(exam.total, 60);
   } finally {
     await stopTestServer(server);
-    cleanupDb('module-exam');
   }
 });
 ```
